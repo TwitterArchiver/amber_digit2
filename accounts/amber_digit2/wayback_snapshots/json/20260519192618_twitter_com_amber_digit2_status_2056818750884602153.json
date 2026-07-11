@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056739858505138313",
+    "created_at": "2026-05-19T19:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056818750884602153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "818567620509237248",
+          "start": 0,
+          "username": "nyuu03"
+        },
+        {
+          "end": 18,
+          "id": "54152769",
+          "start": 8,
+          "username": "jangerror"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056818750884602153",
+    "in_reply_to_user_id": "818567620509237248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056811909031002389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyuu03 @jangerror 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T19:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056818750884602153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "818567620509237248",
+              "start": 0,
+              "username": "nyuu03"
+            },
+            {
+              "end": 18,
+              "id": "54152769",
+              "start": 8,
+              "username": "jangerror"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056818750884602153",
+        "in_reply_to_user_id": "818567620509237248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056811909031002389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyuu03 @jangerror 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818567620509237248",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T18:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056811909031002389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 24,
+              "id": "54152769",
+              "start": 14,
+              "username": "jangerror"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056811909031002389",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @jangerror Amber, I finally found you! I tried searching for your account, but it said it had been taken down..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 351,
+          "like_count": 418,
+          "listed_count": 6,
+          "media_count": 37,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-09T21:18:23.000Z",
+        "description": "Feminista Marxista/Anti-Imperialist/Free Palestine🍉/LGBTQIA+🏳️‍🌈/ Communist🚩/ Fashion Designer/ Bisexual woman.\n\n🏳️‍⚧️앨라이입니다. 한국의 퀴어/앨라이들과 친해지고 싶어요",
+        "id": "818567620509237248",
+        "location": "Brasil",
+        "name": "Lunamoon☭",
+        "pinned_tweet_id": "2044945424516079855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049323248412954624/XgSocueH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 670,
+          "like_count": 32166,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 17547
+        },
+        "username": "nyuu03",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-06T08:10:07.000Z",
+        "description": "반제/반파쇼/반독재 /ADHD/트랜스젠더에 대한 차별과 혐오는 가만 두지 않을거에요/가톨릭 앨라이 아르쿠스에서  잡일을 맡습니다. 편의상 게이라는 말은 아주 많은 함의를 담고 있습니다. 그리스도교 운동진영에서는 하바꾹으로 불립니다. 이 땅위의 하느님나라를 만들기위해 거리에서 싸웁니다./",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/jangerror",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/jangerror",
+                "start": 0,
+                "url": "https://t.co/4cR7HSHjuX"
+              }
+            ]
+          }
+        },
+        "id": "54152769",
+        "name": "장에러🎗🏳️‍🌈🇵🇸🏳️‍⚧️",
+        "pinned_tweet_id": "2051131922286616924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054394018621186048/4_bKT5jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 1954,
+          "like_count": 11118,
+          "listed_count": 50,
+          "media_count": 1824,
+          "tweet_count": 55695
+        },
+        "url": "https://t.co/4cR7HSHjuX",
+        "username": "jangerror",
+        "verified": false
+      }
+    ]
+  }
+}

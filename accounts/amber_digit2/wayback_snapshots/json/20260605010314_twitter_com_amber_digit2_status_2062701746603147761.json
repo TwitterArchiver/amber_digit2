@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1521980438633271296",
+          "name": "Xiangqi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521980438633271296",
+          "name": "Xiangqi"
+        }
+      }
+    ],
+    "conversation_id": "2062701746603147761",
+    "created_at": "2026-06-05T01:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062701746603147761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062701746603147761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062674639084548236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 全球首家华语酷儿博物馆在旧金山唐人街正式开馆🇺🇸🏳️‍🌈\n\n2026年5月29日，华语酷儿博物馆（OUT Museum）在美国旧金山唐人街举行开馆典礼，正式向公众开放。该馆由中国出生的艺术家和活动家Xiangqi Chen创立，被定位为…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2062674633812291584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAXpqOXMAAKj7I.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1521980438633271296",
+              "name": "Xiangqi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521980438633271296",
+              "name": "Xiangqi"
+            }
+          }
+        ],
+        "conversation_id": "2062701746603147761",
+        "created_at": "2026-06-05T01:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062701746603147761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062701746603147761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062674639084548236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 全球首家华语酷儿博物馆在旧金山唐人街正式开馆🇺🇸🏳️‍🌈\n\n2026年5月29日，华语酷儿博物馆（OUT Museum）在美国旧金山唐人街举行开馆典礼，正式向公众开放。该馆由中国出生的艺术家和活动家Xiangqi Chen创立，被定位为…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062674633812291584"
+          ]
+        },
+        "author_id": "2037909112055300096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1521980438633271296",
+              "name": "Xiangqi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521980438633271296",
+              "name": "Xiangqi"
+            }
+          }
+        ],
+        "conversation_id": "2062674639084548236",
+        "created_at": "2026-06-04T23:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062674639084548236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NGmKLaod5",
+              "end": 178,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2062674639084548236/photo/1",
+              "media_key": "3_2062674633812291584",
+              "start": 155,
+              "url": "https://t.co/4NGmKLaod5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062674639084548236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "outmuseum.org",
+                "end": 528,
+                "expanded_url": "https://outmuseum.org/",
+                "start": 505,
+                "url": "https://t.co/AEJjyOC0w0"
+              },
+              {
+                "display_url": "ktvu.com/news/worlds-fi…",
+                "end": 553,
+                "expanded_url": "https://www.ktvu.com/news/worlds-first-chinese-queer-museum-opens-san-franciscos-chinatown",
+                "start": 530,
+                "url": "https://t.co/UgbV7PwPCn"
+              }
+            ]
+          },
+          "text": "全球首家华语酷儿博物馆在旧金山唐人街正式开馆🇺🇸🏳️‍🌈\n\n2026年5月29日，华语酷儿博物馆（OUT Museum）在美国旧金山唐人街举行开馆典礼，正式向公众开放。该馆由中国出生的艺术家和活动家Xiangqi Chen创立，被定位为全球首家以华语LGBTQ群体历史、文化与社群记忆为主题的博物馆与档案馆。\n\n开馆仪式包括嘉宾致辞、剪彩及现场文艺演出。当地媒体报道指出，博物馆旨在提升华语酷儿群体的可见度，并为相关历史与艺术创作提供长期保存和展示空间。\n\n首展《未竟之势：中国LGBTQ社群的发展流变》（The Ongoing: Mapping the Chinese LGBTQ Community）同步开幕，通过艺术作品、出版物及历史档案梳理中国LGBTQ社群的发展历程。\n\n多位社区代表表示，博物馆落户旧金山唐人街，为华人社区与LGBTQ社群提供了新的公共文化空间，也为华语酷儿历史留下了可持续保存的实体载体。 \n\n地址：949 Clay Street, San Francisco, CA 94108, USA。\n首展展期：2026年5月29日至2026年7月29日。 \n\n博物馆官网及相关报道：\n\nhttps://t.co/AEJjyOC0w0\n\nhttps://t.co/UgbV7PwPCn"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "全球首家华语酷儿博物馆在旧金山唐人街正式开馆🇺🇸🏳️‍🌈\n\n2026年5月29日，华语酷儿博物馆（OUT Museum）在美国旧金山唐人街举行开馆典礼，正式向公众开放。该馆由中国出生的艺术家和活动家Xiangqi Chen创立，被定位为全球首家以华语LGBTQ群体历史、文化与社群记忆为主题的博物馆与档案馆。 https://t.co/4NGmKLaod5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2820,
+          "following_count": 504,
+          "like_count": 1218,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2056409627969876339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 832,
+          "like_count": 583,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 195
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

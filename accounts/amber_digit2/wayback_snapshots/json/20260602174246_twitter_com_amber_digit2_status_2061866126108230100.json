@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061866126108230100",
+    "created_at": "2026-06-02T17:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061866126108230100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/mizorewww/status/2061521662429089842",
+          "start": 55,
+          "url": "https://t.co/My8f3h7phF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061866126108230100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061521662429089842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "be careful what you wish for 这种小孩都知道的常识怎么搞ai的人还要大呼小叫一番 https://t.co/My8f3h7phF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061866126108230100",
+        "created_at": "2026-06-02T17:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061866126108230100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/mizorewww/status/2061521662429089842",
+              "start": 55,
+              "url": "https://t.co/My8f3h7phF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061866126108230100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061521662429089842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "be careful what you wish for 这种小孩都知道的常识怎么搞ai的人还要大呼小叫一番 https://t.co/My8f3h7phF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2061521662429089842",
+        "created_at": "2026-06-01T18:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061521662429089842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061521662429089842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1040,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前的AI编程给我一种，AI用很诡异的方式来完成你想要的目标的感觉。包括但不限于，写的代码不对就把你测试文件改掉，配置写的不对把代码改掉，写一堆很诡异的实际上根本不会进入的逻辑，以及你指导它不要干A后直接走到另一个极端"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 470,
+          "like_count": 927,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 873,
+          "like_count": 14386,
+          "listed_count": 3,
+          "media_count": 614,
+          "tweet_count": 3473
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

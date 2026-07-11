@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059779529804226560"
+      ],
+      "media_source_tweet_id": [
+        "2059779544098484385"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2059814696564187381",
+    "created_at": "2026-05-28T01:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059814696564187381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397850509323554817",
+          "start": 3,
+          "username": "noaayoyaoaya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IZ3vWUcr4j",
+          "end": 55,
+          "expanded_url": "https://x.com/noaayoyaoaya/status/2059779544098484385/photo/1",
+          "media_key": "3_2059779529804226560",
+          "start": 32,
+          "url": "https://t.co/IZ3vWUcr4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059814696564187381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059779544098484385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noaayoyaoaya: 给人当模特统一做的头发和妆 https://t.co/IZ3vWUcr4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059779529804226560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXOkbWaIAAFrnx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059779529804226560"
+          ],
+          "media_source_tweet_id": [
+            "2059779544098484385"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2059814696564187381",
+        "created_at": "2026-05-28T01:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059814696564187381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397850509323554817",
+              "start": 3,
+              "username": "noaayoyaoaya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZ3vWUcr4j",
+              "end": 55,
+              "expanded_url": "https://x.com/noaayoyaoaya/status/2059779544098484385/photo/1",
+              "media_key": "3_2059779529804226560",
+              "start": 32,
+              "url": "https://t.co/IZ3vWUcr4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059814696564187381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059779544098484385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noaayoyaoaya: 给人当模特统一做的头发和妆 https://t.co/IZ3vWUcr4j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059779529804226560"
+          ]
+        },
+        "author_id": "1397850509323554817",
+        "conversation_id": "2059779544098484385",
+        "created_at": "2026-05-27T23:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059779544098484385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZ3vWUcr4j",
+              "end": 37,
+              "expanded_url": "https://x.com/noaayoyaoaya/status/2059779544098484385/photo/1",
+              "media_key": "3_2059779529804226560",
+              "start": 14,
+              "url": "https://t.co/IZ3vWUcr4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059779544098484385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 837,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给人当模特统一做的头发和妆 https://t.co/IZ3vWUcr4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "📢 @amber_medusozoa\n💕 https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 44,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 21,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 425,
+          "like_count": 728,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21286,
+          "following_count": 842,
+          "like_count": 10728,
+          "listed_count": 31,
+          "media_count": 119,
+          "tweet_count": 5280
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2061124613833171293",
+    "created_at": "2026-05-31T16:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061126288648122816"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061126288648122816",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "anti-black sentiments in china significantly during after trump’s campaign in 2016, where alt-right propaganda translated through Falungong media garnered support from male netizens by mobilizing their anxiety towards black men’s supposed hypersexuality and their fears of “great replacement.” tales of black ppls laziness also accompanied chinese economic ventures in African countries to justify harsh working conditions against local black workers. anti-black racism always perform economic functions and, as such, form the constitutive underside of modern day capitalism on a global scale"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061124613833171293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "anti-black sentiments in china significantly during after trump’s campaign in 2016, where alt-right propaganda translated through Falungong media garnered support from male netizens by mobilizing their anxiety towards black men’s supposed hypersexuality and their fears of “great"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2061124613833171293",
+        "created_at": "2026-05-31T16:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061126288648122816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061126288648122816",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "anti-black sentiments in china significantly during after trump’s campaign in 2016, where alt-right propaganda translated through Falungong media garnered support from male netizens by mobilizing their anxiety towards black men’s supposed hypersexuality and their fears of “great replacement.” tales of black ppls laziness also accompanied chinese economic ventures in African countries to justify harsh working conditions against local black workers. anti-black racism always perform economic functions and, as such, form the constitutive underside of modern day capitalism on a global scale"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061124613833171293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "anti-black sentiments in china significantly during after trump’s campaign in 2016, where alt-right propaganda translated through Falungong media garnered support from male netizens by mobilizing their anxiety towards black men’s supposed hypersexuality and their fears of “great"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061124613833171293",
+        "created_at": "2026-05-31T16:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061124613833171293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/polen_ball/sta…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/polen_ball/status/2060980280224358831",
+              "start": 275,
+              "url": "https://t.co/ypX4F7s72L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061124613833171293",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "racism against black ppl is very much simultaneously the result of 00 era neolib developmentalism & us-centric beaconism paired with endogenous anti-(internal) migration sentiments against 农民工 (most notably of Shanghainese ppl against Henan migrants). the former heralds “western civilization” as china’s point of reference for economic development & identifies “wokeness” & laziness as racialized traits that drag down the economy; the latter justifies the continuous economic exploitation & social welfare restrictions against migrant workers to maintain the economic privileges of the urban bourgeoisie"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060980280224358831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "racism against black ppl is very much simultaneously the result of 00 era neolib developmentalism &amp; us-centric beaconism paired with endogenous anti-(internal) migration sentiments against 农民工 (most notably of Shanghainese ppl against Henan migrants). the former heralds https://t.co/ypX4F7s72L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 427,
+          "like_count": 735,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

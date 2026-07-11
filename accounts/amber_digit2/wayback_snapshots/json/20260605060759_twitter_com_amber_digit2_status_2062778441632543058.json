@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062778441632543058",
+    "created_at": "2026-06-05T06:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062778441632543058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1459453832",
+          "start": 3,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062778441632543058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062768118636683468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sauricat: 还有人说我们懒得写逝者条目的，你自己去看看条目质量，思考一下我们的编辑（而且基本上现在不是我做，我主要做多伦多社群）去花了多少心血联系亲友组织文章。要把死人直接归档上线不简单吗，写两三句话就完事了，为什么不愿意这样草率行事，随便在那边信口开河的人想过…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062778441632543058",
+        "created_at": "2026-06-05T06:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062778441632543058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1459453832",
+              "start": 3,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062778441632543058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062768118636683468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sauricat: 还有人说我们懒得写逝者条目的，你自己去看看条目质量，思考一下我们的编辑（而且基本上现在不是我做，我主要做多伦多社群）去花了多少心血联系亲友组织文章。要把死人直接归档上线不简单吗，写两三句话就完事了，为什么不愿意这样草率行事，随便在那边信口开河的人想过…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "2062768118636683468",
+        "created_at": "2026-06-05T05:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062768118636683468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062768118636683468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还有人说我们懒得写逝者条目的，你自己去看看条目质量，思考一下我们的编辑（而且基本上现在不是我做，我主要做多伦多社群）去花了多少心血联系亲友组织文章。要把死人直接归档上线不简单吗，写两三句话就完事了，为什么不愿意这样草率行事，随便在那边信口开河的人想过吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 504,
+          "like_count": 1224,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Beiyan-Shu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11162,
+          "following_count": 1026,
+          "like_count": 34277,
+          "listed_count": 35,
+          "media_count": 618,
+          "tweet_count": 12182
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

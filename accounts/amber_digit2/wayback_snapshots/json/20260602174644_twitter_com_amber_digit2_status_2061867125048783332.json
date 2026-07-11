@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061867125048783332",
+    "created_at": "2026-06-02T17:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061867125048783332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614661520407035904",
+          "start": 3,
+          "username": "number_sigma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061867125048783332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061626397534388397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @number_sigma: 古墓派tankie怕不是反串吧，哪壶不开提哪壶，吹中国学校的食堂哪怕是粉红学生都会喷你🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061867125048783332",
+        "created_at": "2026-06-02T17:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061867125048783332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614661520407035904",
+              "start": 3,
+              "username": "number_sigma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061867125048783332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061626397534388397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @number_sigma: 古墓派tankie怕不是反串吧，哪壶不开提哪壶，吹中国学校的食堂哪怕是粉红学生都会喷你🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614661520407035904",
+        "conversation_id": "2061626397534388397",
+        "created_at": "2026-06-02T01:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061626397534388397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PUNlSHEDJesus/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/PUNlSHEDJesus/status/2061460708592672889",
+              "start": 45,
+              "url": "https://t.co/9oUXrhQLdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061626397534388397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13414,
+          "like_count": 315,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061460708592672889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "古墓派tankie怕不是反串吧，哪壶不开提哪壶，吹中国学校的食堂哪怕是粉红学生都会喷你🤣 https://t.co/9oUXrhQLdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2659,
+          "following_count": 470,
+          "like_count": 930,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T16:33:12.000Z",
+        "description": "Make Eldia Great Again!",
+        "id": "1614661520407035904",
+        "location": "帕拉迪岛",
+        "name": "地鸣航行靠舵手",
+        "pinned_tweet_id": "2040325085299626295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030856179627507712/8wFnUbHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 357,
+          "like_count": 1901,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 489
+        },
+        "username": "number_sigma",
+        "verified": false
+      }
+    ]
+  }
+}

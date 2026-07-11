@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2057072881629065276",
+    "created_at": "2026-05-20T12:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057072881629065276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2797632889",
+          "start": 3,
+          "username": "gundam_cherudim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057072881629065276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056978418227687860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gundam_cherudim: 很多朋友被迫使用蹩脚的英文反驳西方左派夸大中国LGBT权益保护的叙事。不要使用英文，用中文，用我们自己的语言。\n只需要一句话：每当中国政府提及“宪法”的时候，都是“公关辞令”和“外交宣传”，而非司法实践。\n然后引用2017年反对司法独立…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2057072881629065276",
+        "created_at": "2026-05-20T12:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057072881629065276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2797632889",
+              "start": 3,
+              "username": "gundam_cherudim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057072881629065276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056978418227687860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gundam_cherudim: 很多朋友被迫使用蹩脚的英文反驳西方左派夸大中国LGBT权益保护的叙事。不要使用英文，用中文，用我们自己的语言。\n只需要一句话：每当中国政府提及“宪法”的时候，都是“公关辞令”和“外交宣传”，而非司法实践。\n然后引用2017年反对司法独立…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2797632889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2056978418227687860",
+        "created_at": "2026-05-20T06:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056978418227687860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takeru820515/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/takeru820515/status/2056866985980669967",
+              "start": 141,
+              "url": "https://t.co/isbNBSI7fA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056978418227687860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1706,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056866985980669967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多朋友被迫使用蹩脚的英文反驳西方左派夸大中国LGBT权益保护的叙事。不要使用英文，用中文，用我们自己的语言。\n只需要一句话：每当中国政府提及“宪法”的时候，都是“公关辞令”和“外交宣传”，而非司法实践。\n然后引用2017年反对司法独立和2008年废止宪法司法化的官方立场就行了。 https://t.co/isbNBSI7fA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 390,
+          "like_count": 550,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T09:45:09.000Z",
+        "description": "Senior SDE, SRS post-op Feminist, anti-Communism, technolibertarianism, Slava Ukraini, pro-Israel, Zionist",
+        "id": "2797632889",
+        "location": "The Matrix",
+        "name": "Just a programmer 🏳️‍🌈🏳️‍⚧️🇺🇦🇮🇱✡️👩‍💻",
+        "pinned_tweet_id": "2044259604218163436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613557249930330114/nKMAuZ2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 887,
+          "like_count": 7353,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5105
+        },
+        "username": "gundam_cherudim",
+        "verified": false
+      }
+    ]
+  }
+}

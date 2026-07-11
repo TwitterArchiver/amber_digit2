@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054377164649230392",
+    "created_at": "2026-05-13T03:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054409352853782648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1070694634098065410",
+          "start": 0,
+          "username": "BootJenna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054409352853782648",
+    "in_reply_to_user_id": "1070694634098065410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054409073085304857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BootJenna 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054377164649230392",
+        "created_at": "2026-05-13T03:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054409352853782648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1070694634098065410",
+              "start": 0,
+              "username": "BootJenna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054409352853782648",
+        "in_reply_to_user_id": "1070694634098065410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054409073085304857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BootJenna 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070694634098065410",
+        "conversation_id": "2054377164649230392",
+        "created_at": "2026-05-13T03:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054409073085304857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054409073085304857",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054377164649230392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 amber周五生日吖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "退推，联系我私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 51,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 28,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 77,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 54,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 104,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 81,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 146,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 326
+        },
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-06T15:01:08.000Z",
+        "description": "我不会找你要钱 包括 我不收门槛 🇨🇦泛+4i 靴控 大爱紧身衣 白丝 Love boots/zentai/bodysuit🇨🇳",
+        "id": "1070694634098065410",
+        "location": "Toronto, Ontario",
+        "name": "娜酱小可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991625381028274177/mx5McTQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36810,
+          "following_count": 4252,
+          "like_count": 19294,
+          "listed_count": 63,
+          "media_count": 3639,
+          "tweet_count": 29389
+        },
+        "username": "BootJenna",
+        "verified": true
+      }
+    ]
+  }
+}

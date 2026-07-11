@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056934284800266517",
+    "created_at": "2026-05-20T03:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056934284800266517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1378376814389694468",
+          "start": 3,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056934284800266517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056910892110102696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @McFlurry_2001: 你们洋人要是再臆想中国LGBTQ友善就奖励你们来中国生活一年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056934284800266517",
+        "created_at": "2026-05-20T03:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056934284800266517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1378376814389694468",
+              "start": 3,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056934284800266517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056910892110102696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @McFlurry_2001: 你们洋人要是再臆想中国LGBTQ友善就奖励你们来中国生活一年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2056910892110102696",
+        "created_at": "2026-05-20T01:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056910892110102696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056910892110102696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "你们洋人要是再臆想中国LGBTQ友善就奖励你们来中国生活一年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 384,
+          "like_count": 513,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "",
+        "id": "1378376814389694468",
+        "name": "配角女同全肯定人形Bot",
+        "pinned_tweet_id": "2050730304349024739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051729004512862208/hZ6-PUyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 7319,
+          "like_count": 158346,
+          "listed_count": 3,
+          "media_count": 920,
+          "tweet_count": 26859
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

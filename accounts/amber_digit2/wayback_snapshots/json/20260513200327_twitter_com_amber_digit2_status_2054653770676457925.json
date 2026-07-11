@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054635144384819246",
+    "created_at": "2026-05-13T20:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T21:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054653770676457925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_digit2/status/2054647813766602947",
+          "start": 0,
+          "url": "https://t.co/M4FeFIUYox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054653770676457925",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054647813766602947",
+        "type": "quoted"
+      },
+      {
+        "id": "2054635144384819246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/M4FeFIUYox"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054635144384819246",
+        "created_at": "2026-05-13T20:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054653770676457925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_digit2/status/2054647813766602947",
+              "start": 0,
+              "url": "https://t.co/M4FeFIUYox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054653770676457925",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054647813766602947",
+            "type": "quoted"
+          },
+          {
+            "id": "2054635144384819246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/M4FeFIUYox"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054636724656243179",
+        "created_at": "2026-05-13T19:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054647813766602947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054647813766602947",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054636724656243179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 其实也不需要这么直白嘛，可以写一些来自参宿四的猫猫狗狗小兔兔因为宇宙飞船坏掉了被迫降临地球，为了回到家园和女巫交易暂时喝下神秘药水变成人类，盗取各种材料一边修好宇宙飞船一边重新给自己造动物身体的故事。最后大家和作为人类的彼此道别永久睡去，在小动物们的身体重新醒来，一起坐飞船回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2054635144384819246",
+        "created_at": "2026-05-13T18:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:44:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054633862584496322",
+          "2054635144384819246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054635144384819246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么关于跨儿的影视作品都是夹杂了猎奇和怜悯的纪录片或者充满痛苦悲剧的电影，为什么没有关于跨儿的童话和动画片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "❤️ @noaayoyaoaya\n🚪 ¥150/240 ($30/50)\n📣 https://t.co/MKSz5n6u3T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 62,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 39,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 190,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

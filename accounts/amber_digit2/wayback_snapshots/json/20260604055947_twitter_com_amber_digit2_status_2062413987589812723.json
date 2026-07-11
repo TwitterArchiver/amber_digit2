@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062413984649621504"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062413987589812723",
+    "created_at": "2026-06-04T05:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062413987589812723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PkLzFrVY1p",
+          "end": 29,
+          "expanded_url": "https://x.com/amber_digit2/status/2062413987589812723/photo/1",
+          "media_key": "3_2062413984649621504",
+          "start": 6,
+          "url": "https://t.co/PkLzFrVY1p"
+        },
+        {
+          "display_url": "x.com/432ifantrygrou…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/432ifantrygroup/status/2062373107588026548",
+          "start": 30,
+          "url": "https://t.co/Bw2QsXvjim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062413987589812723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062373107588026548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "十年前拍的 https://t.co/PkLzFrVY1p https://t.co/Bw2QsXvjim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062413984649621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8ql4bWsAA6hhI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062373092568293376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8FZpjbYAAAooN.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062413984649621504"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062413987589812723",
+        "created_at": "2026-06-04T05:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062413987589812723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkLzFrVY1p",
+              "end": 29,
+              "expanded_url": "https://x.com/amber_digit2/status/2062413987589812723/photo/1",
+              "media_key": "3_2062413984649621504",
+              "start": 6,
+              "url": "https://t.co/PkLzFrVY1p"
+            },
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2062373107588026548",
+              "start": 30,
+              "url": "https://t.co/Bw2QsXvjim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062413987589812723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062373107588026548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "十年前拍的 https://t.co/PkLzFrVY1p https://t.co/Bw2QsXvjim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062373092568293376"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062373107588026548",
+        "created_at": "2026-06-04T03:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062373107588026548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m79Uf3O6f0",
+              "end": 44,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2062373107588026548/photo/1",
+              "media_key": "3_2062373092568293376",
+              "start": 21,
+              "url": "https://t.co/m79Uf3O6f0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062373107588026548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "需要一位重庆人告诉我一下重庆真的这么美吗 https://t.co/m79Uf3O6f0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 498,
+          "like_count": 1150,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062240095227592980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 4027,
+          "like_count": 42169,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 11806
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

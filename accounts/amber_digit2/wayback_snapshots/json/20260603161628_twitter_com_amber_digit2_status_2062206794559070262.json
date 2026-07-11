@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062206794559070262",
+    "created_at": "2026-06-03T16:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062206794559070262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397850509323554817",
+          "start": 3,
+          "username": "noaayoyaoaya"
+        },
+        {
+          "end": 42,
+          "id": "1862988877964681216",
+          "start": 26,
+          "username": "transchineseorg"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本存档库包含各类中文跨性别、多元性别、酷儿与双性人等的新闻网页存档",
+          "display_url": "news.transchinese.org",
+          "end": 75,
+          "expanded_url": "https://news.transchinese.org/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2062206004859678720/p58nhBo8?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062206004859678720/p58nhBo8?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "跨性别新闻档案",
+          "unwound_url": "https://news.transchinese.org/",
+          "url": "https://t.co/RMs2OzM52O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062206794559070262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062205961645780994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noaayoyaoaya: 打个广告顺便感谢@transchineseorg 爬的网络新闻数据库https://t.co/RMs2OzM52O 对疫情之前的网络性别议题研究都非常有帮助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062206794559070262",
+        "created_at": "2026-06-03T16:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062206794559070262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397850509323554817",
+              "start": 3,
+              "username": "noaayoyaoaya"
+            },
+            {
+              "end": 42,
+              "id": "1862988877964681216",
+              "start": 26,
+              "username": "transchineseorg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本存档库包含各类中文跨性别、多元性别、酷儿与双性人等的新闻网页存档",
+              "display_url": "news.transchinese.org",
+              "end": 75,
+              "expanded_url": "https://news.transchinese.org/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062206004859678720/p58nhBo8?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062206004859678720/p58nhBo8?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "跨性别新闻档案",
+              "unwound_url": "https://news.transchinese.org/",
+              "url": "https://t.co/RMs2OzM52O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062206794559070262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062205961645780994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noaayoyaoaya: 打个广告顺便感谢@transchineseorg 爬的网络新闻数据库https://t.co/RMs2OzM52O 对疫情之前的网络性别议题研究都非常有帮助"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2062205961645780994",
+        "created_at": "2026-06-03T16:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062205961645780994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1862988877964681216",
+              "start": 8,
+              "username": "transchineseorg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本存档库包含各类中文跨性别、多元性别、酷儿与双性人等的新闻网页存档",
+              "display_url": "news.transchinese.org",
+              "end": 57,
+              "expanded_url": "https://news.transchinese.org/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062206004859678720/p58nhBo8?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062206004859678720/p58nhBo8?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "跨性别新闻档案",
+              "unwound_url": "https://news.transchinese.org/",
+              "url": "https://t.co/RMs2OzM52O"
+            },
+            {
+              "display_url": "x.com/noaayoyaoaya/s…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/noaayoyaoaya/status/2062198746369171581",
+              "start": 79,
+              "url": "https://t.co/phrk1LVXej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062205961645780994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062198746369171581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打个广告顺便感谢@transchineseorg 爬的网络新闻数据库https://t.co/RMs2OzM52O 对疫情之前的网络性别议题研究都非常有帮助 https://t.co/phrk1LVXej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 484,
+          "like_count": 1045,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21350,
+          "following_count": 845,
+          "like_count": 10745,
+          "listed_count": 31,
+          "media_count": 124,
+          "tweet_count": 5294
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T22:35:43.000Z",
+        "description": "致力于收集、保存、整理、展示中文社区关于跨性别、非二元的一切多元性别内容与记忆 / 本推特账号互动仅代表个人观点 / 尝试关注所有跨与非二元或友好人士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transchinese.org",
+                "end": 23,
+                "expanded_url": "https://transchinese.org/",
+                "start": 0,
+                "url": "https://t.co/RcEbBOdi6A"
+              }
+            ]
+          }
+        },
+        "id": "1862988877964681216",
+        "location": "United States",
+        "name": "多元性别中文数字图书馆",
+        "pinned_tweet_id": "1863456372958068817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863152868338929664/334kBlk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 1771,
+          "like_count": 12255,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/RcEbBOdi6A",
+        "username": "transchineseorg",
+        "verified": false
+      }
+    ]
+  }
+}

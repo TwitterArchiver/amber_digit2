@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054284219614932998",
+    "created_at": "2026-05-12T19:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054284219614932998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1087657375257944064",
+          "start": 3,
+          "username": "ShizukiMinori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054284219614932998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053407782901297446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShizukiMinori: 我开了爱发电，友邻们可以关注我现在的境况或者帮忙扩散！\n大家好！我是梓月，一个软件工程师、内容创作者和社会活动家。我当前经历资金困难，虽然已于 4 月 15 日获得某国外软件公司的拟录用，但签证流程和入职可能要到 8 月份才能完成。为缓解资…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054284219614932998",
+        "created_at": "2026-05-12T19:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054284219614932998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1087657375257944064",
+              "start": 3,
+              "username": "ShizukiMinori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054284219614932998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053407782901297446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShizukiMinori: 我开了爱发电，友邻们可以关注我现在的境况或者帮忙扩散！\n大家好！我是梓月，一个软件工程师、内容创作者和社会活动家。我当前经历资金困难，虽然已于 4 月 15 日获得某国外软件公司的拟录用，但签证流程和入职可能要到 8 月份才能完成。为缓解资…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087657375257944064",
+        "conversation_id": "2053407782901297446",
+        "created_at": "2026-05-10T09:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053407782901297446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053407782901297446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9174,
+          "like_count": 62,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我开了爱发电，友邻们可以关注我现在的境况或者帮忙扩散！\n大家好！我是梓月，一个软件工程师、内容创作者和社会活动家。我当前经历资金困难，虽然已于 4 月 15 日获得某国外软件公司的拟录用，但签证流程和入职可能要到 8 月份才能完成。为缓解资金压力，不至于因债务违约而无法出境，我希望向大家提"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "退推，联系我私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 51,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 28,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 77,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 54,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 104,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 81,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 116,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 314
+        },
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T10:25:00.000Z",
+        "description": "「人よ、幸福たれ！」\n| #eb695d\n| lenient and saucy “优雅而愉悦”\n| 谏言者人格：@zoya_genrikh\n| 生活在树上是妳的避难所、也是我的避难所",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "eb695d"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "zoya_genrikh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "labmikazu.dscf.one",
+                "end": 23,
+                "expanded_url": "http://labmikazu.dscf.one",
+                "start": 0,
+                "url": "https://t.co/j443RDrPzv"
+              }
+            ]
+          }
+        },
+        "id": "1087657375257944064",
+        "location": "opengl106.oikawa.moe",
+        "name": "梓月 Z. Λ. Shizuki",
+        "pinned_tweet_id": "1735317515297816948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925088190991593472/GtVAoOWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3997,
+          "following_count": 1573,
+          "like_count": 83451,
+          "listed_count": 24,
+          "media_count": 675,
+          "tweet_count": 5714
+        },
+        "url": "https://t.co/j443RDrPzv",
+        "username": "ShizukiMinori",
+        "verified": true
+      }
+    ]
+  }
+}

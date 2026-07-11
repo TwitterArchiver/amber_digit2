@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062123601436766448",
+    "created_at": "2026-06-03T10:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062123601436766448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786596099479977984",
+          "start": 3,
+          "username": "Kurikawayuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062123601436766448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062081319560253727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kurikawayuyu: 一生都在排名做题的东亚小孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062123601436766448",
+        "created_at": "2026-06-03T10:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062123601436766448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786596099479977984",
+              "start": 3,
+              "username": "Kurikawayuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062123601436766448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062081319560253727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kurikawayuyu: 一生都在排名做题的东亚小孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786596099479977984",
+        "conversation_id": "2062081319560253727",
+        "created_at": "2026-06-03T07:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062081319560253727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosusu456/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xiaosusu456/status/2062034181228843418",
+              "start": 15,
+              "url": "https://t.co/sSpTSpe5gB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062081319560253727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062034181228843418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一生都在排名做题的东亚小孩。 https://t.co/sSpTSpe5gB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 477,
+          "like_count": 1004,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T03:18:09.000Z",
+        "description": "07/INFP/sub&Brat/化グラ🥉/ネコすき/退役CCHOer/天天开心!!!!/nT97/TDDFT/wer狗/量子計算化学初心者/有npy了/可爱的老婆@PalecavokLain/主人 @TarsMark2/ bf&主人 @Sulfonion_/老婆狗@OliviawantsHugs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "PalecavokLain"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "TarsMark2"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Sulfonion_"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "OliviawantsHugs"
+              }
+            ]
+          }
+        },
+        "id": "1786596099479977984",
+        "location": "北京",
+        "name": "狗栗栗🇯🇵",
+        "pinned_tweet_id": "1971151253674786841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006695072692318208/sn3IpaEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 894,
+          "like_count": 15077,
+          "listed_count": 25,
+          "media_count": 99,
+          "tweet_count": 1348
+        },
+        "username": "Kurikawayuyu",
+        "verified": false
+      }
+    ]
+  }
+}

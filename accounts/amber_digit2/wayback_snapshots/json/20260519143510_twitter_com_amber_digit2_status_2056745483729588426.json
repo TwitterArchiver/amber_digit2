@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056745483729588426",
+    "created_at": "2026-05-19T14:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056745483729588426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/queerlawwatchc…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/queerlawwatchcn/status/2056409627969876339",
+          "start": 6,
+          "url": "https://t.co/wK0S31aXDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056745483729588426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056409627969876339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很好的梳理 https://t.co/wK0S31aXDv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056745483729588426",
+        "created_at": "2026-05-19T14:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056745483729588426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/queerlawwatchc…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/queerlawwatchcn/status/2056409627969876339",
+              "start": 6,
+              "url": "https://t.co/wK0S31aXDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745483729588426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056409627969876339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很好的梳理 https://t.co/wK0S31aXDv"
+      },
+      {
+        "article": {
+          "title": "一封来自最高法研究室的性少数反歧视司法建议信访答复，说明了什么？"
+        },
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2056409627969876339",
+        "created_at": "2026-05-18T16:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056409627969876339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056402119633022976",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056402119633022976",
+              "url": "https://t.co/BziO7l7sim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056409627969876339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 748,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BziO7l7sim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 341,
+          "like_count": 385,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 480,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2053700364755476932",
+    "created_at": "2026-05-11T04:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053700364755476932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053700364755476932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再次提醒：给我打了钱但后悔的请联系我，我把钱退你。与其让你把这种亏欠变成攻击嘲讽我的借口，你还不如赶紧把你的钱拿回去，这是对我最大的帮助。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2053700364755476932",
+        "created_at": "2026-05-11T04:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053700364755476932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053700364755476932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次提醒：给我打了钱但后悔的请联系我，我把钱退你。与其让你把这种亏欠变成攻击嘲讽我的借口，你还不如赶紧把你的钱拿回去，这是对我最大的帮助。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "备用 @medusozoa_amber\n也可以私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 68,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 45,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 94,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 71,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 121,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 98,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 84,
+          "like_count": 21,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 304
+        },
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

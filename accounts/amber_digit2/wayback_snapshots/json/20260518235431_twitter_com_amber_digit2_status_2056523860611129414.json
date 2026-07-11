@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056523860611129414",
+    "created_at": "2026-05-18T23:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T00:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056523860611129414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "998935742482210818",
+          "start": 3,
+          "username": "SmalltimeJones"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056523860611129414",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1832
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056098544520470925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SmalltimeJones: yes, i know we just witnessed $150 million worth of military equipment blow up on the tarmac but it looked like the jet…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056523860611129414",
+        "created_at": "2026-05-18T23:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056523860611129414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "998935742482210818",
+              "start": 3,
+              "username": "SmalltimeJones"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056523860611129414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1832
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056098544520470925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SmalltimeJones: yes, i know we just witnessed $150 million worth of military equipment blow up on the tarmac but it looked like the jet…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "998935742482210818",
+        "conversation_id": "2056098544520470925",
+        "created_at": "2026-05-17T19:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056098544520470925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Osinttechnical…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/Osinttechnical/status/2056086529404260666",
+              "start": 171,
+              "url": "https://t.co/ehKVFa3wxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056098544520470925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1459,
+          "impression_count": 605006,
+          "like_count": 26123,
+          "quote_count": 16,
+          "reply_count": 50,
+          "retweet_count": 1832
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056086529404260666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yes, i know we just witnessed $150 million worth of military equipment blow up on the tarmac but it looked like the jets were having sex briefly so it's worth every penny https://t.co/ehKVFa3wxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 326,
+          "like_count": 328,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-22T14:36:55.000Z",
+        "description": "fish eggs ‘n bubble wine 𓅃",
+        "id": "998935742482210818",
+        "location": "Lincoln, NE",
+        "name": "Geppetto San Martín 🚬🌭𓅸",
+        "pinned_tweet_id": "1504093300562796549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1081226602091032576/vTZMQ_DC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 2332,
+          "like_count": 18452,
+          "listed_count": 8,
+          "media_count": 4416,
+          "tweet_count": 40567
+        },
+        "username": "SmalltimeJones",
+        "verified": false
+      }
+    ]
+  }
+}

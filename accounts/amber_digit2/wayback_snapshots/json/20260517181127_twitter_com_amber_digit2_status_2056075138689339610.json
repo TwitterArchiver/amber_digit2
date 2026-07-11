@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Michigan",
+          "id": "1004448635902259200",
+          "name": "Michigan"
+        }
+      }
+    ],
+    "conversation_id": "2056075138689339610",
+    "created_at": "2026-05-17T18:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056075138689339610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897105733906522112",
+          "start": 3,
+          "username": "ch0rus0fn0ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056075138689339610",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055988809461080249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ch0rus0fn0ne: ɪᴍᴍᴏʟᴀᴛᴇ ᴛʜᴇ ᴘᴀꜱᴛ \nᴛʜᴇʀᴇ ɪꜱ ɴᴏᴛʜɪɴɢ ꜰᴏʀ ᴜꜱ ᴛʜᴇʀᴇ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2056075138689339610",
+        "created_at": "2026-05-17T18:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056075138689339610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897105733906522112",
+              "start": 3,
+              "username": "ch0rus0fn0ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056075138689339610",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055988809461080249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ch0rus0fn0ne: ɪᴍᴍᴏʟᴀᴛᴇ ᴛʜᴇ ᴘᴀꜱᴛ \nᴛʜᴇʀᴇ ɪꜱ ɴᴏᴛʜɪɴɢ ꜰᴏʀ ᴜꜱ ᴛʜᴇʀᴇ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897105733906522112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2055988809461080249",
+        "created_at": "2026-05-17T12:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055988809461080249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/InstantSunrise…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/InstantSunrise/status/2048592247256674771",
+              "start": 49,
+              "url": "https://t.co/T2LiDNb41Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055988809461080249",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 220,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048592247256674771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ɪᴍᴍᴏʟᴀᴛᴇ ᴛʜᴇ ᴘᴀꜱᴛ \nᴛʜᴇʀᴇ ɪꜱ ɴᴏᴛʜɪɴɢ ꜰᴏʀ ᴜꜱ ᴛʜᴇʀᴇ https://t.co/T2LiDNb41Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 260,
+          "like_count": 187,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-05T02:04:23.000Z",
+        "description": "⚸ 𐌷𐌰𐍂ꡕ ꡕ𐌰𑀌𐍊ꡕ𐍊Ⲋ𐌴𐍂 ⚸",
+        "id": "1897105733906522112",
+        "location": "𐍀𐌰𐌰𐍂ꡕ//Ⲋ𐌷𐌴𐍀Ɗ𐍊ࠋ𐌰ⱱ𐍂𐍊",
+        "name": "𝖈𝖍𝖔𝖗𝖚𝖘",
+        "pinned_tweet_id": "2055464200672260338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047703472481705984/1jxUvMud_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 636,
+          "like_count": 21388,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 4016
+        },
+        "username": "ch0rus0fn0ne",
+        "verified": false
+      }
+    ]
+  }
+}

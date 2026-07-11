@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054284487052120215",
+    "created_at": "2026-05-12T19:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054284487052120215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lycaropia/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Lycaropia/status/2054156473123705090",
+          "start": 16,
+          "url": "https://t.co/MpvjTMrJI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054284487052120215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054156473123705090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像本人就被多次表扬服务态度很好 https://t.co/MpvjTMrJI5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054284487052120215",
+        "created_at": "2026-05-12T19:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054284487052120215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lycaropia/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Lycaropia/status/2054156473123705090",
+              "start": 16,
+              "url": "https://t.co/MpvjTMrJI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054284487052120215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054156473123705090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像本人就被多次表扬服务态度很好 https://t.co/MpvjTMrJI5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "2054088505542975689",
+        "created_at": "2026-05-12T11:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054156473123705090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054156473123705090",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054088505542975689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 你花钱买了服务那么态度本身也是服务的一部分，态度不好就是没有尽责"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "退推，联系我私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 51,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 28,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 77,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 54,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 104,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 81,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 118,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 315
+        },
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "但双角斧的具名者们守口如瓶的秘密是：刃并非只能匍匐于尘土。将其垂直转动，使其锋芒指向那不可言说的上方，让它锐利的尖端亲吻那十二道锁孔。唯有如此，那曾经撕裂我们的十二道耻辱的伤痕，方可依次洞开。",
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬（淡推中）",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1235,
+          "like_count": 104274,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 11590
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

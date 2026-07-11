@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056912028279705781",
+    "created_at": "2026-05-20T03:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056938491871678871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1710952083237867520",
+          "start": 0,
+          "username": "RedSunFrontier"
+        },
+        {
+          "end": 28,
+          "id": "956500987614646273",
+          "start": 16,
+          "username": "neco_arctic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056938491871678871",
+    "in_reply_to_user_id": "1710952083237867520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056931093325251005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RedSunFrontier @neco_arctic oh ok i didnt know"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056912028279705781",
+        "created_at": "2026-05-20T03:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056938491871678871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1710952083237867520",
+              "start": 0,
+              "username": "RedSunFrontier"
+            },
+            {
+              "end": 28,
+              "id": "956500987614646273",
+              "start": 16,
+              "username": "neco_arctic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056938491871678871",
+        "in_reply_to_user_id": "1710952083237867520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056931093325251005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RedSunFrontier @neco_arctic oh ok i didnt know"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710952083237867520",
+        "conversation_id": "2056912028279705781",
+        "created_at": "2026-05-20T02:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056931093325251005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 26,
+              "id": "956500987614646273",
+              "start": 14,
+              "username": "neco_arctic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056931093325251005",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056926863520338316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @neco_arctic Arctic is referencing a popular meme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 384,
+          "like_count": 517,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T09:35:50.000Z",
+        "description": "she/her 🏳️‍⚧️\n\n“Judgments can hardly be settled even after one’s death. Therefore, history’s coffin can never be closed.”\n\nmade in 🇨🇳",
+        "id": "1710952083237867520",
+        "name": "wrong huning ☭ 🏳️‍⚧️",
+        "pinned_tweet_id": "1788834594911031391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049621769317953536/LwjSwA0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1394,
+          "like_count": 165305,
+          "listed_count": 5,
+          "media_count": 854,
+          "tweet_count": 22341
+        },
+        "username": "RedSunFrontier",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-25T12:16:21.000Z",
+        "description": "25 🏳️‍⚧️🇦🇺 🇬🇧 🇨🇳 ⚢ she/her | \"The Great Work is, before all things, the creation of man by himself\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doves.au",
+                "end": 23,
+                "expanded_url": "http://doves.au",
+                "start": 0,
+                "url": "https://t.co/ccGQvwVdYK"
+              }
+            ]
+          }
+        },
+        "id": "956500987614646273",
+        "location": "Gold Coast, QLD",
+        "name": "Arctic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050073802386837504/jUkHkIAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 617,
+          "like_count": 129883,
+          "listed_count": 18,
+          "media_count": 210,
+          "tweet_count": 24172
+        },
+        "url": "https://t.co/ccGQvwVdYK",
+        "username": "neco_arctic",
+        "verified": false
+      }
+    ]
+  }
+}

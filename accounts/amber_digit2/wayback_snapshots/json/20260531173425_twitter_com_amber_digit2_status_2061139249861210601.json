@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061067365748457546",
+    "created_at": "2026-05-31T17:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061139249861210601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1532659258466226177",
+          "start": 0,
+          "username": "777qqq88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061139249861210601",
+    "in_reply_to_user_id": "1532659258466226177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061138775829615098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@777qqq88 学不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061067365748457546",
+        "created_at": "2026-05-31T17:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061139249861210601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1532659258466226177",
+              "start": 0,
+              "username": "777qqq88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061139249861210601",
+        "in_reply_to_user_id": "1532659258466226177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061138775829615098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@777qqq88 学不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532659258466226177",
+        "conversation_id": "2061067365748457546",
+        "created_at": "2026-05-31T17:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061138775829615098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061138775829615098",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061067365748457546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 可以不化妆但是要会化妆，对自己素颜有自信不化也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 429,
+          "like_count": 739,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T09:43:51.000Z",
+        "description": "一个透明的mtf，hrt2023.10.13，自由平等，希望让我们能做回自己",
+        "id": "1532659258466226177",
+        "name": "Deirdre",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060748026461962240/pAAFs-Sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 433,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 802
+        },
+        "username": "777qqq88",
+        "verified": false
+      }
+    ]
+  }
+}

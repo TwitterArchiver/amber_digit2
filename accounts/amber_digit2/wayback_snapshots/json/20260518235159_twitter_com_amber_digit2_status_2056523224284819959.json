@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056523224284819959",
+    "created_at": "2026-05-18T23:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T00:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056523224284819959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4175357052",
+          "start": 3,
+          "username": "puppyuppuppep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056523224284819959",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056109321554190836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puppyuppuppep: Genitals don't have the ontological meaning you all want them to. The penis is a big clitoris"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056523224284819959",
+        "created_at": "2026-05-18T23:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056523224284819959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4175357052",
+              "start": 3,
+              "username": "puppyuppuppep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056523224284819959",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056109321554190836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puppyuppuppep: Genitals don't have the ontological meaning you all want them to. The penis is a big clitoris"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4175357052",
+        "conversation_id": "2056109321554190836",
+        "created_at": "2026-05-17T20:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056109321554190836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ooi43z/status/…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/ooi43z/status/2055677925597302915",
+              "start": 94,
+              "url": "https://t.co/XZ4NPV1M9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056109321554190836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 23063,
+          "like_count": 1472,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055677925597302915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Genitals don't have the ontological meaning you all want them to. The penis is a big clitoris https://t.co/XZ4NPV1M9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 326,
+          "like_count": 324,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-09T04:23:13.000Z",
+        "description": "snoozy\n\n- pfp / banner @MilkdewMillum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "MilkdewMillum"
+              }
+            ]
+          }
+        },
+        "id": "4175357052",
+        "location": "age: 21+",
+        "name": "evil woman",
+        "pinned_tweet_id": "1923122642963312669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810081527226585089/KMq6ynFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 126,
+          "like_count": 153401,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 7851
+        },
+        "username": "puppyuppuppep",
+        "verified": false
+      }
+    ]
+  }
+}

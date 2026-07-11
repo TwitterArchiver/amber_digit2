@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2067277170871832909",
+    "created_at": "2026-06-17T16:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067277170871832909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1133945839737434112",
+          "start": 3,
+          "username": "chloetankahhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067277170871832909",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067007221016461612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chloetankahhui: never forget that ROC soldiers massacred 24 Vietnamese refugees, 8 of them children, after they landed on the island of…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2067277170871832909",
+        "created_at": "2026-06-17T16:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067277170871832909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1133945839737434112",
+              "start": 3,
+              "username": "chloetankahhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067277170871832909",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067007221016461612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chloetankahhui: never forget that ROC soldiers massacred 24 Vietnamese refugees, 8 of them children, after they landed on the island of…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1133945839737434112",
+        "conversation_id": "2067007221016461612",
+        "created_at": "2026-06-16T22:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067007221016461612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brianhioe/stat…",
+              "end": 251,
+              "expanded_url": "https://twitter.com/brianhioe/status/2066972041723678873",
+              "start": 228,
+              "url": "https://t.co/MGXR00ftpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067007221016461612",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 594,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066972041723678873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "never forget that ROC soldiers massacred 24 Vietnamese refugees, 8 of them children, after they landed on the island of Lieyu near Kinmen in 1987\n\nTaiwan needs to right its wrongs and pass laws allowing refugees to claim asylum https://t.co/MGXR00ftpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 511,
+          "like_count": 1283,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1221
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-30T03:58:50.000Z",
+        "description": "TW/SG/US. linguist, grammar antifa, demi🖤🩶🤍💜 transbian, anarchist. she/her/他/伊。\n解放巴勒斯坦！這世上沒有從天而降的英雄，只有挺身而出的凡人\nREVOLUTION EVERYWHERE!\nbackup: @chloetanisback",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 141,
+                "username": "chloetanisback"
+              }
+            ]
+          }
+        },
+        "id": "1133945839737434112",
+        "location": "Duwamish Land (Seattle)",
+        "name": "Age Veri fication Hater 🏳️‍⚧️🍉🌻",
+        "pinned_tweet_id": "1931768637653995942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062113919993589760/UjtJQbJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4919,
+          "following_count": 2965,
+          "like_count": 335613,
+          "listed_count": 23,
+          "media_count": 524,
+          "tweet_count": 120553
+        },
+        "url": "",
+        "username": "chloetankahhui",
+        "verified": false
+      }
+    ]
+  }
+}

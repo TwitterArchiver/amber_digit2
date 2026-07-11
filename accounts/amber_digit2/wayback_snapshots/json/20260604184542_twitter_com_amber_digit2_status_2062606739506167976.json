@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Owner of the Youtube Channel \"contrapoints\"",
+          "id": "1158783436972163073",
+          "name": "Natalie Wynn"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "Owner of the Youtube Channel \"contrapoints\"",
+          "id": "1158783436972163073",
+          "name": "Natalie Wynn"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Owner of the Youtube Channel \"contrapoints\"",
+          "id": "1158783436972163073",
+          "name": "Natalie Wynn"
+        }
+      }
+    ],
+    "conversation_id": "2062606739506167976",
+    "created_at": "2026-06-04T18:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062606739506167976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "27938182",
+          "start": 3,
+          "username": "ContraPoints"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062606739506167976",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062586367305998711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ContraPoints: Being trans gives you a very dark window from which to look out at humanity, where even something supposedly sacred and i…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          }
+        ],
+        "conversation_id": "2062606739506167976",
+        "created_at": "2026-06-04T18:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062606739506167976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "27938182",
+              "start": 3,
+              "username": "ContraPoints"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062606739506167976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062586367305998711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ContraPoints: Being trans gives you a very dark window from which to look out at humanity, where even something supposedly sacred and i…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "27938182",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          }
+        ],
+        "conversation_id": "2062586367305998711",
+        "created_at": "2026-06-04T17:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062586367305998711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/harper033_/sta…",
+              "end": 253,
+              "expanded_url": "https://twitter.com/harper033_/status/2062157208717046187",
+              "start": 230,
+              "url": "https://t.co/Ow7Lqr9Bg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062586367305998711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 61127,
+          "like_count": 1739,
+          "quote_count": 8,
+          "reply_count": 56,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062157208717046187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Being trans gives you a very dark window from which to look out at humanity, where even something supposedly sacred and inviolable like the love of parents for their children turns out to be deeply contingent and subject to whims https://t.co/Ow7Lqr9Bg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 501,
+          "like_count": 1208,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-31T19:07:19.000Z",
+        "description": "Ex-philosopher, ex-Tweeter. Email: info@contrapoints.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "contrapoints.com",
+                "end": 23,
+                "expanded_url": "http://contrapoints.com",
+                "start": 0,
+                "url": "https://t.co/vTkNFKMImv"
+              }
+            ]
+          }
+        },
+        "id": "27938182",
+        "location": "Baltimore, MD",
+        "name": "Natalie Wynn",
+        "pinned_tweet_id": "2061506757550059548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904244055028146176/kFjg_Riz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547544,
+          "following_count": 2104,
+          "like_count": 34000,
+          "listed_count": 1539,
+          "media_count": 852,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/vTkNFKMImv",
+        "username": "ContraPoints",
+        "verified": true
+      }
+    ]
+  }
+}

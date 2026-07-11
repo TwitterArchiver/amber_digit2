@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2052785207082696916",
+    "created_at": "2026-05-08T23:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052900067237867608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_digit2/status/2052900015870206229?s=20",
+          "start": 0,
+          "url": "https://t.co/WPh10quvHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052900067237867608",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052900015870206229",
+        "type": "quoted"
+      },
+      {
+        "id": "2052845875513131202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/WPh10quvHG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052785207082696916",
+        "created_at": "2026-05-08T23:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052900067237867608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_digit2/status/2052900015870206229?s=20",
+              "start": 0,
+              "url": "https://t.co/WPh10quvHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052900067237867608",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052900015870206229",
+            "type": "quoted"
+          },
+          {
+            "id": "2052845875513131202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WPh10quvHG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052900015870206229",
+        "created_at": "2026-05-08T23:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052900015870206229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1397850509323554817",
+              "start": 54,
+              "username": "noaayoyaoaya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can contact @amberjellyfish right away.",
+              "display_url": "t.me/amberjellyfish",
+              "end": 42,
+              "expanded_url": "http://t.me/amberjellyfish",
+              "start": 19,
+              "status": 200,
+              "title": "amber",
+              "unwound_url": "https://t.me/amberjellyfish",
+              "url": "https://t.co/JaDsVYdlvP"
+            },
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+JJru1O0uCsgyO…",
+              "end": 104,
+              "expanded_url": "https://t.me/+JJru1O0uCsgyOGY1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+JJru1O0uCsgyOGY1",
+              "url": "https://t.co/sq2sM3T4UI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052900015870206229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "退推一段时间，有事情请联系我 tg：\nhttps://t.co/JaDsVYdlvP\n也可以直接私信那由：\n@noaayoyaoaya \n日常内容会发在频道里：\nhttps://t.co/sq2sM3T4UI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052785207082696916",
+        "created_at": "2026-05-08T20:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052845875513131202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_digit2/status/2052796128446308392?s=46",
+              "start": 0,
+              "url": "https://t.co/JAqBG0vsLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052845875513131202",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1558,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052796128446308392",
+            "type": "quoted"
+          },
+          {
+            "id": "2052785207082696916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/JAqBG0vsLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "备用 @medusozoa_amber\nTG: https://t.co/Mu7nsgG4NQ\n也可以直接私信那由 @noaayoyaoaya\nhttps://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 47,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 24,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 95,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 72,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 78,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 303
+        },
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

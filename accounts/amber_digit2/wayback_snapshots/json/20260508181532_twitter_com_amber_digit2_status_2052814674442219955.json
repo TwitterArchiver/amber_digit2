@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2052795294941577521",
+    "created_at": "2026-05-08T18:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052814674442219955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1932127829963223040",
+          "start": 0,
+          "username": "woshixiaoxingx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052814674442219955",
+    "in_reply_to_user_id": "1932127829963223040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052814467986313351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshixiaoxingx 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052795294941577521",
+        "created_at": "2026-05-08T18:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052814674442219955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1932127829963223040",
+              "start": 0,
+              "username": "woshixiaoxingx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052814674442219955",
+        "in_reply_to_user_id": "1932127829963223040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052814467986313351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoxingx 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932127829963223040",
+        "conversation_id": "2052795294941577521",
+        "created_at": "2026-05-08T18:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052814467986313351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052814467986313351",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052795294941577521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 amber封几次 我就关注几次😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "备用 @medusozoa_amber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041964308909965312/hKF-bPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 57,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 287
+        },
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T17:29:30.000Z",
+        "description": "wargame牢玩家｜训练有素的外科学生｜喜欢一切可爱事物的半个小孩｜思维混乱的半个苦逼｜我要成为可爱的男娘coser｜我们一起互fo吧",
+        "id": "1932127829963223040",
+        "location": "100m",
+        "name": "电子遗弃小狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353453912195076/rvyAb56e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 262,
+          "like_count": 2015,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1528
+        },
+        "username": "woshixiaoxingx",
+        "verified": false
+      }
+    ]
+  }
+}

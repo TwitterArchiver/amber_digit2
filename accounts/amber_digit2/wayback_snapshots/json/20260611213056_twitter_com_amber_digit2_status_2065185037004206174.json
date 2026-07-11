@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2065185037004206174",
+    "created_at": "2026-06-11T21:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065185037004206174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/local12/status…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/local12/status/2064988666422776035",
+          "start": 78,
+          "url": "https://t.co/Y8gEQOiTZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065185037004206174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064988666422776035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "美国最具权威的医院之一，克利夫兰诊所，已经同意停止为跨性别青少年提供性别肯定医疗，并承诺将投入数百万美元资金扶持去性别转换（Detransition）医疗 https://t.co/Y8gEQOiTZm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2064988645623320576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhQO3-X0AAZWoj.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2065185037004206174",
+        "created_at": "2026-06-11T21:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065185037004206174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/local12/status…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/local12/status/2064988666422776035",
+              "start": 78,
+              "url": "https://t.co/Y8gEQOiTZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065185037004206174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064988666422776035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "美国最具权威的医院之一，克利夫兰诊所，已经同意停止为跨性别青少年提供性别肯定医疗，并承诺将投入数百万美元资金扶持去性别转换（Detransition）医疗 https://t.co/Y8gEQOiTZm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064988645623320576"
+          ]
+        },
+        "author_id": "16102208",
+        "conversation_id": "2064988666422776035",
+        "created_at": "2026-06-11T08:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064988666422776035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hNmwgwy0r",
+              "end": 146,
+              "expanded_url": "https://x.com/Local12/status/2064988666422776035/photo/1",
+              "media_key": "3_2064988645623320576",
+              "start": 123,
+              "url": "https://t.co/9hNmwgwy0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064988666422776035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 596,
+          "impression_count": 618145,
+          "like_count": 13372,
+          "quote_count": 347,
+          "reply_count": 528,
+          "retweet_count": 1282
+        },
+        "reply_settings": "everyone",
+        "text": "The Cleveland Clinic has agreed to end youth transgender care and has committed millions of dollars for detransition care. https://t.co/9hNmwgwy0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2914,
+          "following_count": 508,
+          "like_count": 1267,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-02T20:09:44.000Z",
+        "description": "Local 12 is #Cincinnati's trusted source for breaking news & complete coverage from the Weather Authority!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 12,
+                "tag": "Cincinnati"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "local12.com",
+                "end": 23,
+                "expanded_url": "http://www.local12.com",
+                "start": 0,
+                "url": "https://t.co/OeYBKoXcBi"
+              }
+            ]
+          }
+        },
+        "id": "16102208",
+        "location": "Cincinnati, OH",
+        "name": "Local 12/WKRC-TV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1294306733783998464/aIYhOnrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219141,
+          "following_count": 680,
+          "like_count": 17789,
+          "listed_count": 1375,
+          "media_count": 187797,
+          "tweet_count": 449014
+        },
+        "url": "https://t.co/OeYBKoXcBi",
+        "username": "Local12",
+        "verified": false
+      }
+    ]
+  }
+}

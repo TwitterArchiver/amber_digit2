@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061957038133973458",
+    "created_at": "2026-06-02T23:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061957038133973458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "724322567159468032",
+          "start": 3,
+          "username": "plazynoodles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061957038133973458",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061812774238556558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plazynoodles: are people ready to admit that this is a form of fetishizing a culture"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061957038133973458",
+        "created_at": "2026-06-02T23:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061957038133973458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "724322567159468032",
+              "start": 3,
+              "username": "plazynoodles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061957038133973458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061812774238556558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plazynoodles: are people ready to admit that this is a form of fetishizing a culture"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "724322567159468032",
+        "conversation_id": "2061812774238556558",
+        "created_at": "2026-06-02T14:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061812774238556558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youquzhiji/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/youquzhiji/status/2061560538509775339",
+              "start": 71,
+              "url": "https://t.co/3tmB8pQeWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061812774238556558",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1140,
+          "impression_count": 420488,
+          "like_count": 9740,
+          "quote_count": 26,
+          "reply_count": 22,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061560538509775339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "are people ready to admit that this is a form of fetishizing a culture https://t.co/3tmB8pQeWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 473,
+          "like_count": 959,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-24T19:42:12.000Z",
+        "description": "plaz ✨ 25 ✨ cosplayer/artist! 💖💕 :3c\n\npost this cat 🐈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/plazyn…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/plazynoodles.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8qCgd8zpSE"
+              }
+            ]
+          }
+        },
+        "id": "724322567159468032",
+        "location": "any pronouns ✿",
+        "name": "plazy ☾*✲⋆.",
+        "pinned_tweet_id": "1782544921737511005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521602738131554304/AVS_SM95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16738,
+          "following_count": 701,
+          "like_count": 286987,
+          "listed_count": 69,
+          "media_count": 18852,
+          "tweet_count": 169129
+        },
+        "url": "https://t.co/8qCgd8zpSE",
+        "username": "plazynoodles",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056206753906458624",
+    "created_at": "2026-05-18T02:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056207298121417084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824324977379905537",
+          "start": 0,
+          "username": "siyu060910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056207298121417084",
+    "in_reply_to_user_id": "1824324977379905537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056206753906458624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyu060910 震撼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056206753906458624",
+        "created_at": "2026-05-18T02:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056207298121417084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824324977379905537",
+              "start": 0,
+              "username": "siyu060910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056207298121417084",
+        "in_reply_to_user_id": "1824324977379905537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056206753906458624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyu060910 震撼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "conversation_id": "2056206753906458624",
+        "created_at": "2026-05-18T02:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056206753906458624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnyngxn777912…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/chnyngxn777912/status/2056099641050198467",
+              "start": 15,
+              "url": "https://t.co/61NzSGuPzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056206753906458624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056099641050198467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好搞啊，所以只能开源该信息了 https://t.co/61NzSGuPzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 283,
+          "like_count": 224,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2049167214830559716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 83,
+          "like_count": 530,
+          "listed_count": 12,
+          "media_count": 281,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

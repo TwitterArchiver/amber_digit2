@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062512109779312751",
+    "created_at": "2026-06-04T12:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062512109779312751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1252048768964472840",
+          "start": 3,
+          "username": "camilswan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062512109779312751",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1462
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062303196731539565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @camilswan: Para los que todavía no entienden lo que es una estructura machista y cómo ser mujer es un riesgo desde el momento en el que…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062512109779312751",
+        "created_at": "2026-06-04T12:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062512109779312751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1252048768964472840",
+              "start": 3,
+              "username": "camilswan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062512109779312751",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1462
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062303196731539565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @camilswan: Para los que todavía no entienden lo que es una estructura machista y cómo ser mujer es un riesgo desde el momento en el que…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252048768964472840",
+        "conversation_id": "2062303196731539565",
+        "created_at": "2026-06-03T22:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062303196731539565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cultination1/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Cultination1/status/2062160490063704334",
+              "start": 140,
+              "url": "https://t.co/b34fAViVIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062303196731539565",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 114592,
+          "like_count": 12828,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1462
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062160490063704334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Para los que todavía no entienden lo que es una estructura machista y cómo ser mujer es un riesgo desde el momento en el que nacés: es esto https://t.co/b34fAViVIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 497,
+          "like_count": 1173,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-20T01:37:51.000Z",
+        "description": "Orgullosa argentina 🇦🇷 27\n\nLe rezo todos los días a un hombre lobo 🛐 La señora Dekarios.",
+        "id": "1252048768964472840",
+        "name": "Cᴀᴍɪʟ",
+        "pinned_tweet_id": "1577685645488799752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955106656406081536/Tj0QI2Xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3439,
+          "following_count": 1545,
+          "like_count": 117467,
+          "listed_count": 14,
+          "media_count": 11641,
+          "tweet_count": 75160
+        },
+        "username": "camilswan",
+        "verified": false
+      }
+    ]
+  }
+}

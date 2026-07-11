@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056802301512126552",
+    "created_at": "2026-05-19T18:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056802301512126552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y2d80355/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/y2d80355/status/2056795228292427802",
+          "start": 3,
+          "url": "https://t.co/tgFP5mYDTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056802301512126552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056795228292427802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮扩 https://t.co/tgFP5mYDTn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2056795225083756545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XB7WQAEmoQJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056795225251540992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XCjWcAA8wrR.jpg",
+        "width": 598
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056795225750716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XEaXQAAF_ai.jpg",
+        "width": 591
+      },
+      {
+        "height": 1245,
+        "media_key": "3_2056795226312683523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XGgWMAMvnOT.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056802301512126552",
+        "created_at": "2026-05-19T18:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056802301512126552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y2d80355/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/y2d80355/status/2056795228292427802",
+              "start": 3,
+              "url": "https://t.co/tgFP5mYDTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056802301512126552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056795228292427802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮扩 https://t.co/tgFP5mYDTn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056795225083756545",
+            "3_2056795225251540992",
+            "3_2056795225750716416",
+            "3_2056795226312683523"
+          ]
+        },
+        "author_id": "1540698144429596673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056795228292427802",
+        "created_at": "2026-05-19T17:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056795228292427802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1431776320019517445",
+              "start": 36,
+              "username": "KiraRettosei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795225083756545",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            },
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795225251540992",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            },
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795225750716416",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            },
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795226312683523",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056795228292427802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📢扩散希望📢\n⚠️多图杀猫警告⚠️\n\n原杭州高中生现北京“mtf”大学生@KiraRettosei(圈名勃勃)继在多地连续性骚扰多名mtf后仍屡教不改，在北京上大学期间的光辉事迹，特此转载\n出于人道主义的隐私保护将其真实姓名隐去\n说我misgender的先别跟我急看完再评价\nP1为此人推特账号\nP2开始为相关内容\n\n1/n https://t.co/abEQugR75S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 348,
+          "like_count": 413,
+          "listed_count": 5,
+          "media_count": 36,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 714,
+          "like_count": 5153,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 5402
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

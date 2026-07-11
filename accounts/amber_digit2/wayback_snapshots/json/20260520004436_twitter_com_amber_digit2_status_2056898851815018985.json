@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056898851815018985",
+    "created_at": "2026-05-20T00:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056898851815018985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alexi_0_/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/alexi_0_/status/2056895396002046402",
+          "start": 23,
+          "url": "https://t.co/r2BbraoZs8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056898851815018985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056895396002046402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死你们tankie鉴境外势力鉴到我头上来了 https://t.co/r2BbraoZs8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056898851815018985",
+        "created_at": "2026-05-20T00:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056898851815018985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexi_0_/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/alexi_0_/status/2056895396002046402",
+              "start": 23,
+              "url": "https://t.co/r2BbraoZs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056898851815018985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056895396002046402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死你们tankie鉴境外势力鉴到我头上来了 https://t.co/r2BbraoZs8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570025151378366466",
+        "conversation_id": "2056872457014009922",
+        "created_at": "2026-05-20T00:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056895396002046402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 30,
+              "id": "1802167058005692416",
+              "start": 14,
+              "username": "GirliePsychosis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056895396002046402",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056891194286682273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @GirliePsychosis Why is everything you cite always western? Are you an expert on China and its laws or is everything you know secondhand and gathered from people that call it a literal enemy and adversary?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 373,
+          "like_count": 443,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-14T12:22:41.000Z",
+        "description": ".",
+        "id": "1570025151378366466",
+        "name": "Alexi_0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575705003989278720/QT5oTDrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 20,
+          "like_count": 122,
+          "listed_count": 11,
+          "media_count": 53,
+          "tweet_count": 936
+        },
+        "username": "Alexi_0_",
+        "verified": false
+      }
+    ]
+  }
+}

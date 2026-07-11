@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056085865739276340",
+    "created_at": "2026-05-17T18:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056085865739276340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/transcircleorg…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/transcircleorg/status/2055975013145260489",
+          "start": 3,
+          "url": "https://t.co/pUnyJXhqr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056085865739276340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055975013145260489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦回 https://t.co/pUnyJXhqr4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056085865739276340",
+        "created_at": "2026-05-17T18:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056085865739276340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transcircleorg…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/transcircleorg/status/2055975013145260489",
+              "start": 3,
+              "url": "https://t.co/pUnyJXhqr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056085865739276340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975013145260489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦回 https://t.co/pUnyJXhqr4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055356059066466304",
+        "conversation_id": "2055975013145260489",
+        "created_at": "2026-05-17T11:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055975013145260489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055975013145260489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 7984,
+          "like_count": 150,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "following",
+        "text": "您好！我们正在进行 TransCircleProject 的初期准备。\n\n长此以往，中文 MtF 社群有个很奇怪的现象：我们确实有比较全面的社群 wiki，HRT 指南等，但几乎没有一个能见证我们社群存在与抗争的地方。\n\n跨性别社群流动性极大，这里发生过很多故事，但没有人把它们完整地记录下来过。\n(1/2)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 261,
+          "like_count": 198,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j\nbluesky: https://t.co/pzuooxut0T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 60,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 37,
+                "url": "https://t.co/8uXoPf6E7j"
+              },
+              {
+                "display_url": "bsky.app/profile/transc…",
+                "end": 93,
+                "expanded_url": "http://bsky.app/profile/transcircle.org",
+                "start": 70,
+                "url": "https://t.co/pzuooxut0T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 26,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062138817998414228",
+    "created_at": "2026-06-03T23:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062309792979509579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568268459674574848",
+          "start": 0,
+          "username": "calsys456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062309792979509579",
+    "in_reply_to_user_id": "1568268459674574848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062309046389190767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@calsys456 感觉之前Limelight是这样的，但是后来发生了众所周知的事情（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062138817998414228",
+        "created_at": "2026-06-03T23:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062309792979509579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568268459674574848",
+              "start": 0,
+              "username": "calsys456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062309792979509579",
+        "in_reply_to_user_id": "1568268459674574848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062309046389190767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@calsys456 感觉之前Limelight是这样的，但是后来发生了众所周知的事情（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2062138817998414228",
+        "created_at": "2026-06-03T23:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062309046389190767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062309046389190767",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可能需要一个像irc一样是社群控制、好用、有特点并留得住人的东西？感觉门槛高低倒是次要，社群本来就是垂直的，而垂直的生态之间会相互流通，从而降低单一平台的影响、更好地保存整个社群的文化、发展多样性。我们程序员有csdn stackoverflow reddit discord github codeberg fediverse hackersnews irc，中文跨性别只有一个QQ一个推特，未免太匮乏了，任何平台的一条policy就会迅速造成翻天覆地的影响"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062138817998414228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 可能需要一个像irc一样是社群控制、好用、有特点并留得住人的东西？感觉门槛高低倒是次要，社群本来就是垂直的，而垂直的生态之间会相互流通，从而降低单一平台的影响、更好地保存整个社群的文化、发展多样性。我们程序员有csdn stackoverflow reddit discord github codeberg fediverse hackersnews"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 490,
+          "like_count": 1120,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 1128,
+          "like_count": 48999,
+          "listed_count": 7,
+          "media_count": 274,
+          "tweet_count": 4982
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true
+      }
+    ]
+  }
+}

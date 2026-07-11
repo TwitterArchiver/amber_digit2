@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056684320761290881",
+    "created_at": "2026-05-19T10:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056684320761290881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1568802178122522631",
+          "start": 3,
+          "username": "starlittlepupil"
+        },
+        {
+          "end": 36,
+          "id": "1654297647518466048",
+          "start": 21,
+          "username": "AngeloMcna6787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056684320761290881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056619890925326709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @starlittlepupil: @AngeloMcna6787 这个不知道，但可以确定大部分性工作者没上过大学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056684320761290881",
+        "created_at": "2026-05-19T10:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056684320761290881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1568802178122522631",
+              "start": 3,
+              "username": "starlittlepupil"
+            },
+            {
+              "end": 36,
+              "id": "1654297647518466048",
+              "start": 21,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056684320761290881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056619890925326709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @starlittlepupil: @AngeloMcna6787 这个不知道，但可以确定大部分性工作者没上过大学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568802178122522631",
+        "conversation_id": "2056591228934988069",
+        "created_at": "2026-05-19T06:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056619890925326709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654297647518466048",
+              "start": 0,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056619890925326709",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056591228934988069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngeloMcna6787 这个不知道，但可以确定大部分性工作者没上过大学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 334,
+          "like_count": 365,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-11T03:22:50.000Z",
+        "description": "瞳学姐在注视着你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/401315430",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/401315430",
+                "start": 0,
+                "url": "https://t.co/bEDbd9xLLG"
+              }
+            ]
+          }
+        },
+        "id": "1568802178122522631",
+        "location": "深月市",
+        "name": "星小瞳⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849620460184715264/y3wRChKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 440,
+          "like_count": 33826,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 7068
+        },
+        "url": "https://t.co/bEDbd9xLLG",
+        "username": "starlittlepupil",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "2054321124281074074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 165,
+          "like_count": 11961,
+          "listed_count": 23,
+          "media_count": 1507,
+          "tweet_count": 23176
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2055896303570133390",
+    "created_at": "2026-05-17T06:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055896303570133390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inherentvibes/…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/inherentvibes/status/2055722336956055961",
+          "start": 59,
+          "url": "https://t.co/uP6GDgWjih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055896303570133390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055722336956055961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "most cis people cannot fathom the existence of trans women https://t.co/uP6GDgWjih"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2055896303570133390",
+        "created_at": "2026-05-17T06:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055896303570133390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inherentvibes/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/inherentvibes/status/2055722336956055961",
+              "start": 59,
+              "url": "https://t.co/uP6GDgWjih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055896303570133390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055722336956055961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "most cis people cannot fathom the existence of trans women https://t.co/uP6GDgWjih"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1010568011391160321",
+        "conversation_id": "2055722336956055961",
+        "created_at": "2026-05-16T18:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055722336956055961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055722336956055961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2965,
+          "like_count": 185,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "most cis people cannot fathom the concept of a trans woman not wanting to look like a man"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 243,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-23T16:59:24.000Z",
+        "description": "being silly online. she/her",
+        "id": "1010568011391160321",
+        "location": "Los Angeles, CA",
+        "name": "#1 computer user",
+        "pinned_tweet_id": "1949694126833979751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018777450076114944/GdsQzy4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2105,
+          "like_count": 395818,
+          "listed_count": 19,
+          "media_count": 6120,
+          "tweet_count": 48190
+        },
+        "username": "inherentvibes",
+        "verified": false
+      }
+    ]
+  }
+}

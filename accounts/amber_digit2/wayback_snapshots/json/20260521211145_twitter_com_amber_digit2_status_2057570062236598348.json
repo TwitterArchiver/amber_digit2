@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057570062236598348",
+    "created_at": "2026-05-21T21:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T22:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057570062236598348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2887077099",
+          "start": 3,
+          "username": "ScotNational"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057570062236598348",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057493368494596141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScotNational: BREAKING: Transgender women will be banned from using female toilets, changing facilities and sports teams, following the…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2057493358428237824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2vTvTXMAAWfNe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057570062236598348",
+        "created_at": "2026-05-21T21:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057570062236598348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2887077099",
+              "start": 3,
+              "username": "ScotNational"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057570062236598348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057493368494596141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScotNational: BREAKING: Transgender women will be banned from using female toilets, changing facilities and sports teams, following the…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057493358428237824"
+          ]
+        },
+        "author_id": "2887077099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          }
+        ],
+        "conversation_id": "2057493368494596141",
+        "created_at": "2026-05-21T16:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057493368494596141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6u6otbXO4G",
+              "end": 203,
+              "expanded_url": "https://x.com/ScotNational/status/2057493368494596141/photo/1",
+              "media_key": "3_2057493358428237824",
+              "start": 180,
+              "url": "https://t.co/6u6otbXO4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057493368494596141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 42948,
+          "like_count": 330,
+          "quote_count": 52,
+          "reply_count": 275,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Transgender women will be banned from using female toilets, changing facilities and sports teams, following the publication of guidance from the UK’s equalities watchdog https://t.co/6u6otbXO4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 410,
+          "like_count": 661,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-21T17:32:17.000Z",
+        "description": "The newspaper that supports an independent Scotland.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thenational.scot",
+                "end": 23,
+                "expanded_url": "http://www.thenational.scot/",
+                "start": 0,
+                "url": "https://t.co/ax0CZ0OAGQ"
+              }
+            ]
+          }
+        },
+        "id": "2887077099",
+        "location": "Scotland",
+        "name": "The National",
+        "pinned_tweet_id": "2054819181116223904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1199269358779981824/pGLhx995_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166556,
+          "following_count": 1652,
+          "like_count": 1187,
+          "listed_count": 1067,
+          "media_count": 40173,
+          "tweet_count": 251508
+        },
+        "url": "https://t.co/ax0CZ0OAGQ",
+        "username": "ScotNational",
+        "verified": true
+      }
+    ]
+  }
+}

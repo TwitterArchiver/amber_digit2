@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062887428214366328",
+    "created_at": "2026-06-05T14:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062909530736841171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704584768457822208",
+          "start": 0,
+          "username": "cz07752269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062909530736841171",
+    "in_reply_to_user_id": "704584768457822208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062895784576843916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@cz07752269 她最近已经多次尝试自杀了 我没什么好迫害的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062895784576843916].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062895784576843916",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062895784576843916"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062887428214366328",
+        "created_at": "2026-06-05T14:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062909530736841171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704584768457822208",
+              "start": 0,
+              "username": "cz07752269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062909530736841171",
+        "in_reply_to_user_id": "704584768457822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062895784576843916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@cz07752269 她最近已经多次尝试自杀了 我没什么好迫害的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 506,
+          "like_count": 1230,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-01T08:31:14.000Z",
+        "description": "Marxist-Leninist-Maoist\n\n#FreePalestine🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 25,
+                "tag": "FreePalestine"
+              }
+            ]
+          }
+        },
+        "id": "704584768457822208",
+        "name": "akxkkwkxl",
+        "pinned_tweet_id": "1843706143711080834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135936327327764481/9fsC6-UH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 211,
+          "like_count": 122223,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 8068
+        },
+        "username": "cz07752269",
+        "verified": false
+      }
+    ]
+  }
+}

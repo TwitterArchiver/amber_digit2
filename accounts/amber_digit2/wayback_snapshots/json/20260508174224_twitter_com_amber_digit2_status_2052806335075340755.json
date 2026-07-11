@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052806332403605508"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2052806335075340755",
+    "created_at": "2026-05-08T17:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052806335075340755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZ4nFJn0cp",
+          "end": 38,
+          "expanded_url": "https://x.com/amber_digit2/status/2052806335075340755/photo/1",
+          "media_key": "3_2052806332403605508",
+          "start": 15,
+          "url": "https://t.co/BZ4nFJn0cp"
+        },
+        {
+          "display_url": "x.com/private_plot/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/private_plot/status/2052646558659915807",
+          "start": 39,
+          "url": "https://t.co/X6qxu5vlwS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052806335075340755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052646558659915807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我退掉了对不起能不能别骂我了 https://t.co/BZ4nFJn0cp https://t.co/X6qxu5vlwS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2052806332403605508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0Ie6uW4AQTvYt.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052806332403605508"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052806335075340755",
+        "created_at": "2026-05-08T17:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052806335075340755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZ4nFJn0cp",
+              "end": 38,
+              "expanded_url": "https://x.com/amber_digit2/status/2052806335075340755/photo/1",
+              "media_key": "3_2052806332403605508",
+              "start": 15,
+              "url": "https://t.co/BZ4nFJn0cp"
+            },
+            {
+              "display_url": "x.com/private_plot/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/private_plot/status/2052646558659915807",
+              "start": 39,
+              "url": "https://t.co/X6qxu5vlwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052806335075340755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052646558659915807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我退掉了对不起能不能别骂我了 https://t.co/BZ4nFJn0cp https://t.co/X6qxu5vlwS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937594393772589058",
+        "conversation_id": "2052646558659915807",
+        "created_at": "2026-05-08T07:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052646558659915807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052646558659915807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1329,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们继续给amber打钱然后她拿来买减肥药迟早把自己饿死在多伦多🙂该开直播学习蓝神文了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "备用 @medusozoa_amber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041964308909965312/hKF-bPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 37,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 284
+        },
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "ⓘ 该账号涉黄已被封禁",
+        "pinned_tweet_id": "2031974761308582369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 323,
+          "like_count": 9206,
+          "listed_count": 10,
+          "media_count": 222,
+          "tweet_count": 3038
+        },
+        "username": "Private_plot",
+        "verified": true
+      }
+    ]
+  }
+}

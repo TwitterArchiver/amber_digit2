@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065304284795908096",
+        "3_2065304290571501568",
+        "3_2065304298519719936",
+        "3_2065304296229658624"
+      ],
+      "media_source_tweet_id": [
+        "2065304301543805178",
+        "2065304301543805178",
+        "2065304301543805178",
+        "2065304301543805178"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2065732268526604317",
+    "created_at": "2026-06-13T09:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065732268526604317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048045804959436800",
+          "start": 3,
+          "username": "shifengshua0717"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIH6xOeltS",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+          "media_key": "3_2065304284795908096",
+          "start": 53,
+          "url": "https://t.co/LIH6xOeltS"
+        },
+        {
+          "display_url": "pic.x.com/LIH6xOeltS",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+          "media_key": "3_2065304290571501568",
+          "start": 53,
+          "url": "https://t.co/LIH6xOeltS"
+        },
+        {
+          "display_url": "pic.x.com/LIH6xOeltS",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+          "media_key": "3_2065304298519719936",
+          "start": 53,
+          "url": "https://t.co/LIH6xOeltS"
+        },
+        {
+          "display_url": "pic.x.com/LIH6xOeltS",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+          "media_key": "3_2065304296229658624",
+          "start": 53,
+          "url": "https://t.co/LIH6xOeltS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065732268526604317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065304301543805178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shifengshua0717: 2026年6月5日，应警方要求，曝光戒网瘾学校相关视频均已下架 https://t.co/LIH6xOeltS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065304284795908096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlvTfhaMAAtV1g.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065304290571501568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlvT1CawAAbwVI.jpg",
+        "width": 945
+      },
+      {
+        "height": 1573,
+        "media_key": "3_2065304298519719936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlvUSpa8AA5NXq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1351,
+        "media_key": "3_2065304296229658624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlvUKHbYAABSTt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065304284795908096",
+            "3_2065304290571501568",
+            "3_2065304298519719936",
+            "3_2065304296229658624"
+          ],
+          "media_source_tweet_id": [
+            "2065304301543805178",
+            "2065304301543805178",
+            "2065304301543805178",
+            "2065304301543805178"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2065732268526604317",
+        "created_at": "2026-06-13T09:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065732268526604317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048045804959436800",
+              "start": 3,
+              "username": "shifengshua0717"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304284795908096",
+              "start": 53,
+              "url": "https://t.co/LIH6xOeltS"
+            },
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304290571501568",
+              "start": 53,
+              "url": "https://t.co/LIH6xOeltS"
+            },
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304298519719936",
+              "start": 53,
+              "url": "https://t.co/LIH6xOeltS"
+            },
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304296229658624",
+              "start": 53,
+              "url": "https://t.co/LIH6xOeltS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065732268526604317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065304301543805178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shifengshua0717: 2026年6月5日，应警方要求，曝光戒网瘾学校相关视频均已下架 https://t.co/LIH6xOeltS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065304284795908096",
+            "3_2065304290571501568",
+            "3_2065304298519719936",
+            "3_2065304296229658624"
+          ]
+        },
+        "author_id": "2048045804959436800",
+        "conversation_id": "2065304301543805178",
+        "created_at": "2026-06-12T05:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065304301543805178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304284795908096",
+              "start": 32,
+              "url": "https://t.co/LIH6xOeltS"
+            },
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304290571501568",
+              "start": 32,
+              "url": "https://t.co/LIH6xOeltS"
+            },
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304298519719936",
+              "start": 32,
+              "url": "https://t.co/LIH6xOeltS"
+            },
+            {
+              "display_url": "pic.x.com/LIH6xOeltS",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2065304301543805178/photo/1",
+              "media_key": "3_2065304296229658624",
+              "start": 32,
+              "url": "https://t.co/LIH6xOeltS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065304301543805178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 121234,
+          "like_count": 895,
+          "quote_count": 13,
+          "reply_count": 56,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "2026年6月5日，应警方要求，曝光戒网瘾学校相关视频均已下架 https://t.co/LIH6xOeltS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 509,
+          "like_count": 1268,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "做伟大事情的唯一方法就是热爱你所做的事 | \n来自中国的视频创作者,致力于曝光戒网瘾学校和扭转机构等黑心教育机构",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfsa.mrgzs.top",
+                "end": 23,
+                "expanded_url": "https://sfsa.mrgzs.top",
+                "start": 0,
+                "url": "https://t.co/TkxUTTp1Rs"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "location": "Hong Kong",
+        "name": "枫书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 20,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/TkxUTTp1Rs",
+        "username": "shifengshua0717",
+        "verified": false
+      }
+    ]
+  }
+}

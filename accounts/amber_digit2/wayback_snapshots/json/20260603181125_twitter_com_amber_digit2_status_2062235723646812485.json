@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062073073868943522",
+    "created_at": "2026-06-03T18:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062235723646812485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714897821537808384",
+          "start": 0,
+          "username": "LimeInvited"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062235723646812485",
+    "in_reply_to_user_id": "1714897821537808384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062218825157017869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimeInvited 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062073073868943522",
+        "created_at": "2026-06-03T18:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062235723646812485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714897821537808384",
+              "start": 0,
+              "username": "LimeInvited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062235723646812485",
+        "in_reply_to_user_id": "1714897821537808384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062218825157017869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimeInvited 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714897821537808384",
+        "conversation_id": "2062073073868943522",
+        "created_at": "2026-06-03T17:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062218825157017869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062218825157017869",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062125626698465612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 你要说我是不是渴望流量… 我很难说自己完全不想要\n只是现在客观上就是没有机会获得罢了\n我觉得渴望流量就如渴望力量 没有对错关键看要干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 487,
+          "like_count": 1073,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:54:49.000Z",
+        "description": "🏳️‍⚧️ | 经皮蜕却，由音疗愈，仅在受邀时有害 ‖ 太阳和铸炉的火花中诞生了果，而弧月亦受其照耀",
+        "id": "1714897821537808384",
+        "location": "Maywood, CA",
+        "name": "覆皮蒙邀果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024512857304653824/isWCnczY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 77,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 240
+        },
+        "username": "LimeInvited",
+        "verified": false
+      }
+    ]
+  }
+}

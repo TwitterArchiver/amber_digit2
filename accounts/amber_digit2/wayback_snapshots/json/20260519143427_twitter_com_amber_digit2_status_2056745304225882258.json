@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056745304225882258",
+    "created_at": "2026-05-19T14:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056745304225882258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/symbiosities/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/symbiosities/status/2056732913207763275",
+          "start": 32,
+          "url": "https://t.co/5Q9aa2UuYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056745304225882258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056732913207763275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至今印象深刻的就是陈纯那篇文认为mtf是龟男为了迎合女权出现的 https://t.co/5Q9aa2UuYF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056745304225882258",
+        "created_at": "2026-05-19T14:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056745304225882258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/symbiosities/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/symbiosities/status/2056732913207763275",
+              "start": 32,
+              "url": "https://t.co/5Q9aa2UuYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745304225882258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056732913207763275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至今印象深刻的就是陈纯那篇文认为mtf是龟男为了迎合女权出现的 https://t.co/5Q9aa2UuYF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356460237453029376",
+        "conversation_id": "2056732913207763275",
+        "created_at": "2026-05-19T13:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056732913207763275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "豆瓣 App",
+              "display_url": "m.douban.com/to_app?copy_op…",
+              "end": 48,
+              "expanded_url": "https://m.douban.com/to_app?copy_open=1&source=content_detail_note&url=/note/860182375",
+              "start": 25,
+              "status": 200,
+              "title": "豆瓣 App",
+              "unwound_url": "https://www.douban.com/doubanapp//frodo?channel=subject_share",
+              "url": "https://t.co/obGH1WLrvH"
+            },
+            {
+              "display_url": "x.com/luosiling/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/luosiling/status/2056687710786510909",
+              "start": 49,
+              "url": "https://t.co/it8R8Z9YtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056732913207763275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 375,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056687710786510909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前情提要：女权左男陈纯性骚扰被曝光后一转反思劳保\nhttps://t.co/obGH1WLrvH https://t.co/it8R8Z9YtN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 341,
+          "like_count": 383,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T04:31:48.000Z",
+        "description": "我所是的猫猫 ✰❣️@Cmos_destroyer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "Cmos_destroyer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/pharmacist",
+                "end": 23,
+                "expanded_url": "https://potofu.me/pharmacist",
+                "start": 0,
+                "url": "https://t.co/Tre1fO8feG"
+              }
+            ]
+          }
+        },
+        "id": "1356460237453029376",
+        "name": "Pharmacist🍋❄️",
+        "pinned_tweet_id": "1848017086850966007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872486469878849538/Bkdg7QaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 5211,
+          "like_count": 40665,
+          "listed_count": 15,
+          "media_count": 1380,
+          "tweet_count": 17223
+        },
+        "url": "https://t.co/Tre1fO8feG",
+        "username": "Symbiosities",
+        "verified": false
+      }
+    ]
+  }
+}

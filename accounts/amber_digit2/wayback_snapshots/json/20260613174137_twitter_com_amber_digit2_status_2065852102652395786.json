@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2065736568921362506",
+    "created_at": "2026-06-13T17:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065852102652395786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1793128328221917184",
+          "start": 0,
+          "username": "Evelyn_Morgan72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065852102652395786",
+    "in_reply_to_user_id": "1793128328221917184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065738733954232746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Evelyn_Morgan72 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065738731450204160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr6bnbbAAAWfA4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2065736568921362506",
+        "created_at": "2026-06-13T17:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065852102652395786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1793128328221917184",
+              "start": 0,
+              "username": "Evelyn_Morgan72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065852102652395786",
+        "in_reply_to_user_id": "1793128328221917184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065738733954232746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Evelyn_Morgan72 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065738731450204160"
+          ]
+        },
+        "author_id": "1793128328221917184",
+        "conversation_id": "2065736568921362506",
+        "created_at": "2026-06-13T10:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065738733954232746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYhJmVPhMY",
+              "end": 58,
+              "expanded_url": "https://x.com/Evelyn_Morgan72/status/2065738733954232746/photo/1",
+              "media_key": "3_2065738731450204160",
+              "start": 35,
+              "url": "https://t.co/QYhJmVPhMY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0118e53a43a7db78"
+        },
+        "id": "2065738733954232746",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065736568921362506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 好诶( ・∇・)！\n陪一张(*･ω･)/ https://t.co/QYhJmVPhMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 509,
+          "like_count": 1275,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T03:54:53.000Z",
+        "description": "INFJ-T · 水瓶座 · MtF 🏳️‍⚧️ · 她/TA · 南京土著 · 社恐爱哭鬼\n“hi，我有一点点怕你，但又好想被你喜欢。”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evelyn_morgan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/evelyn_morgan",
+                "start": 0,
+                "url": "https://t.co/iUUL1ruufe"
+              }
+            ]
+          }
+        },
+        "id": "1793128328221917184",
+        "location": "Hualien County, Taiwan",
+        "name": "清澄白河🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006138340010254341/wldp72IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 204,
+          "like_count": 25962,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/iUUL1ruufe",
+        "username": "Evelyn_Morgan72",
+        "verified": false
+      }
+    ]
+  }
+}

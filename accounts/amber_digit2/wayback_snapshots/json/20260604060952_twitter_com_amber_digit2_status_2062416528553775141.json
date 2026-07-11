@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062416525789736960"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062416528553775141",
+    "created_at": "2026-06-04T06:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062416528553775141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GXhIdTIVQn",
+          "end": 81,
+          "expanded_url": "https://x.com/amber_digit2/status/2062416528553775141/photo/1",
+          "media_key": "3_2062416525789736960",
+          "start": 58,
+          "url": "https://t.co/GXhIdTIVQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062416528553775141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "作为身材焦虑非常严重的跨女 每次看到这种用子宫/生育能力缓解女性身材焦虑的言论 就好像找到了让自己继续饿下去的理由 https://t.co/GXhIdTIVQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2062416525789736960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8s5y6XsAAmC-U.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062416525789736960"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062416528553775141",
+        "created_at": "2026-06-04T06:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062416528553775141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXhIdTIVQn",
+              "end": 81,
+              "expanded_url": "https://x.com/amber_digit2/status/2062416528553775141/photo/1",
+              "media_key": "3_2062416525789736960",
+              "start": 58,
+              "url": "https://t.co/GXhIdTIVQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062416528553775141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "作为身材焦虑非常严重的跨女 每次看到这种用子宫/生育能力缓解女性身材焦虑的言论 就好像找到了让自己继续饿下去的理由 https://t.co/GXhIdTIVQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 498,
+          "like_count": 1150,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

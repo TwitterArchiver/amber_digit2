@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2075388607007768603",
+    "created_at": "2026-07-10T01:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075388607007768603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1995045808597790720",
+          "start": 3,
+          "username": "BlessedCurse020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075388607007768603",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075169928374878568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlessedCurse020: In an ideal world, diy hrt wouldnt exist. Every child would be monitored for gender dysphoria and go through the corre…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2075388607007768603",
+        "created_at": "2026-07-10T01:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075388607007768603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1995045808597790720",
+              "start": 3,
+              "username": "BlessedCurse020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075388607007768603",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075169928374878568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlessedCurse020: In an ideal world, diy hrt wouldnt exist. Every child would be monitored for gender dysphoria and go through the corre…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995045808597790720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Parenting K-6 kids",
+              "id": "864926035569135616",
+              "name": "Parenting K-6 kids"
+            }
+          }
+        ],
+        "conversation_id": "2075169928374878568",
+        "created_at": "2026-07-09T10:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075169928374878568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075169928374878568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3070,
+          "like_count": 281,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "In an ideal world, diy hrt wouldnt exist. Every child would be monitored for gender dysphoria and go through the correct puberty at the same time as their peers just like how kids are monitored for eye problems in elementary school so they can get glasses"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 507,
+          "like_count": 1334,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T08:23:02.000Z",
+        "description": "Ubermensh, DIY loving Transmed, Trans woman supremacy is the moderate position",
+        "id": "1995045808597790720",
+        "name": "CursedSchizo",
+        "pinned_tweet_id": "2074988145301770397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074326798759043072/Bpeos9e6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 116,
+          "like_count": 2624,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "BlessedCurse020",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061239666293252420",
+    "created_at": "2026-06-01T00:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061239666293252420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2061179155862139349",
+          "start": 33,
+          "url": "https://t.co/ckGB8VLvyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061239666293252420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061179155862139349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看完了，不值票钱，剧情近乎没有，单纯是为了设定的这盘醋包了个饺子 https://t.co/ckGB8VLvyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061179146039160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrHg0IbcAA6gV-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061239666293252420",
+        "created_at": "2026-06-01T00:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061239666293252420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2061179155862139349",
+              "start": 33,
+              "url": "https://t.co/ckGB8VLvyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061239666293252420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061179155862139349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完了，不值票钱，剧情近乎没有，单纯是为了设定的这盘醋包了个饺子 https://t.co/ckGB8VLvyU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061179146039160832"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2061179155862139349",
+        "created_at": "2026-05-31T20:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061179155862139349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQVwMVLoJQ",
+              "end": 42,
+              "expanded_url": "https://x.com/amber_digit2/status/2061179155862139349/photo/1",
+              "media_key": "3_2061179146039160832",
+              "start": 19,
+              "url": "https://t.co/dQVwMVLoJQ"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2061164949385228698",
+              "start": 43,
+              "url": "https://t.co/L6YdctQUcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061179155862139349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 990,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061164949385228698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "服了整个影厅坐满了且都是十来岁小孩… https://t.co/dQVwMVLoJQ https://t.co/L6YdctQUcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 431,
+          "like_count": 753,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

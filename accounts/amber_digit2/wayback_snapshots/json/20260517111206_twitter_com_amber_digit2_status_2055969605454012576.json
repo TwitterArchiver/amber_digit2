@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055843199504244736"
+      ],
+      "media_source_tweet_id": [
+        "2055843260497805627"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055969605454012576",
+    "created_at": "2026-05-17T11:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055969605454012576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1522953886478200832",
+          "start": 3,
+          "username": "huihui85165913"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kN7uoGbjnJ",
+          "end": 43,
+          "expanded_url": "https://x.com/huihui85165913/status/2055843260497805627/video/1",
+          "media_key": "7_2055843199504244736",
+          "start": 20,
+          "url": "https://t.co/kN7uoGbjnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055969605454012576",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055843260497805627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huihui85165913: https://t.co/kN7uoGbjnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13302,
+        "height": 720,
+        "media_key": "7_2055843199504244736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055843199504244736/pu/img/vK45VB0V_AfacT2c.jpg",
+        "public_metrics": {
+          "view_count": 388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055843199504244736/pu/vid/avc1/480x270/QIYsCkC-jcsQtHpa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055843199504244736/pu/vid/avc1/640x360/Qo3wqfHaLlkQZ9QU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055843199504244736/pu/vid/avc1/1280x720/WJOQHWAoyb6E6Lft.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055843199504244736/pu/pl/fhg5DlDQ9sP4qjHg.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055843199504244736"
+          ],
+          "media_source_tweet_id": [
+            "2055843260497805627"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055969605454012576",
+        "created_at": "2026-05-17T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055969605454012576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1522953886478200832",
+              "start": 3,
+              "username": "huihui85165913"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kN7uoGbjnJ",
+              "end": 43,
+              "expanded_url": "https://x.com/huihui85165913/status/2055843260497805627/video/1",
+              "media_key": "7_2055843199504244736",
+              "start": 20,
+              "url": "https://t.co/kN7uoGbjnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055969605454012576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055843260497805627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huihui85165913: https://t.co/kN7uoGbjnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055843199504244736"
+          ]
+        },
+        "author_id": "1522953886478200832",
+        "conversation_id": "2055843260497805627",
+        "created_at": "2026-05-17T02:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055843260497805627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kN7uoGbjnJ",
+              "end": 23,
+              "expanded_url": "https://x.com/huihui85165913/status/2055843260497805627/video/1",
+              "media_key": "7_2055843199504244736",
+              "start": 0,
+              "url": "https://t.co/kN7uoGbjnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055843260497805627",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 873,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kN7uoGbjnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 255,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T14:58:13.000Z",
+        "description": "我叫小白，天津缚手！（老登一个）\n179/75   男  喜欢玩绳！其他感兴趣的很多\n欢迎约绳，聊天，教学，交友。\n很高兴认识各位！\n\n Q.345468888",
+        "id": "1522953886478200832",
+        "name": "小白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820388090730651648/xZ3NeYbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 216,
+          "like_count": 92,
+          "listed_count": 9,
+          "media_count": 39,
+          "tweet_count": 80
+        },
+        "username": "huihui85165913",
+        "verified": false
+      }
+    ]
+  }
+}

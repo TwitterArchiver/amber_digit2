@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056409374235508924",
+    "created_at": "2026-05-18T16:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056409374235508924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936427909761380353",
+          "start": 3,
+          "username": "Coldbinch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056409374235508924",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056399989719400740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coldbinch: This is particularly bad for those who are both intersex and trans. An intersex trans woman can be medically masculinized ag…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056409374235508924",
+        "created_at": "2026-05-18T16:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056409374235508924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936427909761380353",
+              "start": 3,
+              "username": "Coldbinch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056409374235508924",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056399989719400740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coldbinch: This is particularly bad for those who are both intersex and trans. An intersex trans woman can be medically masculinized ag…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936427909761380353",
+        "conversation_id": "2056399989719400740",
+        "created_at": "2026-05-18T15:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056399989719400740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coldbinch/stat…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/coldbinch/status/2056399501489799472",
+              "start": 277,
+              "url": "https://t.co/X7uCWgfDdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056399989719400740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056399501489799472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This is particularly bad for those who are both intersex and trans. An intersex trans woman can be medically masculinized against her will and denied the ability to feminize herself despite wanting it. Pretending that being intersex can make you trans erases this intersection https://t.co/X7uCWgfDdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 6,
+          "like_count": 12,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-01T02:53:06.000Z",
+        "description": "Lyra | she/her | 26",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "frostops.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://frostops.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/eRiyVafyse"
+              }
+            ]
+          }
+        },
+        "id": "936427909761380353",
+        "name": "Frosty",
+        "pinned_tweet_id": "1352428249297649664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808572769203843072/r-TWJb9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 4678,
+          "like_count": 278996,
+          "listed_count": 8,
+          "media_count": 432,
+          "tweet_count": 302088
+        },
+        "url": "https://t.co/eRiyVafyse",
+        "username": "Coldbinch",
+        "verified": false
+      }
+    ]
+  }
+}

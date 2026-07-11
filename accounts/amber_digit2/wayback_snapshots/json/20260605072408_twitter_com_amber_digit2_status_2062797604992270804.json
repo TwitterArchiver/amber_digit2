@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062785475166060703",
+    "created_at": "2026-06-05T07:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062797604992270804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "343278091",
+          "start": 0,
+          "username": "shyhaimao"
+        },
+        {
+          "end": 18,
+          "id": "1560129932524544000",
+          "start": 11,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062797604992270804",
+    "in_reply_to_user_id": "343278091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062790580271566895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyhaimao @xijiu_ 我发的都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062785475166060703",
+        "created_at": "2026-06-05T07:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062797604992270804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "343278091",
+              "start": 0,
+              "username": "shyhaimao"
+            },
+            {
+              "end": 18,
+              "id": "1560129932524544000",
+              "start": 11,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062797604992270804",
+        "in_reply_to_user_id": "343278091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062790580271566895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyhaimao @xijiu_ 我发的都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343278091",
+        "conversation_id": "2062785475166060703",
+        "created_at": "2026-06-05T06:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062790580271566895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062790580271566895",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062785475166060703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 你放 100 个心 没人会真的发无美颜素颜直出的照片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 505,
+          "like_count": 1230,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T09:41:05.000Z",
+        "description": "碎碎念 / 大量自拍供应 / 🐄系女子 / Dom / 偶有 #Latex 内容 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "Latex"
+              }
+            ]
+          }
+        },
+        "id": "343278091",
+        "location": "@yaminas0",
+        "name": "紫",
+        "pinned_tweet_id": "1927758691350045153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327949313306107904/_X2CsouO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10654,
+          "following_count": 985,
+          "like_count": 1306,
+          "listed_count": 36,
+          "media_count": 378,
+          "tweet_count": 7562
+        },
+        "username": "shyhaimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 854,
+          "like_count": 197504,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 9427
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056961592546271579",
+    "created_at": "2026-05-20T04:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056961592546271579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "873489613934927872",
+          "start": 3,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056961592546271579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056950525921464362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taro_puree: 中点庇护所小组从今年2月20号开始，到今天运行3个月整，主要工作内容包括危机干预（线上干预/紧急救助金/庇护所）、线下行动（反家暴/反矫正机构）、社群文化（跨性别相关放送/B站晚会直播等），共计收入32212.50元，支出29732.72元，结余…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2056950516304031744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvBmKzbsAAaAtw.png",
+        "width": 1260
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2056950523425923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvBmlVbIAAWLHs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056961592546271579",
+        "created_at": "2026-05-20T04:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056961592546271579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "873489613934927872",
+              "start": 3,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056961592546271579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056950525921464362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taro_puree: 中点庇护所小组从今年2月20号开始，到今天运行3个月整，主要工作内容包括危机干预（线上干预/紧急救助金/庇护所）、线下行动（反家暴/反矫正机构）、社群文化（跨性别相关放送/B站晚会直播等），共计收入32212.50元，支出29732.72元，结余…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056950516304031744",
+            "3_2056950523425923072"
+          ]
+        },
+        "author_id": "873489613934927872",
+        "conversation_id": "2056950525921464362",
+        "created_at": "2026-05-20T04:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056950525921464362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/orOwCRbnTr",
+              "end": 180,
+              "expanded_url": "https://x.com/taro_puree/status/2056950525921464362/photo/1",
+              "media_key": "3_2056950516304031744",
+              "start": 157,
+              "url": "https://t.co/orOwCRbnTr"
+            },
+            {
+              "display_url": "pic.x.com/orOwCRbnTr",
+              "end": 180,
+              "expanded_url": "https://x.com/taro_puree/status/2056950525921464362/photo/1",
+              "media_key": "3_2056950523425923072",
+              "start": 157,
+              "url": "https://t.co/orOwCRbnTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056950525921464362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中点庇护所小组从今年2月20号开始，到今天运行3个月整，主要工作内容包括危机干预（线上干预/紧急救助金/庇护所）、线下行动（反家暴/反矫正机构）、社群文化（跨性别相关放送/B站晚会直播等），共计收入32212.50元，支出29732.72元，结余2479.78元，收入全部来自志愿者个人捐赠、个人募集与求助者捐赠 https://t.co/orOwCRbnTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 386,
+          "like_count": 525,
+          "listed_count": 8,
+          "media_count": 43,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 296,
+          "like_count": 23999,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 3800
+        },
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2055972881750708617",
+    "created_at": "2026-05-17T15:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056038515826147810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        },
+        {
+          "end": 27,
+          "id": "1745799972576968705",
+          "start": 14,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056038515826147810",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055972881750708617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene @bubblepipe42 唉是的 有所耳闻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2055972881750708617",
+        "created_at": "2026-05-17T15:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056038515826147810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            },
+            {
+              "end": 27,
+              "id": "1745799972576968705",
+              "start": 14,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056038515826147810",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055972881750708617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene @bubblepipe42 唉是的 有所耳闻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765807474964258816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2055972881750708617",
+        "created_at": "2026-05-17T11:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055972881750708617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2055888650370535667",
+              "start": 132,
+              "url": "https://t.co/3hq31VBuqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055972881750708617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 633,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055888650370535667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的 成年了也不给你提供医疗\n\n要么选择wpa这类提供跨性别心理咨询承保范围的私人医疗保险\n\n要么老老实实在nhs里面排队五六年\n\n要么去参加一次四百多镑的全自费心理咨询\n\n如果你不知道四百英镑是什么概念\n\n35岁以下有四分之一的英国人平均储蓄额低于100英镑 https://t.co/3hq31VBuqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 259,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "man！♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 57,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 34,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 101,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 78,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "2055818447439728677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055963604717871104/zgRB-R3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39670,
+          "following_count": 1935,
+          "like_count": 18898,
+          "listed_count": 132,
+          "media_count": 1692,
+          "tweet_count": 8815
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 928,
+          "like_count": 8397,
+          "listed_count": 5,
+          "media_count": 339,
+          "tweet_count": 2267
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

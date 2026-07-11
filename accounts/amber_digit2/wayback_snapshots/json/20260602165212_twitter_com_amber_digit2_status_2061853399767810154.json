@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      }
+    ],
+    "conversation_id": "2061822834922467628",
+    "created_at": "2026-06-02T16:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061853399767810154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939985156778983424",
+          "start": 0,
+          "username": "Yan_SealBabie"
+        },
+        {
+          "end": 28,
+          "id": "2003036557289132032",
+          "start": 15,
+          "username": "MisakaNoBoom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061853399767810154",
+    "in_reply_to_user_id": "1939985156778983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061852482251190643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_SealBabie @MisakaNoBoom 你先把食材搞清楚，把最基础的意面做好再说吧 怕是什么面条种类搭什么酱都不知道，让你搭个charcuterie board搞个cheese service做wine pairing估计都能折腾死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "2061822834922467628",
+        "created_at": "2026-06-02T16:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061853399767810154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939985156778983424",
+              "start": 0,
+              "username": "Yan_SealBabie"
+            },
+            {
+              "end": 28,
+              "id": "2003036557289132032",
+              "start": 15,
+              "username": "MisakaNoBoom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061853399767810154",
+        "in_reply_to_user_id": "1939985156778983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061852482251190643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_SealBabie @MisakaNoBoom 你先把食材搞清楚，把最基础的意面做好再说吧 怕是什么面条种类搭什么酱都不知道，让你搭个charcuterie board搞个cheese service做wine pairing估计都能折腾死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939985156778983424",
+        "conversation_id": "2061822834922467628",
+        "created_at": "2026-06-02T16:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061852482251190643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 27,
+              "id": "2003036557289132032",
+              "start": 14,
+              "username": "MisakaNoBoom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061852482251190643",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你先吃个食物看看？你都没接触过食物，你接触的那些叫做调味剂。找个三哥就能给你做出来各种鲜美的酱料装进勺子里给你比划几下100镑没了🤣👉🏻，果然情操底下之人就爱如此，一个灵魂缺乏信条的人只能用这种纸醉金迷的外表来包装自己。没有自己饮食文化的垃圾地方就爱通过这种东西来塑造高级感。就算吃的没问题那股金钱恶臭感也是扑面而来。别人就一杯咖啡就能玩出花样，任何人来不超过2欧，当然你这种英美模式洗脑完的是不可能读懂的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061850712959529278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @MisakaNoBoom 你先吃个食物看看？你都没接触过食物，你接触的那些叫做调味剂。找个三哥就能给你做出来各种鲜美的酱料装进勺子里给你比划几下100镑没了🤣👉🏻，果然情操底下之人就爱如此，一个灵魂缺乏信条的人只能用这种纸醉金迷的外表来包装自己。没有自己饮食文化的垃圾地方就爱通过这种东西来塑造高级感。就算吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 468,
+          "like_count": 918,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:51:34.000Z",
+        "description": "新手TS / 长发及腰 / 好妻子型 /",
+        "id": "1939985156778983424",
+        "location": "君士坦丁堡",
+        "name": "萧思言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014055513911164929/pNLaGfGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 249,
+          "like_count": 2363,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 3005
+        },
+        "username": "Yan_SealBabie",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T09:35:34.000Z",
+        "description": "19 y.o. | ZH/EN | Anything",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.tonyding.net",
+                "end": 23,
+                "expanded_url": "http://blog.tonyding.net",
+                "start": 0,
+                "url": "https://t.co/LuHGZCnPCS"
+              }
+            ]
+          }
+        },
+        "id": "2003036557289132032",
+        "name": "Tony Ding",
+        "pinned_tweet_id": "2003038284029780070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003037372787634176/mW2jtQgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 193,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/LuHGZCnPCS",
+        "username": "MisakaNoBoom",
+        "verified": false
+      }
+    ]
+  }
+}

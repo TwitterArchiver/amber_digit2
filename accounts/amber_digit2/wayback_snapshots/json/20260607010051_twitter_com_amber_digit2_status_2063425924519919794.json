@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063342116085096448"
+      ],
+      "media_source_tweet_id": [
+        "2063342120237461968"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Oklahoma",
+          "id": "1010253916540305408",
+          "name": "Oklahoma"
+        }
+      }
+    ],
+    "conversation_id": "2063425924519919794",
+    "created_at": "2026-06-07T01:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063425924519919794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1370559353930051584",
+          "start": 3,
+          "username": "littlefoxnev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCtW29fDwK",
+          "end": 86,
+          "expanded_url": "https://x.com/littlefoxnev/status/2063342120237461968/photo/1",
+          "media_key": "3_2063342116085096448",
+          "start": 63,
+          "url": "https://t.co/qCtW29fDwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063425924519919794",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063342120237461968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @littlefoxnev: HRT just effectively got banned in Oklahoma. https://t.co/qCtW29fDwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2063342116085096448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJ2uPda4AAup4-.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063342116085096448"
+          ],
+          "media_source_tweet_id": [
+            "2063342120237461968"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Oklahoma",
+              "id": "1010253916540305408",
+              "name": "Oklahoma"
+            }
+          }
+        ],
+        "conversation_id": "2063425924519919794",
+        "created_at": "2026-06-07T01:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063425924519919794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370559353930051584",
+              "start": 3,
+              "username": "littlefoxnev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCtW29fDwK",
+              "end": 86,
+              "expanded_url": "https://x.com/littlefoxnev/status/2063342120237461968/photo/1",
+              "media_key": "3_2063342116085096448",
+              "start": 63,
+              "url": "https://t.co/qCtW29fDwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063425924519919794",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063342120237461968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @littlefoxnev: HRT just effectively got banned in Oklahoma. https://t.co/qCtW29fDwK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063342116085096448"
+          ]
+        },
+        "author_id": "1370559353930051584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Oklahoma",
+              "id": "1010253916540305408",
+              "name": "Oklahoma"
+            }
+          }
+        ],
+        "conversation_id": "2063342120237461968",
+        "created_at": "2026-06-06T19:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063342120237461968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCtW29fDwK",
+              "end": 68,
+              "expanded_url": "https://x.com/littlefoxnev/status/2063342120237461968/photo/1",
+              "media_key": "3_2063342116085096448",
+              "start": 45,
+              "url": "https://t.co/qCtW29fDwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063342120237461968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 66362,
+          "like_count": 2880,
+          "quote_count": 108,
+          "reply_count": 1,
+          "retweet_count": 739
+        },
+        "reply_settings": "following",
+        "text": "HRT just effectively got banned in Oklahoma. https://t.co/qCtW29fDwK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 507,
+          "like_count": 1241,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-13T02:16:40.000Z",
+        "description": "dialectical materialism 🪶",
+        "id": "1370559353930051584",
+        "name": "Nev 🔻",
+        "pinned_tweet_id": "2001569128151421108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000692747758645248/8NmOcbSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 686,
+          "like_count": 8912,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 6636
+        },
+        "username": "littlefoxnev",
+        "verified": false
+      }
+    ]
+  }
+}

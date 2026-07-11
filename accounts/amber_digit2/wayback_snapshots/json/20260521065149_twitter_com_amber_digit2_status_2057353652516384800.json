@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057353652516384800",
+    "created_at": "2026-05-21T06:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057353652516384800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jellyfi7788510…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/jellyfi77885103/status/2057347862602948759",
+          "start": 22,
+          "url": "https://t.co/KkseRTYSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057353652516384800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057347862602948759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总有阻断/重构这种快感的方式 万一成功了呢 https://t.co/KkseRTYSir"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057353652516384800",
+        "created_at": "2026-05-21T06:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057353652516384800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jellyfi7788510…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/jellyfi77885103/status/2057347862602948759",
+              "start": 22,
+              "url": "https://t.co/KkseRTYSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057353652516384800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057347862602948759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总有阻断/重构这种快感的方式 万一成功了呢 https://t.co/KkseRTYSir"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2057347862602948759",
+        "created_at": "2026-05-21T06:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057347862602948759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057347862602948759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才不相信terf是什么“仇恨恨错了对象”。对弱势群体的憎恨和欺凌总是权力的一环，来生产快感，生产主体地位。\n我觉得都只要看看是否在乎生态保护动物权益就够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 407,
+          "like_count": 640,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "为什么世界上有那么多水母\n\n小红书https://t.co/zw3IwFNWyN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2m8xweaDpgX",
+                "end": 40,
+                "expanded_url": "https://xhslink.com/m/2m8xweaDpgX",
+                "start": 17,
+                "url": "https://t.co/zw3IwFNWyN"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "name": "Jellyfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053288389194268672/lIst1La4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 150,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 893
+        },
+        "username": "Jellyfi77885103",
+        "verified": false
+      }
+    ]
+  }
+}

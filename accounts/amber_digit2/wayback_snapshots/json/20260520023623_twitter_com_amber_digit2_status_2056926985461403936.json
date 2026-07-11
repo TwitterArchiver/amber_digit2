@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056889007473361394",
+    "created_at": "2026-05-20T02:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056926985461403936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513410916473192450",
+          "start": 0,
+          "username": "PamphletsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056926985461403936",
+    "in_reply_to_user_id": "1513410916473192450",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056889007473361394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PamphletsY nope fake news"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2056888492425416705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuJL52bEAEtVSa.jpg",
+        "width": 854
+      },
+      {
+        "height": 517,
+        "media_key": "3_2056888936434384896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuJlv6aQAAjiu8.png",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056889007473361394",
+        "created_at": "2026-05-20T02:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056926985461403936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513410916473192450",
+              "start": 0,
+              "username": "PamphletsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056926985461403936",
+        "in_reply_to_user_id": "1513410916473192450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056889007473361394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PamphletsY nope fake news"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056888492425416705",
+            "3_2056888936434384896"
+          ]
+        },
+        "author_id": "1513410916473192450",
+        "conversation_id": "2056889007473361394",
+        "created_at": "2026-05-20T00:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056889007473361394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHvb2u5Vfe",
+              "end": 88,
+              "expanded_url": "https://x.com/PamphletsY/status/2056889007473361394/photo/1",
+              "media_key": "3_2056888492425416705",
+              "start": 65,
+              "url": "https://t.co/sHvb2u5Vfe"
+            },
+            {
+              "display_url": "pic.x.com/sHvb2u5Vfe",
+              "end": 88,
+              "expanded_url": "https://x.com/PamphletsY/status/2056889007473361394/photo/1",
+              "media_key": "3_2056888936434384896",
+              "start": 65,
+              "url": "https://t.co/sHvb2u5Vfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056889007473361394",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 45660,
+          "like_count": 2710,
+          "quote_count": 49,
+          "reply_count": 43,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇨🇳 BREAKING —\n\nChina Introduces New Legal Protections For LGBT. https://t.co/sHvb2u5Vfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 381,
+          "like_count": 496,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-11T06:57:42.000Z",
+        "description": "🚨 ▂▃▅  🇵🇸 Free Palestine  ▅▃▂ 🚨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pamphlets.blog/links",
+                "end": 23,
+                "expanded_url": "http://pamphlets.blog/links",
+                "start": 0,
+                "url": "https://t.co/lsuoWGxDCX"
+              }
+            ]
+          }
+        },
+        "id": "1513410916473192450",
+        "location": "Mexico City",
+        "name": "Pamphlets",
+        "pinned_tweet_id": "2056893120906944646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024000126222823426/iAe0I-3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199082,
+          "following_count": 14505,
+          "like_count": 121460,
+          "listed_count": 1438,
+          "media_count": 35530,
+          "tweet_count": 72749
+        },
+        "url": "https://t.co/lsuoWGxDCX",
+        "username": "PamphletsY",
+        "verified": true
+      }
+    ]
+  }
+}

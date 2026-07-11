@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2052796128446308392",
+    "created_at": "2026-05-08T17:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052796128446308392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "2051644388611088387",
+          "start": 16,
+          "username": "medusozoa_amber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052796128446308392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "防失联你们也关注一下我这个号吧\n@medusozoa_amber"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052796128446308392",
+        "created_at": "2026-05-08T17:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052796128446308392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2051644388611088387",
+              "start": 16,
+              "username": "medusozoa_amber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052796128446308392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "防失联你们也关注一下我这个号吧\n@medusozoa_amber"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "",
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041964308909965312/hKF-bPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 25,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 283
+        },
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T12:46:03.000Z",
+        "description": "",
+        "id": "2051644388611088387",
+        "name": "amber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051644620870725633/S2axOWj3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "medusozoa_amber",
+        "verified": false
+      }
+    ]
+  }
+}

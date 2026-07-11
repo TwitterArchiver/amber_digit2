@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061131779503751169"
+      ],
+      "media_source_tweet_id": [
+        "2061296683309314260"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061337836553453684",
+    "created_at": "2026-06-01T06:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061337836553453684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "918865697639419907",
+          "start": 3,
+          "username": "CanadianPolling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f55is835Kq",
+          "end": 105,
+          "expanded_url": "https://x.com/CanadianPolling/status/2061296683309314260/photo/1",
+          "media_key": "3_2061131779503751169",
+          "start": 82,
+          "url": "https://t.co/f55is835Kq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061337836553453684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061296683309314260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CanadianPolling: It's Pride Month\n\nRetweet to scare a homophobe/transphobe ❤️ https://t.co/f55is835Kq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2061131779503751169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqcbuCXAAEm8jf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061131779503751169"
+          ],
+          "media_source_tweet_id": [
+            "2061296683309314260"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061337836553453684",
+        "created_at": "2026-06-01T06:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061337836553453684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "918865697639419907",
+              "start": 3,
+              "username": "CanadianPolling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f55is835Kq",
+              "end": 105,
+              "expanded_url": "https://x.com/CanadianPolling/status/2061296683309314260/photo/1",
+              "media_key": "3_2061131779503751169",
+              "start": 82,
+              "url": "https://t.co/f55is835Kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061337836553453684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061296683309314260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CanadianPolling: It's Pride Month\n\nRetweet to scare a homophobe/transphobe ❤️ https://t.co/f55is835Kq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061131779503751169"
+          ]
+        },
+        "author_id": "918865697639419907",
+        "conversation_id": "2061296683309314260",
+        "created_at": "2026-06-01T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061296683309314260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f55is835Kq",
+              "end": 84,
+              "expanded_url": "https://x.com/CanadianPolling/status/2061296683309314260/photo/1",
+              "media_key": "3_2061131779503751169",
+              "start": 61,
+              "url": "https://t.co/f55is835Kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061296683309314260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2775,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "It's Pride Month\n\nRetweet to scare a homophobe/transphobe ❤️ https://t.co/f55is835Kq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2061265686127689764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 437,
+          "like_count": 805,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-13T15:47:08.000Z",
+        "description": "Polls, Data, Opinions, Personal Account // Email or DM About Promotions // Support Me: https://t.co/93gDMtcRcH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/polling",
+                "end": 110,
+                "expanded_url": "http://ko-fi.com/polling",
+                "start": 87,
+                "url": "https://t.co/93gDMtcRcH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "canadianpolling.ca",
+                "end": 23,
+                "expanded_url": "https://canadianpolling.ca/",
+                "start": 0,
+                "url": "https://t.co/NLF25Vir0o"
+              }
+            ]
+          }
+        },
+        "id": "918865697639419907",
+        "location": "🇨🇦🏳️‍⚧️🇺🇦",
+        "name": "Polling Canada",
+        "pinned_tweet_id": "1968423458603192680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058977844441567232/IsGEf4ZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104411,
+          "following_count": 803,
+          "like_count": 1793,
+          "listed_count": 679,
+          "media_count": 8134,
+          "tweet_count": 24765
+        },
+        "url": "https://t.co/NLF25Vir0o",
+        "username": "CanadianPolling",
+        "verified": true
+      }
+    ]
+  }
+}

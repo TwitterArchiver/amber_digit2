@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2058053470444196171",
+    "created_at": "2026-05-23T05:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058053470444196171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909405413226803200",
+          "start": 3,
+          "username": "himewarlock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058053470444196171",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 522
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057867331536142764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @himewarlock: this is why the “trans women are male socialized and need to unlearn their misogyny” statement is ridiculous and does not…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2058053470444196171",
+        "created_at": "2026-05-23T05:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058053470444196171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909405413226803200",
+              "start": 3,
+              "username": "himewarlock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058053470444196171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057867331536142764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @himewarlock: this is why the “trans women are male socialized and need to unlearn their misogyny” statement is ridiculous and does not…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909405413226803200",
+        "conversation_id": "2057867331536142764",
+        "created_at": "2026-05-22T16:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057867331536142764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/himewarlock/st…",
+              "end": 258,
+              "expanded_url": "https://twitter.com/himewarlock/status/2057867029814587590",
+              "start": 235,
+              "url": "https://t.co/xJvrhswCs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057867331536142764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 33014,
+          "like_count": 2619,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057867029814587590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is why the “trans women are male socialized and need to unlearn their misogyny” statement is ridiculous and does not resonate with my world view in the slightest. everyone is a misogynist. everyone needs to unlearn their misogyny https://t.co/xJvrhswCs2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝚊𝚖𝚋𝚎𝚛 ଳ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 422,
+          "like_count": 714,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T00:38:29.000Z",
+        "description": "trans-incestofeminist (read 📌 b4 u ask) // female himedanshi // gizzhead // ethical bebop main // hrt 7/9/24 // #sittingmywhiteassdownandlistening",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 112,
+                "tag": "sittingmywhiteassdownandlistening"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "himewarlock.straw.page",
+                "end": 23,
+                "expanded_url": "https://himewarlock.straw.page",
+                "start": 0,
+                "url": "https://t.co/SOkIWm01Co"
+              }
+            ]
+          }
+        },
+        "id": "1909405413226803200",
+        "location": "She/him ⚢ ✡ 21!",
+        "name": "⚓️💣 evilafab400 🦇💼",
+        "pinned_tweet_id": "2023505734718365892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056407318951084032/Ypb3TyNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 661,
+          "like_count": 46667,
+          "listed_count": 6,
+          "media_count": 2461,
+          "tweet_count": 19805
+        },
+        "url": "https://t.co/SOkIWm01Co",
+        "username": "himewarlock",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060967813796540416",
+        "3_2060967723312844800",
+        "3_2060967723308630016",
+        "3_2060967723337969664"
+      ],
+      "media_source_tweet_id": [
+        "2060967856440029591",
+        "2060967856440029591",
+        "2060967856440029591",
+        "2060967856440029591"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062024168242024456",
+    "created_at": "2026-06-03T04:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062024168242024456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698345259661418499",
+          "start": 3,
+          "username": "zyj156383"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWqwDnqwfL",
+          "end": 81,
+          "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+          "media_key": "3_2060967813796540416",
+          "start": 58,
+          "url": "https://t.co/bWqwDnqwfL"
+        },
+        {
+          "display_url": "pic.x.com/bWqwDnqwfL",
+          "end": 81,
+          "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+          "media_key": "3_2060967723312844800",
+          "start": 58,
+          "url": "https://t.co/bWqwDnqwfL"
+        },
+        {
+          "display_url": "pic.x.com/bWqwDnqwfL",
+          "end": 81,
+          "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+          "media_key": "3_2060967723308630016",
+          "start": 58,
+          "url": "https://t.co/bWqwDnqwfL"
+        },
+        {
+          "display_url": "pic.x.com/bWqwDnqwfL",
+          "end": 81,
+          "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+          "media_key": "3_2060967723337969664",
+          "start": 58,
+          "url": "https://t.co/bWqwDnqwfL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062024168242024456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060967856440029591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zyj156383: 关于愈美片冤假错案的一切——不要放弃守护自己的权利 需要帮助的请随时私信我 与你同在 https://t.co/bWqwDnqwfL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2060967813796540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoHTqLbMAAJsR_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2060967723312844800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoHOZGbkAAvEnD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2060967723308630016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoHOZFbQAAuK9n.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2060967723337969664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoHOZMa8AAbMgU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060967813796540416",
+            "3_2060967723312844800",
+            "3_2060967723308630016",
+            "3_2060967723337969664"
+          ],
+          "media_source_tweet_id": [
+            "2060967856440029591",
+            "2060967856440029591",
+            "2060967856440029591",
+            "2060967856440029591"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062024168242024456",
+        "created_at": "2026-06-03T04:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062024168242024456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698345259661418499",
+              "start": 3,
+              "username": "zyj156383"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 81,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967813796540416",
+              "start": 58,
+              "url": "https://t.co/bWqwDnqwfL"
+            },
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 81,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967723312844800",
+              "start": 58,
+              "url": "https://t.co/bWqwDnqwfL"
+            },
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 81,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967723308630016",
+              "start": 58,
+              "url": "https://t.co/bWqwDnqwfL"
+            },
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 81,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967723337969664",
+              "start": 58,
+              "url": "https://t.co/bWqwDnqwfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062024168242024456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060967856440029591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zyj156383: 关于愈美片冤假错案的一切——不要放弃守护自己的权利 需要帮助的请随时私信我 与你同在 https://t.co/bWqwDnqwfL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060967813796540416",
+            "3_2060967723312844800",
+            "3_2060967723308630016",
+            "3_2060967723337969664"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "conversation_id": "2060967856440029591",
+        "created_at": "2026-05-31T06:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060967856440029591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 66,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967813796540416",
+              "start": 43,
+              "url": "https://t.co/bWqwDnqwfL"
+            },
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 66,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967723312844800",
+              "start": 43,
+              "url": "https://t.co/bWqwDnqwfL"
+            },
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 66,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967723308630016",
+              "start": 43,
+              "url": "https://t.co/bWqwDnqwfL"
+            },
+            {
+              "display_url": "pic.x.com/bWqwDnqwfL",
+              "end": 66,
+              "expanded_url": "https://x.com/zyj156383/status/2060967856440029591/photo/1",
+              "media_key": "3_2060967723337969664",
+              "start": 43,
+              "url": "https://t.co/bWqwDnqwfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060967856440029591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 8470,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "关于愈美片冤假错案的一切——不要放弃守护自己的权利 需要帮助的请随时私信我 与你同在 https://t.co/bWqwDnqwfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 475,
+          "like_count": 981,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/bSdjZJqBFw 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 72,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 0,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2061647922320839115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 393,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/bSdjZJqBFw",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

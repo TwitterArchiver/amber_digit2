@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054379303228309621",
+    "created_at": "2026-05-13T01:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054379303228309621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1713057998372020224",
+          "start": 3,
+          "username": "36127z11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054379303228309621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053969480838164553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @36127z11: 我好想活着，我好想死……但是我好想活着，但是我好想死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054379303228309621",
+        "created_at": "2026-05-13T01:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054379303228309621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713057998372020224",
+              "start": 3,
+              "username": "36127z11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054379303228309621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053969480838164553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @36127z11: 我好想活着，我好想死……但是我好想活着，但是我好想死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713057998372020224",
+        "conversation_id": "2053969480838164553",
+        "created_at": "2026-05-11T22:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053969480838164553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053969480838164553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好想活着，我好想死……但是我好想活着，但是我好想死…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "退推，联系我私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 51,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 28,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 77,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 54,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 104,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 81,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 130,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 323
+        },
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T05:04:00.000Z",
+        "description": "【Trigger warrning】彻底匿名化的抑郁情绪分享垢/药手帐、死日志、怪文书和生放送/诚实和敞开/全部内容直接进入公共领域（CC0）/AI training allowed",
+        "id": "1713057998372020224",
+        "name": "明天上课带紫砂泥",
+        "pinned_tweet_id": "1855134017903116370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713058636493414400/Ba9H8N52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 23,
+          "like_count": 1581,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1657
+        },
+        "username": "36127z11",
+        "verified": false
+      }
+    ]
+  }
+}

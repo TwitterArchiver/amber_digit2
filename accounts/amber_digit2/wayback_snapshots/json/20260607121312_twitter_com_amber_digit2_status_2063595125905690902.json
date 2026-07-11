@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063595119320670208"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Make-up and Cosmetics",
+          "id": "855442035314089988",
+          "name": "Makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1351302059350319105",
+          "name": "Makeup tutorial"
+        }
+      }
+    ],
+    "conversation_id": "2063595125905690902",
+    "created_at": "2026-06-07T12:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:08:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063593852548596181",
+      "2063595125905690902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5D4oR00YOf",
+          "end": 297,
+          "expanded_url": "https://x.com/amber_digit2/status/2063595125905690902/photo/1",
+          "media_key": "3_2063595119320670208",
+          "start": 274,
+          "url": "https://t.co/5D4oR00YOf"
+        },
+        {
+          "display_url": "x.com/liulingyue/sta…",
+          "end": 321,
+          "expanded_url": "https://twitter.com/liulingyue/status/2063464117038625037",
+          "start": 298,
+          "url": "https://t.co/N3piENJWe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063595125905690902",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "A group of “6b4t” (chinese 4b movement) radical feminists in china have been attacking a limbless woman who create makeup tutorial videos for a living, accusing her of “appealing to the male gaze” by using her disability to “sexualize herself” and attract “men with special kinks.” Attached is the english translation of the radical feminist’ post."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063464117038625037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "A group of “6b4t” (chinese 4b movement) radical feminists in china have been attacking a limbless woman who create makeup tutorial videos for a living, accusing her of “appealing to the male gaze” by using her disability to “sexualize herself” and attract “men with special https://t.co/5D4oR00YOf https://t.co/N3piENJWe2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2063595119320670208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNc099WoAAArvK.jpg",
+        "width": 1402
+      },
+      {
+        "height": 748,
+        "media_key": "3_2063464101532356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLlquqbUAA166s.jpg",
+        "width": 1033
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2063464096851451904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLlqdOaYAAEUl-.jpg",
+        "width": 758
+      },
+      {
+        "height": 986,
+        "media_key": "3_2063464101595242496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLlqu5a4AAKT3H.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2063464114027151360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLlrdNawAAVLB1.jpg",
+        "width": 469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1351302059350319105",
+              "name": "Makeup tutorial"
+            }
+          }
+        ],
+        "conversation_id": "2063593852548596181",
+        "created_at": "2026-06-07T12:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:08:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063593852548596181",
+          "2063595125905690902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyue/sta…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/liulingyue/status/2063464117038625037",
+              "start": 281,
+              "url": "https://t.co/N3piENJWe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063593852548596181",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063464117038625037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "a group of “6b4t” (chinese 4b movement) radical feminists in china have been harassing a limbless woman who create makeup tutorial videos for a living, accusing her of “appealing to the male gaze” by using her disability to “sexualize herself” and attract “men with special kinks” https://t.co/N3piENJWe2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063595119320670208"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1351302059350319105",
+              "name": "Makeup tutorial"
+            }
+          }
+        ],
+        "conversation_id": "2063595125905690902",
+        "created_at": "2026-06-07T12:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:08:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063593852548596181",
+          "2063595125905690902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D4oR00YOf",
+              "end": 297,
+              "expanded_url": "https://x.com/amber_digit2/status/2063595125905690902/photo/1",
+              "media_key": "3_2063595119320670208",
+              "start": 274,
+              "url": "https://t.co/5D4oR00YOf"
+            },
+            {
+              "display_url": "x.com/liulingyue/sta…",
+              "end": 321,
+              "expanded_url": "https://twitter.com/liulingyue/status/2063464117038625037",
+              "start": 298,
+              "url": "https://t.co/N3piENJWe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063595125905690902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "A group of “6b4t” (chinese 4b movement) radical feminists in china have been attacking a limbless woman who create makeup tutorial videos for a living, accusing her of “appealing to the male gaze” by using her disability to “sexualize herself” and attract “men with special kinks.” Attached is the english translation of the radical feminist’ post."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063464117038625037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "A group of “6b4t” (chinese 4b movement) radical feminists in china have been attacking a limbless woman who create makeup tutorial videos for a living, accusing her of “appealing to the male gaze” by using her disability to “sexualize herself” and attract “men with special https://t.co/5D4oR00YOf https://t.co/N3piENJWe2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063464101532356608",
+            "3_2063464096851451904",
+            "3_2063464101595242496",
+            "3_2063464114027151360"
+          ]
+        },
+        "author_id": "854250925480845312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2063464117038625037",
+        "created_at": "2026-06-07T03:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063464117038625037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXUAdGjzax",
+              "end": 117,
+              "expanded_url": "https://x.com/liulingyue/status/2063464117038625037/photo/1",
+              "media_key": "3_2063464101532356608",
+              "start": 94,
+              "url": "https://t.co/lXUAdGjzax"
+            },
+            {
+              "display_url": "pic.x.com/lXUAdGjzax",
+              "end": 117,
+              "expanded_url": "https://x.com/liulingyue/status/2063464117038625037/photo/1",
+              "media_key": "3_2063464096851451904",
+              "start": 94,
+              "url": "https://t.co/lXUAdGjzax"
+            },
+            {
+              "display_url": "pic.x.com/lXUAdGjzax",
+              "end": 117,
+              "expanded_url": "https://x.com/liulingyue/status/2063464117038625037/photo/1",
+              "media_key": "3_2063464101595242496",
+              "start": 94,
+              "url": "https://t.co/lXUAdGjzax"
+            },
+            {
+              "display_url": "pic.x.com/lXUAdGjzax",
+              "end": 117,
+              "expanded_url": "https://x.com/liulingyue/status/2063464117038625037/photo/1",
+              "media_key": "3_2063464114027151360",
+              "start": 94,
+              "url": "https://t.co/lXUAdGjzax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063464117038625037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1735,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "看到这些算我活到头了。\n红薯上有激女在一位身障博主的美妆视频下面评论说别人没有四肢是噱头，底下还有认同她观点的人说这位博主是在迎合少数群体的xp、媚男，不仅如此，还给人扣自我性化的帽子。 https://t.co/lXUAdGjzax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 507,
+          "like_count": 1241,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 1438,
+          "like_count": 18907,
+          "listed_count": 15,
+          "media_count": 1016,
+          "tweet_count": 9048
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056510485323735040"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056510491082584500",
+    "created_at": "2026-05-18T23:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T00:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056510491082584500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jc6ehyW8CM",
+          "end": 28,
+          "expanded_url": "https://x.com/amber_digit2/status/2056510491082584500/photo/1",
+          "media_key": "3_2056510485323735040",
+          "start": 5,
+          "url": "https://t.co/Jc6ehyW8CM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056510491082584500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "期待一下 https://t.co/Jc6ehyW8CM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2056510485323735040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoxY_qWYAAWSz1.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056510485323735040"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056510491082584500",
+        "created_at": "2026-05-18T23:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056510491082584500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jc6ehyW8CM",
+              "end": 28,
+              "expanded_url": "https://x.com/amber_digit2/status/2056510491082584500/photo/1",
+              "media_key": "3_2056510485323735040",
+              "start": 5,
+              "url": "https://t.co/Jc6ehyW8CM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056510491082584500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期待一下 https://t.co/Jc6ehyW8CM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 324,
+          "like_count": 320,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

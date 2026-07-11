@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054416793591005318",
+    "created_at": "2026-05-13T04:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T05:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054416793591005318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MizukiWorkshop…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/MizukiWorkshop/status/2054364142161502302",
+          "start": 4,
+          "url": "https://t.co/0rdVu4BJSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054416793591005318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054364142161502302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英雌！ https://t.co/0rdVu4BJSB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054416793591005318",
+        "created_at": "2026-05-13T04:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054416793591005318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/2054364142161502302",
+              "start": 4,
+              "url": "https://t.co/0rdVu4BJSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054416793591005318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054364142161502302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英雌！ https://t.co/0rdVu4BJSB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          }
+        ],
+        "conversation_id": "2054364142161502302",
+        "created_at": "2026-05-13T00:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054364142161502302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScottPresler/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ScottPresler/status/2054195899052564954",
+              "start": 6,
+              "url": "https://t.co/IOJAxcTkIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054364142161502302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054195899052564954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小英雄来了 https://t.co/IOJAxcTkIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "❤️ @noaayoyaoaya\n🚪 ¥150/240 ($30/50)\n📣 https://t.co/MKSz5n71Tr\n💬 https://t.co/Mu7nsgG4NQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 62,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 39,
+                "url": "https://t.co/MKSz5n71Tr"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 88,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 65,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 169,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1159,
+          "like_count": 116345,
+          "listed_count": 8,
+          "media_count": 1721,
+          "tweet_count": 23502
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

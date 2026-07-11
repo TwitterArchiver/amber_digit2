@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074416480867713024"
+      ],
+      "media_source_tweet_id": [
+        "2074416565643071703"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074897462628630689",
+    "created_at": "2026-07-08T16:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074897462628630689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341070632201629702",
+          "start": 3,
+          "username": "CDIGODDESS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4AvWmv20Xz",
+          "end": 116,
+          "expanded_url": "https://x.com/CDIGODDESS/status/2074416565643071703/photo/1",
+          "media_key": "3_2074416480867713024",
+          "start": 93,
+          "url": "https://t.co/4AvWmv20Xz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074897462628630689",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 536
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074416565643071703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CDIGODDESS: \"we agree that lesbian is someone who experiences zero attracted to cis men\" https://t.co/4AvWmv20Xz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074416480867713024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnOzHJWAAAzp8g.jpg",
+        "width": 1759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074416480867713024"
+          ],
+          "media_source_tweet_id": [
+            "2074416565643071703"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074897462628630689",
+        "created_at": "2026-07-08T16:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074897462628630689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341070632201629702",
+              "start": 3,
+              "username": "CDIGODDESS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AvWmv20Xz",
+              "end": 116,
+              "expanded_url": "https://x.com/CDIGODDESS/status/2074416565643071703/photo/1",
+              "media_key": "3_2074416480867713024",
+              "start": 93,
+              "url": "https://t.co/4AvWmv20Xz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074897462628630689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074416565643071703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CDIGODDESS: \"we agree that lesbian is someone who experiences zero attracted to cis men\" https://t.co/4AvWmv20Xz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074416480867713024"
+          ]
+        },
+        "author_id": "1341070632201629702",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074416565643071703",
+        "created_at": "2026-07-07T08:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074416565643071703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AvWmv20Xz",
+              "end": 100,
+              "expanded_url": "https://x.com/CDIGODDESS/status/2074416565643071703/photo/1",
+              "media_key": "3_2074416480867713024",
+              "start": 77,
+              "url": "https://t.co/4AvWmv20Xz"
+            },
+            {
+              "display_url": "x.com/L1ly0fth3v4l3y…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/L1ly0fth3v4l3y/status/2074295740617330736",
+              "start": 101,
+              "url": "https://t.co/40E46T1Y19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074416565643071703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2173,
+          "impression_count": 519765,
+          "like_count": 15511,
+          "quote_count": 47,
+          "reply_count": 56,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074295740617330736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"we agree that lesbian is someone who experiences zero attracted to cis men\" https://t.co/4AvWmv20Xz https://t.co/40E46T1Y19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 507,
+          "like_count": 1331,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-21T17:19:01.000Z",
+        "description": "political correspondent for @ladbible",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "ladbible"
+              }
+            ]
+          }
+        },
+        "id": "1341070632201629702",
+        "location": "18+",
+        "name": "the gamette",
+        "pinned_tweet_id": "2061268091393146960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980968631824457728/PMgh296z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10818,
+          "following_count": 936,
+          "like_count": 59668,
+          "listed_count": 23,
+          "media_count": 2505,
+          "tweet_count": 7949
+        },
+        "url": "",
+        "username": "CDIGODDESS",
+        "verified": false
+      }
+    ]
+  }
+}

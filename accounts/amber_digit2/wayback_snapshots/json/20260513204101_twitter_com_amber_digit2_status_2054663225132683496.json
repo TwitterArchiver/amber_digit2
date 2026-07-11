@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054663225132683496",
+    "created_at": "2026-05-13T20:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T21:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054663225132683496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/li665508li/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/li665508li/status/2054210484698816532",
+          "start": 5,
+          "url": "https://t.co/c3qljDh7gK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054663225132683496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054210484698816532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的钱呢 https://t.co/c3qljDh7gK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054663225132683496",
+        "created_at": "2026-05-13T20:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054663225132683496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/li665508li/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/li665508li/status/2054210484698816532",
+              "start": 5,
+              "url": "https://t.co/c3qljDh7gK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054663225132683496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054210484698816532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钱呢 https://t.co/c3qljDh7gK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865705903640698881",
+        "conversation_id": "2054210484698816532",
+        "created_at": "2026-05-12T14:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054210484698816532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054210484698816532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 174525,
+          "like_count": 374,
+          "quote_count": 14,
+          "reply_count": 126,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "都给我去学英语\n\n雅思老师一天居然能赚2000块钱\n\n羡慕死我了….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "❤️ @noaayoyaoaya\n🚪 ¥150/240 ($30/50)\n📣 https://t.co/MKSz5n6u3T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 62,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 39,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 191,
+          "like_count": 92,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T10:32:18.000Z",
+        "description": "美股｜crypto｜增长｜视频号\n\n视频号和增长+V       Yuvi-03 （记得备注）",
+        "id": "1865705903640698881",
+        "name": "Yuvi",
+        "pinned_tweet_id": "2052575344268607839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036027607808905217/RqaWpvw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4576,
+          "following_count": 218,
+          "like_count": 4851,
+          "listed_count": 19,
+          "media_count": 328,
+          "tweet_count": 4816
+        },
+        "username": "Li665508Li",
+        "verified": true
+      }
+    ]
+  }
+}

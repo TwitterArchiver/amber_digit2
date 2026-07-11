@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061295091705368834",
+    "created_at": "2026-06-01T05:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061326054543778210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061326054543778210",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061295091705368834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 因为分数低的那些项目都早就体验过无数次了 所以就不会再恐惧了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061295063234408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsw8FVacAA-zjM.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061295063205126144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsw8FOboAA-1Od.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061295091705368834",
+        "created_at": "2026-06-01T05:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061326054543778210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061326054543778210",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061295091705368834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 因为分数低的那些项目都早就体验过无数次了 所以就不会再恐惧了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061295063234408448",
+            "3_2061295063205126144"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2061295091705368834",
+        "created_at": "2026-06-01T03:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061295091705368834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrsCUVnRp0",
+              "end": 77,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2061295091705368834/photo/1",
+              "media_key": "3_2061295063234408448",
+              "start": 54,
+              "url": "https://t.co/nrsCUVnRp0"
+            },
+            {
+              "display_url": "pic.x.com/nrsCUVnRp0",
+              "end": 77,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2061295091705368834/photo/1",
+              "media_key": "3_2061295063205126144",
+              "start": 54,
+              "url": "https://t.co/nrsCUVnRp0"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2061286092767191363",
+              "start": 78,
+              "url": "https://t.co/6CAxqQvhmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061295091705368834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061286092767191363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是為什麼你們的恐懼這麼少 我有5項的恐懼程度都過半了 難道每天活在持續不斷的恐懼裡是什麼很少見的事嗎，， https://t.co/nrsCUVnRp0 https://t.co/6CAxqQvhmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2061265686127689764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 436,
+          "like_count": 797,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "關於自由我不能夠拒絕，開大音量蓋過那些唏噓。\n戀人：@irisdesombres 。\n我會努力讓祢感到幸福，就像你所為我做的一樣。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2061016689874219299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 146,
+          "like_count": 7720,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 5440
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

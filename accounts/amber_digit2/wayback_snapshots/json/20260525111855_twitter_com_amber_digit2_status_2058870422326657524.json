@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2058745798477631977",
+    "created_at": "2026-05-25T11:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058870422326657524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546075741430751232",
+          "start": 0,
+          "username": "0GaS_Pr0toc0l"
+        },
+        {
+          "end": 24,
+          "id": "1541248951843663873",
+          "start": 15,
+          "username": "Anermoka"
+        },
+        {
+          "end": 41,
+          "id": "2035882965671215104",
+          "start": 25,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 56,
+          "id": "1768487038645678080",
+          "start": 42,
+          "username": "Yamada_Ryoooo"
+        },
+        {
+          "end": 70,
+          "id": "1424779836938022913",
+          "start": 57,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 83,
+          "id": "2040565175514779648",
+          "start": 71,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058870422326657524",
+    "in_reply_to_user_id": "1546075741430751232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058801145741729796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0GaS_Pr0toc0l @Anermoka @amber_medusozoa @Yamada_Ryoooo @amber_toffee @amber_digit 我都看不到了 估计是shadowban"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-25T11:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058870422326657524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546075741430751232",
+              "start": 0,
+              "username": "0GaS_Pr0toc0l"
+            },
+            {
+              "end": 24,
+              "id": "1541248951843663873",
+              "start": 15,
+              "username": "Anermoka"
+            },
+            {
+              "end": 41,
+              "id": "2035882965671215104",
+              "start": 25,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 56,
+              "id": "1768487038645678080",
+              "start": 42,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 70,
+              "id": "1424779836938022913",
+              "start": 57,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 83,
+              "id": "2040565175514779648",
+              "start": 71,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058870422326657524",
+        "in_reply_to_user_id": "1546075741430751232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058801145741729796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0GaS_Pr0toc0l @Anermoka @amber_medusozoa @Yamada_Ryoooo @amber_toffee @amber_digit 我都看不到了 估计是shadowban"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546075741430751232",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-25T06:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058801145741729796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            },
+            {
+              "end": 26,
+              "id": "2035882965671215104",
+              "start": 10,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 41,
+              "id": "1768487038645678080",
+              "start": 27,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 55,
+              "id": "1424779836938022913",
+              "start": 42,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 68,
+              "id": "2040565175514779648",
+              "start": 56,
+              "username": "amber_digit"
+            },
+            {
+              "end": 82,
+              "id": "2041159531657416704",
+              "start": 69,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058801145741729796",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058800834583159168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka @amber_medusozoa @Yamada_Ryoooo @amber_toffee @amber_digit @amber_digit2 哦哦\n你还能看见推文么\n别我被琥珀姐b了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "📢 @amber_medusozoa\n💕 https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 44,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 21,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her◦🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058753649656869282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 424,
+          "like_count": 725,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "🌈 Pansexual | he/them |CN/EN|现在是生活推了，但我会骂所有我看不惯的玩意。二次元/计算机/战雷/猫猫友好",
+        "id": "1546075741430751232",
+        "location": "Jurong West, Singapore",
+        "name": "6Ж1П-ЕВ 🇲🇾🏳️‍⚧️",
+        "pinned_tweet_id": "2055733292327149898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018773427046539264/L2oVMaOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 1752,
+          "like_count": 19619,
+          "listed_count": 11,
+          "media_count": 733,
+          "tweet_count": 14115
+        },
+        "username": "0GaS_Pr0toc0l",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 206,
+          "like_count": 17838,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 600
+        },
+        "username": "Anermoka",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎\n🐍@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3964,
+          "following_count": 856,
+          "like_count": 3748,
+          "listed_count": 9,
+          "media_count": 70,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1012,
+          "like_count": 17597,
+          "listed_count": 24,
+          "media_count": 1789,
+          "tweet_count": 9797
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "🏳️‍⚧️she/her",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 285,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

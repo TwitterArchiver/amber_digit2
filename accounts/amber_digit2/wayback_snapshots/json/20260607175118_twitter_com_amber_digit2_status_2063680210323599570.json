@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062768321829666837",
+    "created_at": "2026-06-07T17:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063680210323599570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714897821537808384",
+          "start": 0,
+          "username": "LimeInvited"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063680210323599570",
+    "in_reply_to_user_id": "1714897821537808384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063474669051867639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LimeInvited 建议你去问她 她看起来比我更享受骂人这件事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062768321829666837",
+        "created_at": "2026-06-07T17:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063680210323599570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714897821537808384",
+              "start": 0,
+              "username": "LimeInvited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063680210323599570",
+        "in_reply_to_user_id": "1714897821537808384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063474669051867639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LimeInvited 建议你去问她 她看起来比我更享受骂人这件事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714897821537808384",
+        "conversation_id": "2062768321829666837",
+        "created_at": "2026-06-07T04:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063474669051867639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063474669051867639",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062768321829666837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 王小檬打个比方说你是肥蛆你就接了 扭过头来装个可怜 王小檬又能再骂你一轮 你俩真不是在互相炒作吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 507,
+          "like_count": 1245,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T06:54:49.000Z",
+        "description": "🏳️‍⚧️ | 经皮蜕却，由音疗愈，仅在受邀时有害 ‖ 太阳和铸炉的火花中诞生了果，而弧月亦受其照耀",
+        "id": "1714897821537808384",
+        "location": "Maywood, CA",
+        "name": "覆皮蒙邀果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024512857304653824/isWCnczY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 79,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 273
+        },
+        "username": "LimeInvited",
+        "verified": false
+      }
+    ]
+  }
+}

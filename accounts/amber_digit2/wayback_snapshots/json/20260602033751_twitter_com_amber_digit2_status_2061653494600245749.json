@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061362741026209793",
+        "3_2061362746906517506"
+      ],
+      "media_source_tweet_id": [
+        "2061372177484771788",
+        "2061372177484771788"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2061653494600245749",
+    "created_at": "2026-06-02T03:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061653494600245749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TU8iHd0hvA",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2061372177484771788/photo/1",
+          "media_key": "3_2061362741026209793",
+          "start": 76,
+          "url": "https://t.co/TU8iHd0hvA"
+        },
+        {
+          "display_url": "pic.x.com/TU8iHd0hvA",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2061372177484771788/photo/1",
+          "media_key": "3_2061362746906517506",
+          "start": 76,
+          "url": "https://t.co/TU8iHd0hvA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061653494600245749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061372177484771788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月28日，国立台北教育大学女厕遭安装针孔摄像机。\n\n次日，国北教大学生在案发厕所外墙发起连侬墙，抗议偷拍事件 https://t.co/TU8iHd0hvA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2061362741026209793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtufcwXwAEeHIc.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3560,
+        "media_key": "3_2061362746906517506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtufyqWIAIZq7X.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061362741026209793",
+            "3_2061362746906517506"
+          ],
+          "media_source_tweet_id": [
+            "2061372177484771788",
+            "2061372177484771788"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2061653494600245749",
+        "created_at": "2026-06-02T03:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061653494600245749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU8iHd0hvA",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061372177484771788/photo/1",
+              "media_key": "3_2061362741026209793",
+              "start": 76,
+              "url": "https://t.co/TU8iHd0hvA"
+            },
+            {
+              "display_url": "pic.x.com/TU8iHd0hvA",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061372177484771788/photo/1",
+              "media_key": "3_2061362746906517506",
+              "start": 76,
+              "url": "https://t.co/TU8iHd0hvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061653494600245749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061372177484771788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月28日，国立台北教育大学女厕遭安装针孔摄像机。\n\n次日，国北教大学生在案发厕所外墙发起连侬墙，抗议偷拍事件 https://t.co/TU8iHd0hvA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061362741026209793",
+            "3_2061362746906517506"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2061372177484771788",
+        "created_at": "2026-06-01T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061372177484771788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU8iHd0hvA",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061372177484771788/photo/1",
+              "media_key": "3_2061362741026209793",
+              "start": 56,
+              "url": "https://t.co/TU8iHd0hvA"
+            },
+            {
+              "display_url": "pic.x.com/TU8iHd0hvA",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061372177484771788/photo/1",
+              "media_key": "3_2061362746906517506",
+              "start": 56,
+              "url": "https://t.co/TU8iHd0hvA"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2060186868373958688",
+              "start": 80,
+              "url": "https://t.co/AnskuJ99Dt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061372177484771788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 181764,
+          "like_count": 937,
+          "quote_count": 2,
+          "reply_count": 185,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060186868373958688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月28日，国立台北教育大学女厕遭安装针孔摄像机。\n\n次日，国北教大学生在案发厕所外墙发起连侬墙，抗议偷拍事件 https://t.co/TU8iHd0hvA https://t.co/AnskuJ99Dt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 43,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 20,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 456,
+          "like_count": 872,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234499,
+          "following_count": 1069,
+          "like_count": 9618,
+          "listed_count": 8777,
+          "media_count": 47770,
+          "tweet_count": 54913
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

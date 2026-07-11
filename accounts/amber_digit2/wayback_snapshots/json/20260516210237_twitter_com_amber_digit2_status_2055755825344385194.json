@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055548205153374208"
+      ],
+      "media_source_tweet_id": [
+        "2055548385181216779"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055755825344385194",
+    "created_at": "2026-05-16T21:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055755825344385194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QhsrsFoIuu",
+          "end": 79,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2055548385181216779/video/1",
+          "media_key": "13_2055548205153374208",
+          "start": 56,
+          "url": "https://t.co/QhsrsFoIuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055755825344385194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看得我好难受，无论是家长本人的精神状态 还是她孩子可能的状态 还是这个视频被构造和预期形成传播的方式，都好痛苦 https://t.co/QhsrsFoIuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 366527,
+        "height": 976,
+        "media_key": "13_2055548205153374208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055548205153374208/img/IW5t0omtOC84gcYP.jpg",
+        "public_metrics": {
+          "view_count": 149436
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055548205153374208/vid/avc1/320x696/XYiEBSmIi7cIet3W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055548205153374208/vid/avc1/448x976/MgVaHCtLsl_Rdknl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055548205153374208/pl/DWMwKRDZyYgzT55L.m3u8?v=cfc"
+          }
+        ],
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055548205153374208"
+          ],
+          "media_source_tweet_id": [
+            "2055548385181216779"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055755825344385194",
+        "created_at": "2026-05-16T21:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055755825344385194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhsrsFoIuu",
+              "end": 79,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2055548385181216779/video/1",
+              "media_key": "13_2055548205153374208",
+              "start": 56,
+              "url": "https://t.co/QhsrsFoIuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055755825344385194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得我好难受，无论是家长本人的精神状态 还是她孩子可能的状态 还是这个视频被构造和预期形成传播的方式，都好痛苦 https://t.co/QhsrsFoIuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 214,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

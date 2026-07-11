@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056895178690986124",
+    "created_at": "2026-05-20T00:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056902133325127750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 46,
+          "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313?s=46",
+          "start": 23,
+          "url": "https://t.co/PV0j33aQDs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056902133325127750",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056739858505138313",
+        "type": "quoted"
+      },
+      {
+        "id": "2056895178690986124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 你发的太慢了\nhttps://t.co/PV0j33aQDs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2056739854206087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABVXsAA_NUi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2056739854201798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABUWQAAgrCw.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2056714522275049472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrq9giXcAAXaL_.jpg",
+        "width": 1087
+      },
+      {
+        "height": 1466,
+        "media_key": "3_2056714535013126144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrq-P_XEAAbmxc.jpg",
+        "width": 2193
+      },
+      {
+        "height": 1471,
+        "media_key": "3_2056714537173217281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrq-YCXcAERIfe.jpg",
+        "width": 1114
+      },
+      {
+        "height": 780,
+        "media_key": "3_2056714541711368192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrq-o8WIAA_Yp0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056895178690986124",
+        "created_at": "2026-05-20T00:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056902133325127750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 46,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313?s=46",
+              "start": 23,
+              "url": "https://t.co/PV0j33aQDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056902133325127750",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "quoted"
+          },
+          {
+            "id": "2056895178690986124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 你发的太慢了\nhttps://t.co/PV0j33aQDs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056739854206087168",
+            "3_2056739854201798656"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T14:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056739858505138313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854206087168",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            },
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854201798656",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056739858505138313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1179,
+          "impression_count": 619451,
+          "like_count": 6498,
+          "quote_count": 244,
+          "reply_count": 99,
+          "retweet_count": 1097
+        },
+        "reply_settings": "everyone",
+        "text": "中国最高人民法院近日发布文件，首次将「性取向、性别认同、性别表达」明确纳入歧视的法律保护范围。\n\n「法院对性少数群体的合法权益予以平等保护，包括不得侮辱与诽谤他人性倾向、性别认同与性别表达，不得就业中基于性倾向、性别认同与性别表达的歧视，保护不同性倾向、性别认同与性别表达的学生。」 https://t.co/TjLK0AuIQU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056714522275049472",
+            "3_2056714535013126144",
+            "3_2056714537173217281",
+            "3_2056714541711368192"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2056895178690986124",
+        "created_at": "2026-05-20T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056895178690986124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZ5yti1CFp",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056895178690986124/photo/1",
+              "media_key": "3_2056714522275049472",
+              "start": 71,
+              "url": "https://t.co/nZ5yti1CFp"
+            },
+            {
+              "display_url": "pic.x.com/nZ5yti1CFp",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056895178690986124/photo/1",
+              "media_key": "3_2056714535013126144",
+              "start": 71,
+              "url": "https://t.co/nZ5yti1CFp"
+            },
+            {
+              "display_url": "pic.x.com/nZ5yti1CFp",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056895178690986124/photo/1",
+              "media_key": "3_2056714537173217281",
+              "start": 71,
+              "url": "https://t.co/nZ5yti1CFp"
+            },
+            {
+              "display_url": "pic.x.com/nZ5yti1CFp",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056895178690986124/photo/1",
+              "media_key": "3_2056714541711368192",
+              "start": 71,
+              "url": "https://t.co/nZ5yti1CFp"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2055974108777877712",
+              "start": 95,
+              "url": "https://t.co/L2cQPeqr6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056895178690986124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "26年5月，一封来自最高人民法院的信访回复，悄悄在中国性少数群体的圈子里传开了。\n\n它来自最高人民法院研究室，落款日期是2026年5月8日。\n\n在信中，最高法不仅对公民提出的“在司法审判中明确禁止基于性取向与性别认同歧视原则”的建议给予了正面回应，更系统梳理了近年来中国法院在性少数群体权益保护上的三大突破。\n\n信中明确表态：任何基于性倾向、性别认同、性别表达的不合理歧视，均为法律所禁止。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12490,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974108777877712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "26年5月，一封来自最高人民法院的信访回复，悄悄在中国性少数群体的圈子里传开了。\n\n它来自最高人民法院研究室，落款日期是2026年5月8日。 https://t.co/nZ5yti1CFp https://t.co/L2cQPeqr6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 372,
+          "like_count": 452,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231026,
+          "following_count": 1059,
+          "like_count": 9578,
+          "listed_count": 8757,
+          "media_count": 47102,
+          "tweet_count": 54224
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

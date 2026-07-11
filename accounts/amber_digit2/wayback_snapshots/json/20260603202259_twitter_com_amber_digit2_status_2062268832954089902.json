@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062254063505351103",
+    "created_at": "2026-06-03T20:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062268832954089902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167640618539147265",
+          "start": 0,
+          "username": "ChibaSaki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062268832954089902",
+    "in_reply_to_user_id": "1167640618539147265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062262765536870706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ChibaSaki2 这个不考虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062254063505351103",
+        "created_at": "2026-06-03T20:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062268832954089902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167640618539147265",
+              "start": 0,
+              "username": "ChibaSaki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062268832954089902",
+        "in_reply_to_user_id": "1167640618539147265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062262765536870706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ChibaSaki2 这个不考虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167640618539147265",
+        "conversation_id": "2062254063505351103",
+        "created_at": "2026-06-03T19:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062262765536870706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062262765536870706",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062254063505351103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 手术填充。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 489,
+          "like_count": 1098,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T03:30:01.000Z",
+        "description": "I am who we used to be. @laurelbbmode",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "laurelbbmode"
+              }
+            ]
+          }
+        },
+        "id": "1167640618539147265",
+        "location": "University, Toronto",
+        "name": "(Saki）&（履霜）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761786056087666688/fOBPiQdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 202,
+          "like_count": 6075,
+          "listed_count": 7,
+          "media_count": 277,
+          "tweet_count": 1041
+        },
+        "username": "ChibaSaki2",
+        "verified": true
+      }
+    ]
+  }
+}

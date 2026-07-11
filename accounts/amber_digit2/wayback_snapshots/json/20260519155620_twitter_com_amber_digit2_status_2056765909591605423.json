@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056765858249129984"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056765909591605423",
+    "created_at": "2026-05-19T15:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056765909591605423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1362497240682483716",
+          "start": 12,
+          "username": "ZhaoXi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DLoYicDqwm",
+          "end": 44,
+          "expanded_url": "https://x.com/amber_digit2/status/2056765909591605423/video/1",
+          "media_key": "13_2056765858249129984",
+          "start": 21,
+          "url": "https://t.co/DLoYicDqwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056765909591605423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一个小吊灯\n🏠📷🪢 @ZhaoXi_ https://t.co/DLoYicDqwm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2900,
+        "height": 1440,
+        "media_key": "13_2056765858249129984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056765858249129984/img/qzrwQ3-ZyQSbdbPw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056765858249129984/pl/9oLPY4FX2TI-q0_H.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056765858249129984/vid/avc1/1920x1440/RKOAbu9_P3k1w9ot.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056765858249129984/vid/avc1/960x720/ojAtfp8Q_-4Gbxml.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056765858249129984/vid/avc1/480x360/3z692NMvx59NXsjv.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056765858249129984/vid/avc1/360x270/kwLyCSFO5-zlLaTW.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056765858249129984"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056765909591605423",
+        "created_at": "2026-05-19T15:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056765909591605423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1362497240682483716",
+              "start": 12,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLoYicDqwm",
+              "end": 44,
+              "expanded_url": "https://x.com/amber_digit2/status/2056765909591605423/video/1",
+              "media_key": "13_2056765858249129984",
+              "start": 21,
+              "url": "https://t.co/DLoYicDqwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056765909591605423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个小吊灯\n🏠📷🪢 @ZhaoXi_ https://t.co/DLoYicDqwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 343,
+          "like_count": 399,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48670,
+          "following_count": 366,
+          "like_count": 3312,
+          "listed_count": 84,
+          "media_count": 310,
+          "tweet_count": 3337
+        },
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

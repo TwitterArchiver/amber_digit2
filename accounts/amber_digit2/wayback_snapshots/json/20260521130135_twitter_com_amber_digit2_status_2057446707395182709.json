@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057127382004453409",
+    "created_at": "2026-05-21T13:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057446707395182709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005831710030905344",
+          "start": 0,
+          "username": "rei_quq"
+        },
+        {
+          "end": 20,
+          "id": "1757616332240224256",
+          "start": 9,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057446707395182709",
+    "in_reply_to_user_id": "2005831710030905344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057195608327295452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_quq @B_cat38324 是的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057127382004453409",
+        "created_at": "2026-05-21T13:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057446707395182709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005831710030905344",
+              "start": 0,
+              "username": "rei_quq"
+            },
+            {
+              "end": 20,
+              "id": "1757616332240224256",
+              "start": 9,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057446707395182709",
+        "in_reply_to_user_id": "2005831710030905344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057195608327295452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_quq @B_cat38324 是的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005831710030905344",
+        "conversation_id": "2057127382004453409",
+        "created_at": "2026-05-20T20:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057195608327295452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 25,
+              "id": "1757616332240224256",
+              "start": 14,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057195608327295452",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057127975351361846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @B_cat38324 是不是也是 浅尝辄止就会觉得肚子有东西不舒服？然后继续吃不舒服会消失 但是肯定之后会吐了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 408,
+          "like_count": 645,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T02:42:14.000Z",
+        "description": "Im ok.",
+        "id": "2005831710030905344",
+        "location": "Manhattan, NY",
+        "name": "rei💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049885873848655873/hxZEfx7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 14,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 147
+        },
+        "username": "rei_quq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22900,
+          "following_count": 200,
+          "like_count": 715,
+          "listed_count": 73,
+          "media_count": 103,
+          "tweet_count": 23505
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

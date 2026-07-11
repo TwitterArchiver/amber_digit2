@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056523417470546303",
+    "created_at": "2026-05-18T23:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T00:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056524508954009794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055932802911424513",
+          "start": 0,
+          "username": "AlexMengfei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056524508954009794",
+    "in_reply_to_user_id": "2055932802911424513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056523417470546303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexMengfei 因为这位家里就是地主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056523417470546303",
+        "created_at": "2026-05-18T23:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056524508954009794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055932802911424513",
+              "start": 0,
+              "username": "AlexMengfei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056524508954009794",
+        "in_reply_to_user_id": "2055932802911424513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056523417470546303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexMengfei 因为这位家里就是地主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055932802911424513",
+        "conversation_id": "2056523417470546303",
+        "created_at": "2026-05-18T23:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056523417470546303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y93182387/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/y93182387/status/2056229289545093250",
+              "start": 23,
+              "url": "https://t.co/suQMuSzjhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056523417470546303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056229289545093250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在推特上什么人都能遇到，包括给地主招魂的人。 https://t.co/suQMuSzjhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 326,
+          "like_count": 328,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T08:48:38.000Z",
+        "description": "大号@Alex_mengfei\n跨性别女性\nshe/her/they",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Alex_mengfei"
+              }
+            ]
+          }
+        },
+        "id": "2055932802911424513",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055933702153355264/dg0hK78L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "AlexMengfei",
+        "verified": false
+      }
+    ]
+  }
+}

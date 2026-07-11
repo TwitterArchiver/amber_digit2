@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061122388662632868",
+    "created_at": "2026-05-31T16:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061122388662632868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1325353249008877569",
+          "start": 3,
+          "username": "polen_ball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061122388662632868",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060980280224358831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polen_ball: I've been meaning to talk about the racism problem in china for a while. I would go as far to say most people in China woul…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061122388662632868",
+        "created_at": "2026-05-31T16:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061122388662632868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1325353249008877569",
+              "start": 3,
+              "username": "polen_ball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061122388662632868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060980280224358831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polen_ball: I've been meaning to talk about the racism problem in china for a while. I would go as far to say most people in China woul…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325353249008877569",
+        "conversation_id": "2060980280224358831",
+        "created_at": "2026-05-31T07:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060980280224358831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k0knut/status/…",
+              "end": 288,
+              "expanded_url": "https://twitter.com/k0knut/status/2060638926633922627",
+              "start": 265,
+              "url": "https://t.co/PQNgn7Eoq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060980280224358831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1476,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060638926633922627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I've been meaning to talk about the racism problem in china for a while. I would go as far to say most people in China would be considered racist in the US, people genuinely don't see Indians or black people as human. If you don't believe me search \"黑人\" on rednote https://t.co/PQNgn7Eoq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 426,
+          "like_count": 735,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-08T08:23:47.000Z",
+        "description": "🥞💺🚩 ‣ FEMINISM • LGBTQ RIGHTS • ANTI-IMPERIALISM🔻🇵🇸🇺🇦🇸🇩🇨🇩 ⦿ #yuritwt #musictwt — i hate campists, nationalists & chuds 🚫\nfollow ≠ endorse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "yuritwt"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "musictwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polenball.straw.page",
+                "end": 23,
+                "expanded_url": "http://polenball.straw.page",
+                "start": 0,
+                "url": "https://t.co/CG10WXFFSw"
+              }
+            ]
+          }
+        },
+        "id": "1325353249008877569",
+        "location": "伟大的祖国📍🇨🇳 土澳🇦🇺 ",
+        "name": "polen",
+        "pinned_tweet_id": "2033480911128498314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258375406620672/yBUuOb7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1133,
+          "like_count": 48211,
+          "listed_count": 17,
+          "media_count": 696,
+          "tweet_count": 13543
+        },
+        "url": "https://t.co/CG10WXFFSw",
+        "username": "polen_ball",
+        "verified": false
+      }
+    ]
+  }
+}

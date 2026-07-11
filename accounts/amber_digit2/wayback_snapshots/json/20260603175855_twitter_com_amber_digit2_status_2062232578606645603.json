@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061757784006295552"
+      ],
+      "media_source_tweet_id": [
+        "2061953509705339111"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062232578606645603",
+    "created_at": "2026-06-03T17:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062232578606645603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6of3DKUgNZ",
+          "end": 68,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2061953509705339111/photo/1",
+          "media_key": "3_2061757784006295552",
+          "start": 45,
+          "url": "https://t.co/6of3DKUgNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062232578606645603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061953509705339111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 经济学人：中国的外卖小哥是最明显的社会底层群体… https://t.co/6of3DKUgNZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2061757784006295552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzVx-iXgAAmYMX.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061757784006295552"
+          ],
+          "media_source_tweet_id": [
+            "2061953509705339111"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062232578606645603",
+        "created_at": "2026-06-03T17:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062232578606645603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6of3DKUgNZ",
+              "end": 68,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061953509705339111/photo/1",
+              "media_key": "3_2061757784006295552",
+              "start": 45,
+              "url": "https://t.co/6of3DKUgNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062232578606645603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061953509705339111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 经济学人：中国的外卖小哥是最明显的社会底层群体… https://t.co/6of3DKUgNZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061757784006295552"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2061953509705339111",
+        "created_at": "2026-06-02T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061953509705339111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6of3DKUgNZ",
+              "end": 47,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061953509705339111/photo/1",
+              "media_key": "3_2061757784006295552",
+              "start": 24,
+              "url": "https://t.co/6of3DKUgNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061953509705339111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经济学人：中国的外卖小哥是最明显的社会底层群体\n\n6月1日，《经济学人》“茶馆”栏目刊文关注中国外卖和同城配送骑手的生存处境。文章称，记者在北京北部通勤聚居区于辛庄采访了多名配送骑手。于辛庄也是近期一部纪录片《2026中国外卖骑手生存报告》的拍摄地之一，该片记录了外卖骑手在北京街头工作、以及在城郊狭小出租屋中生活的情况。\n\n文章中，一名淘宝闪购骑手吴先生表示，过去每单配送能赚7元，现在降到4元。他称，由于经济放缓后大量人进入零工市场，收入被进一步压低，扣除吃饭和住房开支后“几乎剩不下什么”。另一名身穿闪送蓝色制服的配送员关先生则说，每天早上醒来，首先想的不是安全，而是能不能挣够钱。他提到，自己白天收入低于目标后，仍准备继续工作到午夜以后。\n\n文章称，很多骑手每天工作时间可长达14小时，几乎没有休息。由于迟到会影响收入，他们在路上不得不不断赶时间，交通事故也较常见。文中提到，一些调查显示，约三分之一骑手曾在工作中受伤，但只有约五分之一拥有工伤保险。多数骑手通过第三方用工公司承接平台订单，这使大型平台可以减少对医疗保险、养老金和工伤保障的责任。\n\n文章还提到，纪录片《2026中国外卖骑手生存报告》上线几天后，被发布它的新闻网站撤下。文章未能确认撤下原因是官方审查还是企业压力，但称这一举动反而让该片受到更多关注，随后出现在YouTube并被更多观众看到。该片和《经济学人》的采访都显示，外卖骑手虽然已经成为城市日常运转不可缺少的一部分，却仍处在高强度、低保障、缺少谈判能力的位置。\n\n《经济学人》还指出，中国政府在2021年曾出台过保护外卖骑手的相关规则，包括最低工资保障、要求平台改进派单算法等。2026年4月，中共中央也发布了面向零工劳动者的新劳动规则，配送骑手也包含在内。但文章认为，过去的规则执行不足，平台违规缺少有效惩罚，新规则是否能真正改善骑手处境仍有待观察。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 156779,
+          "like_count": 1011,
+          "quote_count": 8,
+          "reply_count": 161,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "经济学人：中国的外卖小哥是最明显的社会底层群体 https://t.co/6of3DKUgNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 487,
+          "like_count": 1067,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234862,
+          "following_count": 1068,
+          "like_count": 9628,
+          "listed_count": 8783,
+          "media_count": 47858,
+          "tweet_count": 55004
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

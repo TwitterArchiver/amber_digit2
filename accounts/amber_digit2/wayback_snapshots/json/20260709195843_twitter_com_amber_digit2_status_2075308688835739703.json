@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2075308688835739703",
+    "created_at": "2026-07-09T19:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075308688835739703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887069376031182848",
+          "start": 3,
+          "username": "Mirro_zinuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075308688835739703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075111686667718781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mirro_zinuo: 接受了 BBC 中文的採訪，聊陳土豆爭議背後真正的問題。\n\n我不想造成對任何人的身分暴力，而是希望背後真正的系統問題被看到——台灣的進步平權進不去中國，中國的敘事卻能自由進入台灣——這樣的「單向閥」系統是我認為最危險的結構性信號。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2075308688835739703",
+        "created_at": "2026-07-09T19:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075308688835739703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887069376031182848",
+              "start": 3,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075308688835739703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075111686667718781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mirro_zinuo: 接受了 BBC 中文的採訪，聊陳土豆爭議背後真正的問題。\n\n我不想造成對任何人的身分暴力，而是希望背後真正的系統問題被看到——台灣的進步平權進不去中國，中國的敘事卻能自由進入台灣——這樣的「單向閥」系統是我認為最危險的結構性信號。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887069376031182848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2075111686667718781",
+        "created_at": "2026-07-09T06:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075111686667718781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075111686667718781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/artic…",
+                "end": 221,
+                "expanded_url": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad",
+                "start": 198,
+                "url": "https://t.co/sZ5qbUJpGG"
+              }
+            ]
+          },
+          "text": "接受了 BBC 中文的採訪，聊陳土豆爭議背後真正的問題。\n\n我不想造成對任何人的身分暴力，而是希望背後真正的系統問題被看到——台灣的進步平權進不去中國，中國的敘事卻能自由進入台灣——這樣的「單向閥」系統是我認為最危險的結構性信號。\n\n報導裡台灣受訪者說，看到她以為「中國對性少數已經沒什麼問題」——這正是我最擔心的錯覺，也是我接受採訪的原因。\n\n很開心能與BBC中文的記者共同完成這次報導，全文：https://t.co/sZ5qbUJpGG"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "接受了 BBC 中文的採訪，聊陳土豆爭議背後真正的問題。\n\n我不想造成對任何人的身分暴力，而是希望背後真正的系統問題被看到——台灣的進步平權進不去中國，中國的敘事卻能自由進入台灣——這樣的「單向閥」系統是我認為最危險的結構性信號。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2993,
+          "following_count": 507,
+          "like_count": 1334,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@KamabokoNGO",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 218,
+          "like_count": 5018,
+          "listed_count": 10,
+          "media_count": 279,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

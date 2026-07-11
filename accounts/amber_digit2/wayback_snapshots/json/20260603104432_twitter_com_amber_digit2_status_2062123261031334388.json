@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062123261031334388",
+    "created_at": "2026-06-03T10:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062123261031334388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xe1_n0n/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xe1_n0n/status/2062104989338869896",
+          "start": 9,
+          "url": "https://t.co/RgkvPU2Lxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062123261031334388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062104989338869896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "时代变了啊（感慨 https://t.co/RgkvPU2Lxr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062123261031334388",
+        "created_at": "2026-06-03T10:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062123261031334388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xe1_n0n/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xe1_n0n/status/2062104989338869896",
+              "start": 9,
+              "url": "https://t.co/RgkvPU2Lxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062123261031334388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062104989338869896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "时代变了啊（感慨 https://t.co/RgkvPU2Lxr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "2062104989338869896",
+        "created_at": "2026-06-03T09:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062104989338869896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062104989338869896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉现在好些低龄跨（15岁及以下，没中考的）的心理和行为确实是很有意思啊，值得好好研究下。我也是低龄跨时候过来的，10岁刷药娘吧，12岁吃补佳乐，初二初三时候进了跨圈。但是我那会是完全不像现在的孩子一样啊，我就不理解她们想干嘛？就是偷饮料这种我八辈子也做不出来啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 476,
+          "like_count": 1002,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "A Chemistry Geek",
+        "id": "1567061441152450560",
+        "location": "CN",
+        "name": "Kenzaki_Kazuma🍥",
+        "pinned_tweet_id": "1834084114460189092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869176809121808384/wgakVqI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 715,
+          "like_count": 663,
+          "listed_count": 4,
+          "media_count": 139,
+          "tweet_count": 2004
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      }
+    ]
+  }
+}

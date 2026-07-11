@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055533642105962496"
+      ],
+      "media_source_tweet_id": [
+        "2055533644689621118"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2055756800297730125",
+    "created_at": "2026-05-16T21:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055756800297730125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055409619967631360",
+          "start": 3,
+          "username": "amber_urania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyYpvdVUVk",
+          "end": 41,
+          "expanded_url": "https://x.com/amber_urania/status/2055533644689621118/photo/1",
+          "media_key": "3_2055533642105962496",
+          "start": 18,
+          "url": "https://t.co/HyYpvdVUVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055756800297730125",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055533644689621118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_urania: https://t.co/HyYpvdVUVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_2055533642105962496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa49PGXQAAGLBc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055533642105962496"
+          ],
+          "media_source_tweet_id": [
+            "2055533644689621118"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2055756800297730125",
+        "created_at": "2026-05-16T21:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055756800297730125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055409619967631360",
+              "start": 3,
+              "username": "amber_urania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyYpvdVUVk",
+              "end": 41,
+              "expanded_url": "https://x.com/amber_urania/status/2055533644689621118/photo/1",
+              "media_key": "3_2055533642105962496",
+              "start": 18,
+              "url": "https://t.co/HyYpvdVUVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055756800297730125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055533644689621118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_urania: https://t.co/HyYpvdVUVk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055533642105962496"
+          ]
+        },
+        "author_id": "2055409619967631360",
+        "conversation_id": "2055533644689621118",
+        "created_at": "2026-05-16T06:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055533644689621118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyYpvdVUVk",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_urania/status/2055533644689621118/photo/1",
+              "media_key": "3_2055533642105962496",
+              "start": 0,
+              "url": "https://t.co/HyYpvdVUVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055533644689621118",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HyYpvdVUVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 215,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T22:09:02.000Z",
+        "description": "",
+        "id": "2055409619967631360",
+        "name": "amber",
+        "pinned_tweet_id": "2055506038745440279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055511869360607232/4YEHNTlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 37,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 16
+        },
+        "username": "amber_urania",
+        "verified": false
+      }
+    ]
+  }
+}

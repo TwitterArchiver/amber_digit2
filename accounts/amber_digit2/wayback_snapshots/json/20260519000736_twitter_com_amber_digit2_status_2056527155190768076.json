@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056527155190768076",
+    "created_at": "2026-05-19T00:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056527155190768076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "777127645356101632",
+          "start": 3,
+          "username": "ekappaz"
+        },
+        {
+          "end": 24,
+          "id": "1325353249008877569",
+          "start": 13,
+          "username": "polen_ball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056527155190768076",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056418171003748618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ekappaz: @polen_ball it's biopolitical control over sexuality and what they deem degeneracy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056527155190768076",
+        "created_at": "2026-05-19T00:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056527155190768076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "777127645356101632",
+              "start": 3,
+              "username": "ekappaz"
+            },
+            {
+              "end": 24,
+              "id": "1325353249008877569",
+              "start": 13,
+              "username": "polen_ball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056527155190768076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056418171003748618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ekappaz: @polen_ball it's biopolitical control over sexuality and what they deem degeneracy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "777127645356101632",
+        "conversation_id": "2056410084104933499",
+        "created_at": "2026-05-18T16:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056418171003748618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1325353249008877569",
+              "start": 0,
+              "username": "polen_ball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056418171003748618",
+        "in_reply_to_user_id": "1325353249008877569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056410084104933499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polen_ball it's biopolitical control over sexuality and what they deem degeneracy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 326,
+          "like_count": 330,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-17T12:50:43.000Z",
+        "description": "| pan aro-acesian\n| Chinese Girltwink\n| 三八 二五 22\n| Radical anti-reactionary\n| Brooklyn\n| Doom & Sludge 🖤\n| MLs Campists fuck off\n| 國破山河在 城春草木深 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pronouns.page/u/ekappaz",
+                "end": 23,
+                "expanded_url": "https://pronouns.page/u/ekappaz",
+                "start": 0,
+                "url": "https://t.co/kAXHaQjeb4"
+              }
+            ]
+          }
+        },
+        "id": "777127645356101632",
+        "location": "Any pronouns",
+        "name": "river child",
+        "pinned_tweet_id": "2047249867404136935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925345367832358913/GXvCfZHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1593,
+          "like_count": 402081,
+          "listed_count": 1,
+          "media_count": 2062,
+          "tweet_count": 51500
+        },
+        "url": "https://t.co/kAXHaQjeb4",
+        "username": "ekappaz",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-08T08:23:47.000Z",
+        "description": "🥞💺🚩 ‣ FEMINISM • LGBTQ RIGHTS • ANTI-IMPERIALISM🔻🇵🇸🇺🇦🇸🇩🇨🇩 ⦿ #yuritwt #musictwt — i hate campists, nationalists & chuds 🚫\nfollow ≠ endorse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "yuritwt"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "musictwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polenball.straw.page",
+                "end": 23,
+                "expanded_url": "http://polenball.straw.page",
+                "start": 0,
+                "url": "https://t.co/CG10WXFFSw"
+              }
+            ]
+          }
+        },
+        "id": "1325353249008877569",
+        "location": "伟大的祖国📍🇨🇳 土澳🇦🇺 ",
+        "name": "polen",
+        "pinned_tweet_id": "2033480911128498314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258375406620672/yBUuOb7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 966,
+          "like_count": 44027,
+          "listed_count": 15,
+          "media_count": 657,
+          "tweet_count": 12493
+        },
+        "url": "https://t.co/CG10WXFFSw",
+        "username": "polen_ball",
+        "verified": false
+      }
+    ]
+  }
+}

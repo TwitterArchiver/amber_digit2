@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061218090088853532",
+    "created_at": "2026-06-01T06:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061327073616998855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "Cassiuskassik"
+        },
+        {
+          "end": 29,
+          "id": "1378376814389694468",
+          "start": 15,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061327073616998855",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061317144395268339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cassiuskassik @McFlurry_2001 那你还不是照样在转发炒作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061218090088853532",
+        "created_at": "2026-06-01T06:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061327073616998855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "Cassiuskassik"
+            },
+            {
+              "end": 29,
+              "id": "1378376814389694468",
+              "start": 15,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061327073616998855",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061317144395268339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassiuskassik @McFlurry_2001 那你还不是照样在转发炒作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "2061218090088853532",
+        "created_at": "2026-06-01T05:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061317144395268339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061317144395268339",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061316769109995596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_2001 或许应该mute，我后悔了，本来只觉得她有点偏执，现在我承认这是纯弱智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2061265686127689764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 436,
+          "like_count": 799,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "高敏感人群，无力，more negative emotion",
+        "id": "1624393872037265413",
+        "name": "东半球酒水研究部及ssri药物试验者",
+        "pinned_tweet_id": "2061192161622958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 840,
+          "like_count": 12796,
+          "listed_count": 3,
+          "media_count": 2717,
+          "tweet_count": 17678
+        },
+        "username": "Cassiuskassik",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "速水奏担当",
+        "id": "1378376814389694468",
+        "name": "萨莉亚焗蜗牛配红酒",
+        "pinned_tweet_id": "2050730304349024739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060397944516558848/E11yQBYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 7293,
+          "like_count": 161953,
+          "listed_count": 3,
+          "media_count": 933,
+          "tweet_count": 27433
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056368080935420337",
+    "created_at": "2026-05-18T13:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056370669470859301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406049068548169729",
+          "start": 0,
+          "username": "AetherKyalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056370669470859301",
+    "in_reply_to_user_id": "1406049068548169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056368080935420337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AetherKyalo 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056368080935420337",
+        "created_at": "2026-05-18T13:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056370669470859301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406049068548169729",
+              "start": 0,
+              "username": "AetherKyalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056370669470859301",
+        "in_reply_to_user_id": "1406049068548169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056368080935420337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AetherKyalo 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406049068548169729",
+        "conversation_id": "2056368080935420337",
+        "created_at": "2026-05-18T13:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056368080935420337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056368080935420337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "23岁了，祝我生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 301,
+          "like_count": 255,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-19T00:40:07.000Z",
+        "description": "03年｜惠灵顿维多利亚大学｜Bachelor of Art｜从极权国家走出的革命者｜Gay🏳️‍🌈 Furry🦊 Neurodiversity🧠｜无政府共产主义者，社会主义人本主义者，黑格尔马克思主义者 & 文化女性主义者 | 规则改变将结局撼动，就是我们——这世界的英雄 | 中文，English 🆗|",
+        "id": "1406049068548169729",
+        "location": "Wellington City, New Zealand",
+        "name": "Kyalo 凯犽洛🏳️‍🌈🏳️‍⚧️🇵🇸🇺🇦",
+        "pinned_tweet_id": "1840547733717074257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880945817273397249/vevg9eel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 732,
+          "like_count": 1027,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 9383
+        },
+        "username": "AetherKyalo",
+        "verified": true
+      }
+    ]
+  }
+}

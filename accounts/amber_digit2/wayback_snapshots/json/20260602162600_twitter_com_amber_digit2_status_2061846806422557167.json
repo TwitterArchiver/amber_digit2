@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061816430774063198",
+    "created_at": "2026-06-02T16:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061846806422557167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286250636502339584",
+          "start": 0,
+          "username": "LemPackageMain1"
+        },
+        {
+          "end": 28,
+          "id": "1462419807173677059",
+          "start": 17,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061846806422557167",
+    "in_reply_to_user_id": "1286250636502339584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061846262518014074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemPackageMain1 @Jane_S_Eye 没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061816430774063198",
+        "created_at": "2026-06-02T16:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061846806422557167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286250636502339584",
+              "start": 0,
+              "username": "LemPackageMain1"
+            },
+            {
+              "end": 28,
+              "id": "1462419807173677059",
+              "start": 17,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061846806422557167",
+        "in_reply_to_user_id": "1286250636502339584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061846262518014074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemPackageMain1 @Jane_S_Eye 没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286250636502339584",
+        "conversation_id": "2061816430774063198",
+        "created_at": "2026-06-02T16:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061846262518014074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 25,
+              "id": "1462419807173677059",
+              "start": 14,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061846262518014074",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061816754741952963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @Jane_S_Eye 发了什么👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 468,
+          "like_count": 918,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:43:54.000Z",
+        "description": "Main包是人类，有时候可能会出错",
+        "id": "1286250636502339584",
+        "location": "Sonderland",
+        "name": "柠檬味的maiN包🍥（转生版）",
+        "pinned_tweet_id": "2049543128743580107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049543290421460992/TKEOg4Dw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 170,
+          "like_count": 21307,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 3887
+        },
+        "username": "LemPackageMain1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "Freedom just another word for nothing left to lose",
+        "id": "1462419807173677059",
+        "location": "she/her",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048460587198513152/NeLXQTKX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11097,
+          "following_count": 3150,
+          "like_count": 13098,
+          "listed_count": 18,
+          "media_count": 467,
+          "tweet_count": 8342
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

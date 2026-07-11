@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2057947662360404178",
+    "created_at": "2026-05-22T22:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T23:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057947662360404178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/polen_ball/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/polen_ball/status/2057887854379082143",
+          "start": 57,
+          "url": "https://t.co/1WBWBWEzDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057947662360404178",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057887854379082143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "chinese trans twitter is the only gem in chinese twitter https://t.co/1WBWBWEzDZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2057947662360404178",
+        "created_at": "2026-05-22T22:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057947662360404178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/polen_ball/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/polen_ball/status/2057887854379082143",
+              "start": 57,
+              "url": "https://t.co/1WBWBWEzDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057947662360404178",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057887854379082143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "chinese trans twitter is the only gem in chinese twitter https://t.co/1WBWBWEzDZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325353249008877569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2057887854379082143",
+        "created_at": "2026-05-22T18:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057887854379082143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057887854379082143",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 814,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Ykw, as much as I complain about English twitter I do think in general its a nicer place than east asian twitter. Chinese twitter is HORRENDOUS and full of bots, Japanese twitter is only slightly better, and the rest I can't speak for but I assume it's bad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 411,
+          "like_count": 684,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-08T08:23:47.000Z",
+        "description": "🥞💺🚩 ‣ FEMINISM • LGBTQ RIGHTS • ANTI-IMPERIALISM🔻🇵🇸🇺🇦🇸🇩🇨🇩 ⦿ #yuritwt #musictwt — i hate campists, nationalists & chuds 🚫\nfollow ≠ endorse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "yuritwt"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "musictwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polenball.straw.page",
+                "end": 23,
+                "expanded_url": "http://polenball.straw.page",
+                "start": 0,
+                "url": "https://t.co/CG10WXFFSw"
+              }
+            ]
+          }
+        },
+        "id": "1325353249008877569",
+        "location": "伟大的祖国📍🇨🇳 土澳🇦🇺 ",
+        "name": "polen",
+        "pinned_tweet_id": "2033480911128498314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258375406620672/yBUuOb7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 986,
+          "like_count": 44760,
+          "listed_count": 14,
+          "media_count": 666,
+          "tweet_count": 12751
+        },
+        "url": "https://t.co/CG10WXFFSw",
+        "username": "polen_ball",
+        "verified": false
+      }
+    ]
+  }
+}

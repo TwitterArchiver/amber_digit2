@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2049466510817599726",
+    "created_at": "2026-05-08T16:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052783235256430679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1673115864130781186",
+          "start": 0,
+          "username": "Mitsumi_Mizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052783235256430679",
+    "in_reply_to_user_id": "1673115864130781186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052770616118219029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mitsumi_Mizuki 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2049466510817599726",
+        "created_at": "2026-05-08T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052783235256430679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1673115864130781186",
+              "start": 0,
+              "username": "Mitsumi_Mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052783235256430679",
+        "in_reply_to_user_id": "1673115864130781186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052770616118219029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mitsumi_Mizuki 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673115864130781186",
+        "conversation_id": "2049466510817599726",
+        "created_at": "2026-05-08T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052770616118219029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052770616118219029",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049466510817599726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 戳戳amber...\n\namber_digit也被封了吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "",
+        "id": "2041159531657416704",
+        "name": "amber.nova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041964308909965312/hKF-bPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 277
+        },
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T23:48:38.000Z",
+        "description": "🎐 bread and rose.  🟨⬜️🟪⬛️",
+        "id": "1673115864130781186",
+        "location": "Sacramento, CA",
+        "name": "鬼楽坂 猫猫鱼 🍋‍🟩🐬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953130534655160322/JS7zNLl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 140,
+          "like_count": 8670,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 790
+        },
+        "username": "Mitsumi_Mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

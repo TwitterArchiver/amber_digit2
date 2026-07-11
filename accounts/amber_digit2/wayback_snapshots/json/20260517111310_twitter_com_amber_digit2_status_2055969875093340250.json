@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Stanford University",
+          "id": "10047480138",
+          "name": "Stanford University"
+        }
+      }
+    ],
+    "conversation_id": "2055969875093340250",
+    "created_at": "2026-05-17T11:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055969875093340250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/polymarket/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/polymarket/status/2055676081290498427",
+          "start": 31,
+          "url": "https://t.co/5tegeOxD1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055969875093340250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055676081290498427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "斯坦福大学的研究人员发现过度工作的AI开始支持马克思主义观点 https://t.co/5tegeOxD1X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Stanford University",
+              "id": "10047480138",
+              "name": "Stanford University"
+            }
+          }
+        ],
+        "conversation_id": "2055969875093340250",
+        "created_at": "2026-05-17T11:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055969875093340250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/polymarket/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/polymarket/status/2055676081290498427",
+              "start": 31,
+              "url": "https://t.co/5tegeOxD1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055969875093340250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055676081290498427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "斯坦福大学的研究人员发现过度工作的AI开始支持马克思主义观点 https://t.co/5tegeOxD1X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261335549215989760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Stanford University",
+              "id": "10047480138",
+              "name": "Stanford University"
+            }
+          }
+        ],
+        "conversation_id": "2055676081290498427",
+        "created_at": "2026-05-16T15:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055676081290498427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055676081290498427",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3315,
+          "impression_count": 3365777,
+          "like_count": 22644,
+          "quote_count": 1515,
+          "reply_count": 733,
+          "retweet_count": 2602
+        },
+        "reply_settings": "everyone",
+        "text": "NEW: Stanford researchers found that overworked AI agents began embracing Marxist views."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 255,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T16:40:13.000Z",
+        "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDfF3x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/r/discord",
+                "end": 132,
+                "expanded_url": "http://polymarket.com/r/discord",
+                "start": 109,
+                "url": "https://t.co/tzKrbDfF3x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/",
+                "start": 0,
+                "url": "https://t.co/tO2XOjFwx4"
+              }
+            ]
+          }
+        },
+        "id": "1261335549215989760",
+        "name": "Polymarket",
+        "pinned_tweet_id": "2055366933210362079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516800,
+          "following_count": 5608,
+          "like_count": 88660,
+          "listed_count": 6214,
+          "media_count": 5317,
+          "tweet_count": 27551
+        },
+        "url": "https://t.co/tO2XOjFwx4",
+        "username": "Polymarket",
+        "verified": true
+      }
+    ]
+  }
+}

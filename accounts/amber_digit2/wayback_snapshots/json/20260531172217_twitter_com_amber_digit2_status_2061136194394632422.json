@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061136194394632422",
+    "created_at": "2026-05-31T17:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061136194394632422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432ifantrygrou…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/432ifantrygroup/status/2061077332564336799",
+          "start": 13,
+          "url": "https://t.co/aKEpVOJVgR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061136194394632422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061077332564336799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女权就是女孩子们的键政圈 https://t.co/aKEpVOJVgR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2061077323869470720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpq5-_aQAAPVQw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2061077324297347072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpq6AlbIAA8nGK.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061136194394632422",
+        "created_at": "2026-05-31T17:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061136194394632422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2061077332564336799",
+              "start": 13,
+              "url": "https://t.co/aKEpVOJVgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061136194394632422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061077332564336799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女权就是女孩子们的键政圈 https://t.co/aKEpVOJVgR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061077323869470720",
+            "3_2061077324297347072"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061077332564336799",
+        "created_at": "2026-05-31T13:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061077332564336799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LKcgY2z9g",
+              "end": 69,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2061077332564336799/photo/1",
+              "media_key": "3_2061077323869470720",
+              "start": 46,
+              "url": "https://t.co/4LKcgY2z9g"
+            },
+            {
+              "display_url": "pic.x.com/4LKcgY2z9g",
+              "end": 69,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2061077332564336799/photo/1",
+              "media_key": "3_2061077324297347072",
+              "start": 46,
+              "url": "https://t.co/4LKcgY2z9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077332564336799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1660,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恨到这个地步真让我瞠目结舌，不过信这个的这辈子也是有了，除了证明自己的愚昧，实际上伤害为0 https://t.co/4LKcgY2z9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 429,
+          "like_count": 739,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061094435115700245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 3994,
+          "like_count": 40988,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 11400
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056926246978633843",
+    "created_at": "2026-05-20T02:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056926246978633843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bigglesworthx/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bigglesworthx/status/2056919451560546473",
+          "start": 6,
+          "url": "https://t.co/khU47aS8Ro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056926246978633843",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056919451560546473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真不行了 https://t.co/khU47aS8Ro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2056918903339745280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuk2DVaAAABfRE.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056926246978633843",
+        "created_at": "2026-05-20T02:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056926246978633843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigglesworthx/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bigglesworthx/status/2056919451560546473",
+              "start": 6,
+              "url": "https://t.co/khU47aS8Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056926246978633843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056919451560546473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真不行了 https://t.co/khU47aS8Ro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056918903339745280"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2056919451560546473",
+        "created_at": "2026-05-20T02:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056919451560546473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnExP23MSG",
+              "end": 86,
+              "expanded_url": "https://x.com/BigglesworthX/status/2056919451560546473/photo/1",
+              "media_key": "3_2056918903339745280",
+              "start": 63,
+              "url": "https://t.co/LnExP23MSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056919451560546473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "笑死 你看看你们干的好事。\n下次如果有牢中抱怨性少数权益出问题告洋状，然后老外tankie拿这个塞你嘴，到时候估计气死了吧~ https://t.co/LnExP23MSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 381,
+          "like_count": 490,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 857,
+          "like_count": 3124,
+          "listed_count": 4,
+          "media_count": 1337,
+          "tweet_count": 6506
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

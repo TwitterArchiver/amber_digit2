@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062768321829666837",
+    "created_at": "2026-06-07T19:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063698673263931655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714897821537808384",
+          "start": 0,
+          "username": "LimeInvited"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063698673263931655",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063698379264196652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LimeInvited 人的行为不是都可以用流量和炒作的逻辑理解的 这反而才是真正受制于它们的体现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062768321829666837",
+        "created_at": "2026-06-07T19:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063698673263931655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714897821537808384",
+              "start": 0,
+              "username": "LimeInvited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063698673263931655",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063698379264196652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LimeInvited 人的行为不是都可以用流量和炒作的逻辑理解的 这反而才是真正受制于它们的体现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062768321829666837",
+        "created_at": "2026-06-07T19:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063698379264196652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714897821537808384",
+              "start": 0,
+              "username": "LimeInvited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063698379264196652",
+        "in_reply_to_user_id": "1714897821537808384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063697435067895855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LimeInvited 是啊 毕竟之前是朋友 她也是个很好的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 508,
+          "like_count": 1247,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T06:54:49.000Z",
+        "description": "🏳️‍⚧️ | 经皮蜕却，由音疗愈，仅在受邀时有害 ‖ 太阳和铸炉的火花中诞生了果，而弧月亦受其照耀",
+        "id": "1714897821537808384",
+        "location": "Maywood, CA",
+        "name": "覆皮蒙邀果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024512857304653824/isWCnczY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 79,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 274
+        },
+        "username": "LimeInvited",
+        "verified": false
+      }
+    ]
+  }
+}

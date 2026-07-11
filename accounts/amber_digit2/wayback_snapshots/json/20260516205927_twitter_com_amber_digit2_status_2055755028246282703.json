@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055257038540644352"
+      ],
+      "media_source_tweet_id": [
+        "2055257045041844618"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2055755028246282703",
+    "created_at": "2026-05-16T20:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055755028246282703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596724394881056768",
+          "start": 3,
+          "username": "EstrogenChic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kYiwec5Jdh",
+          "end": 60,
+          "expanded_url": "https://x.com/EstrogenChic/status/2055257045041844618/photo/1",
+          "media_key": "3_2055257038540644352",
+          "start": 37,
+          "url": "https://t.co/kYiwec5Jdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055755028246282703",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2098
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055257045041844618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EstrogenChic: I made it not evil https://t.co/kYiwec5Jdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2055257038540644352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW9YyhWIAA7NAy.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055257038540644352"
+          ],
+          "media_source_tweet_id": [
+            "2055257045041844618"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2055755028246282703",
+        "created_at": "2026-05-16T20:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055755028246282703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596724394881056768",
+              "start": 3,
+              "username": "EstrogenChic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYiwec5Jdh",
+              "end": 60,
+              "expanded_url": "https://x.com/EstrogenChic/status/2055257045041844618/photo/1",
+              "media_key": "3_2055257038540644352",
+              "start": 37,
+              "url": "https://t.co/kYiwec5Jdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055755028246282703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2098
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055257045041844618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EstrogenChic: I made it not evil https://t.co/kYiwec5Jdh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055257038540644352"
+          ]
+        },
+        "author_id": "1596724394881056768",
+        "conversation_id": "2055257045041844618",
+        "created_at": "2026-05-15T12:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055257045041844618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYiwec5Jdh",
+              "end": 42,
+              "expanded_url": "https://x.com/EstrogenChic/status/2055257045041844618/photo/1",
+              "media_key": "3_2055257038540644352",
+              "start": 19,
+              "url": "https://t.co/kYiwec5Jdh"
+            },
+            {
+              "display_url": "x.com/swopusa/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/swopusa/status/2054353513782641118",
+              "start": 43,
+              "url": "https://t.co/m9cCu7nndn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055257045041844618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 115229,
+          "like_count": 10145,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 2098
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054353513782641118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I made it not evil https://t.co/kYiwec5Jdh https://t.co/m9cCu7nndn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 214,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T04:35:48.000Z",
+        "description": "24yo Punk Bassist | +18 | she/they",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/AdaOnBass",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/AdaOnBass",
+                "start": 0,
+                "url": "https://t.co/OaltmTETJt"
+              }
+            ]
+          }
+        },
+        "id": "1596724394881056768",
+        "name": "Estrogen Chic",
+        "pinned_tweet_id": "2047312054629871950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042602342667948034/ZTPEdznG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8713,
+          "following_count": 192,
+          "like_count": 158529,
+          "listed_count": 13,
+          "media_count": 5029,
+          "tweet_count": 55693
+        },
+        "url": "https://t.co/OaltmTETJt",
+        "username": "EstrogenChic",
+        "verified": false
+      }
+    ]
+  }
+}

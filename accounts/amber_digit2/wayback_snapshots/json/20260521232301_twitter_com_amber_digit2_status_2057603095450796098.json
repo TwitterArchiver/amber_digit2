@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057603095450796098",
+    "created_at": "2026-05-21T23:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057603095450796098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/isabellascar2/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/isabellascar2/status/2057569737966559493",
+          "start": 52,
+          "url": "https://t.co/6Mc6jqAdLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057603095450796098",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057569737966559493",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "when can we stop appropriating anti racism language https://t.co/6Mc6jqAdLk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057603095450796098",
+        "created_at": "2026-05-21T23:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057603095450796098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isabellascar2/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/isabellascar2/status/2057569737966559493",
+              "start": 52,
+              "url": "https://t.co/6Mc6jqAdLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057603095450796098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057569737966559493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when can we stop appropriating anti racism language https://t.co/6Mc6jqAdLk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995854495950176256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "South Carolina",
+              "id": "1016381785339408384",
+              "name": "South Carolina"
+            }
+          }
+        ],
+        "conversation_id": "2057569737966559493",
+        "created_at": "2026-05-21T21:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057569737966559493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinknews/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/pinknews/status/2057055081426460698",
+              "start": 29,
+              "url": "https://t.co/3u7Jga163q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057569737966559493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1297,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057055081426460698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This is literal segregation. https://t.co/3u7Jga163q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 410,
+          "like_count": 666,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-14T02:33:08.000Z",
+        "description": "YouTuber | Activist | @IsabellaPoetry | 🏳️‍⚧️🏳️‍🌈 | Afro-Indig Latina Adoptee | ♿️ ND & Multiply Disabled | 🌱 | Atheist Pagan | Founder: @MspecLesbianss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "IsabellaPoetry"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "MspecLesbianss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/isabellascarle…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/isabellascarlett",
+                "start": 0,
+                "url": "https://t.co/h7ihnicPn0"
+              }
+            ]
+          }
+        },
+        "id": "995854495950176256",
+        "location": "Fae/It/Xe/Star/💫 & More",
+        "name": "🇵🇪✊🏽 Isabella Scarlett 🏳️‍⚧️♿️",
+        "pinned_tweet_id": "1990496507725033527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584261201533571077/gyA5byCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4369,
+          "following_count": 2365,
+          "like_count": 30130,
+          "listed_count": 94,
+          "media_count": 239,
+          "tweet_count": 10521
+        },
+        "url": "https://t.co/h7ihnicPn0",
+        "username": "IsabellaScar2",
+        "verified": false
+      }
+    ]
+  }
+}

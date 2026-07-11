@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062142618390138921",
+    "created_at": "2026-06-03T12:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062142785948385341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062142785948385341",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062142618390138921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "你们知道 即便是那些od的人 曾经也是带着政治愿景的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062142618390138921",
+        "created_at": "2026-06-03T12:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062142785948385341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062142785948385341",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062142618390138921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你们知道 即便是那些od的人 曾经也是带着政治愿景的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062142618390138921",
+        "created_at": "2026-06-03T12:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062142618390138921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2062142434642133272",
+              "start": 20,
+              "url": "https://t.co/0zOFudnJQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062142618390138921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062142434642133272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "彩霞和结晶化 原来都也已经没人记得了吗 https://t.co/0zOFudnJQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 477,
+          "like_count": 1005,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

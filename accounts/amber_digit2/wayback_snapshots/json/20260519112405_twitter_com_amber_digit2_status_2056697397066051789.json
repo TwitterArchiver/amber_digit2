@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056697397066051789",
+    "created_at": "2026-05-19T11:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056697397066051789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meizakini/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/meizakini/status/2056559624430764451",
+          "start": 7,
+          "url": "https://t.co/9zgFFAmxz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056697397066051789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056559624430764451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝 你被坑了 https://t.co/9zgFFAmxz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2056559614247030784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpeErKb0AAsJvY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056697397066051789",
+        "created_at": "2026-05-19T11:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056697397066051789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meizakini/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/meizakini/status/2056559624430764451",
+              "start": 7,
+              "url": "https://t.co/9zgFFAmxz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697397066051789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056559624430764451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝 你被坑了 https://t.co/9zgFFAmxz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056559614247030784"
+          ]
+        },
+        "author_id": "1495635928949616642",
+        "conversation_id": "2056559624430764451",
+        "created_at": "2026-05-19T02:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056559624430764451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZyb1zQGns",
+              "end": 46,
+              "expanded_url": "https://x.com/Meizakini/status/2056559624430764451/photo/1",
+              "media_key": "3_2056559614247030784",
+              "start": 23,
+              "url": "https://t.co/wZyb1zQGns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056559624430764451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2884,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠花两百块钱化了个妆，专业的是不一样啊（） https://t.co/wZyb1zQGns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 339,
+          "like_count": 375,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-21T05:46:25.000Z",
+        "description": "Trans girl | INFP | 常驻上海 | 177 cm | 物理 PhD 在读 | mston @meizakini@o3o.ca | tg@meizakini | 手术日记 https://t.co/mRGIEVmg7T | 小号 meizitsubaki | 小红书同名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/meizaSRS",
+                "end": 117,
+                "expanded_url": "https://t.me/meizaSRS",
+                "start": 94,
+                "url": "https://t.co/mRGIEVmg7T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meiza.cc",
+                "end": 23,
+                "expanded_url": "https://meiza.cc",
+                "start": 0,
+                "url": "https://t.co/1ZyXkX11lS"
+              }
+            ]
+          }
+        },
+        "id": "1495635928949616642",
+        "location": "0.7 km",
+        "name": "Meiza",
+        "pinned_tweet_id": "1935550629465965051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909095447438000128/wnbRaCr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5354,
+          "following_count": 1247,
+          "like_count": 22358,
+          "listed_count": 15,
+          "media_count": 734,
+          "tweet_count": 8562
+        },
+        "url": "https://t.co/1ZyXkX11lS",
+        "username": "Meizakini",
+        "verified": false
+      }
+    ]
+  }
+}

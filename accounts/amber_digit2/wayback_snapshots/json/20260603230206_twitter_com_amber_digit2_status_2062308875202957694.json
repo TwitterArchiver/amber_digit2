@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062254063505351103",
+    "created_at": "2026-06-03T23:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062308875202957694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778129893701615616",
+          "start": 0,
+          "username": "sophie_baobao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062308875202957694",
+    "in_reply_to_user_id": "1778129893701615616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062306263237833000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@sophie_baobao 好的感谢 我研究一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062254063505351103",
+        "created_at": "2026-06-03T23:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062308875202957694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778129893701615616",
+              "start": 0,
+              "username": "sophie_baobao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062308875202957694",
+        "in_reply_to_user_id": "1778129893701615616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062306263237833000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sophie_baobao 好的感谢 我研究一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778129893701615616",
+        "conversation_id": "2062254063505351103",
+        "created_at": "2026-06-03T22:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062306263237833000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062306263237833000",
+        "in_reply_to_user_id": "1778129893701615616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062304697269244342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 卡好体重应该也能保留理想的身材比例"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 490,
+          "like_count": 1119,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-10T18:36:31.000Z",
+        "description": "🇨🇦 温哥华 | 170/56 | 男娘\n努力变轻盈·私信随缘看·粉丝优先",
+        "id": "1778129893701615616",
+        "location": "Vancouver, British Columbia",
+        "name": "奶茜不甜🍓",
+        "pinned_tweet_id": "1990724604139024687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038117655652261888/x90XC5zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 558,
+          "like_count": 836,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 260
+        },
+        "username": "sophie_baobao",
+        "verified": false
+      }
+    ]
+  }
+}

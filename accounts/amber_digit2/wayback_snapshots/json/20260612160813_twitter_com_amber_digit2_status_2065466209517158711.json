@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2065466209517158711",
+    "created_at": "2026-06-12T16:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065466209517158711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628054803741032449",
+          "start": 3,
+          "username": "nozomixlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065466209517158711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065316783922479255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nozomixlr: 也提请大家注意\n有大证或者是任何雌激素处方的\n请选择全自费\n如进行医保结算医生会被罚款 下次可能这个医院就不会再开出非女证雌激素处方了\n目前暂时不确定本政策是否包含药店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2065466209517158711",
+        "created_at": "2026-06-12T16:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065466209517158711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628054803741032449",
+              "start": 3,
+              "username": "nozomixlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065466209517158711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065316783922479255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nozomixlr: 也提请大家注意\n有大证或者是任何雌激素处方的\n请选择全自费\n如进行医保结算医生会被罚款 下次可能这个医院就不会再开出非女证雌激素处方了\n目前暂时不确定本政策是否包含药店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628054803741032449",
+        "conversation_id": "2065316783922479255",
+        "created_at": "2026-06-12T06:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065316783922479255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065316783922479255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8332,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "也提请大家注意\n有大证或者是任何雌激素处方的\n请选择全自费\n如进行医保结算医生会被罚款 下次可能这个医院就不会再开出非女证雌激素处方了\n目前暂时不确定本政策是否包含药店"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 509,
+          "like_count": 1268,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-21T15:31:38.000Z",
+        "description": "🏳️‍🌈！MtX ｜feel free to call me with any pronouns｜ボカロ 音ゲー CHUNITHM ｜持证含专のADHD&&ASD ｜無言フォロー失礼します ｜推文无时效性敬请谅解",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ha.org.hk",
+                "end": 23,
+                "expanded_url": "http://www.ha.org.hk",
+                "start": 0,
+                "url": "https://t.co/V19a1JpvaQ"
+              }
+            ]
+          }
+        },
+        "id": "1628054803741032449",
+        "location": "MCQ",
+        "name": "のぞみnozomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065426357698592769/F3XJQriK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 126,
+          "like_count": 381,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/V19a1JpvaQ",
+        "username": "nozomixlr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061504005864378374",
+    "created_at": "2026-06-01T17:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061504005864378374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shattubatu/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/shattubatu/status/2061391740775309600",
+          "start": 20,
+          "url": "https://t.co/XZdarSL55b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061504005864378374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061391740775309600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这东西不能自动翻译，没有原来的pun了 https://t.co/XZdarSL55b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061504005864378374",
+        "created_at": "2026-06-01T17:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061504005864378374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shattubatu/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/shattubatu/status/2061391740775309600",
+              "start": 20,
+              "url": "https://t.co/XZdarSL55b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061504005864378374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061391740775309600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这东西不能自动翻译，没有原来的pun了 https://t.co/XZdarSL55b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "140119385",
+        "conversation_id": "2061391740775309600",
+        "created_at": "2026-06-01T10:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061391740775309600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061391740775309600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 42487,
+          "like_count": 3230,
+          "quote_count": 20,
+          "reply_count": 20,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "It's tough being a trans woman with executive dysfunction, the 3rd most common \"ED\" trans women suffer from."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 448,
+          "like_count": 850,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-04T16:52:36.000Z",
+        "description": "Freya  \nLeftist|Lesbian|Poly|Paprika Main🦙Kobold-otter|She/Her|Uses 'Jinkies' un-ironically|\n🏳️‍⚧️💊17/11/2022\n\npfp by @SkyVixie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "SkyVixie"
+              }
+            ]
+          }
+        },
+        "id": "140119385",
+        "location": "England",
+        "name": "Shattubatu",
+        "pinned_tweet_id": "1948795100626112906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459869673047175168/d6U_qHfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 1133,
+          "like_count": 131190,
+          "listed_count": 7,
+          "media_count": 1951,
+          "tweet_count": 11245
+        },
+        "username": "Shattubatu",
+        "verified": false
+      }
+    ]
+  }
+}

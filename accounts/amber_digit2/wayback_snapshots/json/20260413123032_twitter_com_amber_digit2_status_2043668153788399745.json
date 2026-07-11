@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2043668153788399745",
+    "created_at": "2026-04-13T12:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043668153788399745"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043668153788399745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "波长干扰。想把这些噪音全杀掉（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2043668153788399745",
+        "created_at": "2026-04-13T12:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043668153788399745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043668153788399745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "波长干扰。想把这些噪音全杀掉（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "二阶导数 amber.nova is the reflection of @amber_digit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "amber_digit"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "name": "amber.nova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041964308909965312/hKF-bPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 276
+        },
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

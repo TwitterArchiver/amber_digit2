@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061305226871615490"
+      ],
+      "media_source_tweet_id": [
+        "2061305230323495128"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061629930685730899",
+    "created_at": "2026-06-02T02:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061629930685730899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2055423593392033792",
+          "start": 3,
+          "username": "bundleofstyyx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbX0pTEmTY",
+          "end": 128,
+          "expanded_url": "https://x.com/bundleofstyyx/status/2061305230323495128/photo/1",
+          "media_key": "3_2061305226871615490",
+          "start": 105,
+          "url": "https://t.co/RbX0pTEmTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061629930685730899",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061305230323495128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bundleofstyyx: The highly requested and anticipated drag article is here. Happy pride.\n🔗 In comments https://t.co/RbX0pTEmTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2061305226871615490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs6Lr1WsAI6ra9.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061305226871615490"
+          ],
+          "media_source_tweet_id": [
+            "2061305230323495128"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061629930685730899",
+        "created_at": "2026-06-02T02:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061629930685730899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2055423593392033792",
+              "start": 3,
+              "username": "bundleofstyyx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbX0pTEmTY",
+              "end": 128,
+              "expanded_url": "https://x.com/bundleofstyyx/status/2061305230323495128/photo/1",
+              "media_key": "3_2061305226871615490",
+              "start": 105,
+              "url": "https://t.co/RbX0pTEmTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061629930685730899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061305230323495128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bundleofstyyx: The highly requested and anticipated drag article is here. Happy pride.\n🔗 In comments https://t.co/RbX0pTEmTY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061305226871615490"
+          ]
+        },
+        "author_id": "2055423593392033792",
+        "conversation_id": "2061305230323495128",
+        "created_at": "2026-06-01T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061305230323495128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbX0pTEmTY",
+              "end": 109,
+              "expanded_url": "https://x.com/bundleofstyyx/status/2061305230323495128/photo/1",
+              "media_key": "3_2061305226871615490",
+              "start": 86,
+              "url": "https://t.co/RbX0pTEmTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061305230323495128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1346,
+          "impression_count": 624997,
+          "like_count": 1033,
+          "quote_count": 112,
+          "reply_count": 44,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "The highly requested and anticipated drag article is here. Happy pride.\n🔗 In comments https://t.co/RbX0pTEmTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 43,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 20,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 451,
+          "like_count": 868,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T23:02:35.000Z",
+        "description": "Tara Knight ♀ | Feminist. | Author.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.substack.com/pub/bundleofst…",
+                "end": 23,
+                "expanded_url": "https://open.substack.com/pub/bundleofstyx",
+                "start": 0,
+                "url": "https://t.co/Uz0tPAQQsC"
+              }
+            ]
+          }
+        },
+        "id": "2055423593392033792",
+        "location": "Providence, RI",
+        "name": "Tara ⚢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055423685624733696/mEMG3tb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 62,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/Uz0tPAQQsC",
+        "username": "bundleofstyyx",
+        "verified": true
+      }
+    ]
+  }
+}

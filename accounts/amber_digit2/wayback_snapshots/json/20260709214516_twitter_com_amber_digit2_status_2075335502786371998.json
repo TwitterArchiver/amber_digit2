@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2075335502786371998",
+    "created_at": "2026-07-09T21:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T22:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075335502786371998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075335502786371998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075320090547945490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: 针对英国最近“规范”单性别空间／服务的EHRC新规章的一次抗议\n—\nHRT, HRT\nover the counter and for free!\n\nwhose streets? our streets!\nwhose city? our city!…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72885,
+        "height": 1280,
+        "media_key": "7_2075319640138354688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075319640138354688/pu/img/kwfsMOW3l8Z1lXkS.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075319640138354688/pu/vid/avc1/320x568/Wlp3n5z0J2cjx-qZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075319640138354688/pu/vid/avc1/480x852/YpmIVuL1yCCTLS3a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075319640138354688/pu/vid/avc1/720x1280/PggQtaXuULuv6Jxl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075319640138354688/pu/pl/lT66lET4_rPCaUhg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075320076287217664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0EnSZWEAAiKrg.jpg",
+        "width": 1207
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075319650838069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0EOheXQAANUgN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 889,
+        "media_key": "3_2075319650749964288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0EOhJW4AAiN0q.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2075335502786371998",
+        "created_at": "2026-07-09T21:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075335502786371998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075335502786371998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075320090547945490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: 针对英国最近“规范”单性别空间／服务的EHRC新规章的一次抗议\n—\nHRT, HRT\nover the counter and for free!\n\nwhose streets? our streets!\nwhose city? our city!…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075319640138354688",
+            "3_2075320076287217664",
+            "3_2075319650838069248",
+            "3_2075319650749964288"
+          ]
+        },
+        "author_id": "918593759121690625",
+        "conversation_id": "2075320090547945490",
+        "created_at": "2026-07-09T20:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075320090547945490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEEjBhScdm",
+              "end": 275,
+              "expanded_url": "https://x.com/hu_qin_/status/2075320090547945490/video/1",
+              "media_key": "7_2075319640138354688",
+              "start": 252,
+              "url": "https://t.co/SEEjBhScdm"
+            },
+            {
+              "display_url": "pic.x.com/SEEjBhScdm",
+              "end": 275,
+              "expanded_url": "https://x.com/hu_qin_/status/2075320090547945490/video/1",
+              "media_key": "3_2075320076287217664",
+              "start": 252,
+              "url": "https://t.co/SEEjBhScdm"
+            },
+            {
+              "display_url": "pic.x.com/SEEjBhScdm",
+              "end": 275,
+              "expanded_url": "https://x.com/hu_qin_/status/2075320090547945490/video/1",
+              "media_key": "3_2075319650838069248",
+              "start": 252,
+              "url": "https://t.co/SEEjBhScdm"
+            },
+            {
+              "display_url": "pic.x.com/SEEjBhScdm",
+              "end": 275,
+              "expanded_url": "https://x.com/hu_qin_/status/2075320090547945490/video/1",
+              "media_key": "3_2075319650749964288",
+              "start": 252,
+              "url": "https://t.co/SEEjBhScdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075320090547945490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "针对英国最近“规范”单性别空间／服务的EHRC新规章的一次抗议\n—\nHRT, HRT\nover the counter and for free!\n\nwhose streets? our streets!\nwhose city? our city!\n\ntrans rights are women's rights\ntrans rights are worker's rights\ntrans rights are migrant's rights\nsame struggle, same fight! https://t.co/SEEjBhScdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 507,
+          "like_count": 1334,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2059224600471294044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1839,
+          "like_count": 21904,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 5538
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

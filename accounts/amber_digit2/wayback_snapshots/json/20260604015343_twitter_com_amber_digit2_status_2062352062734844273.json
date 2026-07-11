@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2062352062734844273",
+    "created_at": "2026-06-04T01:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062352062734844273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5pillarsuk/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/5pillarsuk/status/2061822536791331254",
+          "start": 23,
+          "url": "https://t.co/KapQXGOkbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062352062734844273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061822536791331254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "socialism or barbarism https://t.co/KapQXGOkbd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2062352062734844273",
+        "created_at": "2026-06-04T01:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062352062734844273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5pillarsuk/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/5pillarsuk/status/2061822536791331254",
+              "start": 23,
+              "url": "https://t.co/KapQXGOkbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062352062734844273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822536791331254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "socialism or barbarism https://t.co/KapQXGOkbd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415838091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061822536791331254",
+        "created_at": "2026-06-02T14:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061822536791331254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FacebookLikeShareTweetEmail 5Pillars has compiled a brief guide for Muslims living in the West on how to navigate LGBTQ Pride month during June.  Pride Month celebrates LGBTQ identities, promotes visibility and equality, and commemorates the 1969 Stonewall Riots, a key event in the LGBTQ rights movement. It is often marked by parades, community events and educational […]",
+              "display_url": "5pillarsuk.com/2026/06/02/a-p…",
+              "end": 142,
+              "expanded_url": "https://5pillarsuk.com/2026/06/02/a-practical-guide-for-muslims-on-how-to-navigate-lgbtq-pride-month/",
+              "start": 119,
+              "status": 200,
+              "title": "A practical guide for Muslims on how to navigate LGBTQ Pride month",
+              "unwound_url": "https://5pillarsuk.com/2026/06/02/a-practical-guide-for-muslims-on-how-to-navigate-lgbtq-pride-month/",
+              "url": "https://t.co/jsI0Zb1Ozf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822536791331254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 1268330,
+          "like_count": 242,
+          "quote_count": 464,
+          "reply_count": 458,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "5Pillars has compiled a brief guide for Muslims living in the West on how to navigate LGBTQ Pride month during June. \n\nhttps://t.co/jsI0Zb1Ozf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 494,
+          "like_count": 1132,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-09T15:47:57.000Z",
+        "description": "UK-based news site covering current affairs related to Islam and Muslims. Established in 2013. https://t.co/Gk3cPVYuVX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "5pillarsuk.com",
+                "end": 118,
+                "expanded_url": "http://5pillarsuk.com",
+                "start": 95,
+                "url": "https://t.co/Gk3cPVYuVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@5pillars",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@5pillars",
+                "start": 0,
+                "url": "https://t.co/Xw7Z2tjywQ"
+              }
+            ]
+          }
+        },
+        "id": "1415838091",
+        "location": "London",
+        "name": "5Pillars",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1255180548433154051/mlf82_XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207196,
+          "following_count": 774,
+          "like_count": 5805,
+          "listed_count": 645,
+          "media_count": 13412,
+          "tweet_count": 43146
+        },
+        "url": "https://t.co/Xw7Z2tjywQ",
+        "username": "5Pillarsuk",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

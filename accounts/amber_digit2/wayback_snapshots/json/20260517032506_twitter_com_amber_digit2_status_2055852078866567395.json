@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2055852078866567395",
+    "created_at": "2026-05-17T03:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055852078866567395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041343393972862976",
+          "start": 3,
+          "username": "TiluMK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055852078866567395",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055692350463369602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TiluMK2: It’s a real thing where trans women attempt to detach masculinity from the cismasculine and rediscover it as a women, I didn’t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2055852078866567395",
+        "created_at": "2026-05-17T03:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055852078866567395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041343393972862976",
+              "start": 3,
+              "username": "TiluMK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055852078866567395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055692350463369602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TiluMK2: It’s a real thing where trans women attempt to detach masculinity from the cismasculine and rediscover it as a women, I didn’t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041343393972862976",
+        "conversation_id": "2055692350463369602",
+        "created_at": "2026-05-16T16:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055692350463369602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/junkd0g_/statu…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/junkd0g_/status/2055687615408410630",
+              "start": 278,
+              "url": "https://t.co/jIs8OluKyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055692350463369602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1555,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055687615408410630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It’s a real thing where trans women attempt to detach masculinity from the cismasculine and rediscover it as a women, I didn’t felt comfortable doing sports pre-transition because I am afraid that it would make me more of a man, but after starting hrt and a few rounds of laser https://t.co/jIs8OluKyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 240,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T02:32:54.000Z",
+        "description": "priv: @Izzonii_is_on_E , transfeminine object #01, not something you could kill, Marxism with bæddelist characteristics, men aren’t women but boys are girls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "Izzonii_is_on_E"
+              }
+            ]
+          }
+        },
+        "id": "2041343393972862976",
+        "location": "HRT 24/10/1🇨🇳",
+        "name": "Reine, Bæddelmoder, insurrectionist",
+        "pinned_tweet_id": "2049532697647911276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049346885056598016/Kn5ubtYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 210,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 429
+        },
+        "username": "TiluMK2",
+        "verified": false
+      }
+    ]
+  }
+}

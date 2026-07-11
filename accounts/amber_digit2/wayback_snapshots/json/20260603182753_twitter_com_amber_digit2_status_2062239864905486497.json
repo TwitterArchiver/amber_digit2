@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062235889800274092",
+    "created_at": "2026-06-03T18:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062239864905486497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680390281777278977",
+          "start": 0,
+          "username": "josana3xluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062239864905486497",
+    "in_reply_to_user_id": "1680390281777278977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062235889800274092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@josana3xluv 我是真缺钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062235889800274092",
+        "created_at": "2026-06-03T18:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062239864905486497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680390281777278977",
+              "start": 0,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062239864905486497",
+        "in_reply_to_user_id": "1680390281777278977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062235889800274092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@josana3xluv 我是真缺钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680390281777278977",
+        "conversation_id": "2062235889800274092",
+        "created_at": "2026-06-03T18:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062235889800274092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062235889800274092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你圈老皇帝小皇帝都没有几个缺钱的吗，能不能出个跨性别丐皇之类的，鼓励一下我这种穷蛆也不是不行啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 487,
+          "like_count": 1081,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T01:34:17.000Z",
+        "description": "朝三爱/josana    可以找我借雌激素",
+        "id": "1680390281777278977",
+        "name": "朝三爱",
+        "pinned_tweet_id": "2025987675036242394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1682,
+          "like_count": 4109,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1023
+        },
+        "username": "josana3xluv",
+        "verified": false
+      }
+    ]
+  }
+}

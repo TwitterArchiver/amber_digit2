@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10056667669",
+          "name": "Catch-22"
+        }
+      }
+    ],
+    "conversation_id": "2065732375066063025",
+    "created_at": "2026-06-13T09:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065732375066063025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangion73/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yangion73/status/2065313094465933558",
+          "start": 12,
+          "url": "https://t.co/wNP9a4aURD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065732375066063025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065313094465933558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "经典 catch-22 https://t.co/wNP9a4aURD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056667669",
+              "name": "Catch-22"
+            }
+          }
+        ],
+        "conversation_id": "2065732375066063025",
+        "created_at": "2026-06-13T09:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065732375066063025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangion73/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yangion73/status/2065313094465933558",
+              "start": 12,
+              "url": "https://t.co/wNP9a4aURD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065732375066063025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065313094465933558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "经典 catch-22 https://t.co/wNP9a4aURD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061329105266831360",
+        "conversation_id": "2065313094465933558",
+        "created_at": "2026-06-12T05:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065313094465933558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065313094465933558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6882,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个很神奇的事情\n我在没自杀前去开小证，医生说我还不够坚定的要改变性别，不给我开\n现在给我逼到自杀了，再去找医生（不是同一个）医生说我情绪过激，脑子不清醒，还是不给我开\n到底怎么才能开出来啊😫\n我感觉我现在在住院，能长时间和医生接触，是最有希望开出来的时候了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 509,
+          "like_count": 1269,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n2026中考\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 62,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 103
+        },
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

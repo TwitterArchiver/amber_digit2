@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061847677600419840",
+        "3_2061847677604622336",
+        "3_2061847677600440321",
+        "3_2061847677596258304"
+      ],
+      "media_source_tweet_id": [
+        "2061847687595434207",
+        "2061847687595434207",
+        "2061847687595434207",
+        "2061847687595434207"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061854019169976697",
+    "created_at": "2026-06-02T16:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061854019169976697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1957315200140345345",
+          "start": 3,
+          "username": "_Nana_Sparkle_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoTqIQIfYL",
+          "end": 104,
+          "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+          "media_key": "3_2061847677600419840",
+          "start": 81,
+          "url": "https://t.co/HoTqIQIfYL"
+        },
+        {
+          "display_url": "pic.x.com/HoTqIQIfYL",
+          "end": 104,
+          "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+          "media_key": "3_2061847677604622336",
+          "start": 81,
+          "url": "https://t.co/HoTqIQIfYL"
+        },
+        {
+          "display_url": "pic.x.com/HoTqIQIfYL",
+          "end": 104,
+          "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+          "media_key": "3_2061847677600440321",
+          "start": 81,
+          "url": "https://t.co/HoTqIQIfYL"
+        },
+        {
+          "display_url": "pic.x.com/HoTqIQIfYL",
+          "end": 104,
+          "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+          "media_key": "3_2061847677596258304",
+          "start": 81,
+          "url": "https://t.co/HoTqIQIfYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061854019169976697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061847687595434207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Nana_Sparkle_: 这里是冰糖\n一只生活在🇨🇦的普通黑猫\nmtf/术后\n上推是为围观吃瓜 偶尔发点日常🍰\n希望能交到很多朋友 约到很多美少女 https://t.co/HoTqIQIfYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061847677600419840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nieRWUAAhBuk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061847677604622336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nieSWcAAwk-9.jpg",
+        "width": 1594
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061847677600440321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nieRWoAELo1a.jpg",
+        "width": 1534
+      },
+      {
+        "height": 1518,
+        "media_key": "3_2061847677596258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nieQW0AAggxw.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061847677600419840",
+            "3_2061847677604622336",
+            "3_2061847677600440321",
+            "3_2061847677596258304"
+          ],
+          "media_source_tweet_id": [
+            "2061847687595434207",
+            "2061847687595434207",
+            "2061847687595434207",
+            "2061847687595434207"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061854019169976697",
+        "created_at": "2026-06-02T16:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061854019169976697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1957315200140345345",
+              "start": 3,
+              "username": "_Nana_Sparkle_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 104,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677600419840",
+              "start": 81,
+              "url": "https://t.co/HoTqIQIfYL"
+            },
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 104,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677604622336",
+              "start": 81,
+              "url": "https://t.co/HoTqIQIfYL"
+            },
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 104,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677600440321",
+              "start": 81,
+              "url": "https://t.co/HoTqIQIfYL"
+            },
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 104,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677596258304",
+              "start": 81,
+              "url": "https://t.co/HoTqIQIfYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061854019169976697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061847687595434207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Nana_Sparkle_: 这里是冰糖\n一只生活在🇨🇦的普通黑猫\nmtf/术后\n上推是为围观吃瓜 偶尔发点日常🍰\n希望能交到很多朋友 约到很多美少女 https://t.co/HoTqIQIfYL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061847677600419840",
+            "3_2061847677604622336",
+            "3_2061847677600440321",
+            "3_2061847677596258304"
+          ]
+        },
+        "author_id": "1957315200140345345",
+        "conversation_id": "2061847687595434207",
+        "created_at": "2026-06-02T16:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061847687595434207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 84,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677600419840",
+              "start": 61,
+              "url": "https://t.co/HoTqIQIfYL"
+            },
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 84,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677604622336",
+              "start": 61,
+              "url": "https://t.co/HoTqIQIfYL"
+            },
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 84,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677600440321",
+              "start": 61,
+              "url": "https://t.co/HoTqIQIfYL"
+            },
+            {
+              "display_url": "pic.x.com/HoTqIQIfYL",
+              "end": 84,
+              "expanded_url": "https://x.com/_Nana_Sparkle_/status/2061847687595434207/photo/1",
+              "media_key": "3_2061847677596258304",
+              "start": 61,
+              "url": "https://t.co/HoTqIQIfYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061847687595434207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是冰糖\n一只生活在🇨🇦的普通黑猫\nmtf/术后\n上推是为围观吃瓜 偶尔发点日常🍰\n希望能交到很多朋友 约到很多美少女 https://t.co/HoTqIQIfYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 468,
+          "like_count": 919,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T05:34:51.000Z",
+        "description": "专业吃瓜群众/MTF/最爱的 @KathrynPurr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "KathrynPurr"
+              }
+            ]
+          }
+        },
+        "id": "1957315200140345345",
+        "name": "七分冰糖🍰🏳️‍⚧️",
+        "pinned_tweet_id": "2061847687595434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046876667751108608/WPUoR5CL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 185,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 237
+        },
+        "username": "_Nana_Sparkle_",
+        "verified": true
+      }
+    ]
+  }
+}

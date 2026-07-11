@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056982731465056493",
+    "created_at": "2026-05-20T06:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056982731465056493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691855694276821002",
+          "start": 3,
+          "username": "nf3714812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056982731465056493",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056869588948734171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nf3714812: kinda annoyed whenever ppl here talk abt LGBTQ+ rights in China some ppl will always make it about the content they consume…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056982731465056493",
+        "created_at": "2026-05-20T06:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056982731465056493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691855694276821002",
+              "start": 3,
+              "username": "nf3714812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056982731465056493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056869588948734171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nf3714812: kinda annoyed whenever ppl here talk abt LGBTQ+ rights in China some ppl will always make it about the content they consume…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691855694276821002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2056869588948734171",
+        "created_at": "2026-05-19T22:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056869588948734171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056869588948734171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "kinda annoyed whenever ppl here talk abt LGBTQ+ rights in China some ppl will always make it about the content they consume (BL, danmei, gacha ships) but not the actual ppl living there and being affected"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 390,
+          "like_count": 548,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T16:54:29.000Z",
+        "description": "❨･¨⬮ ੯‧̀͡⬮🫪",
+        "id": "1691855694276821002",
+        "name": "star",
+        "pinned_tweet_id": "1817208814585680246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998211649262493697/4RQRJ_8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 89,
+          "like_count": 5939,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 7008
+        },
+        "username": "nf3714812",
+        "verified": false
+      }
+    ]
+  }
+}

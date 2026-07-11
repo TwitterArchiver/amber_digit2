@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061311042911617082",
+    "created_at": "2026-06-01T04:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061311042911617082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngngvxx/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ngngvxx/status/2060950254959431982",
+          "start": 2,
+          "url": "https://t.co/5vDieBpGQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061311042911617082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060950254959431982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是 https://t.co/5vDieBpGQs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2060950246445010944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJn3VGsb0AAykgy.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061311042911617082",
+        "created_at": "2026-06-01T04:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061311042911617082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2060950254959431982",
+              "start": 2,
+              "url": "https://t.co/5vDieBpGQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061311042911617082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060950254959431982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是 https://t.co/5vDieBpGQs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060950246445010944"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2060950254959431982",
+        "created_at": "2026-05-31T05:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060950254959431982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W71EQjWsye",
+              "end": 71,
+              "expanded_url": "https://x.com/NGNGVXX/status/2060950254959431982/photo/1",
+              "media_key": "3_2060950246445010944",
+              "start": 48,
+              "url": "https://t.co/W71EQjWsye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060950254959431982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 41843,
+          "like_count": 2756,
+          "quote_count": 2,
+          "reply_count": 158,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "借用原帖评论区的一句话：声音大能不能争取到我不知道，反正声音小一定争取不到，甚至原有的都要失去 https://t.co/W71EQjWsye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2061265686127689764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 435,
+          "like_count": 788,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9837,
+          "following_count": 6,
+          "like_count": 1175,
+          "listed_count": 28,
+          "media_count": 110,
+          "tweet_count": 2451
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

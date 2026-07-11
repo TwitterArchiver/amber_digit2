@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057631184407150592"
+      ],
+      "media_source_tweet_id": [
+        "2057631187276087602"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405259614053036032",
+          "name": "Dating sims"
+        }
+      }
+    ],
+    "conversation_id": "2057656687129931829",
+    "created_at": "2026-05-22T02:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057656687129931829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 72,
+          "tag": "dateMATH"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1768020846868922368",
+          "start": 3,
+          "username": "Akuicia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fFS13q7Diy",
+          "end": 109,
+          "expanded_url": "https://x.com/Akuicia/status/2057631187276087602/photo/1",
+          "media_key": "3_2057631184407150592",
+          "start": 86,
+          "url": "https://t.co/fFS13q7Diy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057656687129931829",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057631187276087602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akuicia: more concepts for my math dating sim - topological objects\n#dateMATH #oc https://t.co/fFS13q7Diy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_2057631184407150592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4sqRFawAAGjxX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057631184407150592"
+          ],
+          "media_source_tweet_id": [
+            "2057631187276087602"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2057656687129931829",
+        "created_at": "2026-05-22T02:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057656687129931829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 72,
+              "tag": "dateMATH"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1768020846868922368",
+              "start": 3,
+              "username": "Akuicia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFS13q7Diy",
+              "end": 109,
+              "expanded_url": "https://x.com/Akuicia/status/2057631187276087602/photo/1",
+              "media_key": "3_2057631184407150592",
+              "start": 86,
+              "url": "https://t.co/fFS13q7Diy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057656687129931829",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057631187276087602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akuicia: more concepts for my math dating sim - topological objects\n#dateMATH #oc https://t.co/fFS13q7Diy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057631184407150592"
+          ]
+        },
+        "author_id": "1768020846868922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2057631187276087602",
+        "created_at": "2026-05-22T01:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057631187276087602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "dateMATH"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFS13q7Diy",
+              "end": 96,
+              "expanded_url": "https://x.com/Akuicia/status/2057631187276087602/photo/1",
+              "media_key": "3_2057631184407150592",
+              "start": 73,
+              "url": "https://t.co/fFS13q7Diy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057631187276087602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 457,
+          "impression_count": 27399,
+          "like_count": 3032,
+          "quote_count": 16,
+          "reply_count": 14,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "more concepts for my math dating sim - topological objects\n#dateMATH #oc https://t.co/fFS13q7Diy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 410,
+          "like_count": 677,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T21:06:45.000Z",
+        "description": "strawpage + vgen: https://t.co/7Xa6F51QGn | strawpage responses: @shaoguaku\n·16 yo liminal space & dreamcore enjoyer (he)\n·repost of art okay with credits",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "shaoguaku"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shaogu.straw.page",
+                "end": 41,
+                "expanded_url": "https://shaogu.straw.page",
+                "start": 18,
+                "url": "https://t.co/7Xa6F51QGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artfight.net/~Akuicia",
+                "end": 23,
+                "expanded_url": "https://artfight.net/~Akuicia",
+                "start": 0,
+                "url": "https://t.co/CpVerLCrKo"
+              }
+            ]
+          }
+        },
+        "id": "1768020846868922368",
+        "location": "outer space 🫨 | bd: sep/17",
+        "name": "Aku | 少骨",
+        "pinned_tweet_id": "2044130518229495845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044188212277743616/W8p1ZeUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22218,
+          "following_count": 76,
+          "like_count": 8006,
+          "listed_count": 36,
+          "media_count": 423,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/CpVerLCrKo",
+        "username": "Akuicia",
+        "verified": false
+      }
+    ]
+  }
+}

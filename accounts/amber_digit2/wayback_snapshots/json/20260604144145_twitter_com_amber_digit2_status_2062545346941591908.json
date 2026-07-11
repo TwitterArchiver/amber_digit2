@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062545346941591908",
+    "created_at": "2026-06-04T14:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062545346941591908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aubreycamilleu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/aubreycamilleuu/status/2062527429135212801",
+          "start": 3,
+          "url": "https://t.co/7cm8Wzr24m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062545346941591908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062527429135212801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我也 https://t.co/7cm8Wzr24m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062545346941591908",
+        "created_at": "2026-06-04T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062545346941591908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aubreycamilleu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/aubreycamilleuu/status/2062527429135212801",
+              "start": 3,
+              "url": "https://t.co/7cm8Wzr24m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062545346941591908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062527429135212801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我也 https://t.co/7cm8Wzr24m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046283772455485440",
+        "conversation_id": "2062527429135212801",
+        "created_at": "2026-06-04T13:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062527429135212801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062527429135212801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我年纪不小了，但仍然无法接受“你没法让所有人喜欢你”这个事实。尽管有不少喜欢跟我玩的朋友，我还是忍不住内耗“为什么另外那些人不喜欢我，甚至不肯多看我一眼呢”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 496,
+          "like_count": 1187,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "💛🤍💜🖤/🩵🤍🩷",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058491039305084928/dJpjJwl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 140,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 176
+        },
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

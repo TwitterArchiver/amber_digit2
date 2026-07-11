@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061469514324414636",
+    "created_at": "2026-06-01T16:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061492763598725478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1082666583846137856",
+          "start": 0,
+          "username": "shiori_1617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061492763598725478",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061491887957999651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiori_1617 并且我客户里一堆这样的你以为我不知道怎么回事吗 他们倒也和你一样不把我当女的；不过想来你也不不需要考虑这些就是了 带着你的女心赶紧滚吧你也不配当我同类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061469514324414636",
+        "created_at": "2026-06-01T16:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061492763598725478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1082666583846137856",
+              "start": 0,
+              "username": "shiori_1617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061492763598725478",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061491887957999651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiori_1617 并且我客户里一堆这样的你以为我不知道怎么回事吗 他们倒也和你一样不把我当女的；不过想来你也不不需要考虑这些就是了 带着你的女心赶紧滚吧你也不配当我同类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061469514324414636",
+        "created_at": "2026-06-01T16:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061491887957999651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1082666583846137856",
+              "start": 0,
+              "username": "shiori_1617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061491887957999651",
+        "in_reply_to_user_id": "1082666583846137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061473234986672618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiori_1617 我说了我现在已经不这么想了 你好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 447,
+          "like_count": 849,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T15:53:23.000Z",
+        "description": "うつ病九年生 　  「世界」という名の大きな傷に住んでる住民",
+        "id": "1082666583846137856",
+        "name": "🏴 しおり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859284580181868547/dpYvBO_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 689,
+          "like_count": 23064,
+          "listed_count": 10,
+          "media_count": 24,
+          "tweet_count": 4082
+        },
+        "username": "shiori_1617",
+        "verified": false
+      }
+    ]
+  }
+}

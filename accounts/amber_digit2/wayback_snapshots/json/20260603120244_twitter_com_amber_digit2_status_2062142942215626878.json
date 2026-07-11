@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062142942215626878",
+    "created_at": "2026-06-03T12:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062142942215626878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/transinacademi…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/transinacademia/status/1749481230645522854",
+          "start": 7,
+          "url": "https://t.co/bMufenc52k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062142942215626878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1749481230645522854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我想继续做。 https://t.co/bMufenc52k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_1749479639343374336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEdmdnzXIAAlFwa.png",
+        "width": 3672
+      },
+      {
+        "height": 2376,
+        "media_key": "3_1749479652937064448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEdmeacWYAACtDJ.png",
+        "width": 3672
+      },
+      {
+        "height": 2376,
+        "media_key": "3_1749479671383678978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEdmffKXYAInKcU.png",
+        "width": 3672
+      },
+      {
+        "height": 2376,
+        "media_key": "3_1749479685136809984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEdmgSZXgAA--2y.png",
+        "width": 3672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062142942215626878",
+        "created_at": "2026-06-03T12:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062142942215626878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transinacademi…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/transinacademia/status/1749481230645522854",
+              "start": 7,
+              "url": "https://t.co/bMufenc52k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062142942215626878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749481230645522854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我想继续做。 https://t.co/bMufenc52k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1749479639343374336",
+            "3_1749479652937064448",
+            "3_1749479671383678978",
+            "3_1749479685136809984"
+          ]
+        },
+        "author_id": "1738303196693426176",
+        "conversation_id": "1749481230645522854",
+        "created_at": "2024-01-22T17:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-22T18:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1749481230645522854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1738303196693426176",
+              "start": 65,
+              "username": "transinacademia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTslbqiNNN",
+              "end": 181,
+              "expanded_url": "https://x.com/transinacademia/status/1749481230645522854/photo/1",
+              "media_key": "3_1749479639343374336",
+              "start": 158,
+              "url": "https://t.co/DTslbqiNNN"
+            },
+            {
+              "display_url": "pic.x.com/DTslbqiNNN",
+              "end": 181,
+              "expanded_url": "https://x.com/transinacademia/status/1749481230645522854/photo/1",
+              "media_key": "3_1749479652937064448",
+              "start": 158,
+              "url": "https://t.co/DTslbqiNNN"
+            },
+            {
+              "display_url": "pic.x.com/DTslbqiNNN",
+              "end": 181,
+              "expanded_url": "https://x.com/transinacademia/status/1749481230645522854/photo/1",
+              "media_key": "3_1749479671383678978",
+              "start": 158,
+              "url": "https://t.co/DTslbqiNNN"
+            },
+            {
+              "display_url": "pic.x.com/DTslbqiNNN",
+              "end": 181,
+              "expanded_url": "https://x.com/transinacademia/status/1749481230645522854/photo/1",
+              "media_key": "3_1749479685136809984",
+              "start": 158,
+              "url": "https://t.co/DTslbqiNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1749481230645522854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 103235,
+          "like_count": 285,
+          "quote_count": 21,
+          "reply_count": 12,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "各位好，「中国跨性别口述史项目」在一个多月的筹备后，终于正式启动啦！本项目由跨性别学术小组 Trans in Academia! @transinacademia 发起第一期，主题为女性倾向跨性别者和社群，目前正在招募采访者和邀请第一批叙述者。欢迎想成为采访者的朋友们私信联系本号，也欢迎各位点赞转发评论本条推文！ https://t.co/DTslbqiNNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 477,
+          "like_count": 1005,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T21:00:25.000Z",
+        "description": "分享与跨儿相关的学术动态，记录跨儿自行构建的理论视角和实践知识，帮助跨儿求学、进修、工作，以跨儿的视角发声。 A community for Chinese/Sinophone trans and gender diverse people pursuing academic and career goals.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/transinacademia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/transinacademia",
+                "start": 0,
+                "url": "https://t.co/jYTfZ5plKz"
+              }
+            ]
+          }
+        },
+        "id": "1738303196693426176",
+        "location": "tia@transinacademia.org",
+        "name": "跨儿学术小组 Trans in Academia! 🏳️‍⚧️",
+        "pinned_tweet_id": "1852657955780333982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030487904821112832/h3mjMSGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 558,
+          "like_count": 998,
+          "listed_count": 16,
+          "media_count": 50,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/jYTfZ5plKz",
+        "username": "transinacademia",
+        "verified": false
+      }
+    ]
+  }
+}

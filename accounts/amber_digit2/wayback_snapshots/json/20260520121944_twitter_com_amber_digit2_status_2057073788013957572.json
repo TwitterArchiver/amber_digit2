@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057073788013957572",
+    "created_at": "2026-05-20T12:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057073788013957572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1250295103840612352",
+          "start": 3,
+          "username": "MiryanSender"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057073788013957572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057064593625616514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiryanSender: 中国政府在外网舆论中已经获得了一种奇妙属性，即其所做的任何好事（甚至仅仅是姿态而没有内容）都会被放大、善意化地解读，任何恶行都会被downplay成背景板忽视。可悲的是东亚meritocracy在网络民粹时代的反差带来的观感优势，真的让不少人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057073788013957572",
+        "created_at": "2026-05-20T12:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057073788013957572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1250295103840612352",
+              "start": 3,
+              "username": "MiryanSender"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057073788013957572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057064593625616514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiryanSender: 中国政府在外网舆论中已经获得了一种奇妙属性，即其所做的任何好事（甚至仅仅是姿态而没有内容）都会被放大、善意化地解读，任何恶行都会被downplay成背景板忽视。可悲的是东亚meritocracy在网络民粹时代的反差带来的观感优势，真的让不少人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250295103840612352",
+        "conversation_id": "2057064593625616514",
+        "created_at": "2026-05-20T11:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057064593625616514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057064593625616514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中国政府在外网舆论中已经获得了一种奇妙属性，即其所做的任何好事（甚至仅仅是姿态而没有内容）都会被放大、善意化地解读，任何恶行都会被downplay成背景板忽视。可悲的是东亚meritocracy在网络民粹时代的反差带来的观感优势，真的让不少人把习当成理智、克制、甚至有家长式善意的“技术”官僚式统治者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 391,
+          "like_count": 557,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T05:29:27.000Z",
+        "description": "Leben und Liebe",
+        "id": "1250295103840612352",
+        "location": "Darmstadt, Germany",
+        "name": "Miryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853203045221613568/zW_dgCpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 524,
+          "like_count": 5163,
+          "listed_count": 16,
+          "media_count": 273,
+          "tweet_count": 4407
+        },
+        "username": "MiryanSender",
+        "verified": false
+      }
+    ]
+  }
+}

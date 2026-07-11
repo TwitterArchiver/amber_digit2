@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056396648670953663",
+    "created_at": "2026-05-18T15:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056396648670953663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056396648670953663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056307455693566305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: 代入想象一下 你是一个纯绿清水推主 发自己和纯爱男友的日常和照片 靠自己攒下来的钱请妈妈吃饭 没有任何盈利项目 粉丝群门槛是公益慈善 然后你的照片被人偷走冒充 在tg被冒充当几卖黄卖骚 用着你和纯爱男友的照片和名义 说你攒下来的钱是卖出来的 被骗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056307447070068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIl4unOaEAAmpeu.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056307447049170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIl4unJbMAAp6dm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056396648670953663",
+        "created_at": "2026-05-18T15:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056396648670953663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056396648670953663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056307455693566305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: 代入想象一下 你是一个纯绿清水推主 发自己和纯爱男友的日常和照片 靠自己攒下来的钱请妈妈吃饭 没有任何盈利项目 粉丝群门槛是公益慈善 然后你的照片被人偷走冒充 在tg被冒充当几卖黄卖骚 用着你和纯爱男友的照片和名义 说你攒下来的钱是卖出来的 被骗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056307447070068736",
+            "3_2056307447049170944"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056307455693566305",
+        "created_at": "2026-05-18T09:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056307455693566305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkRdPKB0FZ",
+              "end": 171,
+              "expanded_url": "https://x.com/LanziiLove/status/2056307455693566305/photo/1",
+              "media_key": "3_2056307447070068736",
+              "start": 148,
+              "url": "https://t.co/mkRdPKB0FZ"
+            },
+            {
+              "display_url": "pic.x.com/mkRdPKB0FZ",
+              "end": 171,
+              "expanded_url": "https://x.com/LanziiLove/status/2056307455693566305/photo/1",
+              "media_key": "3_2056307447049170944",
+              "start": 148,
+              "url": "https://t.co/mkRdPKB0FZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056307455693566305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6435,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "代入想象一下 你是一个纯绿清水推主 发自己和纯爱男友的日常和照片 靠自己攒下来的钱请妈妈吃饭 没有任何盈利项目 粉丝群门槛是公益慈善 然后你的照片被人偷走冒充 在tg被冒充当几卖黄卖骚 用着你和纯爱男友的照片和名义 说你攒下来的钱是卖出来的 被骗了的人跑到你的B站评论区来骂你鸡 下面贴骗子链接 https://t.co/mkRdPKB0FZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her 🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24313,
+          "following_count": 1174,
+          "like_count": 2418,
+          "listed_count": 75,
+          "media_count": 432,
+          "tweet_count": 2311
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

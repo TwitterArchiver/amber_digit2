@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Florida",
+          "id": "855436277054750722",
+          "name": "Florida"
+        }
+      }
+    ],
+    "conversation_id": "2056692923127697775",
+    "created_at": "2026-05-19T11:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056692923127697775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "27542231",
+          "start": 3,
+          "username": "Souvie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056692923127697775",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1039
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056519828350087638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Souvie: Almost 2,000 people were just completely disappeared here, but it feels like everything about it has been purged from collectiv…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2056692923127697775",
+        "created_at": "2026-05-19T11:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056692923127697775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "27542231",
+              "start": 3,
+              "username": "Souvie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056692923127697775",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1039
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056519828350087638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Souvie: Almost 2,000 people were just completely disappeared here, but it feels like everything about it has been purged from collectiv…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "27542231",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2056519828350087638",
+        "created_at": "2026-05-18T23:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056519828350087638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gop__ls/status…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/gop__ls/status/2055680821873291519",
+              "start": 136,
+              "url": "https://t.co/SJ9jdLRk6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056519828350087638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 63422,
+          "like_count": 5173,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 1039
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055680821873291519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Almost 2,000 people were just completely disappeared here, but it feels like everything about it has been purged from collective memory https://t.co/SJ9jdLRk6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 335,
+          "like_count": 370,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-30T00:29:49.000Z",
+        "description": "☭ ML | 🇱🇦🇻🇳 | Lao PDR patriot | powerlifter | 🎻| Eng/ລາວ | she/they",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/souvie",
+                "end": 23,
+                "expanded_url": "http://patreon.com/c/souvie",
+                "start": 0,
+                "url": "https://t.co/irq1GSN2xQ"
+              }
+            ]
+          }
+        },
+        "id": "27542231",
+        "location": "Lao People's Democratic Republ",
+        "name": "ສະຫາຍ ສຸວິ 🇱🇦🇵🇸‧₊˚ ✮⋆˙",
+        "pinned_tweet_id": "2047709249455951878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854998618522161152/3KI2Zgd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4757,
+          "following_count": 636,
+          "like_count": 175639,
+          "listed_count": 24,
+          "media_count": 9807,
+          "tweet_count": 80584
+        },
+        "url": "https://t.co/irq1GSN2xQ",
+        "username": "Souvie",
+        "verified": false
+      }
+    ]
+  }
+}

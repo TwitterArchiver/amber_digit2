@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056461717257736683",
+    "created_at": "2026-05-18T19:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056461717257736683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2005724660227530754",
+          "start": 3,
+          "username": "dolljointsangel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056461717257736683",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056451074177827237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dolljointsangel: The specific foundation of autogynephilia is to monsterize transfeminine desire and trans women's sexualities. \"AGP\" a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056461717257736683",
+        "created_at": "2026-05-18T19:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056461717257736683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2005724660227530754",
+              "start": 3,
+              "username": "dolljointsangel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056461717257736683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056451074177827237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dolljointsangel: The specific foundation of autogynephilia is to monsterize transfeminine desire and trans women's sexualities. \"AGP\" a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005724660227530754",
+        "conversation_id": "2056451074177827237",
+        "created_at": "2026-05-18T19:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056451074177827237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1JAN1583/statu…",
+              "end": 293,
+              "expanded_url": "https://twitter.com/1JAN1583/status/2056434878409789745",
+              "start": 270,
+              "url": "https://t.co/Mtsgrws5AQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056451074177827237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056434878409789745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The specific foundation of autogynephilia is to monsterize transfeminine desire and trans women's sexualities. \"AGP\" and \"HSTS\" are a result of cissexual society's morbid need to rationalize (and at the same time pathologize) any and all forms of non normative desires. https://t.co/Mtsgrws5AQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 323,
+          "like_count": 308,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T19:37:14.000Z",
+        "description": "🏔️ she/her ✨Angelic Lesbian Girlmess🫀currently looking for my lost oomfs | it/eng",
+        "id": "2005724660227530754",
+        "location": "Garden of Deep Purple",
+        "name": "Angela🪽🌥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005726709480333312/sf8HEOBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 223,
+          "like_count": 3105,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3451
+        },
+        "username": "dolljointsangel",
+        "verified": false
+      }
+    ]
+  }
+}

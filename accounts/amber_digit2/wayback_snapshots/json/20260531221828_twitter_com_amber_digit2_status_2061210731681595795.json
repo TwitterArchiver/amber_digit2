@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061210731681595795",
+    "created_at": "2026-05-31T22:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061210731681595795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koalaengine/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/koalaengine/status/2060992318497501217",
+          "start": 55,
+          "url": "https://t.co/nxHW5Ymd66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061210731681595795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060992318497501217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前说过了，这类问题的标准答案是「选择最不容易给别人添麻烦的那个选项」，这个选项对你而言意味着什么可以自己想 https://t.co/nxHW5Ymd66"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061210731681595795",
+        "created_at": "2026-05-31T22:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061210731681595795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koalaengine/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/koalaengine/status/2060992318497501217",
+              "start": 55,
+              "url": "https://t.co/nxHW5Ymd66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061210731681595795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060992318497501217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前说过了，这类问题的标准答案是「选择最不容易给别人添麻烦的那个选项」，这个选项对你而言意味着什么可以自己想 https://t.co/nxHW5Ymd66"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060992315586732032"
+          ]
+        },
+        "author_id": "2055438029230309376",
+        "conversation_id": "2060992318497501217",
+        "created_at": "2026-05-31T07:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060992318497501217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060992318497501217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8959,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "SRS前的MTF们，假设这样一个场景\n\n现在你女装在外面逛，喝了很多水，现在不得不去厕所\n\n但是这个地方只有女厕和男厕，并没有第三卫生间，且你已经憋得快忍不住了，难以前往另一个厕所。\n\n那么你的选择偏向是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 430,
+          "like_count": 748,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan | bestie @senzhiwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057804399473574329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 41,
+          "like_count": 811,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

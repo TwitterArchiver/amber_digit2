@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2052785207082696916",
+    "created_at": "2026-05-08T16:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052787034255720863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445431297690714121",
+          "start": 0,
+          "username": "RtlSecureZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052787034255720863",
+    "in_reply_to_user_id": "1445431297690714121",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786711168733451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RtlSecureZero offer illegal goods &amp; services"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052785207082696916",
+        "created_at": "2026-05-08T16:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052787034255720863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445431297690714121",
+              "start": 0,
+              "username": "RtlSecureZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052787034255720863",
+        "in_reply_to_user_id": "1445431297690714121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786711168733451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RtlSecureZero offer illegal goods &amp; services"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445431297690714121",
+        "conversation_id": "2052785207082696916",
+        "created_at": "2026-05-08T16:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052786711168733451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786711168733451",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052785207082696916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 有申诉吗？X没有解释原因吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "",
+        "id": "2041159531657416704",
+        "name": "amber.nova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041964308909965312/hKF-bPyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 279
+        },
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-05T16:51:20.000Z",
+        "description": "修仙不成的大龄人夫，非典型性药娘。尬聊的、打算白嫖的勿扰。",
+        "id": "1445431297690714121",
+        "name": "零陆玖CD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721219361170665472/8FNoR6iP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1687,
+          "like_count": 341,
+          "listed_count": 8,
+          "media_count": 74,
+          "tweet_count": 433
+        },
+        "username": "RtlSecureZero",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062498472704528602",
+    "created_at": "2026-06-04T11:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062498472704528602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "115110146",
+          "start": 3,
+          "username": "naledimashishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062498472704528602",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3079
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062193520207650853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naledimashishi: A Chinese-owned copper mine spilled so much waste into a river in Zambia that it effectively killed it and then tried t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062498472704528602",
+        "created_at": "2026-06-04T11:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062498472704528602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "115110146",
+              "start": 3,
+              "username": "naledimashishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062498472704528602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3079
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062193520207650853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naledimashishi: A Chinese-owned copper mine spilled so much waste into a river in Zambia that it effectively killed it and then tried t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "115110146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          }
+        ],
+        "conversation_id": "2062193520207650853",
+        "created_at": "2026-06-03T15:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062193520207650853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cybxrartist/st…",
+              "end": 296,
+              "expanded_url": "https://twitter.com/cybxrartist/status/2061814059629252830",
+              "start": 273,
+              "url": "https://t.co/xLaxlwBrws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062193520207650853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 908,
+          "impression_count": 170205,
+          "like_count": 13396,
+          "quote_count": 15,
+          "reply_count": 15,
+          "retweet_count": 3079
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061814059629252830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A Chinese-owned copper mine spilled so much waste into a river in Zambia that it effectively killed it and then tried to cover it up 🙃 also a major reason Somali pirates exist is because China overfished their coastlines leaving fishermen with no way to support themselves https://t.co/xLaxlwBrws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 496,
+          "like_count": 1156,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-17T16:55:49.000Z",
+        "description": "Reporter @DailyMaverick. M&G 200 Young South African 2022. Horror nerd and author of ‘Invisible Strings’. Views my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "DailyMaverick"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.substack.com/pub/naledimash…",
+                "end": 23,
+                "expanded_url": "https://open.substack.com/pub/naledimashishi",
+                "start": 0,
+                "url": "https://t.co/nAsnXPitCF"
+              }
+            ]
+          }
+        },
+        "id": "115110146",
+        "location": "Johannesburg, South Africa",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987247066905563136/4wvBzSQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50562,
+          "following_count": 3525,
+          "like_count": 259559,
+          "listed_count": 116,
+          "media_count": 2360,
+          "tweet_count": 187915
+        },
+        "url": "https://t.co/nAsnXPitCF",
+        "username": "naledimashishi",
+        "verified": false
+      }
+    ]
+  }
+}

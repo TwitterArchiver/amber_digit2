@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061343499447144735",
+    "created_at": "2026-06-01T07:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061346271588233402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846949815755984897",
+          "start": 0,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061346271588233402",
+    "in_reply_to_user_id": "1846949815755984897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061343499447144735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miller239374 你这个是terf逻辑，最后反而是在捍卫性（“本体”）这个概念的纯洁性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061343499447144735",
+        "created_at": "2026-06-01T07:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061346271588233402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846949815755984897",
+              "start": 0,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061346271588233402",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061343499447144735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miller239374 你这个是terf逻辑，最后反而是在捍卫性（“本体”）这个概念的纯洁性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846949815755984897",
+        "conversation_id": "2061343499447144735",
+        "created_at": "2026-06-01T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061343499447144735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2061269665650032796",
+              "start": 48,
+              "url": "https://t.co/rBwGpX0LcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061343499447144735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061269665650032796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只改一个字就够了，“变征手术”，变的是性征而不是性别，变的是属性而不是本体，这才是认识论翻转。 https://t.co/rBwGpX0LcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 437,
+          "like_count": 814,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "“当下时间的每一瞬光阴，都是弥赛亚侧身而入的窄门。”|\n左翼尼采主义 | 交叉性女权主义 | 自由意志社会主义 |\n用 伊/伊等 取代 他/她/他们/她们 作为全性别中立的中文第三人称代词",
+        "id": "1846949815755984897",
+        "location": "柠檬汁海洋",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 359,
+          "like_count": 11612,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2245
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

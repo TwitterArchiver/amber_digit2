@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062536472826089562",
+    "created_at": "2026-06-04T14:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062536472826089562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 34,
+          "id": "1605327790823317504",
+          "start": 18,
+          "username": "matthewjswalker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062536472826089562",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062536455436517424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: @matthewjswalker i am, of course, referring to the barbarism of the liberal authors who imply that there is something inh…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062536472826089562",
+        "created_at": "2026-06-04T14:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062536472826089562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 34,
+              "id": "1605327790823317504",
+              "start": 18,
+              "username": "matthewjswalker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062536472826089562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062536455436517424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: @matthewjswalker i am, of course, referring to the barbarism of the liberal authors who imply that there is something inh…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062409438565175609",
+        "created_at": "2026-06-04T14:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062536455436517424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605327790823317504",
+              "start": 0,
+              "username": "matthewjswalker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062536455436517424",
+        "in_reply_to_user_id": "1605327790823317504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062409438565175609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matthewjswalker i am, of course, referring to the barbarism of the liberal authors who imply that there is something inherently anti-queer about muslim identity, which is a deeply racist belief. which group are you referring to, i wonder?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 496,
+          "like_count": 1178,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T22:22:43.000Z",
+        "description": "Award winning shoplifter and co-host of @SCROUNGERSPOD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "SCROUNGERSPOD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/SCROUNGERS",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/SCROUNGERS",
+                "start": 0,
+                "url": "https://t.co/07rZyl7ro9"
+              }
+            ]
+          }
+        },
+        "id": "1605327790823317504",
+        "name": "Matthew Walker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367943864414208/-fWhb796_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 489,
+          "like_count": 21155,
+          "listed_count": 21,
+          "media_count": 268,
+          "tweet_count": 4348
+        },
+        "url": "https://t.co/07rZyl7ro9",
+        "username": "matthewjswalker",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061109215024799749"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061109220129292673",
+    "created_at": "2026-05-31T15:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061109220129292673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oZAplmMFs",
+          "end": 34,
+          "expanded_url": "https://x.com/amber_digit2/status/2061109220129292673/photo/1",
+          "media_key": "3_2061109215024799749",
+          "start": 11,
+          "url": "https://t.co/9oZAplmMFs"
+        },
+        {
+          "display_url": "x.com/april940427/st…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/april940427/status/2060872511919992919",
+          "start": 35,
+          "url": "https://t.co/QJ50rFzBfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061109220129292673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060872511919992919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来展示一下我的竹竿 https://t.co/9oZAplmMFs https://t.co/QJ50rFzBfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061109215024799749",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqH6SzWYAUzFaO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060872501589327872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmwnwiaQAAAL08.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061109215024799749"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061109220129292673",
+        "created_at": "2026-05-31T15:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061109220129292673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oZAplmMFs",
+              "end": 34,
+              "expanded_url": "https://x.com/amber_digit2/status/2061109220129292673/photo/1",
+              "media_key": "3_2061109215024799749",
+              "start": 11,
+              "url": "https://t.co/9oZAplmMFs"
+            },
+            {
+              "display_url": "x.com/april940427/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/april940427/status/2060872511919992919",
+              "start": 35,
+              "url": "https://t.co/QJ50rFzBfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061109220129292673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060872511919992919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来展示一下我的竹竿 https://t.co/9oZAplmMFs https://t.co/QJ50rFzBfu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060872501589327872"
+          ]
+        },
+        "author_id": "1940588552485761024",
+        "conversation_id": "2060872511919992919",
+        "created_at": "2026-05-30T23:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060872511919992919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIB0Jrzmb6",
+              "end": 36,
+              "expanded_url": "https://x.com/april940427/status/2060872511919992919/photo/1",
+              "media_key": "3_2060872501589327872",
+              "start": 13,
+              "url": "https://t.co/SIB0Jrzmb6"
+            },
+            {
+              "display_url": "x.com/april940427/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/april940427/status/2060551877117550633",
+              "start": 37,
+              "url": "https://t.co/TGyrr8W5E2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060872511919992919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1990,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060551877117550633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补张旧图，展示一下肌肉量 https://t.co/SIB0Jrzmb6 https://t.co/TGyrr8W5E2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🪼",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 426,
+          "like_count": 731,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T01:49:09.000Z",
+        "description": "Amateur photographer.📷\ncapturing moments in life. \nWelcome chat with me.",
+        "id": "1940588552485761024",
+        "location": "山海关外",
+        "name": "Aprille",
+        "pinned_tweet_id": "2044401391926722855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947217503773446144/-XymI0Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 598,
+          "like_count": 6129,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 6240
+        },
+        "username": "april940427",
+        "verified": false
+      }
+    ]
+  }
+}

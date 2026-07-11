@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057293441797669220",
+    "created_at": "2026-05-21T02:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057293441797669220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727838123613110272",
+          "start": 3,
+          "username": "angyo258806"
+        },
+        {
+          "end": 27,
+          "id": "1406493214803120135",
+          "start": 17,
+          "username": "teanalife"
+        },
+        {
+          "end": 41,
+          "id": "759889140519411712",
+          "start": 28,
+          "username": "bloomfilters"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057293441797669220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057292424343363682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angyo258806: @teanalife @bloomfilters I still need to play it, but loner_dog won the toxic yuri vn jam last year (judges included multi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057293441797669220",
+        "created_at": "2026-05-21T02:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057293441797669220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727838123613110272",
+              "start": 3,
+              "username": "angyo258806"
+            },
+            {
+              "end": 27,
+              "id": "1406493214803120135",
+              "start": 17,
+              "username": "teanalife"
+            },
+            {
+              "end": 41,
+              "id": "759889140519411712",
+              "start": 28,
+              "username": "bloomfilters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057293441797669220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057292424343363682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angyo258806: @teanalife @bloomfilters I still need to play it, but loner_dog won the toxic yuri vn jam last year (judges included multi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727838123613110272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1393304097059598337",
+              "name": "itch.io"
+            }
+          }
+        ],
+        "conversation_id": "2057285971062693913",
+        "created_at": "2026-05-21T02:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057292424343363682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406493214803120135",
+              "start": 0,
+              "username": "teanalife"
+            },
+            {
+              "end": 24,
+              "id": "759889140519411712",
+              "start": 11,
+              "username": "bloomfilters"
+            }
+          ],
+          "urls": [
+            {
+              "description": "the air reeks of dead dogs. Available for Windows, macOS, Linux, Android",
+              "display_url": "snekofspice.itch.io/loner-dog",
+              "end": 305,
+              "expanded_url": "https://snekofspice.itch.io/loner-dog",
+              "images": [
+                {
+                  "height": 254,
+                  "url": "https://pbs.twimg.com/news_img/2056201683516968960/_gwR_Dr1?format=png&name=orig",
+                  "width": 508
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056201683516968960/_gwR_Dr1?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 282,
+              "status": 200,
+              "title": "LONER_DOG://Snuff Puppy Carnage Society by Snek RK",
+              "unwound_url": "https://snekofspice.itch.io/loner-dog",
+              "url": "https://t.co/fs3MuG642N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057292424343363682",
+        "in_reply_to_user_id": "1406493214803120135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057288218249204186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teanalife @bloomfilters I still need to play it, but loner_dog won the toxic yuri vn jam last year (judges included multiple trans women) and I've had trans girl friends praise it. The yuri vn scene on itchio has many trans women devs actually, many prolific ones were in this jam\nhttps://t.co/fs3MuG642N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 405,
+          "like_count": 636,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T23:56:00.000Z",
+        "description": "🔞 20s, My hobby is yuri.\nyoutube: https://t.co/ZtCZV2mrHu\nNeocities: https://t.co/jObMH1qq6N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCJ6nr…",
+                "end": 57,
+                "expanded_url": "https://m.youtube.com/channel/UCJ6nr59IQ2pv8fUCBGcMmDA",
+                "start": 34,
+                "url": "https://t.co/ZtCZV2mrHu"
+              },
+              {
+                "display_url": "yuri-angyo.neocities.org",
+                "end": 92,
+                "expanded_url": "https://yuri-angyo.neocities.org/",
+                "start": 69,
+                "url": "https://t.co/jObMH1qq6N"
+              }
+            ]
+          }
+        },
+        "id": "1727838123613110272",
+        "location": "No",
+        "name": "angyo",
+        "pinned_tweet_id": "2051082705236795476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032680182813794304/DZcfsKNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 437,
+          "like_count": 191858,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 16816
+        },
+        "username": "angyo258806",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T06:04:55.000Z",
+        "description": "no more body politics 2026 || https://t.co/gDBSfOj59s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxd.it/bCLtP",
+                "end": 53,
+                "expanded_url": "https://boxd.it/bCLtP",
+                "start": 30,
+                "url": "https://t.co/gDBSfOj59s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "teanna.straw.page",
+                "end": 23,
+                "expanded_url": "http://teanna.straw.page",
+                "start": 0,
+                "url": "https://t.co/jYPvxphudm"
+              }
+            ]
+          }
+        },
+        "id": "1406493214803120135",
+        "location": "she/her || 22 || black",
+        "name": "teanna ⚢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969373764111544320/JX79gqfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 172,
+          "like_count": 61928,
+          "listed_count": 4,
+          "media_count": 972,
+          "tweet_count": 6102
+        },
+        "url": "https://t.co/jYPvxphudm",
+        "username": "teanalife",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-31T23:11:03.000Z",
+        "description": "✨ ash ☁️ they/she lesbian 29 ☁️ 𑂦𑂷𑂔𑂣𑂳𑂩𑂱𑂨𑂰 s. asian diaspora en/fr ☁️ edit @negationmag ✨️ public 🦋➡️ bloomfilters . plus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "negationmag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloomfilters.neocities.org",
+                "end": 23,
+                "expanded_url": "https://bloomfilters.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/IJNFSNzM93"
+              }
+            ]
+          }
+        },
+        "id": "759889140519411712",
+        "location": "toronto anishinaabewaki ",
+        "name": "🪸🍄👁 @ on bsky ➡️🦋",
+        "pinned_tweet_id": "1960491965230797162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510080057611587586/kMhuBUmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30481,
+          "following_count": 3997,
+          "like_count": 171742,
+          "listed_count": 110,
+          "media_count": 6123,
+          "tweet_count": 150196
+        },
+        "url": "https://t.co/IJNFSNzM93",
+        "username": "bloomfilters",
+        "verified": false
+      }
+    ]
+  }
+}

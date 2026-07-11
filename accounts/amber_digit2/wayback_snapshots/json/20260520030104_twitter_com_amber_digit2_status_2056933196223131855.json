@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054651547137573088",
+    "created_at": "2026-05-20T03:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056933196223131855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292713592777838597",
+          "start": 0,
+          "username": "MiscanthusFugax"
+        },
+        {
+          "end": 29,
+          "id": "914028453174796293",
+          "start": 17,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056933196223131855",
+    "in_reply_to_user_id": "1292713592777838597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056931458187452737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiscanthusFugax @Ajisai1207_ 那好像不太可能出现这种状况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054651547137573088",
+        "created_at": "2026-05-20T03:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056933196223131855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292713592777838597",
+              "start": 0,
+              "username": "MiscanthusFugax"
+            },
+            {
+              "end": 29,
+              "id": "914028453174796293",
+              "start": 17,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056933196223131855",
+        "in_reply_to_user_id": "1292713592777838597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056931458187452737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiscanthusFugax @Ajisai1207_ 那好像不太可能出现这种状况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292713592777838597",
+        "conversation_id": "2054651547137573088",
+        "created_at": "2026-05-20T02:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056931458187452737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            },
+            {
+              "end": 26,
+              "id": "2041159531657416704",
+              "start": 13,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056931458187452737",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056920492875874654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ @amber_digit2 啊是被剥夺了脑子的猫猫吗 我以为只是因为各种原因已经没有脑子的猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 384,
+          "like_count": 511,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-10T06:45:20.000Z",
+        "description": "“逃逃”//无立场小狗//已婚已婚已婚//清水自拍废话推/Quaker/道姑/锅性恋/不约/100% INFP 9-4-5/enby/但不是男的/性别或许是🪼//地质/语言学/音乐理论/景观建筑/植物分类/皮肤癌/数摇/手语/苦空非我/诡计逃禅/MLP/霹雳金光\n//transphobia is misogyny//",
+        "id": "1292713592777838597",
+        "location": "United States",
+        "name": "芒花桃蝉",
+        "pinned_tweet_id": "1303518437961011202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049284170619465728/CkBWUnVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1069,
+          "like_count": 22043,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 3175
+        },
+        "username": "MiscanthusFugax",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 996,
+          "like_count": 15757,
+          "listed_count": 15,
+          "media_count": 683,
+          "tweet_count": 7154
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061919339624767488"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061868549040197898",
+    "created_at": "2026-06-02T21:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T22:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061919342309061003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1502921249433223172",
+          "start": 0,
+          "username": "renzaifeizhou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IxXAhdRnza",
+          "end": 57,
+          "expanded_url": "https://x.com/amber_digit2/status/2061919342309061003/photo/1",
+          "media_key": "3_2061919339624767488",
+          "start": 34,
+          "url": "https://t.co/IxXAhdRnza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061919342309061003",
+    "in_reply_to_user_id": "1502921249433223172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061871592758718775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@renzaifeizhou 差不多，可以参考lunchables https://t.co/IxXAhdRnza"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061919339624767488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1otwHXoAA8jCo.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061919339624767488"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061868549040197898",
+        "created_at": "2026-06-02T21:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061919342309061003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1502921249433223172",
+              "start": 0,
+              "username": "renzaifeizhou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxXAhdRnza",
+              "end": 57,
+              "expanded_url": "https://x.com/amber_digit2/status/2061919342309061003/photo/1",
+              "media_key": "3_2061919339624767488",
+              "start": 34,
+              "url": "https://t.co/IxXAhdRnza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061919342309061003",
+        "in_reply_to_user_id": "1502921249433223172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061871592758718775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@renzaifeizhou 差不多，可以参考lunchables https://t.co/IxXAhdRnza"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502921249433223172",
+        "conversation_id": "2061868549040197898",
+        "created_at": "2026-06-02T18:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061871592758718775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061871592758718775",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061869025550840029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 饼干+某种廉价重口高热量酱料+泡腾片/冲剂饮料？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2668,
+          "following_count": 473,
+          "like_count": 956,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T08:15:33.000Z",
+        "description": "金色的太阳第一次高高升起，照耀着年轻的布尔什维克土地",
+        "id": "1502921249433223172",
+        "name": "高加索terek",
+        "pinned_tweet_id": "2059906182698197370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722653719379202048/bOe2uSwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 2917,
+          "like_count": 55470,
+          "listed_count": 10,
+          "media_count": 178,
+          "tweet_count": 9660
+        },
+        "username": "renzaifeizhou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061122289622519924",
+    "created_at": "2026-05-31T23:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061232656160043387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2405393725",
+          "start": 0,
+          "username": "sokyuuzenn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061232656160043387",
+    "in_reply_to_user_id": "2405393725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061160737754824928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sokyuuzenn 有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061122289622519924",
+        "created_at": "2026-05-31T23:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061232656160043387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2405393725",
+              "start": 0,
+              "username": "sokyuuzenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061232656160043387",
+        "in_reply_to_user_id": "2405393725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061160737754824928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sokyuuzenn 有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405393725",
+        "conversation_id": "2061122289622519924",
+        "created_at": "2026-05-31T18:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061160737754824928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061160737754824928",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061122289622519924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 吃多了也低血糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 430,
+          "like_count": 750,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:54:10.000Z",
+        "description": "野芳傷逝，纔覺宛在；麋杳殄夷，軫念殊深\nRLE:2003.09~2004.08\nHRT:2011.06~2011.06",
+        "id": "2405393725",
+        "name": "Ruth 翕然",
+        "pinned_tweet_id": "2059898135342915627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027753570280628224/WgaQfV1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 60,
+          "like_count": 11278,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 362
+        },
+        "username": "sokyuuzenn",
+        "verified": false
+      }
+    ]
+  }
+}

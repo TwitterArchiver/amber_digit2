@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056409668587495651",
+    "created_at": "2026-05-18T16:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056409668587495651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/im_cando/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/im_cando/status/2056196582161416340",
+          "start": 21,
+          "url": "https://t.co/KnA4g0PQJU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056409668587495651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056196582161416340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以各种宣传狼性的企业其实只是想找人当狗 https://t.co/KnA4g0PQJU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056409668587495651",
+        "created_at": "2026-05-18T16:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056409668587495651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/im_cando/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/im_cando/status/2056196582161416340",
+              "start": 21,
+              "url": "https://t.co/KnA4g0PQJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056409668587495651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056196582161416340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以各种宣传狼性的企业其实只是想找人当狗 https://t.co/KnA4g0PQJU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811616942069022720",
+        "conversation_id": "2056196582161416340",
+        "created_at": "2026-05-18T02:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056196582161416340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056196582161416340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13905,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "狼跟狗连生殖隔离都没有，就一个物种，\n狗只是狼的一个职业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 6,
+          "like_count": 12,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "希望成为艺术家，摄影专业学习中，喜欢社会科学相关研究，喜欢音乐剧，福瑞控，阿斯伯格社会化中，当朋友圈发，偶尔（经常）发点擦边，祝大家顺遂，想和大家交朋友，欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NVPe"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "name": "残冬 Cando",
+        "pinned_tweet_id": "1875899753025978446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927686835603476480/zaqoSpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10034,
+          "following_count": 1694,
+          "like_count": 29958,
+          "listed_count": 13,
+          "media_count": 530,
+          "tweet_count": 10075
+        },
+        "url": "https://t.co/97wAs4NVPe",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

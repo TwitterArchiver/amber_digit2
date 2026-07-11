@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057485741509259599",
+    "created_at": "2026-05-21T15:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057485741509259599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaosusu456/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xiaosusu456/status/2057411920345653475",
+          "start": 9,
+          "url": "https://t.co/9Iu6sUXMKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057485741509259599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057411920345653475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一条都不符合笑死 https://t.co/9Iu6sUXMKT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057485741509259599",
+        "created_at": "2026-05-21T15:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057485741509259599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosusu456/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xiaosusu456/status/2057411920345653475",
+              "start": 9,
+              "url": "https://t.co/9Iu6sUXMKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057485741509259599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057411920345653475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一条都不符合笑死 https://t.co/9Iu6sUXMKT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892789733287460864",
+        "conversation_id": "2057411920345653475",
+        "created_at": "2026-05-21T10:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057411920345653475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057411920345653475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8995,
+          "like_count": 122,
+          "quote_count": 17,
+          "reply_count": 32,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "符合天赋党的来看这里:\n1.一个月之内开始长胸的\n2.成年之前就HRT的\n3.会伪声的\n4.身高170以下的且体重处于正常BMI\n5.不怎么长喉结、胡子等男性特征的\n6.一穿女装就直接pass的\n7.手脚本来就很嫩很白的\n8.骨龄发育较晚\n9.不吃抗雄就能发育的\n10.长得本来就很可爱的\n如果符合以上4个，那你就是天赋党！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 408,
+          "like_count": 648,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 随兴互fo 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 168 cm | 58 kg | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI",
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 100,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 126
+        },
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

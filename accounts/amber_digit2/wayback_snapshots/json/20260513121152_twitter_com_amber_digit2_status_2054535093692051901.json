@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2054535093692051901",
+    "created_at": "2026-05-13T12:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054535093692051901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tponys_xiaoma/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/tponys_xiaoma/status/2054521939667079275",
+          "start": 13,
+          "url": "https://t.co/7R1NcHThys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054535093692051901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054521939667079275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就喜欢竹竿一样的筷子腿 https://t.co/7R1NcHThys"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054535093692051901",
+        "created_at": "2026-05-13T12:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054535093692051901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tponys_xiaoma/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/tponys_xiaoma/status/2054521939667079275",
+              "start": 13,
+              "url": "https://t.co/7R1NcHThys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054535093692051901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054521939667079275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就喜欢竹竿一样的筷子腿 https://t.co/7R1NcHThys"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "2054521939667079275",
+        "created_at": "2026-05-13T11:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054521939667079275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2054212775531237560",
+              "start": 15,
+              "url": "https://t.co/1IJpHFITD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054521939667079275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 196,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054212775531237560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腿就要看肉腿，就要看肉腿下蹲 https://t.co/1IJpHFITD2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "❤️ @noaayoyaoaya\n🚪 ¥150/240 ($30/50)\n📣 https://t.co/MKSz5n71Tr\n💬 https://t.co/Mu7nsgG4NQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 62,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 39,
+                "url": "https://t.co/MKSz5n71Tr"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 88,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 65,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 173,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2025526459755123078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025467292939943936/YSIaYmWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17130,
+          "following_count": 360,
+          "like_count": 5289,
+          "listed_count": 119,
+          "media_count": 722,
+          "tweet_count": 6606
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

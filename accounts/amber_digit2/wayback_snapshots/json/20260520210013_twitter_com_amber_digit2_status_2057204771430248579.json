@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057203496533770240"
+      ],
+      "media_source_tweet_id": [
+        "2057203502472946047"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2057204771430248579",
+    "created_at": "2026-05-20T21:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T22:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057204771430248579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "新头像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUMnTts45A",
+          "end": 71,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2057203502472946047/photo/1",
+          "media_key": "3_2057203496533770240",
+          "start": 48,
+          "url": "https://t.co/kUMnTts45A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057204771430248579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057203502472946047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: #新头像 大号应该永远回不来了 以后就用这个当大号吧 https://t.co/kUMnTts45A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2057203496533770240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIynrjmWQAAVNhr.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057203496533770240"
+          ],
+          "media_source_tweet_id": [
+            "2057203502472946047"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2057204771430248579",
+        "created_at": "2026-05-20T21:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057204771430248579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "新头像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUMnTts45A",
+              "end": 71,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2057203502472946047/photo/1",
+              "media_key": "3_2057203496533770240",
+              "start": 48,
+              "url": "https://t.co/kUMnTts45A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057204771430248579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057203502472946047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: #新头像 大号应该永远回不来了 以后就用这个当大号吧 https://t.co/kUMnTts45A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057203496533770240"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057203502472946047",
+        "created_at": "2026-05-20T20:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057203502472946047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUMnTts45A",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2057203502472946047/photo/1",
+              "media_key": "3_2057203496533770240",
+              "start": 27,
+              "url": "https://t.co/kUMnTts45A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057203502472946047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 大号应该永远回不来了 以后就用这个当大号吧 https://t.co/kUMnTts45A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2354,
+          "following_count": 400,
+          "like_count": 625,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 829,
+          "like_count": 3534,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 1503
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      }
+    ]
+  }
+}

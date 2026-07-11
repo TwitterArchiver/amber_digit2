@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2058010721665876278",
+    "created_at": "2026-05-23T02:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058010721665876278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y2D80355/statu…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/Y2D80355/status/2057844189010796708",
+          "start": 105,
+          "url": "https://t.co/7DZIgZxcr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058010721665876278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057844189010796708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得现在对“无条件支持self-id”这种说法的支持程度下降了很多，倒是和当事人到底是不是xx没关系，只能说大家因为经历不同可能对于同一个身份标签可能有迥然不同的理解方式，不能因为对方和你共享身份就掉以轻心 https://t.co/7DZIgZxcr9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2058010721665876278",
+        "created_at": "2026-05-23T02:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058010721665876278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Y2D80355/status/2057844189010796708",
+              "start": 105,
+              "url": "https://t.co/7DZIgZxcr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058010721665876278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057844189010796708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得现在对“无条件支持self-id”这种说法的支持程度下降了很多，倒是和当事人到底是不是xx没关系，只能说大家因为经历不同可能对于同一个身份标签可能有迥然不同的理解方式，不能因为对方和你共享身份就掉以轻心 https://t.co/7DZIgZxcr9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2057844189010796708",
+        "created_at": "2026-05-22T15:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057844189010796708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057844189010796708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1484,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🥱勃勃这事我在qq开始就是比较早发出来的了\n那时候我让进步逼骂的狗血淋头说我反跨misgender人家\n看到今天这个结局，不知道当初洗的那些人都去哪儿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤︎ @noaayoyaoaya\n★ @amber_medusozoa\n➤ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 75,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 52,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 413,
+          "like_count": 696,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 731,
+          "like_count": 5246,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 5463
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

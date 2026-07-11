@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061284867841622267",
+    "created_at": "2026-06-01T04:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061298180042465373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "343278091",
+          "start": 0,
+          "username": "shyhaimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061298180042465373",
+    "in_reply_to_user_id": "343278091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061293943397175401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyhaimao 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061284867841622267",
+        "created_at": "2026-06-01T04:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061298180042465373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "343278091",
+              "start": 0,
+              "username": "shyhaimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061298180042465373",
+        "in_reply_to_user_id": "343278091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061293943397175401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyhaimao 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343278091",
+        "conversation_id": "2061284867841622267",
+        "created_at": "2026-06-01T03:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061293943397175401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061293943397175401",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061284867841622267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 那多给你点点赞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n✨@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 431,
+          "like_count": 774,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-27T09:41:05.000Z",
+        "description": "碎碎念 / 大量自拍供应 / 🐄系女子 / Dom / 偶有 #Latex 内容 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "Latex"
+              }
+            ]
+          }
+        },
+        "id": "343278091",
+        "location": "@yaminas0",
+        "name": "紫",
+        "pinned_tweet_id": "1927758691350045153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327949313306107904/_X2CsouO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10629,
+          "following_count": 970,
+          "like_count": 1289,
+          "listed_count": 35,
+          "media_count": 376,
+          "tweet_count": 7465
+        },
+        "username": "shyhaimao",
+        "verified": true
+      }
+    ]
+  }
+}

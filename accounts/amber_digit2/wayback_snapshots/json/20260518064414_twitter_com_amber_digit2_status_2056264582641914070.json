@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056264582641914070",
+    "created_at": "2026-05-18T06:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056264582641914070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/transcircleorg…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/transcircleorg/status/2056094834189045895",
+          "start": 40,
+          "url": "https://t.co/aIgYP9KbiY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056264582641914070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056094834189045895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是类似这个的项目之前已经有人做过了 不妨先了解一下相关项目半路死掉了的原因 https://t.co/aIgYP9KbiY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056264582641914070",
+        "created_at": "2026-05-18T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056264582641914070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transcircleorg…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/transcircleorg/status/2056094834189045895",
+              "start": 40,
+              "url": "https://t.co/aIgYP9KbiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056264582641914070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056094834189045895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是类似这个的项目之前已经有人做过了 不妨先了解一下相关项目半路死掉了的原因 https://t.co/aIgYP9KbiY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055356059066466304",
+        "conversation_id": "2056094834189045895",
+        "created_at": "2026-05-17T19:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056094834189045895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 85,
+              "id": "1608637128132685825",
+              "start": 75,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056094834189045895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1400,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "注意到一些对于我们项目的讨论和批评，但过于分散。因此，特地发布这篇推文作为评论区。如果您有任何想法，疑惑，建议或批评，请您在这个推文下留言。\n\nby @nyaepheia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 293,
+          "like_count": 249,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j\nbluesky: https://t.co/pzuooxut0T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              },
+              {
+                "display_url": "bsky.app/profile/transc…",
+                "end": 112,
+                "expanded_url": "http://bsky.app/profile/transcircle.org",
+                "start": 89,
+                "url": "https://t.co/pzuooxut0T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 32,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": false
+      }
+    ]
+  }
+}

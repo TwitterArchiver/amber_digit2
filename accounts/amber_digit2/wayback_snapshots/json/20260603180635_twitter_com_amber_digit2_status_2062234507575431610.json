@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062233091653996884",
+    "created_at": "2026-06-03T18:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062234507575431610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hanshenq01/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/hanshenq01/status/1653206381011558401",
+          "start": 20,
+          "url": "https://t.co/NKB7YJizVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062234507575431610",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1653206381011558401",
+        "type": "quoted"
+      },
+      {
+        "id": "2062233944762855458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@beyondr3pairr 异曲同工 https://t.co/NKB7YJizVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1653206330969325568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvFeZiHagAAm2eJ.jpg",
+        "width": 1248
+      },
+      {
+        "height": 112,
+        "media_key": "3_2062233918380576768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6G0pTWEAAwvXA.png",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062233091653996884",
+        "created_at": "2026-06-03T18:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062234507575431610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hanshenq01/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hanshenq01/status/1653206381011558401",
+              "start": 20,
+              "url": "https://t.co/NKB7YJizVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062234507575431610",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1653206381011558401",
+            "type": "quoted"
+          },
+          {
+            "id": "2062233944762855458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@beyondr3pairr 异曲同工 https://t.co/NKB7YJizVa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1653206330969325568"
+          ]
+        },
+        "author_id": "1509529314953691137",
+        "conversation_id": "1653206381011558401",
+        "created_at": "2023-05-02T01:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-02T01:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1653206381011558401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNcWyVAtni",
+              "end": 56,
+              "expanded_url": "https://x.com/HanshenQ01/status/1653206381011558401/photo/1",
+              "media_key": "3_1653206330969325568",
+              "start": 33,
+              "url": "https://t.co/GNcWyVAtni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1653206381011558401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 49909,
+          "like_count": 207,
+          "quote_count": 13,
+          "reply_count": 19,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "关于2022.3.9武汉天街杀人案我所亲自到武汉警方那里了解的： https://t.co/GNcWyVAtni"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062233918380576768"
+          ]
+        },
+        "author_id": "1938969907548372992",
+        "conversation_id": "2062233091653996884",
+        "created_at": "2026-06-03T18:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062233944762855458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBhghFxLKF",
+              "end": 49,
+              "expanded_url": "https://x.com/beyondr3pairr/status/2062233944762855458/photo/1",
+              "media_key": "3_2062233918380576768",
+              "start": 26,
+              "url": "https://t.co/DBhghFxLKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062233944762855458",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062233091653996884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 感觉不好说是什么身份啊 https://t.co/DBhghFxLKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 487,
+          "like_count": 1071,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nmostly chinese, mostly vibes · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035584401178775552/Y64IybTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 132,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 4084
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T13:53:36.000Z",
+        "description": "i am a Red Ghost, just 21C.\nMarxist-Leninist/LGBTQ+/Psychoanalysis(Lacan)/New Left Communist ⬅\nAlso:\nQueer Worker& amateur Musician\nCyberpunk LGBT+ writer.",
+        "id": "1509529314953691137",
+        "location": "Beijing",
+        "name": "Hanan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510691232842137601/Zo-QYiOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 647,
+          "like_count": 1541,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 735
+        },
+        "username": "HanshenQ01",
+        "verified": false
+      }
+    ]
+  }
+}

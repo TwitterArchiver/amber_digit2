@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062086755386535936"
+      ],
+      "media_source_tweet_id": [
+        "2062127162023383510"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2062232138343186686",
+    "created_at": "2026-06-03T17:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062232138343186686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVxuKgzzYu",
+          "end": 42,
+          "expanded_url": "https://x.com/youy1qwq/status/2062127162023383510/photo/1",
+          "media_key": "3_2062086755386535936",
+          "start": 19,
+          "url": "https://t.co/hVxuKgzzYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062232138343186686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062127162023383510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 我是蛋挞 https://t.co/hVxuKgzzYu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2062086755386535936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4A-obaMAA56mb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062086755386535936"
+          ],
+          "media_source_tweet_id": [
+            "2062127162023383510"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062232138343186686",
+        "created_at": "2026-06-03T17:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062232138343186686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVxuKgzzYu",
+              "end": 42,
+              "expanded_url": "https://x.com/youy1qwq/status/2062127162023383510/photo/1",
+              "media_key": "3_2062086755386535936",
+              "start": 19,
+              "url": "https://t.co/hVxuKgzzYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062232138343186686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062127162023383510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 我是蛋挞 https://t.co/hVxuKgzzYu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062086755386535936"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2062127162023383510",
+        "created_at": "2026-06-03T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062127162023383510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVxuKgzzYu",
+              "end": 28,
+              "expanded_url": "https://x.com/youy1qwq/status/2062127162023383510/photo/1",
+              "media_key": "3_2062086755386535936",
+              "start": 5,
+              "url": "https://t.co/hVxuKgzzYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127162023383510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3818,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是蛋挞 https://t.co/hVxuKgzzYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 487,
+          "like_count": 1066,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13975,
+          "following_count": 2027,
+          "like_count": 4387,
+          "listed_count": 23,
+          "media_count": 1940,
+          "tweet_count": 2539
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

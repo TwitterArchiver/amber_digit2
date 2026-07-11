@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061582736674922805",
+    "created_at": "2026-06-01T22:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T23:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061582736674922805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mt3co/status/2…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mt3co/status/2061494166354542615",
+          "start": 8,
+          "url": "https://t.co/SJjAcQJ13z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061582736674922805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494166354542615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有点可怜你了 https://t.co/SJjAcQJ13z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061582736674922805",
+        "created_at": "2026-06-01T22:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061582736674922805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mt3co/status/2…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mt3co/status/2061494166354542615",
+              "start": 8,
+              "url": "https://t.co/SJjAcQJ13z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061582736674922805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494166354542615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有点可怜你了 https://t.co/SJjAcQJ13z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267711514380664833",
+        "conversation_id": "2061434559963463899",
+        "created_at": "2026-06-01T17:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061494166354542615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494166354542615",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061434559963463899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 就做题怎么了？\n做题的本质不是划分人的阶级高低，而是生产的活动。\n就你一张嘴，在这说有什么用？\n我也可以说你这套信息先于物质的说辞，拥趸都是群乌合之众。\n哪怕政权的运作也要靠绩效合法性来维持，只会念经有什么用？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa 💖@amber_digit\n☕️https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "amber_digit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2582,
+          "following_count": 449,
+          "like_count": 862,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-02T06:56:07.000Z",
+        "description": "不愿自毁的青年",
+        "id": "1267711514380664833",
+        "name": "并肩茫茫原野荒2025",
+        "pinned_tweet_id": "1634568366886354944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623335705115250693/NrNWkjr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 861,
+          "like_count": 15998,
+          "listed_count": 6,
+          "media_count": 429,
+          "tweet_count": 7926
+        },
+        "username": "Mt3cO",
+        "verified": false
+      }
+    ]
+  }
+}

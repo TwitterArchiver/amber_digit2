@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2068407299148857545",
+    "created_at": "2026-06-20T18:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068407299148857545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1019128153241866242",
+          "start": 3,
+          "username": "Ferosan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068407299148857545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068275566306849233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ferosan_: European Conference on Politics and Gender（ニューキャッスル大学）で、中国のトランスに対する監禁と「矯正」とその反抗について、先日 Míngjué Xiè 様とともに報告しました。\nスライドは後日、日本語に訳…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068275540532854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP9pVsXAAA7ro-.jpg",
+        "width": 770
+      },
+      {
+        "height": 576,
+        "media_key": "3_2068275549391253504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP9p2sXcAAWOx8.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068407299148857545",
+        "created_at": "2026-06-20T18:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068407299148857545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1019128153241866242",
+              "start": 3,
+              "username": "Ferosan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068407299148857545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068275566306849233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ferosan_: European Conference on Politics and Gender（ニューキャッスル大学）で、中国のトランスに対する監禁と「矯正」とその反抗について、先日 Míngjué Xiè 様とともに報告しました。\nスライドは後日、日本語に訳…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068275540532854784",
+            "3_2068275549391253504"
+          ]
+        },
+        "author_id": "1019128153241866242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068275566306849233",
+        "created_at": "2026-06-20T10:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068275566306849233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1nNieUgyf",
+              "end": 167,
+              "expanded_url": "https://x.com/Ferosan_/status/2068275566306849233/photo/1",
+              "media_key": "3_2068275540532854784",
+              "start": 144,
+              "url": "https://t.co/B1nNieUgyf"
+            },
+            {
+              "display_url": "pic.x.com/B1nNieUgyf",
+              "end": 167,
+              "expanded_url": "https://x.com/Ferosan_/status/2068275566306849233/photo/1",
+              "media_key": "3_2068275549391253504",
+              "start": 144,
+              "url": "https://t.co/B1nNieUgyf"
+            },
+            {
+              "display_url": "x.com/Ferosan_/statu…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Ferosan_/status/2060280057915130352",
+              "start": 168,
+              "url": "https://t.co/60R6IadWfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068275566306849233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 8884,
+          "like_count": 136,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060280057915130352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "European Conference on Politics and Gender（ニューキャッスル大学）で、中国のトランスに対する監禁と「矯正」とその反抗について、先日 Míngjué Xiè 様とともに報告しました。\nスライドは後日、日本語に訳してTwitterに載せる予定です。 https://t.co/B1nNieUgyf https://t.co/60R6IadWfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 513,
+          "like_count": 1287,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-17T07:54:20.000Z",
+        "description": "Felinya / 遊ぶ、考える、書く / あなたのとなりにいる異邦人 / 残酷な町ほど綺麗な虹が立つ / 🐚",
+        "id": "1019128153241866242",
+        "location": "🟪⬜🟩 もしくは「ご自由に」",
+        "name": "ふぇりーにゃ",
+        "pinned_tweet_id": "2060280057915130352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892100557541867523/Ng-6Q9RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 3958,
+          "like_count": 150251,
+          "listed_count": 8,
+          "media_count": 1394,
+          "tweet_count": 29231
+        },
+        "url": "",
+        "username": "Ferosan_",
+        "verified": false
+      }
+    ]
+  }
+}

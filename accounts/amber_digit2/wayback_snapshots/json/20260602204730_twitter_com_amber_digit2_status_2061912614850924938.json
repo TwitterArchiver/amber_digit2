@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2061912614850924938",
+    "created_at": "2026-06-02T20:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061912614850924938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1867977015481294849",
+          "start": 3,
+          "username": "celluloidslime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061912614850924938",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061809738904441187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @celluloidslime: dreamcore was invented in 1992 by Barry Levinson"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061912614850924938",
+        "created_at": "2026-06-02T20:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061912614850924938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1867977015481294849",
+              "start": 3,
+              "username": "celluloidslime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061912614850924938",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061809738904441187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @celluloidslime: dreamcore was invented in 1992 by Barry Levinson"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867977015481294849",
+        "conversation_id": "2061809738904441187",
+        "created_at": "2026-06-02T13:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061809738904441187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/serpentinedumb…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/serpentinedumb1/status/2061632703057785107",
+              "start": 49,
+              "url": "https://t.co/AuXXi9fjko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061809738904441187",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 13775,
+          "like_count": 666,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061632703057785107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dreamcore was invented in 1992 by Barry Levinson https://t.co/AuXXi9fjko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 473,
+          "like_count": 939,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T16:56:55.000Z",
+        "description": "the last real 0 likes poster left on planet earth\n\n#DePalmaSummer",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 51,
+                "tag": "DePalmaSummer"
+              }
+            ]
+          }
+        },
+        "id": "1867977015481294849",
+        "location": "Hollywood",
+        "name": "S🍋‍🟩",
+        "pinned_tweet_id": "2034808520479060311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038415237968191489/b0FTM1ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 237,
+          "like_count": 16859,
+          "listed_count": 1,
+          "media_count": 1316,
+          "tweet_count": 6509
+        },
+        "username": "celluloidslime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2056175568928838021",
+    "created_at": "2026-05-18T00:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056175568928838021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1650562179668795392",
+          "start": 3,
+          "username": "mokeymokey725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056175568928838021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056110992363569624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokeymokey725: 答案是向来如此。不必制造一种“过去不这样”的幻境……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056175568928838021",
+        "created_at": "2026-05-18T00:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056175568928838021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1650562179668795392",
+              "start": 3,
+              "username": "mokeymokey725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056175568928838021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056110992363569624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokeymokey725: 答案是向来如此。不必制造一种“过去不这样”的幻境……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650562179668795392",
+        "conversation_id": "2056110992363569624",
+        "created_at": "2026-05-17T20:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056110992363569624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minowagin2952/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/minowagin2952/status/2055973550381482312",
+              "start": 27,
+              "url": "https://t.co/rulSYjSVUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056110992363569624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055973550381482312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "答案是向来如此。不必制造一种“过去不这样”的幻境…… https://t.co/rulSYjSVUY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 271,
+          "like_count": 204,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T18:07:52.000Z",
+        "description": "¿",
+        "id": "1650562179668795392",
+        "name": "随风飘飘游×毁灭不死鸟魔侠",
+        "pinned_tweet_id": "1975338520836514110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982669043501875200/7NL0S1xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 81,
+          "like_count": 81,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 14088
+        },
+        "username": "mokeymokey725",
+        "verified": false
+      }
+    ]
+  }
+}
