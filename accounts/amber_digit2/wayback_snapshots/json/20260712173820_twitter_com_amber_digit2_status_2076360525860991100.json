@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2076091484462367176",
+    "created_at": "2026-07-12T17:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076360525860991100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542529354042712064",
+          "start": 0,
+          "username": "MEOWLITSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076360525860991100",
+    "in_reply_to_user_id": "1542529354042712064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076359507685576903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEOWLITSU 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2076091484462367176",
+        "created_at": "2026-07-12T17:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076360525860991100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542529354042712064",
+              "start": 0,
+              "username": "MEOWLITSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076360525860991100",
+        "in_reply_to_user_id": "1542529354042712064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076359507685576903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEOWLITSU 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542529354042712064",
+        "conversation_id": "2076091484462367176",
+        "created_at": "2026-07-12T17:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076359507685576903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076359507685576903",
+        "in_reply_to_user_id": "1542529354042712064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076358214514626852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 你作为一个社科工作者，一个学者，想改变现状，就不能从这种定性分析入手开始思考，尤其是单纯靠头脑风暴而没有资料支撑的情况下，就会想当然。你要清楚你在干什么，你在从社群救助的角度提出建议，你的建议一定要至少有合理性，而不是脱离实际现状夸夸其谈什么国家进行民族主义动员的核心养料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3012,
+          "following_count": 513,
+          "like_count": 1355,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T15:23:59.000Z",
+        "description": "想生活在夏天不超过25摄氏度冬天不低于零下5度的地方/已满16岁/poly/对大姐姐没有抵抗力/摄影📷🎞️/165/60/🚪即将解放/混乱邪恶/吸毒无罪，od有理/Ⓐ🏳️‍⚧️☮️/😚😚😚气波波🥰🥰🥰",
+        "id": "1542529354042712064",
+        "location": "坎通公社",
+        "name": "喵粒子❤️🖤🏳️‍⚧️Ⓐ（胡萝卜味的🥕）",
+        "pinned_tweet_id": "1702634560578781576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009078971108085766/2bUnXeQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 3518,
+          "like_count": 46987,
+          "listed_count": 8,
+          "media_count": 207,
+          "tweet_count": 17258
+        },
+        "url": "",
+        "username": "MEOWLITSU",
+        "verified": false
+      }
+    ]
+  }
+}

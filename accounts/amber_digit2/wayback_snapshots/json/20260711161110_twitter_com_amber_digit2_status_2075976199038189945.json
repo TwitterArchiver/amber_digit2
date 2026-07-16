@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075976195137527808",
+        "3_2075976195137531904",
+        "3_2075976195141758976"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026363082",
+          "name": "Nissan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026363082",
+          "name": "Nissan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026363082",
+          "name": "Nissan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040410740",
+          "name": "Nissan - Sentra"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Sedans",
+          "id": "847529130018996224",
+          "name": "Sedans"
+        }
+      }
+    ],
+    "conversation_id": "2075976199038189945",
+    "created_at": "2026-07-11T16:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075976199038189945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KHHfbud9yO",
+          "end": 167,
+          "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+          "media_key": "3_2075976195137527808",
+          "start": 144,
+          "url": "https://t.co/KHHfbud9yO"
+        },
+        {
+          "display_url": "pic.x.com/KHHfbud9yO",
+          "end": 167,
+          "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+          "media_key": "3_2075976195137531904",
+          "start": 144,
+          "url": "https://t.co/KHHfbud9yO"
+        },
+        {
+          "display_url": "pic.x.com/KHHfbud9yO",
+          "end": 167,
+          "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+          "media_key": "3_2075976195141758976",
+          "start": 144,
+          "url": "https://t.co/KHHfbud9yO"
+        },
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2075747681541165225",
+          "start": 168,
+          "url": "https://t.co/p3Iv3t7Usv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075976199038189945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075747681541165225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢小檬老师帮忙宣传。我现在卡里的钱也不够付下个月房租的一半（并且欠了两个月没交了），所以打算忍痛割爱，现低价打包出以下风火轮小车，欢迎坐标多伦多市中心的朋友来私信购买。\n\nP1-2 日系车型：$28\n共14辆，含一辆银标尼桑Sentra和一辆可开门Majorette版Nissan Z https://t.co/KHHfbud9yO https://t.co/p3Iv3t7Usv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075976195137527808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ZWblW4AAOH6R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075976195137531904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ZWblW8AAoXR0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 732,
+        "media_key": "3_2075976195141758976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ZWbmXcAA6KtU.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075976195137527808",
+            "3_2075976195137531904",
+            "3_2075976195141758976"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026363082",
+              "name": "Nissan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410740",
+              "name": "Nissan - Sentra"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Sedans",
+              "id": "847529130018996224",
+              "name": "Sedans"
+            }
+          }
+        ],
+        "conversation_id": "2075976199038189945",
+        "created_at": "2026-07-11T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075976199038189945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHHfbud9yO",
+              "end": 167,
+              "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+              "media_key": "3_2075976195137527808",
+              "start": 144,
+              "url": "https://t.co/KHHfbud9yO"
+            },
+            {
+              "display_url": "pic.x.com/KHHfbud9yO",
+              "end": 167,
+              "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+              "media_key": "3_2075976195137531904",
+              "start": 144,
+              "url": "https://t.co/KHHfbud9yO"
+            },
+            {
+              "display_url": "pic.x.com/KHHfbud9yO",
+              "end": 167,
+              "expanded_url": "https://x.com/amber_digit2/status/2075976199038189945/photo/1",
+              "media_key": "3_2075976195141758976",
+              "start": 144,
+              "url": "https://t.co/KHHfbud9yO"
+            },
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2075747681541165225",
+              "start": 168,
+              "url": "https://t.co/p3Iv3t7Usv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075976199038189945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075747681541165225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢小檬老师帮忙宣传。我现在卡里的钱也不够付下个月房租的一半（并且欠了两个月没交了），所以打算忍痛割爱，现低价打包出以下风火轮小车，欢迎坐标多伦多市中心的朋友来私信购买。\n\nP1-2 日系车型：$28\n共14辆，含一辆银标尼桑Sentra和一辆可开门Majorette版Nissan Z https://t.co/KHHfbud9yO https://t.co/p3Iv3t7Usv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2075747681541165225",
+        "created_at": "2026-07-11T01:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075747681541165225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "2041159531657416704",
+              "start": 73,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2075745521092952344",
+              "start": 119,
+              "url": "https://t.co/G7msMuim1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075747681541165225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12297,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075745521092952344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在卡里的余额只够付下个月房租的一半\n但我选择上班 而不是要跟自己吵架的人给自己打钱\n我为之前真的觉得当事人很穷而感到了侮辱 所以我会解ban @amber_digit2 一天\n哪怕时限过了 当事人还要跟我解释啥的话 你知道怎么找到我 https://t.co/G7msMuim1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 510,
+          "like_count": 1341,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD / 沪漂就业大挑战 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12395,
+          "following_count": 242,
+          "like_count": 8199,
+          "listed_count": 37,
+          "media_count": 368,
+          "tweet_count": 9252
+        },
+        "url": "",
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}
