@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2077094232104267826",
+    "created_at": "2026-07-14T18:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077094232104267826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "98121293",
+          "start": 3,
+          "username": "AdamantxYves"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077094232104267826",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5845
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076840601484476518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdamantxYves: A trans professor got fired for giving a student the failing grade that she deserved. I still haven't forgotten that."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2077094232104267826",
+        "created_at": "2026-07-14T18:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077094232104267826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "98121293",
+              "start": 3,
+              "username": "AdamantxYves"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077094232104267826",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5845
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076840601484476518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdamantxYves: A trans professor got fired for giving a student the failing grade that she deserved. I still haven't forgotten that."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "98121293",
+        "conversation_id": "2076840601484476518",
+        "created_at": "2026-07-14T01:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076840601484476518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076840601484476518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1183,
+          "impression_count": 617639,
+          "like_count": 81185,
+          "quote_count": 35,
+          "reply_count": 88,
+          "retweet_count": 5843
+        },
+        "reply_settings": "everyone",
+        "text": "A trans professor got fired for giving a student the failing grade that she deserved. I still haven't forgotten that."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 513,
+          "like_count": 1367,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-20T12:56:59.000Z",
+        "description": "'But what we do have, we can polish. We can polish it, honey, til it blinds them.' - Duchess Milan            \n\n•      YOU WILL NEVER ERADICATE US.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cash.me/$ShonYves",
+                "end": 23,
+                "expanded_url": "https://cash.me/$ShonYves",
+                "start": 0,
+                "url": "https://t.co/6Ik9nCWSGv"
+              }
+            ]
+          }
+        },
+        "id": "98121293",
+        "location": "757, VA, DMV, NYC",
+        "name": "Yves-Angeline",
+        "pinned_tweet_id": "2075550214732005414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067065790067605504/wIDeX-wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33933,
+          "following_count": 1994,
+          "like_count": 80844,
+          "listed_count": 183,
+          "media_count": 38168,
+          "tweet_count": 518544
+        },
+        "url": "https://t.co/6Ik9nCWSGv",
+        "username": "AdamantxYves",
+        "verified": false
+      }
+    ]
+  }
+}
