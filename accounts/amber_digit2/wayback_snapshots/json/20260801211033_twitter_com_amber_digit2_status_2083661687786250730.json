@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083661674167357440",
+        "3_2083661674205073408",
+        "3_2083661674150506496"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083593590014620110",
+    "created_at": "2026-08-01T21:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083661687786250730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548826131927044097",
+          "start": 0,
+          "username": "YukikuYumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2AVnB0TNU",
+          "end": 35,
+          "expanded_url": "https://x.com/amber_digit2/status/2083661687786250730/photo/1",
+          "media_key": "3_2083661674167357440",
+          "start": 12,
+          "url": "https://t.co/h2AVnB0TNU"
+        },
+        {
+          "display_url": "pic.x.com/h2AVnB0TNU",
+          "end": 35,
+          "expanded_url": "https://x.com/amber_digit2/status/2083661687786250730/photo/1",
+          "media_key": "3_2083661674205073408",
+          "start": 12,
+          "url": "https://t.co/h2AVnB0TNU"
+        },
+        {
+          "display_url": "pic.x.com/h2AVnB0TNU",
+          "end": 35,
+          "expanded_url": "https://x.com/amber_digit2/status/2083661687786250730/photo/1",
+          "media_key": "3_2083661674150506496",
+          "start": 12,
+          "url": "https://t.co/h2AVnB0TNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083661687786250730",
+    "in_reply_to_user_id": "1548826131927044097",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083593590014620110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukikuYumi https://t.co/h2AVnB0TNU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083661674167357440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqnQMDXUAAwckl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083661674205073408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqnQMMW0AAuFuG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083661674150506496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqnQL_WMAAcqPS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083661674167357440",
+            "3_2083661674205073408",
+            "3_2083661674150506496"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083593590014620110",
+        "created_at": "2026-08-01T21:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083661687786250730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548826131927044097",
+              "start": 0,
+              "username": "YukikuYumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2AVnB0TNU",
+              "end": 35,
+              "expanded_url": "https://x.com/amber_digit2/status/2083661687786250730/photo/1",
+              "media_key": "3_2083661674167357440",
+              "start": 12,
+              "url": "https://t.co/h2AVnB0TNU"
+            },
+            {
+              "display_url": "pic.x.com/h2AVnB0TNU",
+              "end": 35,
+              "expanded_url": "https://x.com/amber_digit2/status/2083661687786250730/photo/1",
+              "media_key": "3_2083661674205073408",
+              "start": 12,
+              "url": "https://t.co/h2AVnB0TNU"
+            },
+            {
+              "display_url": "pic.x.com/h2AVnB0TNU",
+              "end": 35,
+              "expanded_url": "https://x.com/amber_digit2/status/2083661687786250730/photo/1",
+              "media_key": "3_2083661674150506496",
+              "start": 12,
+              "url": "https://t.co/h2AVnB0TNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083661687786250730",
+        "in_reply_to_user_id": "1548826131927044097",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083593590014620110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukikuYumi https://t.co/h2AVnB0TNU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548826131927044097",
+        "conversation_id": "2083593590014620110",
+        "created_at": "2026-08-01T16:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083593590014620110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "清羽梦泠.zip’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKdR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKdRRpPmRrJW",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2083593591088414720/DURjolcz?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083593591088414720/DURjolcz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 阿巴阿巴 要回小丹了🥺",
+              "unwound_url": "https://twitter.com/i/spaces/1pKdRRpPmRrJW/peek",
+              "url": "https://t.co/o8g14L0kEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083593590014620110",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o8g14L0kEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ/ ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 698,
+          "like_count": 2120,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T00:25:11.000Z",
+        "description": "01处女座🏳️‍⚧️｜178/66｜2024.08.18🍬｜le｜丹麦留子｜碎碎念：@YukikuYomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "YukikuYomi"
+              }
+            ]
+          }
+        },
+        "id": "1548826131927044097",
+        "name": "清羽梦泠.zip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844385529502003209/wypDnx8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6014,
+          "following_count": 511,
+          "like_count": 2531,
+          "listed_count": 17,
+          "media_count": 250,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "YukikuYumi",
+        "verified": false
+      }
+    ]
+  }
+}

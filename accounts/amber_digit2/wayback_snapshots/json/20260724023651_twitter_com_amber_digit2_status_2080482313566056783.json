@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080482313566056783",
+    "created_at": "2026-07-24T02:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080482313566056783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1031464854",
+          "start": 3,
+          "username": "Katauroraaa"
+        },
+        {
+          "end": 24,
+          "id": "38746080",
+          "start": 17,
+          "username": "adrusi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/CAa10oG",
+          "end": 142,
+          "start": 122,
+          "url": "https://t.co/CAa10oG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080482313566056783",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080422447669497979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Katauroraaa: @adrusi &gt;Believing China somehow was progressive on Trans rights\n\ny'all are truly drunk on propaganda https://t.co/CAa10oG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_2080422300315193344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8lD0EWkAAJHS0.png",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080482313566056783",
+        "created_at": "2026-07-24T02:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080482313566056783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1031464854",
+              "start": 3,
+              "username": "Katauroraaa"
+            },
+            {
+              "end": 24,
+              "id": "38746080",
+              "start": 17,
+              "username": "adrusi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/CAa10oG",
+              "end": 142,
+              "start": 122,
+              "url": "https://t.co/CAa10oG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080482313566056783",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080422447669497979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Katauroraaa: @adrusi &gt;Believing China somehow was progressive on Trans rights\n\ny'all are truly drunk on propaganda https://t.co/CAa10oG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080422300315193344"
+          ]
+        },
+        "author_id": "1031464854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080394829079748692",
+        "created_at": "2026-07-23T22:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080422447669497979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "38746080",
+              "start": 0,
+              "username": "adrusi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAa10oGYsq",
+              "end": 128,
+              "expanded_url": "https://x.com/Katauroraaa/status/2080422447669497979/photo/1",
+              "media_key": "3_2080422300315193344",
+              "start": 105,
+              "url": "https://t.co/CAa10oGYsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080422447669497979",
+        "in_reply_to_user_id": "38746080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2048,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080394829079748692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adrusi &gt;Believing China somehow was progressive on Trans rights\n\ny'all are truly drunk on propaganda https://t.co/CAa10oGYsq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 547,
+          "like_count": 1471,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-23T22:42:00.000Z",
+        "description": "Transgender Venezuelan-Argentinian, Twitch Affiliate, Writes news at @Criollistan. I am a deeply unserious and silly woman.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Criollistan"
+              }
+            ]
+          }
+        },
+        "id": "1031464854",
+        "location": "Buenos Aires, Argentina",
+        "name": "Kat🇻🇪🇦🇷🇺🇦🇸🇾🇬🇪🇵🇸🇨🇺🇲🇲🇮🇷🇸🇩🇹🇼",
+        "pinned_tweet_id": "2070381748886667465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070373138639003649/QjbnX3Ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7939,
+          "following_count": 3078,
+          "like_count": 202270,
+          "listed_count": 42,
+          "media_count": 7137,
+          "tweet_count": 44283
+        },
+        "url": "",
+        "username": "Katauroraaa",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-08T22:31:26.000Z",
+        "description": "not suffering from psychosis",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/autumn30fps",
+                "end": 23,
+                "expanded_url": "https://x.com/autumn30fps",
+                "start": 0,
+                "url": "https://t.co/YuHa0iB1D0"
+              }
+            ]
+          }
+        },
+        "id": "38746080",
+        "location": "sf",
+        "name": "autumn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029366864615526400/sihoCfXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4941,
+          "following_count": 1213,
+          "like_count": 69874,
+          "listed_count": 42,
+          "media_count": 1318,
+          "tweet_count": 40831
+        },
+        "url": "https://t.co/YuHa0iB1D0",
+        "username": "adrusi",
+        "verified": true
+      }
+    ]
+  }
+}

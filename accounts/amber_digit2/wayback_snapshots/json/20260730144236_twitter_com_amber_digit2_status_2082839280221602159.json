@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082503106382962942",
+    "created_at": "2026-07-30T14:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082839280221602159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747886314698280960",
+          "start": 0,
+          "username": "xijinping488"
+        },
+        {
+          "end": 24,
+          "id": "1594057062803075072",
+          "start": 14,
+          "username": "lrlilolam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082839280221602159",
+    "in_reply_to_user_id": "1747886314698280960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082709125876818301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping488 @lrlilolam 我确实能讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082503106382962942",
+        "created_at": "2026-07-30T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082839280221602159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747886314698280960",
+              "start": 0,
+              "username": "xijinping488"
+            },
+            {
+              "end": 24,
+              "id": "1594057062803075072",
+              "start": 14,
+              "username": "lrlilolam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082839280221602159",
+        "in_reply_to_user_id": "1747886314698280960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082709125876818301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping488 @lrlilolam 我确实能讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747886314698280960",
+        "conversation_id": "2082503106382962942",
+        "created_at": "2026-07-30T06:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082709125876818301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594057062803075072",
+              "start": 0,
+              "username": "lrlilolam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082709125876818301",
+        "in_reply_to_user_id": "1594057062803075072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1285,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082503106382962942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrlilolam 差点以为要开始讲主义主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 662,
+          "like_count": 1933,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T07:39:13.000Z",
+        "description": "左逼以及共产党坚定的支持者！！！😊",
+        "id": "1747886314698280960",
+        "location": "偷乐星球",
+        "name": "Spike.Speigel",
+        "pinned_tweet_id": "1761951489982156820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062049233398808576/_rM_E17y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 860,
+          "like_count": 56576,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 4051
+        },
+        "url": "",
+        "username": "xijinping488",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T19:56:44.000Z",
+        "description": "粉蛆滚 / 🌹 / 梦想是一个所有人都有尊严地活着的世界\n如果你不接受互关后被单方面取关，请不要关注\n裏人格：@SumikyouHideru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "SumikyouHideru"
+              }
+            ]
+          }
+        },
+        "id": "1594057062803075072",
+        "location": "「悪意」がない場所",
+        "name": "緑皮本子",
+        "pinned_tweet_id": "2052939253525717475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733861187803332608/K2gJDnVx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 151,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "lrlilolam",
+        "verified": false
+      }
+    ]
+  }
+}

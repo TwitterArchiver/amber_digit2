@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086917488839647232"
+      ],
+      "media_source_tweet_id": [
+        "2086917503343620146"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087128432517734770",
+    "created_at": "2026-08-11T10:46:09.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087128432517734770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1656810316653576192",
+          "start": 3,
+          "username": "shroomsocialist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMDVkmeY4y",
+          "end": 44,
+          "expanded_url": "https://x.com/shroomsocialist/status/2086917503343620146/video/1",
+          "media_key": "13_2086917488839647232",
+          "start": 21,
+          "url": "https://t.co/ZMDVkmeY4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087128432517734770",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086917488839647232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086917503343620146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shroomsocialist: https://t.co/ZMDVkmeY4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6133,
+        "height": 1280,
+        "media_key": "13_2086917488839647232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086917488839647232/img/zONUqrxs9An9mFA0.jpg",
+        "public_metrics": {
+          "view_count": 43651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086917488839647232/vid/avc1/320x568/foBws65SOzosyICq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086917488839647232/vid/avc1/480x852/yQF3mm6RtvqstIMw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086917488839647232/vid/avc1/720x1280/Kl3nzTg0ScFR_YYM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086917488839647232/pl/85m1RrGMN1sDooBV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086917488839647232"
+          ]
+        },
+        "author_id": "1656810316653576192",
+        "conversation_id": "2086917503343620146",
+        "created_at": "2026-08-10T20:48:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086917503343620146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMDVkmeY4y",
+              "end": 23,
+              "expanded_url": "https://x.com/shroomsocialist/status/2086917503343620146/video/1",
+              "media_key": "13_2086917488839647232",
+              "start": 0,
+              "url": "https://t.co/ZMDVkmeY4y"
+            },
+            {
+              "display_url": "x.com/shroomsocialis…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shroomsocialist/status/2086594585787048430",
+              "start": 24,
+              "url": "https://t.co/iQyrMefIjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086917503343620146",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086917488839647232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 109184,
+          "like_count": 3260,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086594585787048430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZMDVkmeY4y https://t.co/iQyrMefIjz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086917488839647232"
+          ],
+          "media_source_tweet_id": [
+            "2086917503343620146"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087128432517734770",
+        "created_at": "2026-08-11T10:46:09.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087128432517734770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1656810316653576192",
+              "start": 3,
+              "username": "shroomsocialist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMDVkmeY4y",
+              "end": 44,
+              "expanded_url": "https://x.com/shroomsocialist/status/2086917503343620146/video/1",
+              "media_key": "13_2086917488839647232",
+              "start": 21,
+              "url": "https://t.co/ZMDVkmeY4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087128432517734770",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086917488839647232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086917503343620146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shroomsocialist: https://t.co/ZMDVkmeY4y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087128432517734770",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4902,
+          "following_count": 805,
+          "like_count": 2994,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T23:55:46.000Z",
+        "description": "Lenin was a mushroom 🍄",
+        "id": "1656810316653576192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087080854845628586",
+        "name": "🍄 shroom socialist",
+        "pinned_tweet_id": "2082637670539227262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656810316653576192/1780103289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060528655315468290/t2ttWGgj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 2517,
+          "like_count": 29449,
+          "listed_count": 7,
+          "media_count": 309,
+          "tweet_count": 3671
+        },
+        "url": "",
+        "username": "shroomsocialist",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

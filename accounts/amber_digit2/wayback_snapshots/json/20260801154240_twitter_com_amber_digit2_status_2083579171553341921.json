@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083576541292691951",
+    "created_at": "2026-08-01T15:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083579171553341921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        },
+        {
+          "end": 29,
+          "id": "1843201902550634496",
+          "start": 13,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 39,
+          "id": "1459453832",
+          "start": 30,
+          "username": "sauricat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zh40le1zoob/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/zh40le1zoob/status/1923940183365517459",
+          "start": 45,
+          "url": "https://t.co/s1npTiqB6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083579171553341921",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923940183365517459",
+        "type": "quoted"
+      },
+      {
+        "id": "2083577030948360459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB @LwrDHYyuxR22499 @sauricat 前情回顾 https://t.co/s1npTiqB6L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3520,
+        "height": 1280,
+        "media_key": "7_1923940053740290048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923940053740290048/pu/img/671VF3nf5mIppKi8.jpg",
+        "public_metrics": {
+          "view_count": 29771
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/vid/avc1/320x568/GIP6fOlXzDl6TA9N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/vid/avc1/480x852/ODLwVxyrq4kvt-kf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/vid/avc1/720x1280/DfqVZOwY7dY1MbWJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/pl/V9n6qS9mJnW5IsK9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16433,
+        "height": 960,
+        "media_key": "7_1923940056189784064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923940056189784064/pu/img/8zdjXfFo532TP0W2.jpg",
+        "public_metrics": {
+          "view_count": 13067
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/vid/avc1/320x564/1WdLRYwb8675d7_Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/vid/avc1/480x846/GGSczqPorVxWOoMX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/vid/avc1/544x960/grgyMGh6FsdpoMUL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/pl/NVIDkhx3hPn1dBbO.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 9835,
+        "height": 960,
+        "media_key": "7_1923940100750155776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923940100750155776/pu/img/qC00vNpJDqnOMu2m.jpg",
+        "public_metrics": {
+          "view_count": 6425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/vid/avc1/320x564/KxYIKsfNgOh9u76D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/vid/avc1/480x846/s5h2Rs-k7zHSOJbQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/vid/avc1/544x960/oKIDGXhS_gRfrm3j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/pl/u5E_-370lx475rR1.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923940063139815424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrM1S0CXYAAwKkV.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083576541292691951",
+        "created_at": "2026-08-01T15:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083579171553341921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            },
+            {
+              "end": 29,
+              "id": "1843201902550634496",
+              "start": 13,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 39,
+              "id": "1459453832",
+              "start": 30,
+              "username": "sauricat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zh40le1zoob/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/zh40le1zoob/status/1923940183365517459",
+              "start": 45,
+              "url": "https://t.co/s1npTiqB6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083579171553341921",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923940183365517459",
+            "type": "quoted"
+          },
+          {
+            "id": "2083577030948360459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB @LwrDHYyuxR22499 @sauricat 前情回顾 https://t.co/s1npTiqB6L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923940053740290048",
+            "7_1923940056189784064",
+            "7_1923940100750155776",
+            "3_1923940063139815424"
+          ]
+        },
+        "author_id": "1657175394267848704",
+        "conversation_id": "1923940183365517459",
+        "created_at": "2025-05-18T03:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T04:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923940183365517459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "7_1923940053740290048",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            },
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "7_1923940056189784064",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            },
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "7_1923940100750155776",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            },
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "3_1923940063139815424",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923940183365517459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 146510,
+          "like_count": 863,
+          "quote_count": 74,
+          "reply_count": 166,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "扭转机构的山东寸头大汉教官来我家抓逃跑的人，被我一个吃糖时长两年半的个人小药娘用手机干的头破血流送去抢救了。完事还敢跟傻逼条子一起找我要赔偿，还威胁要把我送进去。最后我一分没赔他们直接结案了，一群畜生窝囊废😋\n机构叫山东心种子教育咨询有限公司\n打完人沾了血的命令方块看起来好地雷喵（ https://t.co/aseUzJ8kpB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083576541292691951",
+        "created_at": "2026-08-01T15:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083577030948360459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            },
+            {
+              "end": 29,
+              "id": "1843201902550634496",
+              "start": 13,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 39,
+              "id": "1459453832",
+              "start": 30,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083577030948360459",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083576942716993662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB @LwrDHYyuxR22499 @sauricat 出来转发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4203,
+          "following_count": 691,
+          "like_count": 2081,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VfQD"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 779,
+          "like_count": 8785,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 7664
+        },
+        "url": "https://t.co/pbaTs1VfQD",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6808,
+          "following_count": 3348,
+          "like_count": 4161,
+          "listed_count": 19,
+          "media_count": 526,
+          "tweet_count": 3654
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) a.k.a. 北雁书, 林书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "東雨山 書 (Shu/Fumi)",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11204,
+          "following_count": 1029,
+          "like_count": 34272,
+          "listed_count": 35,
+          "media_count": 624,
+          "tweet_count": 12274
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

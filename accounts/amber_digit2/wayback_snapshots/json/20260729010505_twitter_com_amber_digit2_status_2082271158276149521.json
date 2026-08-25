@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082177855568630224",
+    "created_at": "2026-07-29T01:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082271158276149521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226356585758416898",
+          "start": 0,
+          "username": "lesbian_yearner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082271158276149521",
+    "in_reply_to_user_id": "1226356585758416898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082177855568630224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesbian_yearner 不你不希望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082177855568630224",
+        "created_at": "2026-07-29T01:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082271158276149521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226356585758416898",
+              "start": 0,
+              "username": "lesbian_yearner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082271158276149521",
+        "in_reply_to_user_id": "1226356585758416898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082177855568630224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesbian_yearner 不你不希望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226356585758416898",
+        "conversation_id": "2082177855568630224",
+        "created_at": "2026-07-28T18:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082177855568630224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2081221530592108852",
+              "start": 58,
+              "url": "https://t.co/bVrhAaQL1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082177855568630224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 630,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I wish I was Chinese and trans \n\nBut I'm American and cis https://t.co/bVrhAaQL1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi/ 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto  🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 644,
+          "like_count": 1818,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-09T04:06:28.000Z",
+        "description": "I am Cys (afab) gay futch dyke and commie and I like doggies and my wife @wetw4re and borger \n\nYes I am an ethical chaser, yes I'm afab\n\nmdni, 24, usa communist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 73,
+                "username": "wetw4re"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/ashest",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/ashest",
+                "start": 0,
+                "url": "https://t.co/yNEEWNYJKQ"
+              }
+            ]
+          }
+        },
+        "id": "1226356585758416898",
+        "location": "https://discord.gg/ExjYjWU8cs",
+        "name": "Lesbian Communist CHASER",
+        "pinned_tweet_id": "2076485433433747458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814745129783062528/uWbKvraX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 978,
+          "like_count": 25636,
+          "listed_count": 14,
+          "media_count": 340,
+          "tweet_count": 8299
+        },
+        "url": "https://t.co/yNEEWNYJKQ",
+        "username": "lesbian_yearner",
+        "verified": false
+      }
+    ]
+  }
+}

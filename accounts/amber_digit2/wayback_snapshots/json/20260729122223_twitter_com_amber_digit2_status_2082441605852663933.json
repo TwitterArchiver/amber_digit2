@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082374150824546304",
+        "3_2082374151411773440"
+      ],
+      "media_source_tweet_id": [
+        "2082374162065351000",
+        "2082374162065351000"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082441605852663933",
+    "created_at": "2026-07-29T12:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082441605852663933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FG2LzFYqhQ",
+          "end": 105,
+          "expanded_url": "https://x.com/SonogamiRinneTS/status/2082374162065351000/photo/1",
+          "media_key": "3_2082374150824546304",
+          "start": 82,
+          "url": "https://t.co/FG2LzFYqhQ"
+        },
+        {
+          "display_url": "pic.x.com/FG2LzFYqhQ",
+          "end": 105,
+          "expanded_url": "https://x.com/SonogamiRinneTS/status/2082374162065351000/photo/1",
+          "media_key": "3_2082374151411773440",
+          "start": 82,
+          "url": "https://t.co/FG2LzFYqhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082441605852663933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082374162065351000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 讲个笑话：中国作为世界第一大性激素和青春期阻断剂生产国，绝大部分跨性别者却需要通过各种地下途径购买其他国家生产的相关药品 https://t.co/FG2LzFYqhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082374150824546304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYUQd1aUAAmKpV.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082374151411773440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYUQgBasAAgkoO.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082374150824546304",
+            "3_2082374151411773440"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2082374162065351000",
+        "created_at": "2026-07-29T07:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082374162065351000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FG2LzFYqhQ",
+              "end": 84,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2082374162065351000/photo/1",
+              "media_key": "3_2082374150824546304",
+              "start": 61,
+              "url": "https://t.co/FG2LzFYqhQ"
+            },
+            {
+              "display_url": "pic.x.com/FG2LzFYqhQ",
+              "end": 84,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2082374162065351000/photo/1",
+              "media_key": "3_2082374151411773440",
+              "start": 61,
+              "url": "https://t.co/FG2LzFYqhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082374162065351000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2535,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "讲个笑话：中国作为世界第一大性激素和青春期阻断剂生产国，绝大部分跨性别者却需要通过各种地下途径购买其他国家生产的相关药品 https://t.co/FG2LzFYqhQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082374150824546304",
+            "3_2082374151411773440"
+          ],
+          "media_source_tweet_id": [
+            "2082374162065351000",
+            "2082374162065351000"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082441605852663933",
+        "created_at": "2026-07-29T12:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082441605852663933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FG2LzFYqhQ",
+              "end": 105,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2082374162065351000/photo/1",
+              "media_key": "3_2082374150824546304",
+              "start": 82,
+              "url": "https://t.co/FG2LzFYqhQ"
+            },
+            {
+              "display_url": "pic.x.com/FG2LzFYqhQ",
+              "end": 105,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2082374162065351000/photo/1",
+              "media_key": "3_2082374151411773440",
+              "start": 82,
+              "url": "https://t.co/FG2LzFYqhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082441605852663933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082374162065351000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 讲个笑话：中国作为世界第一大性激素和青春期阻断剂生产国，绝大部分跨性别者却需要通过各种地下途径购买其他国家生产的相关药品 https://t.co/FG2LzFYqhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 648,
+          "like_count": 1839,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5237,
+          "following_count": 3861,
+          "like_count": 1561,
+          "listed_count": 19,
+          "media_count": 299,
+          "tweet_count": 2073
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089791688415862831",
+    "created_at": "2026-08-18T19:08:59.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089791688415862831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ginza_zigoku/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ginza_zigoku/status/2089661570561486864",
+          "start": 11,
+          "url": "https://t.co/PszfyFkkzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089791688415862831",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089661570561486864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "why not me https://t.co/PszfyFkkzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2089661565750652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_4H19asAAyuKI.jpg",
+        "width": 755
+      },
+      {
+        "height": 995,
+        "media_key": "3_2089661565750640640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_4H19agAAXHyR.jpg",
+        "width": 746
+      },
+      {
+        "height": 994,
+        "media_key": "3_2089661565754892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_4H1-bYAA7hcf.jpg",
+        "width": 498
+      },
+      {
+        "height": 995,
+        "media_key": "3_2089661565780000768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_4H2EagAAmOyd.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089791688415862831",
+        "created_at": "2026-08-18T19:08:59.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089791688415862831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ginza_zigoku/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ginza_zigoku/status/2089661570561486864",
+              "start": 11,
+              "url": "https://t.co/PszfyFkkzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089791688415862831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089661570561486864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "why not me https://t.co/PszfyFkkzB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089661565750652928",
+            "3_2089661565750640640",
+            "3_2089661565754892288",
+            "3_2089661565780000768"
+          ]
+        },
+        "author_id": "856422650104561664",
+        "conversation_id": "2089661570561486864",
+        "created_at": "2026-08-18T10:31:57.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089661570561486864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwiCaK6JAT",
+              "end": 60,
+              "expanded_url": "https://x.com/ginza_zigoku/status/2089661570561486864/photo/1",
+              "media_key": "3_2089661565750652928",
+              "start": 37,
+              "url": "https://t.co/XwiCaK6JAT"
+            },
+            {
+              "display_url": "pic.x.com/XwiCaK6JAT",
+              "end": 60,
+              "expanded_url": "https://x.com/ginza_zigoku/status/2089661570561486864/photo/1",
+              "media_key": "3_2089661565750640640",
+              "start": 37,
+              "url": "https://t.co/XwiCaK6JAT"
+            },
+            {
+              "display_url": "pic.x.com/XwiCaK6JAT",
+              "end": 60,
+              "expanded_url": "https://x.com/ginza_zigoku/status/2089661570561486864/photo/1",
+              "media_key": "3_2089661565754892288",
+              "start": 37,
+              "url": "https://t.co/XwiCaK6JAT"
+            },
+            {
+              "display_url": "pic.x.com/XwiCaK6JAT",
+              "end": 60,
+              "expanded_url": "https://x.com/ginza_zigoku/status/2089661570561486864/photo/1",
+              "media_key": "3_2089661565780000768",
+              "start": 37,
+              "url": "https://t.co/XwiCaK6JAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089661570561486864",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089661565750652928"
+          },
+          {
+            "media_key": "3_2089661565750640640"
+          },
+          {
+            "media_key": "3_2089661565754892288"
+          },
+          {
+            "media_key": "3_2089661565780000768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 895,
+          "impression_count": 213275,
+          "like_count": 4132,
+          "quote_count": 98,
+          "reply_count": 9,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "性別関係なくこういう”中性的な美少年顔”にとてつもなく魅力を感じる... https://t.co/XwiCaK6JAT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089791688415862831",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 877,
+          "like_count": 3792,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-24T08:20:46.000Z",
+        "description": "顔面フルコンボだドン🫠💥",
+        "id": "856422650104561664",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089665405304578395",
+        "name": "サラン。",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/856422650104561664/1785771486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084301489934368768/ztgzKCxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193818,
+          "following_count": 20348,
+          "like_count": 16802,
+          "listed_count": 314,
+          "media_count": 1800,
+          "tweet_count": 25576
+        },
+        "url": "",
+        "username": "ginza_zigoku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

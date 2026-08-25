@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083233395413565440"
+      ],
+      "media_source_tweet_id": [
+        "2083233405886750734"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083378074066755641",
+    "created_at": "2026-08-01T02:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083378074066755641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032934492936065024",
+          "start": 3,
+          "username": "nmansoori_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vpBoky2t4z",
+          "end": 125,
+          "expanded_url": "https://x.com/nmansoori_/status/2083233405886750734/photo/1",
+          "media_key": "3_2083233395413565440",
+          "start": 102,
+          "url": "https://t.co/vpBoky2t4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083378074066755641",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083233405886750734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nmansoori_: From Angela Davis’ letter to James Baldwin, written in Marin County Jail in May 1971: https://t.co/vpBoky2t4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2083233395413565440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkhvFXbQAA12nj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083233395413565440"
+          ]
+        },
+        "author_id": "2032934492936065024",
+        "conversation_id": "2083233405886750734",
+        "created_at": "2026-07-31T16:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083233405886750734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpBoky2t4z",
+              "end": 109,
+              "expanded_url": "https://x.com/nmansoori_/status/2083233405886750734/photo/1",
+              "media_key": "3_2083233395413565440",
+              "start": 86,
+              "url": "https://t.co/vpBoky2t4z"
+            },
+            {
+              "display_url": "x.com/jacobinben/sta…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/jacobinben/status/2082634209617948948",
+              "start": 110,
+              "url": "https://t.co/wRReRX8aeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083233405886750734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2344,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082634209617948948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "From Angela Davis’ letter to James Baldwin, written in Marin County Jail in May 1971: https://t.co/vpBoky2t4z https://t.co/wRReRX8aeV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083233395413565440"
+          ],
+          "media_source_tweet_id": [
+            "2083233405886750734"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083378074066755641",
+        "created_at": "2026-08-01T02:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083378074066755641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032934492936065024",
+              "start": 3,
+              "username": "nmansoori_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpBoky2t4z",
+              "end": 125,
+              "expanded_url": "https://x.com/nmansoori_/status/2083233405886750734/photo/1",
+              "media_key": "3_2083233395413565440",
+              "start": 102,
+              "url": "https://t.co/vpBoky2t4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083378074066755641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083233405886750734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nmansoori_: From Angela Davis’ letter to James Baldwin, written in Marin County Jail in May 1971: https://t.co/vpBoky2t4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4176,
+          "following_count": 681,
+          "like_count": 2030,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1848
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T21:44:52.000Z",
+        "description": "VAP at Smith. Political theorist.",
+        "id": "2032934492936065024",
+        "name": "Naveed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034822483602272256/BZsR68ER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 466,
+          "like_count": 2291,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "nmansoori_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089829899229913134",
+    "created_at": "2026-08-19T20:02:10.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090167459105878161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1132543058753540096",
+          "start": 0,
+          "username": "Celestiallide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090167459105878161",
+    "in_reply_to_user_id": "1132543058753540096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090098047594172444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celestiallide 即便如此也只是一部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089829899229913134",
+        "created_at": "2026-08-19T20:02:10.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090167459105878161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1132543058753540096",
+              "start": 0,
+              "username": "Celestiallide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090167459105878161",
+        "in_reply_to_user_id": "1132543058753540096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090098047594172444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celestiallide 即便如此也只是一部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132543058753540096",
+        "conversation_id": "2089829899229913134",
+        "created_at": "2026-08-19T15:26:21.000Z",
+        "display_text_range": [
+          14,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090098047594172444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090098047594172444",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089829899229913134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 clicking it and having the list expand 5x was haunting"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090167459105878161",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 878,
+          "like_count": 3934,
+          "listed_count": 7,
+          "media_count": 226,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T07:04:41.000Z",
+        "description": "she/her only | i fw wizards heavy | no longer bunny year. | if the next sonic game is ass it’s all over",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "celestia.com",
+                "end": 23,
+                "expanded_url": "http://www.celestia.com",
+                "start": 0,
+                "url": "https://t.co/2izFz2g7YT"
+              }
+            ]
+          }
+        },
+        "id": "1132543058753540096",
+        "is_identity_verified": false,
+        "location": "Transmogrifying",
+        "most_recent_tweet_id": "2090137539407483285",
+        "name": "Merequiem 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132543058753540096/1778036128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051858255618428929/9iHYMq3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 162,
+          "like_count": 230760,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 6415
+        },
+        "url": "https://t.co/2izFz2g7YT",
+        "username": "Celestiallide",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

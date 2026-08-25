@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087982196241875062",
+    "created_at": "2026-08-13T19:18:43.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087982196241875062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "63737119",
+          "start": 3,
+          "username": "awzieeeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087982196241875062",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087854677870428354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awzieeeeee: a lot of cis sapphics see trans women as hyperfem gays and it shows"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087982196241875062",
+        "created_at": "2026-08-13T19:18:43.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087982196241875062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "63737119",
+              "start": 3,
+              "username": "awzieeeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087982196241875062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087854677870428354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awzieeeeee: a lot of cis sapphics see trans women as hyperfem gays and it shows"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "63737119",
+        "conversation_id": "2087854677870428354",
+        "created_at": "2026-08-13T10:52:00.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087854677870428354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087854677870428354",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 20081,
+          "like_count": 1671,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "a lot of cis sapphics see trans women as hyperfem gays and it shows"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087982196241875062",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5080,
+          "following_count": 843,
+          "like_count": 3309,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-08-07T14:38:14.000Z",
+        "description": "🔻 27 ♓︎ South Central Shawty ❤️‍🔥 they/she MDNI/DNF\n\nLand Back",
+        "id": "63737119",
+        "is_identity_verified": false,
+        "location": "Tovaangar, “los angeles”",
+        "most_recent_tweet_id": "2087982079028175340",
+        "name": "ozzie 1312",
+        "pinned_tweet_id": "2031243844256506286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63737119/1653953512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054332608851664896/QUpAF31__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 410,
+          "like_count": 27705,
+          "listed_count": 21,
+          "media_count": 528,
+          "tweet_count": 25496
+        },
+        "url": "",
+        "username": "awzieeeeee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

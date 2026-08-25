@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082697344026341825",
+    "created_at": "2026-07-30T05:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082697344026341825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1884745808605818880",
+          "start": 3,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082697344026341825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082318565252677770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunbohue40037: “论文没有一篇是单独发表的”\n震撼首发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082697344026341825",
+        "created_at": "2026-07-30T05:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082697344026341825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1884745808605818880",
+              "start": 3,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082697344026341825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082318565252677770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunbohue40037: “论文没有一篇是单独发表的”\n震撼首发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "2082318565252677770",
+        "created_at": "2026-07-29T04:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082318565252677770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thesame295757/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/thesame295757/status/2082256542439817515",
+              "start": 20,
+              "url": "https://t.co/DCUVDmBMdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082318565252677770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 50366,
+          "like_count": 446,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082256542439817515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“论文没有一篇是单独发表的”\n震撼首发 https://t.co/DCUVDmBMdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 658,
+          "like_count": 1901,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1734
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 536,
+          "like_count": 187676,
+          "listed_count": 5,
+          "media_count": 1447,
+          "tweet_count": 20905
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

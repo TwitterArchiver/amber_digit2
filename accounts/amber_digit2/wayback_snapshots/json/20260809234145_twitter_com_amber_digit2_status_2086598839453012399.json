@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086598837037096960"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086574981899489438",
+    "created_at": "2026-08-09T23:41:45.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086598839453012399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1601549039287566336",
+          "start": 0,
+          "username": "mmmammm_a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b4EVOywtA7",
+          "end": 34,
+          "expanded_url": "https://x.com/amber_digit2/status/2086598839453012399/photo/1",
+          "media_key": "3_2086598837037096960",
+          "start": 11,
+          "url": "https://t.co/b4EVOywtA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086598839453012399",
+    "in_reply_to_user_id": "1601549039287566336",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2086598837037096960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086575378336805192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmammm_a https://t.co/b4EVOywtA7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_2086598837037096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUWlkZW4AAduVv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086598837037096960"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086574981899489438",
+        "created_at": "2026-08-09T23:41:45.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086598839453012399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4EVOywtA7",
+              "end": 34,
+              "expanded_url": "https://x.com/amber_digit2/status/2086598839453012399/photo/1",
+              "media_key": "3_2086598837037096960",
+              "start": 11,
+              "url": "https://t.co/b4EVOywtA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086598839453012399",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086598837037096960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086575378336805192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a https://t.co/b4EVOywtA7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2086574981899489438",
+        "created_at": "2026-08-09T22:08:31.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086575378336805192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086575378336805192",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086574981899489438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 好喜欢这套！（想要个链接……！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086598839453012399",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 788,
+          "like_count": 2858,
+          "listed_count": 5,
+          "media_count": 187,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Transfeminist",
+        "id": "1601549039287566336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086578688779223134",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601549039287566336/1677903150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 294,
+          "like_count": 17756,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 7565
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

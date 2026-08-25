@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088809063375155565",
+    "created_at": "2026-08-16T03:03:02.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088823824250708302"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088823824250708302",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088809063375155565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "update: hundreds of videos have been deleted as of today"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2088809060007043072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzwxelWYAAnEB3.jpg",
+        "width": 1410
+      },
+      {
+        "height": 1777,
+        "media_key": "3_2088809060007051264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzwxelWgAAd5-P.jpg",
+        "width": 885
+      },
+      {
+        "height": 1760,
+        "media_key": "3_2088809060015427584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzwxenWUAAfcOa.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088809063375155565",
+        "created_at": "2026-08-16T03:03:02.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088823824250708302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088823824250708302",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088809063375155565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "update: hundreds of videos have been deleted as of today"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088809060007043072",
+            "3_2088809060007051264",
+            "3_2088809060015427584"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088809063375155565",
+        "created_at": "2026-08-16T02:04:23.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088809063375155565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3wgRxTlif",
+              "end": 299,
+              "expanded_url": "https://x.com/amber_digit2/status/2088809063375155565/photo/1",
+              "media_key": "3_2088809060007043072",
+              "start": 276,
+              "url": "https://t.co/p3wgRxTlif"
+            },
+            {
+              "display_url": "pic.x.com/p3wgRxTlif",
+              "end": 299,
+              "expanded_url": "https://x.com/amber_digit2/status/2088809063375155565/photo/1",
+              "media_key": "3_2088809060007051264",
+              "start": 276,
+              "url": "https://t.co/p3wgRxTlif"
+            },
+            {
+              "display_url": "pic.x.com/p3wgRxTlif",
+              "end": 299,
+              "expanded_url": "https://x.com/amber_digit2/status/2088809063375155565/photo/1",
+              "media_key": "3_2088809060015427584",
+              "start": 276,
+              "url": "https://t.co/p3wgRxTlif"
+            },
+            {
+              "display_url": "x.com/queerlawwatchc…",
+              "end": 323,
+              "expanded_url": "https://twitter.com/queerlawwatchcn/status/2088647358842118500",
+              "start": 300,
+              "url": "https://t.co/V990OGokkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088809063375155565",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088809060007043072"
+          },
+          {
+            "media_key": "3_2088809060007051264"
+          },
+          {
+            "media_key": "3_2088809060015427584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Since August 12, 2026, Bilibili, one of the largest video platforms in China, censored/removed at least thirty videos (some uploaded years ago) by trans creators that contain ordinary content about employment, daily life, clothing, hormone therapy, medication, and blood-test results. Bilibili classified the videos as “highly controversial” and labeled these videos as containing materials associated with “gender conflict” and “non-mainstream” relationship values."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1074,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088647358842118500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Since August 12, 2026, Bilibili, one of the largest video platforms in China, censored/removed at least thirty videos (some uploaded years ago) by trans creators that contain ordinary content about employment, daily life, clothing, hormone therapy, medication, and blood-test https://t.co/p3wgRxTlif https://t.co/V990OGokkb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088823824250708302",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 860,
+          "like_count": 3522,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 2709
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

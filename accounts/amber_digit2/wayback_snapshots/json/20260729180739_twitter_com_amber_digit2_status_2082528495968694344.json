@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082249254634987954",
+    "created_at": "2026-07-29T18:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082528495968694344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2060691265705181184",
+          "start": 0,
+          "username": "Focuser147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082528495968694344",
+    "in_reply_to_user_id": "2060691265705181184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082363552011325897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Focuser147 没什么原因，就是想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082249254634987954",
+        "created_at": "2026-07-29T18:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082528495968694344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2060691265705181184",
+              "start": 0,
+              "username": "Focuser147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082528495968694344",
+        "in_reply_to_user_id": "2060691265705181184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082363552011325897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Focuser147 没什么原因，就是想。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060691265705181184",
+        "conversation_id": "2082249254634987954",
+        "created_at": "2026-07-29T07:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082363552011325897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082363552011325897",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082249254634987954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 圈外人纯好奇无恶意，为啥男的会想成为女孩呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 651,
+          "like_count": 1860,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:56:21.000Z",
+        "description": "",
+        "id": "2060691265705181184",
+        "name": "Heart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060692131438841856/n4vBCWqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "Focuser147",
+        "verified": false
+      }
+    ]
+  }
+}

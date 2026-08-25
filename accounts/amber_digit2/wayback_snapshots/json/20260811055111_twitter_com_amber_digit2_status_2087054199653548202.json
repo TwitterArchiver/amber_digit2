@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2087054199653548202",
+    "created_at": "2026-08-11T05:51:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087054199653548202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1205748134892032000",
+          "start": 3,
+          "username": "Liquid_Pomelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087054199653548202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087052932630077709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liquid_Pomelo: 大陆地区关注性别研究的学者可能并没有想象的那样完全毫无痕迹。潘绥铭本身也有很多学生，最具代表的就是黄盈盈。再举也有不少：富晓星《空间、文化、表演：东北A市男同性恋群体的人类学观察》、郭晓飞《中国法视野下的同性恋》、王晴锋《同性恋研究：历史、…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2087054199653548202",
+        "created_at": "2026-08-11T05:51:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087054199653548202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1205748134892032000",
+              "start": 3,
+              "username": "Liquid_Pomelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087054199653548202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087052932630077709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liquid_Pomelo: 大陆地区关注性别研究的学者可能并没有想象的那样完全毫无痕迹。潘绥铭本身也有很多学生，最具代表的就是黄盈盈。再举也有不少：富晓星《空间、文化、表演：东北A市男同性恋群体的人类学观察》、郭晓飞《中国法视野下的同性恋》、王晴锋《同性恋研究：历史、…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205748134892032000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2087052932630077709",
+        "created_at": "2026-08-11T05:46:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087052932630077709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ss48hao3/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ss48hao3/status/2086825101853339945",
+              "start": 141,
+              "url": "https://t.co/eRr1L9akWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087052932630077709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086825101853339945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大陆地区关注性别研究的学者可能并没有想象的那样完全毫无痕迹。潘绥铭本身也有很多学生，最具代表的就是黄盈盈。再举也有不少：富晓星《空间、文化、表演：东北A市男同性恋群体的人类学观察》、郭晓飞《中国法视野下的同性恋》、王晴锋《同性恋研究：历史、经验与理论》（也翻译了非常多的性别研究） https://t.co/eRr1L9akWa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087054199653548202",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4880,
+          "following_count": 799,
+          "like_count": 2959,
+          "listed_count": 6,
+          "media_count": 194,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-14T07:15:41.000Z",
+        "description": "Queer🌈 可以叫我柚子w 讓世界變得冒犯一點/不適請及時退出 Major in Linguistics, Chinese writings & Philology. 🐺Un seul ou plusieurs loups? in an open relationship. bf @youmu_younoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 142,
+                "username": "youmu_younoki"
+              }
+            ]
+          }
+        },
+        "id": "1205748134892032000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087052936379765009",
+        "name": "西柚气泡水♿️北京",
+        "pinned_tweet_id": "1822914979151925622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205748134892032000/1651741879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976650947766923264/YzYh7QJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12380,
+          "following_count": 4257,
+          "like_count": 17926,
+          "listed_count": 16,
+          "media_count": 881,
+          "tweet_count": 5811
+        },
+        "url": "",
+        "username": "Liquid_Pomelo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

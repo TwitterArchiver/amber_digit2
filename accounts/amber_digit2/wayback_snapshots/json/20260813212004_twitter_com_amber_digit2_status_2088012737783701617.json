@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Owner of the Youtube Channel \"contrapoints\"",
+          "id": "1158783436972163073",
+          "name": "Natalie Wynn"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "Owner of the Youtube Channel \"contrapoints\"",
+          "id": "1158783436972163073",
+          "name": "Natalie Wynn"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Owner of the Youtube Channel \"contrapoints\"",
+          "id": "1158783436972163073",
+          "name": "Natalie Wynn"
+        }
+      }
+    ],
+    "conversation_id": "2088012737783701617",
+    "created_at": "2026-08-13T21:20:04.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088012737783701617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "119800419",
+          "start": 3,
+          "username": "AriDrennen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088012737783701617",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087694921226662330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AriDrennen: They canceled Contrapoints for saying she didn’t love when cís people made her do a pronoun circle"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          }
+        ],
+        "conversation_id": "2088012737783701617",
+        "created_at": "2026-08-13T21:20:04.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088012737783701617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "119800419",
+              "start": 3,
+              "username": "AriDrennen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088012737783701617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087694921226662330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AriDrennen: They canceled Contrapoints for saying she didn’t love when cís people made her do a pronoun circle"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "119800419",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Owner of the Youtube Channel \"contrapoints\"",
+              "id": "1158783436972163073",
+              "name": "Natalie Wynn"
+            }
+          }
+        ],
+        "conversation_id": "2087694921226662330",
+        "created_at": "2026-08-13T00:17:11.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087694921226662330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trash_panda97/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/trash_panda97/status/2086624979689353670",
+              "start": 99,
+              "url": "https://t.co/HadXrvO4CB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087694921226662330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 189105,
+          "like_count": 3489,
+          "quote_count": 20,
+          "reply_count": 47,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086624979689353670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "They canceled Contrapoints for saying she didn’t love when cís people made her do a pronoun circle https://t.co/HadXrvO4CB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088012737783701617",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5080,
+          "following_count": 846,
+          "like_count": 3328,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-04T17:48:37.000Z",
+        "description": "Journalist, poet, songwriter. Optimistic transsexual. Work featured in the New York Times, Pink Balloons (2024), and Heightened Scrutiny (2025).",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aridrennen.substack.com",
+                "end": 23,
+                "expanded_url": "https://aridrennen.substack.com/",
+                "start": 0,
+                "url": "https://t.co/2JbwnraKl4"
+              }
+            ]
+          }
+        },
+        "id": "119800419",
+        "is_identity_verified": false,
+        "location": "Seattle",
+        "most_recent_tweet_id": "2088000583378808906",
+        "name": "Ari Drennen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119800419/1746824402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967389702006415360/nbfk5LiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96129,
+          "following_count": 5376,
+          "like_count": 99850,
+          "listed_count": 590,
+          "media_count": 6916,
+          "tweet_count": 72085
+        },
+        "url": "https://t.co/2JbwnraKl4",
+        "username": "AriDrennen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

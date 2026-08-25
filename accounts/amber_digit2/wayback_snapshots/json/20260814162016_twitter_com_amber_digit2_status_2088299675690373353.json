@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088299675690373353",
+    "created_at": "2026-08-14T16:20:16.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088299675690373353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rollingstone/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/rollingstone/status/1783120456469381384",
+          "start": 4,
+          "url": "https://t.co/uqGAsCrTgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088299675690373353",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1783120456469381384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "agp https://t.co/uqGAsCrTgo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_1782974272262021120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GL5lp23WoAATDJx.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088299675690373353",
+        "created_at": "2026-08-14T16:20:16.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088299675690373353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rollingstone/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rollingstone/status/1783120456469381384",
+              "start": 4,
+              "url": "https://t.co/uqGAsCrTgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088299675690373353",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1783120456469381384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "agp https://t.co/uqGAsCrTgo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1782974272262021120"
+          ]
+        },
+        "author_id": "14780915",
+        "conversation_id": "1783120456469381384",
+        "created_at": "2024-04-24T13:07:00.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2024-04-24T14:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1783120456469381384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2150327072",
+              "start": 1,
+              "username": "billieeilish"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Billie Eilish talks her new album 'Hit Me Hard and Soft,' prioritizing her mental health, and trying to live a normal life as she navigates fame.",
+              "display_url": "rollingstone.com/music/music-fe…",
+              "end": 277,
+              "expanded_url": "https://www.rollingstone.com/music/music-features/billie-eilish-hit-me-hard-and-soft-mental-health-fame-1235003585/",
+              "start": 254,
+              "status": 200,
+              "title": "Billie Eilish Would Like to Reintroduce Herself",
+              "unwound_url": "https://www.rollingstone.com/music/music-features/billie-eilish-hit-me-hard-and-soft-mental-health-fame-1235003585/",
+              "url": "https://t.co/C9wZPMBjwp"
+            },
+            {
+              "display_url": "pic.x.com/mFHC4v1NDi",
+              "end": 301,
+              "expanded_url": "https://x.com/RollingStone/status/1783120456469381384/photo/1",
+              "media_key": "3_1782974272262021120",
+              "start": 278,
+              "url": "https://t.co/mFHC4v1NDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1783120456469381384",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1782974272262021120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6228,
+          "impression_count": 16459767,
+          "like_count": 9819,
+          "quote_count": 8952,
+          "reply_count": 1890,
+          "retweet_count": 597
+        },
+        "reply_settings": "everyone",
+        "text": ".@billieeilish tells Rolling Stone she likes to masturbate in front of a mirror.\n\n\"Partly because it’s hot, but it also makes me have such a raw, deep connection to myself and my body, and have a love for my body that I have not really ever had.\"\n\nMore: https://t.co/C9wZPMBjwp https://t.co/mFHC4v1NDi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088299675690373353",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5103,
+          "following_count": 852,
+          "like_count": 3382,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-05-15T02:52:27.000Z",
+        "description": "The latest news and more from Rolling Stone magazine and https://t.co/yJnSOtbi68. Got a tip? Share it here: https://t.co/4pKrTBMI3A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "RollingStone.com",
+                "end": 80,
+                "expanded_url": "http://RollingStone.com",
+                "start": 57,
+                "url": "https://t.co/yJnSOtbi68"
+              },
+              {
+                "display_url": "rol.st/tips",
+                "end": 131,
+                "expanded_url": "http://rol.st/tips",
+                "start": 108,
+                "url": "https://t.co/4pKrTBMI3A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rollingstone.com",
+                "end": 23,
+                "expanded_url": "http://www.rollingstone.com",
+                "start": 0,
+                "url": "https://t.co/HPZh9kIhYX"
+              }
+            ]
+          }
+        },
+        "id": "14780915",
+        "is_identity_verified": false,
+        "location": "New York, New York",
+        "most_recent_tweet_id": "2088296337842270467",
+        "name": "Rolling Stone",
+        "pinned_tweet_id": "2084625434113663371",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1785848793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976248415068532736/GlyRd63M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200060,
+          "following_count": 613,
+          "like_count": 3152,
+          "listed_count": 32611,
+          "media_count": 122439,
+          "tweet_count": 263842
+        },
+        "url": "https://t.co/HPZh9kIhYX",
+        "username": "RollingStone",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

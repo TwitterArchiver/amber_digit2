@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085089290304749568",
+        "3_2085089290308988928"
+      ],
+      "media_source_tweet_id": [
+        "2085089318209569141",
+        "2085089318209569141"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2085216170118873120",
+    "created_at": "2026-08-06T04:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085216170118873120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976062750934577152",
+          "start": 3,
+          "username": "Gaismair"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/27VIr3xltR",
+          "end": 121,
+          "expanded_url": "https://x.com/Gaismair/status/2085089318209569141/photo/1",
+          "media_key": "3_2085089290304749568",
+          "start": 98,
+          "url": "https://t.co/27VIr3xltR"
+        },
+        {
+          "display_url": "pic.x.com/27VIr3xltR",
+          "end": 121,
+          "expanded_url": "https://x.com/Gaismair/status/2085089318209569141/photo/1",
+          "media_key": "3_2085089290308988928",
+          "start": 98,
+          "url": "https://t.co/27VIr3xltR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085216170118873120",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085089318209569141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gaismair: Anytime someone talked to Mao about marriage he’d say: “the rape leagues? Im good.” https://t.co/27VIr3xltR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2085089290304749568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-5qYmWAAAtR7Q.jpg",
+        "width": 828
+      },
+      {
+        "height": 199,
+        "media_key": "3_2085089290308988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-5qYnWsAAr_da.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085089290304749568",
+            "3_2085089290308988928"
+          ]
+        },
+        "author_id": "1976062750934577152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2085089318209569141",
+        "created_at": "2026-08-05T19:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085089318209569141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/27VIr3xltR",
+              "end": 107,
+              "expanded_url": "https://x.com/Gaismair/status/2085089318209569141/photo/1",
+              "media_key": "3_2085089290304749568",
+              "start": 84,
+              "url": "https://t.co/27VIr3xltR"
+            },
+            {
+              "display_url": "pic.x.com/27VIr3xltR",
+              "end": 107,
+              "expanded_url": "https://x.com/Gaismair/status/2085089318209569141/photo/1",
+              "media_key": "3_2085089290308988928",
+              "start": 84,
+              "url": "https://t.co/27VIr3xltR"
+            },
+            {
+              "display_url": "x.com/allegedlyterra…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/allegedlyterra/status/2085088841669431624",
+              "start": 108,
+              "url": "https://t.co/Id1VMAQKIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085089318209569141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1650,
+          "impression_count": 279081,
+          "like_count": 7665,
+          "quote_count": 124,
+          "reply_count": 40,
+          "retweet_count": 481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085088841669431624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Anytime someone talked to Mao about marriage he’d say: “the rape leagues? Im good.” https://t.co/27VIr3xltR https://t.co/Id1VMAQKIK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085089290304749568",
+            "3_2085089290308988928"
+          ],
+          "media_source_tweet_id": [
+            "2085089318209569141",
+            "2085089318209569141"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2085216170118873120",
+        "created_at": "2026-08-06T04:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085216170118873120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976062750934577152",
+              "start": 3,
+              "username": "Gaismair"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27VIr3xltR",
+              "end": 121,
+              "expanded_url": "https://x.com/Gaismair/status/2085089318209569141/photo/1",
+              "media_key": "3_2085089290304749568",
+              "start": 98,
+              "url": "https://t.co/27VIr3xltR"
+            },
+            {
+              "display_url": "pic.x.com/27VIr3xltR",
+              "end": 121,
+              "expanded_url": "https://x.com/Gaismair/status/2085089318209569141/photo/1",
+              "media_key": "3_2085089290308988928",
+              "start": 98,
+              "url": "https://t.co/27VIr3xltR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085216170118873120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085089318209569141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gaismair: Anytime someone talked to Mao about marriage he’d say: “the rape leagues? Im good.” https://t.co/27VIr3xltR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 750,
+          "like_count": 2516,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-08T23:10:54.000Z",
+        "description": "of the painted chamber @foidpilled",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "foidpilled"
+              }
+            ]
+          }
+        },
+        "id": "1976062750934577152",
+        "location": "44 Union Square",
+        "name": "Mariam",
+        "pinned_tweet_id": "2031475264505442771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076383543140184064/86_EbmDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268,
+          "following_count": 248,
+          "like_count": 53374,
+          "listed_count": 9,
+          "media_count": 1150,
+          "tweet_count": 5815
+        },
+        "url": "",
+        "username": "Gaismair",
+        "verified": false
+      }
+    ]
+  }
+}

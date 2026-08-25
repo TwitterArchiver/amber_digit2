@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090714224595021831",
+    "created_at": "2026-08-21T13:33:34.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090794442047324476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1336465528555069441",
+          "start": 0,
+          "username": "89dongyi64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090794442047324476",
+    "in_reply_to_user_id": "1336465528555069441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090749016762204490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89dongyi64 我是苏南的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090714224595021831",
+        "created_at": "2026-08-21T13:33:34.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090794442047324476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1336465528555069441",
+              "start": 0,
+              "username": "89dongyi64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090794442047324476",
+        "in_reply_to_user_id": "1336465528555069441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090749016762204490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89dongyi64 我是苏南的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336465528555069441",
+        "conversation_id": "2090714224595021831",
+        "created_at": "2026-08-21T10:33:04.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090749016762204490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090749016762204490",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090714224595021831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 苏北蒙古人不是铁帅吗🐎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090794442047324476",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5294,
+          "following_count": 892,
+          "like_count": 4094,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-12-09T00:20:14.000Z",
+        "description": "顺直男，自封顺直皇帝，尊儒尊孔，喜欢的朋友可以关注",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fr.whotwi.com/itol21888373",
+                "end": 23,
+                "expanded_url": "https://fr.whotwi.com/itol21888373",
+                "start": 0,
+                "url": "https://t.co/CPTrfSH51U"
+              }
+            ]
+          }
+        },
+        "id": "1336465528555069441",
+        "is_identity_verified": false,
+        "location": "年代久远不可考",
+        "most_recent_tweet_id": "2090793550871158883",
+        "name": "油泼屁话🟥🟨🟦⬜️⬛️",
+        "pinned_tweet_id": "1824995870989000924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336465528555069441/1763886101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061336093606522881/aojj0vUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 1798,
+          "like_count": 26260,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 5826
+        },
+        "url": "https://t.co/CPTrfSH51U",
+        "username": "89dongyi64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

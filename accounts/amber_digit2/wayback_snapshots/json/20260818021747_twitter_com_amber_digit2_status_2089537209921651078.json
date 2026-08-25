@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299448895777374208",
+          "name": "Dieting"
+        }
+      }
+    ],
+    "conversation_id": "2089537209921651078",
+    "created_at": "2026-08-18T02:17:47.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089537209921651078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/solbrah/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/solbrah/status/2089265411749785744",
+          "start": 29,
+          "url": "https://t.co/TP4QSEhmVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089537209921651078",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089265411749785744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "no i feel considerably worse https://t.co/TP4QSEhmVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2089265405487628293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6P0R-aQAU2fSD.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2089265405672173569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6P0SqaMAE5OgM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299448895777374208",
+              "name": "Dieting"
+            }
+          }
+        ],
+        "conversation_id": "2089537209921651078",
+        "created_at": "2026-08-18T02:17:47.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089537209921651078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/solbrah/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/solbrah/status/2089265411749785744",
+              "start": 29,
+              "url": "https://t.co/TP4QSEhmVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089537209921651078",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089265411749785744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "no i feel considerably worse https://t.co/TP4QSEhmVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089265405487628293",
+            "3_2089265405672173569"
+          ]
+        },
+        "author_id": "1166366182569598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299448895777374208",
+              "name": "Dieting"
+            }
+          }
+        ],
+        "conversation_id": "2089265411749785744",
+        "created_at": "2026-08-17T08:17:45.000Z",
+        "display_text_range": [
+          0,
+          246
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T09:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089265411749785744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBtPRaLft1",
+              "end": 270,
+              "expanded_url": "https://x.com/SolBrah/status/2089265411749785744/photo/1",
+              "media_key": "3_2089265405487628293",
+              "start": 247,
+              "url": "https://t.co/pBtPRaLft1"
+            },
+            {
+              "display_url": "pic.x.com/pBtPRaLft1",
+              "end": 270,
+              "expanded_url": "https://x.com/SolBrah/status/2089265411749785744/photo/1",
+              "media_key": "3_2089265405672173569",
+              "start": 247,
+              "url": "https://t.co/pBtPRaLft1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089265411749785744",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089265405487628293"
+          },
+          {
+            "media_key": "3_2089265405672173569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 196721,
+          "like_count": 810,
+          "quote_count": 28,
+          "reply_count": 108,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Bread and coffee are two very common foods that can contribute meaningfully to anxiety or depressive feelings. \n\nIf you are someone that has these sensations and consumes either of these - eliminate them from your diet and see if you feel better. https://t.co/pBtPRaLft1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089537209921651078",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146,
+          "following_count": 874,
+          "like_count": 3732,
+          "listed_count": 7,
+          "media_count": 218,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-27T15:05:50.000Z",
+        "description": "Natural health and reality creation.\n⚡️ Group Coaching Starts Aug 28: https://t.co/qpE2OxBNIR\nSupps + Gym Clothing @sol_dept",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "sol_dept"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whop.com/solbrah/apollo…",
+                "end": 93,
+                "expanded_url": "https://whop.com/solbrah/apollo-method/",
+                "start": 70,
+                "url": "https://t.co/qpE2OxBNIR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solbrah.life/courses.html",
+                "end": 23,
+                "expanded_url": "https://solbrah.life/courses.html",
+                "start": 0,
+                "url": "https://t.co/E08W1TQLwf"
+              }
+            ]
+          }
+        },
+        "id": "1166366182569598976",
+        "is_identity_verified": false,
+        "location": "Sol Gym",
+        "most_recent_tweet_id": "2089499051125624983",
+        "name": "⚡️🌞 Sol Brah 🌞🐬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166366182569598976/1707398489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051959880760877056/EAdz9YKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247333,
+          "following_count": 518,
+          "like_count": 44763,
+          "listed_count": 1577,
+          "media_count": 12004,
+          "tweet_count": 58589
+        },
+        "url": "https://t.co/E08W1TQLwf",
+        "username": "SolBrah",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

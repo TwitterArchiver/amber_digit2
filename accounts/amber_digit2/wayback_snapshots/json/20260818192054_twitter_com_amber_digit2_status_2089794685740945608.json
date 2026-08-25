@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089794685740945608",
+    "created_at": "2026-08-18T19:20:54.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089794685740945608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1438565943953829890",
+          "start": 3,
+          "username": "GeorgHegell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089794685740945608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089375456763981853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeorgHegell: Wickedness also resides in the gaze that perceives itself as innocent and surrounded by wickedness."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089794685740945608",
+        "created_at": "2026-08-18T19:20:54.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089794685740945608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1438565943953829890",
+              "start": 3,
+              "username": "GeorgHegell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089794685740945608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089375456763981853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeorgHegell: Wickedness also resides in the gaze that perceives itself as innocent and surrounded by wickedness."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438565943953829890",
+        "conversation_id": "2089375456763981853",
+        "created_at": "2026-08-17T15:35:02.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089375456763981853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089375456763981853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 12396,
+          "like_count": 332,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "Wickedness also resides in the gaze that perceives itself as innocent and surrounded by wickedness."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089794685740945608",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5165,
+          "following_count": 878,
+          "like_count": 3796,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 2855
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-16T18:11:22.000Z",
+        "description": "Georg Hegel (1770–1831), German philosopher, master of dialectics and idealism, we don’t like Schopenhauer here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dub.sh/philosophyebook",
+                "end": 23,
+                "expanded_url": "https://dub.sh/philosophyebook",
+                "start": 0,
+                "url": "https://t.co/joobw2Yhts"
+              }
+            ]
+          }
+        },
+        "id": "1438565943953829890",
+        "is_identity_verified": false,
+        "location": "Download for free: ",
+        "most_recent_tweet_id": "2089753197078295027",
+        "name": "Georg Hegel Quotes",
+        "pinned_tweet_id": "1988124158627385411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438565943953829890/1631816240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438566311748112386/9p6icGgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27967,
+          "following_count": 1,
+          "like_count": 25,
+          "listed_count": 198,
+          "media_count": 14,
+          "tweet_count": 5531
+        },
+        "url": "https://t.co/joobw2Yhts",
+        "username": "GeorgHegell",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

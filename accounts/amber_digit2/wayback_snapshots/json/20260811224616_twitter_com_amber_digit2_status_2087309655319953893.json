@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087309655319953893",
+    "created_at": "2026-08-11T22:46:16.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087309655319953893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/issacofsz/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/issacofsz/status/2087309503972937900",
+          "start": 10,
+          "url": "https://t.co/0MPCeA1pRV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087309655319953893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087309503972937900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "标答，转发以资鼓励 https://t.co/0MPCeA1pRV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087309655319953893",
+        "created_at": "2026-08-11T22:46:16.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087309655319953893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/issacofsz/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/issacofsz/status/2087309503972937900",
+              "start": 10,
+              "url": "https://t.co/0MPCeA1pRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087309655319953893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087309503972937900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "标答，转发以资鼓励 https://t.co/0MPCeA1pRV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1084840616020721669",
+        "conversation_id": "2087295321189826664",
+        "created_at": "2026-08-11T22:45:40.000Z",
+        "display_text_range": [
+          14,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087309503972937900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087309503972937900",
+        "in_reply_to_user_id": "1084840616020721669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087308032904675495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我个人认为这三种被生产的分类分别对应着不同身体实践被顺异体系评判的方式：cd sartoriality意味着视觉和亚文化奇观，ts plastic surgeries意味着性工作的触摸功能和愉悦提供，而mtf的gaht和gas则意味着西方意识形态、怪物、od妹和严重不可逆的错误人生决定。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087309655319953893",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4939,
+          "following_count": 811,
+          "like_count": 3049,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-14T15:52:13.000Z",
+        "description": "🏳️‍⚧️🇵🇸🏳️‍🌈✌️🙄✌️",
+        "id": "1084840616020721669",
+        "is_identity_verified": false,
+        "location": "Rapture City",
+        "most_recent_tweet_id": "2087309503972937900",
+        "name": "Agathḗ tôn Sodómōn",
+        "pinned_tweet_id": "1695850292309590189",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084840616020721669/1725941175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833356230863052800/gJBZzcNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 573,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "ISSACOFSZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

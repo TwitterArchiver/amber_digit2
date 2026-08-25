@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083644100360757736",
+    "created_at": "2026-08-01T20:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083644100360757736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1528492923179962370",
+          "start": 3,
+          "username": "FoxyMarxist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083644100360757736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083614127730127073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxyMarxist: the suicide of trans women is a political crisis"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083644100360757736",
+        "created_at": "2026-08-01T20:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083644100360757736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1528492923179962370",
+              "start": 3,
+              "username": "FoxyMarxist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083644100360757736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083614127730127073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxyMarxist: the suicide of trans women is a political crisis"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528492923179962370",
+        "conversation_id": "2083614127730127073",
+        "created_at": "2026-08-01T18:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083614127730127073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083614127730127073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "the suicide of trans women is a political crisis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ/ ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 90,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 67,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 ᴛʀᴛ・🏳️‍⚧️☭ sʜᴇ/ʜᴇʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 698,
+          "like_count": 2119,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T21:48:21.000Z",
+        "description": "she/her\nlesbian asexual\ndecolonial communist\ntransfeminist\nabolitionist\nantizionist\nacab/blm",
+        "id": "1528492923179962370",
+        "name": "foxy marxist ☭🔻",
+        "pinned_tweet_id": "2043583497219035297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045288284167753728/lbO_WgG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9226,
+          "following_count": 4383,
+          "like_count": 65566,
+          "listed_count": 48,
+          "media_count": 1717,
+          "tweet_count": 49579
+        },
+        "url": "",
+        "username": "FoxyMarxist",
+        "verified": false
+      }
+    ]
+  }
+}

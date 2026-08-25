@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084865807872336256",
+    "created_at": "2026-08-05T04:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084865807872336256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1856774526706880512",
+          "start": 3,
+          "username": "estro_newtype_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084865807872336256",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084823686364954645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @estro_newtype_2: do white peoples deserve to live? let's discuss."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084865807872336256",
+        "created_at": "2026-08-05T04:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084865807872336256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1856774526706880512",
+              "start": 3,
+              "username": "estro_newtype_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084865807872336256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084823686364954645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @estro_newtype_2: do white peoples deserve to live? let's discuss."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856774526706880512",
+        "conversation_id": "2084823686364954645",
+        "created_at": "2026-08-05T02:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084823686364954645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fleshgaitfucke…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/fleshgaitfucker/status/2084792710871879996",
+              "start": 49,
+              "url": "https://t.co/WTNAZw2gBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084823686364954645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084792710871879996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "do white peoples deserve to live? let's discuss. https://t.co/WTNAZw2gBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 747,
+          "like_count": 2469,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T19:02:25.000Z",
+        "description": "afab btw",
+        "id": "1856774526706880512",
+        "name": "sojucel",
+        "pinned_tweet_id": "1958979962058223749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922012595185192961/OZPp9P2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 637,
+          "like_count": 107640,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 8115
+        },
+        "url": "",
+        "username": "estro_newtype_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083347468616630272"
+      ],
+      "media_source_tweet_id": [
+        "2083347473536548963"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083552924118999055",
+    "created_at": "2026-08-01T13:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083552924118999055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975953775518191616",
+          "start": 3,
+          "username": "Misaka1057"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/05Zt3pbVtI",
+          "end": 52,
+          "expanded_url": "https://x.com/Misaka1057/status/2083347473536548963/photo/1",
+          "media_key": "3_2083347468616630272",
+          "start": 29,
+          "url": "https://t.co/05Zt3pbVtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083552924118999055",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083347473536548963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaka1057: Trans Parade https://t.co/05Zt3pbVtI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2083347468616630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmJfBKagAA-fSf.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083347468616630272"
+          ]
+        },
+        "author_id": "1975953775518191616",
+        "conversation_id": "2083347473536548963",
+        "created_at": "2026-08-01T00:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083347473536548963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05Zt3pbVtI",
+              "end": 36,
+              "expanded_url": "https://x.com/Misaka1057/status/2083347473536548963/photo/1",
+              "media_key": "3_2083347468616630272",
+              "start": 13,
+              "url": "https://t.co/05Zt3pbVtI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1e5cb4d0509db554"
+        },
+        "id": "2083347473536548963",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 11997,
+          "like_count": 580,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Trans Parade https://t.co/05Zt3pbVtI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083347468616630272"
+          ],
+          "media_source_tweet_id": [
+            "2083347473536548963"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083552924118999055",
+        "created_at": "2026-08-01T13:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083552924118999055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975953775518191616",
+              "start": 3,
+              "username": "Misaka1057"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05Zt3pbVtI",
+              "end": 52,
+              "expanded_url": "https://x.com/Misaka1057/status/2083347473536548963/photo/1",
+              "media_key": "3_2083347468616630272",
+              "start": 29,
+              "url": "https://t.co/05Zt3pbVtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083552924118999055",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083347473536548963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaka1057: Trans Parade https://t.co/05Zt3pbVtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4197,
+          "following_count": 689,
+          "like_count": 2074,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-08T15:57:57.000Z",
+        "description": "MtF/🇨🇦🇹🇼🇺🇦🇮🇱/闺蜜🍋 @tongzikin /Fan of MV33 and YT22/Amateur Racing Driver/Admin @projtransworld /Director @kamabokongo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "tongzikin"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "projtransworld"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "kamabokongo"
+              }
+            ]
+          }
+        },
+        "id": "1975953775518191616",
+        "location": "Vancouver, British Columbia",
+        "name": "Misaka10057🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038023045109993472/-WeG2VPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 756,
+          "like_count": 37465,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "Misaka1057",
+        "verified": true
+      }
+    ]
+  }
+}

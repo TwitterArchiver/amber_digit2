@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081012459377197269",
+    "created_at": "2026-07-25T15:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081041090937766193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292713592777838597",
+          "start": 0,
+          "username": "MiscanthusFugax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081041090937766193",
+    "in_reply_to_user_id": "1292713592777838597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081019124117901628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiscanthusFugax 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081012459377197269",
+        "created_at": "2026-07-25T15:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081041090937766193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292713592777838597",
+              "start": 0,
+              "username": "MiscanthusFugax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081041090937766193",
+        "in_reply_to_user_id": "1292713592777838597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081019124117901628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiscanthusFugax 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292713592777838597",
+        "conversation_id": "2081012459377197269",
+        "created_at": "2026-07-25T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081019124117901628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081019124117901628",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081012459377197269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 这是在说什么啊爱男还不够多吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464,
+          "following_count": 569,
+          "like_count": 1567,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-10T06:45:20.000Z",
+        "description": "“逃逃”//无立场小狗//已婚已婚已婚//清水自拍废话推/Quaker/道姑/锅性恋/不约/100% INFP 9-4-5/enby/但不是男的/性别或许是🪼//地质/语言学/音乐理论/景观建筑/植物分类/皮肤癌/数摇/手语/苦空非我/诡计逃禅/MLP/霹雳金光\n//transphobia is misogyny//",
+        "id": "1292713592777838597",
+        "location": "United States",
+        "name": "芒花桃蝉",
+        "pinned_tweet_id": "1303518437961011202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049284170619465728/CkBWUnVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1084,
+          "like_count": 24296,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 3384
+        },
+        "url": "",
+        "username": "MiscanthusFugax",
+        "verified": false
+      }
+    ]
+  }
+}

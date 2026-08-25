@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086456214339104778",
+    "created_at": "2026-08-09T14:15:00.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086456214339104778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/joyhenderson78…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/joyhenderson78/status/2086233565864325408",
+          "start": 19,
+          "url": "https://t.co/GZA2z60rwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086456214339104778",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086233565864325408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "this is disastrous https://t.co/GZA2z60rwM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086456214339104778",
+        "created_at": "2026-08-09T14:15:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086456214339104778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joyhenderson78…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/joyhenderson78/status/2086233565864325408",
+              "start": 19,
+              "url": "https://t.co/GZA2z60rwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086456214339104778",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086233565864325408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is disastrous https://t.co/GZA2z60rwM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "48205643",
+        "conversation_id": "2085362383405404163",
+        "created_at": "2026-08-08T23:30:17.000Z",
+        "display_text_range": [
+          26,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T00:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086233565864325408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1387217595951194114",
+              "start": 0,
+              "username": "rady_aphrodite"
+            },
+            {
+              "end": 25,
+              "id": "58311658",
+              "start": 16,
+              "username": "meljomur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086233565864325408",
+        "in_reply_to_user_id": "1387217595951194114",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086224162591301994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rady_aphrodite @meljomur TransGENDER. Do you understand the difference between gender and sex?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086456214339104778",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4788,
+          "following_count": 783,
+          "like_count": 2831,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-18T02:02:54.000Z",
+        "description": "Femme Black and Lakota. Indigiqueer as in punch Nazis and TERFs. Says the things that people are usually thinking. Mediocre men will be insulted and blocked.",
+        "id": "48205643",
+        "is_identity_verified": false,
+        "location": "Toronto",
+        "most_recent_tweet_id": "2086456104452559027",
+        "name": "Joy Henderson (she/her) 🇵🇸",
+        "pinned_tweet_id": "1885718171899875446",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48205643/1751036787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060799940239011848/KG71NQ69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27458,
+          "following_count": 7870,
+          "like_count": 236220,
+          "listed_count": 89,
+          "media_count": 3714,
+          "tweet_count": 87392
+        },
+        "url": "",
+        "username": "Joyhenderson78",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

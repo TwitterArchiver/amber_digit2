@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081439690364780598",
+    "created_at": "2026-07-26T18:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081440164052681171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081440164052681171",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081439690364780598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原生家庭创伤就是原始资本积累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081439690364780598",
+        "created_at": "2026-07-26T18:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081440164052681171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081440164052681171",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081439690364780598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原生家庭创伤就是原始资本积累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2081439690364780598",
+        "created_at": "2026-07-26T18:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081439690364780598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tqo_02/status/…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/tqo_02/status/2081418966962962941",
+              "start": 188,
+              "url": "https://t.co/iGqljMxJN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081439690364780598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081418966962962941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "post 1990s china is a scathing demonstration of how systemic child abuse (both domestic and institutional) can become a primitive accumulation strategy for a burgeoning capitalist economy https://t.co/iGqljMxJN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 596,
+          "like_count": 1693,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

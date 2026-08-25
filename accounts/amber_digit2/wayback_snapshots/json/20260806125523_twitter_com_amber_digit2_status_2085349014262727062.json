@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085349014262727062",
+    "created_at": "2026-08-06T12:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085349014262727062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/emoemo088/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/emoemo088/status/2085023153810710684",
+          "start": 21,
+          "url": "https://t.co/C0TUksfCAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085349014262727062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085023153810710684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不免费给草不是收费就可以草的意思哈望周知 https://t.co/C0TUksfCAB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085349014262727062",
+        "created_at": "2026-08-06T12:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085349014262727062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emoemo088/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/emoemo088/status/2085023153810710684",
+              "start": 21,
+              "url": "https://t.co/C0TUksfCAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085349014262727062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085023153810710684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不免费给草不是收费就可以草的意思哈望周知 https://t.co/C0TUksfCAB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070513982599987201",
+        "conversation_id": "2085023153810710684",
+        "created_at": "2026-08-05T15:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085023153810710684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085023153810710684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 238989,
+          "like_count": 2015,
+          "quote_count": 3,
+          "reply_count": 655,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我发现原来推上真的有一群人觉得只要女生注册了推特帐号就是可以免费给操的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4662,
+          "following_count": 759,
+          "like_count": 2567,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T14:27:23.000Z",
+        "description": "当朋友圈发了 小号@ckyoa2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "ckyoa2"
+              }
+            ]
+          }
+        },
+        "id": "2070513982599987201",
+        "location": "你心里",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084532315032899585/cCnFudyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 3,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "emoemo088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086716179335483797",
+    "created_at": "2026-08-10T10:48:06.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086766532969816134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824119613162139648",
+          "start": 0,
+          "username": "void__empress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086766532969816134",
+    "in_reply_to_user_id": "1824119613162139648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086716179335483797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@void__empress 汪晖suki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086716161304231936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWBSvWbAAAlqVU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086716179335483797",
+        "created_at": "2026-08-10T10:48:06.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086766532969816134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824119613162139648",
+              "start": 0,
+              "username": "void__empress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086766532969816134",
+        "in_reply_to_user_id": "1824119613162139648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086716179335483797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@void__empress 汪晖suki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086716161304231936"
+          ]
+        },
+        "author_id": "1824119613162139648",
+        "conversation_id": "2086716179335483797",
+        "created_at": "2026-08-10T07:28:01.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086716179335483797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2O8kq4VMSQ",
+              "end": 28,
+              "expanded_url": "https://x.com/void__empress/status/2086716179335483797/photo/1",
+              "media_key": "3_2086716161304231936",
+              "start": 5,
+              "url": "https://t.co/2O8kq4VMSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086716179335483797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086716161304231936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "书到了喵 https://t.co/2O8kq4VMSQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086766532969816134",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4819,
+          "following_count": 792,
+          "like_count": 2900,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-15T16:23:09.000Z",
+        "description": "2006/sdu/cs相关专业/备战考研中/半个哲b/自我定位左人/思想混乱/fiche-hegel/",
+        "id": "1824119613162139648",
+        "is_identity_verified": false,
+        "location": "第七星界",
+        "most_recent_tweet_id": "2086756669263069678",
+        "name": "资本家（恩师罗龙飞，白柳元）",
+        "pinned_tweet_id": "2067293416694923490",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824119613162139648/1770056883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042842369440272384/PHRXjLTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 728,
+          "like_count": 10337,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 4501
+        },
+        "url": "",
+        "username": "void__empress",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

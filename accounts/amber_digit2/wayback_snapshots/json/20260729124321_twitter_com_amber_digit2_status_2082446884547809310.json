@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082109731825713264",
+    "created_at": "2026-07-29T12:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082446884547809310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1465955851018063882",
+          "start": 0,
+          "username": "Pi6Cat"
+        },
+        {
+          "end": 18,
+          "id": "1982449259774656512",
+          "start": 8,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082446884547809310",
+    "in_reply_to_user_id": "1465955851018063882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082416456319336542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pi6Cat @smiroyama 我觉得我是bulimia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082109731825713264",
+        "created_at": "2026-07-29T12:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082446884547809310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1465955851018063882",
+              "start": 0,
+              "username": "Pi6Cat"
+            },
+            {
+              "end": 18,
+              "id": "1982449259774656512",
+              "start": 8,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082446884547809310",
+        "in_reply_to_user_id": "1465955851018063882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082416456319336542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pi6Cat @smiroyama 我觉得我是bulimia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465955851018063882",
+        "conversation_id": "2082109731825713264",
+        "created_at": "2026-07-29T10:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082416456319336542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 24,
+              "id": "1982449259774656512",
+              "start": 14,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082416456319336542",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082126075312722142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @smiroyama 多伦多地铁里看到了camh的anorexia nervosa study寻人广告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 648,
+          "like_count": 1846,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-01T08:08:17.000Z",
+        "description": "",
+        "id": "1465955851018063882",
+        "location": "Toronto, Ontario",
+        "name": "Cat Pi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 52,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "Pi6Cat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n朋友:@Huang_Yut1ng @fukui_p26\n好问题🤔:@IchinichiNagi\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "IchinichiNagi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 98,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 75,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7444,
+          "following_count": 2618,
+          "like_count": 14266,
+          "listed_count": 15,
+          "media_count": 2443,
+          "tweet_count": 8985
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

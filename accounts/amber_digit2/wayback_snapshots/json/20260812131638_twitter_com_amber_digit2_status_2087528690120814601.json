@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087528686446653442",
+        "3_2087528686463401984",
+        "3_2087528686450855936"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2087528690120814601",
+    "created_at": "2026-08-12T13:16:38.000Z",
+    "display_text_range": [
+      0,
+      213
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087528690120814601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Firrxt6Hi",
+          "end": 237,
+          "expanded_url": "https://x.com/amber_digit2/status/2087528690120814601/photo/1",
+          "media_key": "3_2087528686446653442",
+          "start": 214,
+          "url": "https://t.co/7Firrxt6Hi"
+        },
+        {
+          "display_url": "pic.x.com/7Firrxt6Hi",
+          "end": 237,
+          "expanded_url": "https://x.com/amber_digit2/status/2087528690120814601/photo/1",
+          "media_key": "3_2087528686463401984",
+          "start": 214,
+          "url": "https://t.co/7Firrxt6Hi"
+        },
+        {
+          "display_url": "pic.x.com/7Firrxt6Hi",
+          "end": 237,
+          "expanded_url": "https://x.com/amber_digit2/status/2087528690120814601/photo/1",
+          "media_key": "3_2087528686450855936",
+          "start": 214,
+          "url": "https://t.co/7Firrxt6Hi"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 261,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2087337880699957329",
+          "start": 238,
+          "url": "https://t.co/kcPxifWw13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087528690120814601",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087528686446653442"
+      },
+      {
+        "media_key": "3_2087528686463401984"
+      },
+      {
+        "media_key": "3_2087528686450855936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087337880699957329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "it only gets wilder from here. judging from their fervent endorsement of white supremacy, colonialism, and neolib ethics, i think “feminism without morality” (their self-description) does capitulate their politics https://t.co/7Firrxt6Hi https://t.co/kcPxifWw13"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2087528686446653442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkR7YXMAIZAxz.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1352,
+        "media_key": "3_2087528686463401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkR7cWwAAqyy5.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1265,
+        "media_key": "3_2087528686450855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkR7ZXUAAaPSE.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1880,
+        "media_key": "3_2087332887108440064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeyM6AW0AAn8qF.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2087332887121018880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeyM6DWwAACFQS.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1166,
+        "media_key": "3_2087332887129382912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeyM6FWYAAqeL7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087528686446653442",
+            "3_2087528686463401984",
+            "3_2087528686450855936"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2087528690120814601",
+        "created_at": "2026-08-12T13:16:38.000Z",
+        "display_text_range": [
+          0,
+          213
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087528690120814601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Firrxt6Hi",
+              "end": 237,
+              "expanded_url": "https://x.com/amber_digit2/status/2087528690120814601/photo/1",
+              "media_key": "3_2087528686446653442",
+              "start": 214,
+              "url": "https://t.co/7Firrxt6Hi"
+            },
+            {
+              "display_url": "pic.x.com/7Firrxt6Hi",
+              "end": 237,
+              "expanded_url": "https://x.com/amber_digit2/status/2087528690120814601/photo/1",
+              "media_key": "3_2087528686463401984",
+              "start": 214,
+              "url": "https://t.co/7Firrxt6Hi"
+            },
+            {
+              "display_url": "pic.x.com/7Firrxt6Hi",
+              "end": 237,
+              "expanded_url": "https://x.com/amber_digit2/status/2087528690120814601/photo/1",
+              "media_key": "3_2087528686450855936",
+              "start": 214,
+              "url": "https://t.co/7Firrxt6Hi"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 261,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2087337880699957329",
+              "start": 238,
+              "url": "https://t.co/kcPxifWw13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087528690120814601",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087528686446653442"
+          },
+          {
+            "media_key": "3_2087528686463401984"
+          },
+          {
+            "media_key": "3_2087528686450855936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087337880699957329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "it only gets wilder from here. judging from their fervent endorsement of white supremacy, colonialism, and neolib ethics, i think “feminism without morality” (their self-description) does capitulate their politics https://t.co/7Firrxt6Hi https://t.co/kcPxifWw13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087332887108440064",
+            "3_2087332887121018880",
+            "3_2087332887129382912"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2087337880699957329",
+        "created_at": "2026-08-12T00:38:26.000Z",
+        "display_text_range": [
+          0,
+          249
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:18:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087332890371612690",
+          "2087337880699957329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LVDhGNRSoK",
+              "end": 273,
+              "expanded_url": "https://x.com/amber_digit2/status/2087337880699957329/photo/1",
+              "media_key": "3_2087332887108440064",
+              "start": 250,
+              "url": "https://t.co/LVDhGNRSoK"
+            },
+            {
+              "display_url": "pic.x.com/LVDhGNRSoK",
+              "end": 273,
+              "expanded_url": "https://x.com/amber_digit2/status/2087337880699957329/photo/1",
+              "media_key": "3_2087332887121018880",
+              "start": 250,
+              "url": "https://t.co/LVDhGNRSoK"
+            },
+            {
+              "display_url": "pic.x.com/LVDhGNRSoK",
+              "end": 273,
+              "expanded_url": "https://x.com/amber_digit2/status/2087337880699957329/photo/1",
+              "media_key": "3_2087332887129382912",
+              "start": 250,
+              "url": "https://t.co/LVDhGNRSoK"
+            },
+            {
+              "display_url": "x.com/bluebirdy_asa/…",
+              "end": 297,
+              "expanded_url": "https://twitter.com/bluebirdy_asa/status/2086685801052598385",
+              "start": 274,
+              "url": "https://t.co/J0aTkk1oTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087337880699957329",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087332887108440064"
+          },
+          {
+            "media_key": "3_2087332887121018880"
+          },
+          {
+            "media_key": "3_2087332887129382912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 23927,
+          "like_count": 754,
+          "quote_count": 25,
+          "reply_count": 10,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086685801052598385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The 4B movement was created by Womad almost exclusively out of spite for queer and trans people, and I find its popularity in the west to be quite telling of the ubiquity of trans misogyny as a mobilizing agent for fascist politics on a global scale https://t.co/LVDhGNRSoK https://t.co/J0aTkk1oTz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087528690120814601",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 826,
+          "like_count": 3145,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

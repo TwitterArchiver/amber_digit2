@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      }
+    ],
+    "conversation_id": "2082521317174095990",
+    "created_at": "2026-07-29T17:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082521317174095990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/girl_quboid/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/girl_quboid/status/2082398404412379495",
+          "start": 23,
+          "url": "https://t.co/Gcyjnc2IqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082521317174095990",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082398404412379495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "idk maybe fund her ffs https://t.co/Gcyjnc2IqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2082398395658858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYqTs4W8AAkC2m.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          }
+        ],
+        "conversation_id": "2082521317174095990",
+        "created_at": "2026-07-29T17:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082521317174095990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/girl_quboid/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/girl_quboid/status/2082398404412379495",
+              "start": 23,
+              "url": "https://t.co/Gcyjnc2IqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082521317174095990",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082398404412379495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "idk maybe fund her ffs https://t.co/Gcyjnc2IqN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398395658858496"
+          ]
+        },
+        "author_id": "2071193833652752384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          }
+        ],
+        "conversation_id": "2082398404412379495",
+        "created_at": "2026-07-29T09:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082398404412379495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvMgHnl57F",
+              "end": 79,
+              "expanded_url": "https://x.com/girl_quboid/status/2082398404412379495/photo/1",
+              "media_key": "3_2082398395658858496",
+              "start": 56,
+              "url": "https://t.co/YvMgHnl57F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398404412379495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 22965,
+          "like_count": 631,
+          "quote_count": 21,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "never try t4c oomfies just for your own sake please god https://t.co/YvMgHnl57F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 650,
+          "like_count": 1858,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-28T11:29:38.000Z",
+        "description": "19;\nbunny;\naspiring girl; \nsadposting @girl_cuboid2;",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "girl_cuboid2"
+              }
+            ]
+          }
+        },
+        "id": "2071193833652752384",
+        "location": "sfamfranciscio ",
+        "name": "elise ♡",
+        "pinned_tweet_id": "2077790595079090570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071195407598960640/jMviGrYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 163,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "girl_quboid",
+        "verified": false
+      }
+    ]
+  }
+}

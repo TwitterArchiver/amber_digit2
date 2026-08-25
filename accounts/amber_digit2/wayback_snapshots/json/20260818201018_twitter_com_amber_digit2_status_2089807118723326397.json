@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089807118723326397",
+    "created_at": "2026-08-18T20:10:18.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T21:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089807118723326397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drewpavlou/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/drewpavlou/status/2089443988143263966",
+          "start": 42,
+          "url": "https://t.co/uFycOCKdr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089807118723326397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089443988143263966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "各位可以来看一下这篇论文的第一句话各位能不能读懂，如果不能的话说明需要来找我学英语 https://t.co/uFycOCKdr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2089443982086713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8yOzpbMAAu4b1.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089807118723326397",
+        "created_at": "2026-08-18T20:10:18.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089807118723326397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drewpavlou/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/drewpavlou/status/2089443988143263966",
+              "start": 42,
+              "url": "https://t.co/uFycOCKdr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089807118723326397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089443988143263966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位可以来看一下这篇论文的第一句话各位能不能读懂，如果不能的话说明需要来找我学英语 https://t.co/uFycOCKdr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089443982086713344"
+          ]
+        },
+        "author_id": "1133510366422392833",
+        "conversation_id": "2089443988143263966",
+        "created_at": "2026-08-17T20:07:21.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089443988143263966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RE0qX2UQg",
+              "end": 300,
+              "expanded_url": "https://x.com/DrewPavlou/status/2089443988143263966/photo/1",
+              "media_key": "3_2089443982086713344",
+              "start": 277,
+              "url": "https://t.co/2RE0qX2UQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089443988143263966",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089443982086713344"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "Its not unreadable. Its abstract and writen in academic language. This man is just too stupid to understand it ",
+            "suggestion_id": "2089696685379199395"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "This is the opening to one of Jason Arday’s papers.\n\nIt is virtually unreadable. Maybe the worst sentence ever written in the English language. \n\n“Replete with espoused discourses of equality, diversity and inclusion within public bodies, is the UK, wherein lauded initiatives reward its universities’ commitments to increasing the access and positioning of ‘women’ in higher education.”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1098,
+          "impression_count": 1341191,
+          "like_count": 8308,
+          "quote_count": 249,
+          "reply_count": 1179,
+          "retweet_count": 762
+        },
+        "reply_settings": "everyone",
+        "text": "This is the opening to one of Jason Arday’s papers.\n\nIt is virtually unreadable. Maybe the worst sentence ever written in the English language. \n\n“Replete with espoused discourses of equality, diversity and inclusion within public bodies, is the UK, wherein lauded initiatives https://t.co/2RE0qX2UQg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089807118723326397",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5165,
+          "following_count": 878,
+          "like_count": 3806,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 2855
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-28T23:08:25.000Z",
+        "description": "Western civilisation enjoyer. Patriot. Adventurer. Anti-communist counter-revolutionary. Survived CCP kidnap plot. FREE TIBET.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/drewpavlou",
+                "end": 23,
+                "expanded_url": "https://link.me/drewpavlou",
+                "start": 0,
+                "url": "https://t.co/7jA7wCZBSx"
+              }
+            ]
+          }
+        },
+        "id": "1133510366422392833",
+        "is_identity_verified": true,
+        "location": "Brisbane, Australia",
+        "most_recent_tweet_id": "2089797322146447852",
+        "name": "Drew Pavlou 🇦🇺🇺🇸🇺🇦🇹🇼",
+        "pinned_tweet_id": "2073554661533942218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133510366422392833/1752153902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046104884102180864/yFRLqHdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261037,
+          "following_count": 6510,
+          "like_count": 259496,
+          "listed_count": 2104,
+          "media_count": 31199,
+          "tweet_count": 167401
+        },
+        "url": "https://t.co/7jA7wCZBSx",
+        "username": "DrewPavlou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

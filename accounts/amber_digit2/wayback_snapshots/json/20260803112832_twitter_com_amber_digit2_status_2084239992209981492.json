@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084238871408029753",
+    "created_at": "2026-08-03T11:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084239992209981492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 28,
+          "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951",
+          "start": 5,
+          "url": "https://t.co/T02QuDa8LH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084239992209981492",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083576541292691951",
+        "type": "quoted"
+      },
+      {
+        "id": "2084238871408029753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转转这个 https://t.co/T02QuDa8LH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083576537547206656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0lbW8AAdBXp.jpg",
+        "width": 683
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537551409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0lcXEAAjjYq.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537555537920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0ldWEAA-Ihp.jpg",
+        "width": 1311
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537555648512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0ldXwAAFFEr.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084238871408029753",
+        "created_at": "2026-08-03T11:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084239992209981492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 28,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951",
+              "start": 5,
+              "url": "https://t.co/T02QuDa8LH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084239992209981492",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083576541292691951",
+            "type": "quoted"
+          },
+          {
+            "id": "2084238871408029753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转转这个 https://t.co/T02QuDa8LH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083576537547206656",
+            "3_2083576537551409152",
+            "3_2083576537555537920",
+            "3_2083576537555648512"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083576541292691951",
+        "created_at": "2026-08-01T15:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083576541292691951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537547206656",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            },
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537551409152",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            },
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537555537920",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            },
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537555648512",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083576541292691951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【求转发扩散：性x过自己的教官却成自己的继父】17岁的小右迎来了人生中最黑暗的一天。过去的两年里，ta的母亲开始迷信所谓的“戒网瘾机构”能治好孩子的“问题”，即使她的孩子成绩在学校里名列前茅，也无法改变家长的掌控欲。\n\n24年8月开始，小右被送到了山东心种子教育咨询公司，实为一家接网瘾机构。在该机构里，当时年仅十五岁的小右屡遭虐待，多次被打伤、拘禁，这个小小少年的世界里，充满了绝望。\n\n25年5月，小右实施了ta的逃跑计划，可惜的是，成功逃离六天后，一个ta最不想见到的人出现了，戒网瘾机构的“教官”——李某振。\n\n“李教官”伙同多位所谓的“教官”在小右被拘禁于“山东心种子教育咨询公司”期间，多次对小右展开殴打、威胁、甚至性x等行为。\n\n令人痛心的是，小右再次受到了李某振的无端虐待，而小右母亲的话将小右的精神世界也摧毁的一干二净了。\n\n“我和你李叔叔结婚了，以后你要管他叫爸”\n\n自25年中开始，小右便和这位李教官一起生活，成为了他名义上的“儿子”，小右始终在找寻机会逃离这个对ta而言的恐怖的地方，可惜ta一次又一次的失败了。\n\n26年7月，小右联系上了几个朋友，哭着请求他们救救ta，然后再次被李某振拘禁，无法与外界联系，可能就在被送往下一所接网瘾机构的路上。\n\n呼吁未成年保护！呼吁取缔戒网瘾机构！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 136061,
+          "like_count": 584,
+          "quote_count": 39,
+          "reply_count": 52,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "【求转发扩散：性x过自己的教官却成自己的继父】17岁的小右迎来了人生中最黑暗的一天。过去的两年里，ta的母亲开始迷信所谓的“戒网瘾机构”能治好孩子的“问题”，即使她的孩子成绩在学校里名列前茅，也无法改变家长的掌控欲。 https://t.co/UwlvIdfU1B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084238871408029753",
+        "created_at": "2026-08-03T11:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084238871408029753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084238871408029753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们讨论那条帖子的时候，能不能顺带转发一下我发的另外几个求助帖？谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 717,
+          "like_count": 2242,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

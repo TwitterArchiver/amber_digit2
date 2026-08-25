@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083160953894445528",
+    "created_at": "2026-07-31T12:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083163589624439076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054962114830483456",
+          "start": 0,
+          "username": "PigCCZhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083163589624439076",
+    "in_reply_to_user_id": "2054962114830483456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083163458296832474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PigCCZhu ！这家也很喜欢 碱水很好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083163321398906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjiAPUa0AAjUOX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083163319960305664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjiAJ9bgAA-5fe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083160953894445528",
+        "created_at": "2026-07-31T12:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083163589624439076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054962114830483456",
+              "start": 0,
+              "username": "PigCCZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083163589624439076",
+        "in_reply_to_user_id": "2054962114830483456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083163458296832474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PigCCZhu ！这家也很喜欢 碱水很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083163321398906880",
+            "3_2083163319960305664"
+          ]
+        },
+        "author_id": "2054962114830483456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083160953894445528",
+        "created_at": "2026-07-31T12:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083163458296832474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qY79VFzBBA",
+              "end": 37,
+              "expanded_url": "https://x.com/PigCCZhu/status/2083163458296832474/photo/1",
+              "media_key": "3_2083163321398906880",
+              "start": 14,
+              "url": "https://t.co/qY79VFzBBA"
+            },
+            {
+              "display_url": "pic.x.com/qY79VFzBBA",
+              "end": 37,
+              "expanded_url": "https://x.com/PigCCZhu/status/2083163458296832474/photo/1",
+              "media_key": "3_2083163319960305664",
+              "start": 14,
+              "url": "https://t.co/qY79VFzBBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083163458296832474",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083160953894445528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 https://t.co/qY79VFzBBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4162,
+          "following_count": 669,
+          "like_count": 1980,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T16:29:14.000Z",
+        "description": "聆听小猪哼哼",
+        "id": "2054962114830483456",
+        "location": "Pignic 猪咖",
+        "name": "朱熙熙🐷小猪诊所",
+        "pinned_tweet_id": "2056354900083397064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079148829296009216/jK5jRwFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 372,
+          "like_count": 9652,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 2449
+        },
+        "url": "",
+        "username": "PigCCZhu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090915504143614449",
+    "created_at": "2026-08-21T21:34:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T22:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090915504143614449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241188368966352897",
+          "start": 3,
+          "username": "Eric31455217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090915504143614449",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090903402762870976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eric31455217: We could ID a similar rift in the logic of the “critical [new materialist, ethnic studies scholar, etc]” - a modifier tha…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090915504143614449",
+        "created_at": "2026-08-21T21:34:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090915504143614449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241188368966352897",
+              "start": 3,
+              "username": "Eric31455217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090915504143614449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090903402762870976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eric31455217: We could ID a similar rift in the logic of the “critical [new materialist, ethnic studies scholar, etc]” - a modifier tha…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241188368966352897",
+        "conversation_id": "2090903402762870976",
+        "created_at": "2026-08-21T20:46:32.000Z",
+        "display_text_range": [
+          0,
+          286
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090903402762870976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dee_of_e/statu…",
+              "end": 310,
+              "expanded_url": "https://twitter.com/dee_of_e/status/2090882998401126423",
+              "start": 287,
+              "url": "https://t.co/XOBX3O2XgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090903402762870976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090882998401126423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We could ID a similar rift in the logic of the “critical [new materialist, ethnic studies scholar, etc]” - a modifier that foregrounds questions of complicity &amp; determination while simultaneously wielding its own self-reflexivity as a form of moral &amp; political self-immunization https://t.co/XOBX3O2XgX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090915504143614449",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5346,
+          "following_count": 897,
+          "like_count": 4141,
+          "listed_count": 6,
+          "media_count": 237,
+          "tweet_count": 3089
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-21T02:22:32.000Z",
+        "description": "Writing about ethnic studies and higher ed in the long downturn. VAP in Black Studies @Middlebury. PhD in American Studies @GWUAMST.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Middlebury"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "GWUAMST"
+              }
+            ]
+          }
+        },
+        "id": "1241188368966352897",
+        "is_identity_verified": false,
+        "location": "Middlebury, VT",
+        "most_recent_tweet_id": "2090907078143492265",
+        "name": "Eric",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058426568012181504/7PcADsER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 2047,
+          "like_count": 51920,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1391
+        },
+        "url": "",
+        "username": "Eric31455217",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

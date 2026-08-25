@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082492210382016670",
+    "created_at": "2026-07-30T14:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082834154329116850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975415190200934401",
+          "start": 0,
+          "username": "_Ritikaaaa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082834154329116850",
+    "in_reply_to_user_id": "1975415190200934401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082745389556613425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Ritikaaaa_ 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082492210382016670",
+        "created_at": "2026-07-30T14:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082834154329116850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975415190200934401",
+              "start": 0,
+              "username": "_Ritikaaaa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082834154329116850",
+        "in_reply_to_user_id": "1975415190200934401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082745389556613425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Ritikaaaa_ 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975415190200934401",
+        "conversation_id": "2082492210382016670",
+        "created_at": "2026-07-30T08:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082745389556613425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082745389556613425",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082492210382016670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 omg so masculine so manly wawawawa you like a man wawawa i wish i looked like you wawawaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4112,
+          "following_count": 662,
+          "like_count": 1931,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T04:17:51.000Z",
+        "description": "Misinformation about linguistics\nEng/Hin/Fr\n\nhershey pronouns",
+        "id": "1975415190200934401",
+        "location": "Idhar udhar",
+        "name": "yyyyyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074148913142259713/5dGNUYNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "_Ritikaaaa_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081221530592108852",
+    "created_at": "2026-07-26T04:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081230073428869546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928032155331887104",
+          "start": 0,
+          "username": "dringsim_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081230073428869546",
+    "in_reply_to_user_id": "1928032155331887104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081229957012029723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dringsim_ 不是我，只是分享刻板印象（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081221530592108852",
+        "created_at": "2026-07-26T04:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081230073428869546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928032155331887104",
+              "start": 0,
+              "username": "dringsim_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081230073428869546",
+        "in_reply_to_user_id": "1928032155331887104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081229957012029723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dringsim_ 不是我，只是分享刻板印象（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928032155331887104",
+        "conversation_id": "2081221530592108852",
+        "created_at": "2026-07-26T04:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081229957012029723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081229957012029723",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 xmoi😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 10,
+                "username": "wgsi"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 583,
+          "like_count": 1617,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T10:14:30.000Z",
+        "description": "上一个号已被🐜🐲拿下\n备用号：@dringsim0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "dringsim0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wiktionary.org/wiki/Special:R…",
+                "end": 23,
+                "expanded_url": "https://en.wiktionary.org/wiki/Special:Random",
+                "start": 0,
+                "url": "https://t.co/JaMfcQIV43"
+              }
+            ]
+          }
+        },
+        "id": "1928032155331887104",
+        "location": "梦乡",
+        "name": "dringsim🏴‍☠️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073764970865836032/mFXYhODi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 175,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/JaMfcQIV43",
+        "username": "dringsim_",
+        "verified": false
+      }
+    ]
+  }
+}

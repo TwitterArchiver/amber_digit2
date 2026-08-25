@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081488433432719524",
+    "created_at": "2026-07-26T21:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081488433432719524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1448225217646497794",
+          "start": 3,
+          "username": "fl0ralsei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081488433432719524",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1873
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081210465666171117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fl0ralsei: you know she's a woman because people say she's lying and overreacting about her pain"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081488433432719524",
+        "created_at": "2026-07-26T21:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081488433432719524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1448225217646497794",
+              "start": 3,
+              "username": "fl0ralsei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081488433432719524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1873
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081210465666171117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fl0ralsei: you know she's a woman because people say she's lying and overreacting about her pain"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448225217646497794",
+        "conversation_id": "2081210465666171117",
+        "created_at": "2026-07-26T02:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081210465666171117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daizyzeex/stat…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/daizyzeex/status/2079971191188521030",
+              "start": 86,
+              "url": "https://t.co/FMRZ60nV9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081210465666171117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 404290,
+          "like_count": 30612,
+          "quote_count": 20,
+          "reply_count": 103,
+          "retweet_count": 1873
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079971191188521030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "you know she's a woman because people say she's lying and overreacting about her pain https://t.co/FMRZ60nV9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3758,
+          "following_count": 603,
+          "like_count": 1714,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1592
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T09:53:10.000Z",
+        "description": "i like ralsei and dessriel a lot | he/she/they",
+        "id": "1448225217646497794",
+        "location": "21 SEAsian bi",
+        "name": "marzy!",
+        "pinned_tweet_id": "2064030150157906239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064367479749857280/DqXlz2ak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 535,
+          "like_count": 33761,
+          "listed_count": 20,
+          "media_count": 382,
+          "tweet_count": 11547
+        },
+        "url": "",
+        "username": "fl0ralsei",
+        "verified": false
+      }
+    ]
+  }
+}

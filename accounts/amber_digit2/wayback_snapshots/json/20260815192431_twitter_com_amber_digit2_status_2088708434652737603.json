@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about India's agricultural industry",
+          "id": "958818792498319360",
+          "name": "Agricultural Industry in India"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489542346047852544",
+          "name": "India politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518657363795845121",
+          "name": "India political figures"
+        }
+      }
+    ],
+    "conversation_id": "2088708434652737603",
+    "created_at": "2026-08-15T19:24:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088708434652737603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1337217263515078662",
+          "start": 3,
+          "username": "Slatzism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088708434652737603",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2494
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088649098668695982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Slatzism: “indians have been trying to scam each other with fake cow piss so cow piss experts are being called upon to personally taste…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about India's agricultural industry",
+              "id": "958818792498319360",
+              "name": "Agricultural Industry in India"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489542346047852544",
+              "name": "India politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518657363795845121",
+              "name": "India political figures"
+            }
+          }
+        ],
+        "conversation_id": "2088708434652737603",
+        "created_at": "2026-08-15T19:24:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088708434652737603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1337217263515078662",
+              "start": 3,
+              "username": "Slatzism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088708434652737603",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088649098668695982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Slatzism: “indians have been trying to scam each other with fake cow piss so cow piss experts are being called upon to personally taste…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337217263515078662",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about India's agricultural industry",
+              "id": "958818792498319360",
+              "name": "Agricultural Industry in India"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489542346047852544",
+              "name": "India politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518657363795845121",
+              "name": "India political figures"
+            }
+          }
+        ],
+        "conversation_id": "2088649098668695982",
+        "created_at": "2026-08-15T15:28:45.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088649098668695982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rajsingh_jakha…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/rajsingh_jakhar/status/2087826176643575919",
+              "start": 278,
+              "url": "https://t.co/HF2NI2QHlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088649098668695982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "“indians have been trying to scam each other with fake cow piss so cow piss experts are being called upon to personally taste every batch and ensure purity” is something not even the most racist person on this app could have come up with if you gave them carte blanche and five tries to come up with the most anti-indian joke they could conceive of"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4280,
+          "impression_count": 1035329,
+          "like_count": 30295,
+          "quote_count": 65,
+          "reply_count": 201,
+          "retweet_count": 2494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087826176643575919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“indians have been trying to scam each other with fake cow piss so cow piss experts are being called upon to personally taste every batch and ensure purity” is something not even the most racist person on this app could have come up with if you gave them carte blanche and five https://t.co/HF2NI2QHlH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088708434652737603",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5118,
+          "following_count": 857,
+          "like_count": 3500,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-11T02:06:58.000Z",
+        "description": "la commedia è finita! homophobic correspondent @reduxx. the only nazbol here. “a powerhouse of bigotry”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "reduxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/DcsjEAfNff8t",
+                "end": 23,
+                "expanded_url": "https://youtu.be/DcsjEAfNff8t",
+                "start": 0,
+                "url": "https://t.co/TjZDX190cj"
+              }
+            ]
+          }
+        },
+        "id": "1337217263515078662",
+        "is_identity_verified": false,
+        "location": "either 🇨🇦 or 🇹🇷",
+        "most_recent_tweet_id": "2088691641779470381",
+        "name": "pagliacci the hated 🌝",
+        "pinned_tweet_id": "2025926720839098655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337217263515078662/1775856740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050093356454187008/N0lZTx7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159353,
+          "following_count": 818,
+          "like_count": 197549,
+          "listed_count": 557,
+          "media_count": 8894,
+          "tweet_count": 49665
+        },
+        "url": "https://t.co/TjZDX190cj",
+        "username": "Slatzism",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

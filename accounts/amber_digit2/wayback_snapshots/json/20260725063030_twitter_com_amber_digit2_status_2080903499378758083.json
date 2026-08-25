@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080728437921320960"
+      ],
+      "media_source_tweet_id": [
+        "2080728440186253343"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080903499378758083",
+    "created_at": "2026-07-25T06:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080903499378758083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "26115415",
+          "start": 3,
+          "username": "matthiasellis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0uxGcGO3O",
+          "end": 61,
+          "expanded_url": "https://x.com/matthiasellis/status/2080728440186253343/photo/1",
+          "media_key": "3_2080728437921320960",
+          "start": 38,
+          "url": "https://t.co/U0uxGcGO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080903499378758083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080728440186253343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matthiasellis: Billions must read https://t.co/U0uxGcGO3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2080728437921320960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA7fXhakAAeLtS.jpg",
+        "width": 267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080728437921320960"
+          ]
+        },
+        "author_id": "26115415",
+        "conversation_id": "2080728440186253343",
+        "created_at": "2026-07-24T18:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080728440186253343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0uxGcGO3O",
+              "end": 42,
+              "expanded_url": "https://x.com/matthiasellis/status/2080728440186253343/photo/1",
+              "media_key": "3_2080728437921320960",
+              "start": 19,
+              "url": "https://t.co/U0uxGcGO3O"
+            },
+            {
+              "display_url": "x.com/lyrasie/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/lyrasie/status/2080635326230360071",
+              "start": 43,
+              "url": "https://t.co/chk799r9jZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080728440186253343",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 693,
+          "impression_count": 25862,
+          "like_count": 996,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080635326230360071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Billions must read https://t.co/U0uxGcGO3O https://t.co/chk799r9jZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080728437921320960"
+          ],
+          "media_source_tweet_id": [
+            "2080728440186253343"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080903499378758083",
+        "created_at": "2026-07-25T06:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080903499378758083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "26115415",
+              "start": 3,
+              "username": "matthiasellis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0uxGcGO3O",
+              "end": 61,
+              "expanded_url": "https://x.com/matthiasellis/status/2080728440186253343/photo/1",
+              "media_key": "3_2080728437921320960",
+              "start": 38,
+              "url": "https://t.co/U0uxGcGO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080903499378758083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080728440186253343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matthiasellis: Billions must read https://t.co/U0uxGcGO3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 563,
+          "like_count": 1550,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 1463
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-23T23:06:21.000Z",
+        "description": "cinema and media, capitalism, theory, history, politics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "historiesofthepresent.com",
+                "end": 23,
+                "expanded_url": "http://historiesofthepresent.com",
+                "start": 0,
+                "url": "https://t.co/EmiQJJXgAq"
+              }
+            ]
+          }
+        },
+        "id": "26115415",
+        "location": "Portland, OR",
+        "name": "matthew ellis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993417015386947585/JJm4_8V6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15100,
+          "following_count": 4949,
+          "like_count": 92664,
+          "listed_count": 130,
+          "media_count": 480,
+          "tweet_count": 15006
+        },
+        "url": "https://t.co/EmiQJJXgAq",
+        "username": "matthiasellis",
+        "verified": false
+      }
+    ]
+  }
+}

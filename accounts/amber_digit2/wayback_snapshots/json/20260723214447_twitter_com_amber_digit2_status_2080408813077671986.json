@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080408809948807169",
+        "3_2080408809881718784",
+        "3_2080408809864867840"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2080408813077671986",
+    "created_at": "2026-07-23T21:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T22:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080408813077671986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eE2HDrYpud",
+          "end": 119,
+          "expanded_url": "https://x.com/amber_digit2/status/2080408813077671986/photo/1",
+          "media_key": "3_2080408809948807169",
+          "start": 96,
+          "url": "https://t.co/eE2HDrYpud"
+        },
+        {
+          "display_url": "pic.x.com/eE2HDrYpud",
+          "end": 119,
+          "expanded_url": "https://x.com/amber_digit2/status/2080408813077671986/photo/1",
+          "media_key": "3_2080408809881718784",
+          "start": 96,
+          "url": "https://t.co/eE2HDrYpud"
+        },
+        {
+          "display_url": "pic.x.com/eE2HDrYpud",
+          "end": 119,
+          "expanded_url": "https://x.com/amber_digit2/status/2080408813077671986/photo/1",
+          "media_key": "3_2080408809864867840",
+          "start": 96,
+          "url": "https://t.co/eE2HDrYpud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080408813077671986",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "chinese mathematician wins fields medal, cites yuri manga as his greatest source of inspiration https://t.co/eE2HDrYpud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2080408809948807169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8YykiXgAEJ8UY.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080408809881718784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8YykSX0AAoUbt.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2080408809864867840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8YykOWsAAsN4C.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080408809948807169",
+            "3_2080408809881718784",
+            "3_2080408809864867840"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2080408813077671986",
+        "created_at": "2026-07-23T21:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080408813077671986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eE2HDrYpud",
+              "end": 119,
+              "expanded_url": "https://x.com/amber_digit2/status/2080408813077671986/photo/1",
+              "media_key": "3_2080408809948807169",
+              "start": 96,
+              "url": "https://t.co/eE2HDrYpud"
+            },
+            {
+              "display_url": "pic.x.com/eE2HDrYpud",
+              "end": 119,
+              "expanded_url": "https://x.com/amber_digit2/status/2080408813077671986/photo/1",
+              "media_key": "3_2080408809881718784",
+              "start": 96,
+              "url": "https://t.co/eE2HDrYpud"
+            },
+            {
+              "display_url": "pic.x.com/eE2HDrYpud",
+              "end": 119,
+              "expanded_url": "https://x.com/amber_digit2/status/2080408813077671986/photo/1",
+              "media_key": "3_2080408809864867840",
+              "start": 96,
+              "url": "https://t.co/eE2HDrYpud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080408813077671986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "chinese mathematician wins fields medal, cites yuri manga as his greatest source of inspiration https://t.co/eE2HDrYpud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 545,
+          "like_count": 1461,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

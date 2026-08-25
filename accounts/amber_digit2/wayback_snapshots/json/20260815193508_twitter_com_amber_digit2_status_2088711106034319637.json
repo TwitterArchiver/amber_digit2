@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088688181428248576"
+      ],
+      "media_source_tweet_id": [
+        "2088688602012131470"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088711106034319637",
+    "created_at": "2026-08-15T19:35:08.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088711106034319637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1589263790830505990",
+          "start": 3,
+          "username": "Tyler_A_Harper"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/25WEnRdUdH",
+          "end": 77,
+          "expanded_url": "https://x.com/Tyler_A_Harper/status/2088688602012131470/photo/1",
+          "media_key": "3_2088688181428248576",
+          "start": 54,
+          "url": "https://t.co/25WEnRdUdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088711106034319637",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088688181428248576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088688602012131470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tyler_A_Harper: My view on the whole sorry affair https://t.co/25WEnRdUdH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1805,
+        "media_key": "3_2088688181428248576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyC1ayWYAA7rFG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088688181428248576"
+          ],
+          "media_source_tweet_id": [
+            "2088688602012131470"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088711106034319637",
+        "created_at": "2026-08-15T19:35:08.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088711106034319637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1589263790830505990",
+              "start": 3,
+              "username": "Tyler_A_Harper"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/25WEnRdUdH",
+              "end": 77,
+              "expanded_url": "https://x.com/Tyler_A_Harper/status/2088688602012131470/photo/1",
+              "media_key": "3_2088688181428248576",
+              "start": 54,
+              "url": "https://t.co/25WEnRdUdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088711106034319637",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088688181428248576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088688602012131470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tyler_A_Harper: My view on the whole sorry affair https://t.co/25WEnRdUdH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088688181428248576"
+          ]
+        },
+        "author_id": "1589263790830505990",
+        "conversation_id": "2088688602012131470",
+        "created_at": "2026-08-15T18:05:43.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088688602012131470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25WEnRdUdH",
+              "end": 57,
+              "expanded_url": "https://x.com/Tyler_A_Harper/status/2088688602012131470/photo/1",
+              "media_key": "3_2088688181428248576",
+              "start": 34,
+              "url": "https://t.co/25WEnRdUdH"
+            },
+            {
+              "display_url": "x.com/TheAtlantic/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/TheAtlantic/status/2088687202310013364",
+              "start": 58,
+              "url": "https://t.co/D0zrXGcnAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088688602012131470",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088688181428248576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 57880,
+          "like_count": 638,
+          "quote_count": 18,
+          "reply_count": 48,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088687202310013364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My view on the whole sorry affair https://t.co/25WEnRdUdH https://t.co/D0zrXGcnAL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088711106034319637",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5118,
+          "following_count": 857,
+          "like_count": 3503,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-06T14:30:13.000Z",
+        "description": "Staff writer @TheAtlantic. Co-host of the Time To Say Goodbye podcast (@ttsgpod). Gone fishing.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "TheAtlantic"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "ttsgpod"
+              }
+            ]
+          }
+        },
+        "id": "1589263790830505990",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088707280476721343",
+        "name": "Tyler Austin Harper",
+        "pinned_tweet_id": "1831343272872280371",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589263790830505990/1766257047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965850091916324864/yxTMol0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51872,
+          "following_count": 2844,
+          "like_count": 81741,
+          "listed_count": 389,
+          "media_count": 1053,
+          "tweet_count": 28084
+        },
+        "url": "",
+        "username": "Tyler_A_Harper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

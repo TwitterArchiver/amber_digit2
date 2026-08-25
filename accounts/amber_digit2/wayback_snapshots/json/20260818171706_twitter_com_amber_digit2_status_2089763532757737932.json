@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089689494148817156",
+    "created_at": "2026-08-18T17:17:06.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089763532757737932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "affinepipe47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089763532757737932",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089689494148817156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affinepipe47 你干啥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089689484426358784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQARg7IaMAA62lN.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089689494148817156",
+        "created_at": "2026-08-18T17:17:06.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089763532757737932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "affinepipe47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089763532757737932",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089689494148817156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affinepipe47 你干啥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089689484426358784"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "conversation_id": "2089689494148817156",
+        "created_at": "2026-08-18T12:22:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089689494148817156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o38xpNg3Cf",
+              "end": 30,
+              "expanded_url": "https://x.com/affinepipe47/status/2089689494148817156/photo/1",
+              "media_key": "3_2089689484426358784",
+              "start": 7,
+              "url": "https://t.co/o38xpNg3Cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089689494148817156",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089689484426358784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2379,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人不爱我了 https://t.co/o38xpNg3Cf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089763532757737932",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 877,
+          "like_count": 3783,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "气波波的猫，haruhi的猪，快手的外包，ted的敌人，喵粒子的什么，柚子的情敌，水宝的前室友",
+        "id": "1745799972576968705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089725101654860254",
+        "name": "全推最权威恐术咨询",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745799972576968705/1780998257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070894276805042176/4HZi8qRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 959,
+          "like_count": 10174,
+          "listed_count": 5,
+          "media_count": 377,
+          "tweet_count": 2979
+        },
+        "url": "",
+        "username": "affinepipe47",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090961478543179776"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090960033567908160",
+    "created_at": "2026-08-22T00:37:20.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T01:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090961481558900993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/smzPh5vyAe",
+          "end": 50,
+          "expanded_url": "https://x.com/amber_digit2/status/2090961481558900993/photo/1",
+          "media_key": "3_2090961478543179776",
+          "start": 27,
+          "url": "https://t.co/smzPh5vyAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090961481558900993",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090961478543179776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090960033567908160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 上面还有几条怎么不放进来 https://t.co/smzPh5vyAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090961478543179776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSWYueXgAAv5H-.jpg",
+        "width": 816
+      },
+      {
+        "height": 2085,
+        "media_key": "3_2090960015947677696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSVDl4bQAAtidT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090961478543179776"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090960033567908160",
+        "created_at": "2026-08-22T00:37:20.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090961481558900993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smzPh5vyAe",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_digit2/status/2090961481558900993/photo/1",
+              "media_key": "3_2090961478543179776",
+              "start": 27,
+              "url": "https://t.co/smzPh5vyAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090961481558900993",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090961478543179776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090960033567908160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 上面还有几条怎么不放进来 https://t.co/smzPh5vyAe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090960015947677696"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2090960033567908160",
+        "created_at": "2026-08-22T00:31:34.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090960033567908160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiZ7QX5eA6",
+              "end": 116,
+              "expanded_url": "https://x.com/ServalCandle/status/2090960033567908160/photo/1",
+              "media_key": "3_2090960015947677696",
+              "start": 93,
+              "url": "https://t.co/qiZ7QX5eA6"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/servalcandle/status/2090885018856120730",
+              "start": 117,
+              "url": "https://t.co/jFAJELQkGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090960033567908160",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090960015947677696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090885018856120730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给笨猫弄ptsd了但经过我直球对线发现只是一起普通的优越感事件（（（\n\n其实很正常，这种优越感的话\n\n有些人从小出生在“特权阶层”，家里再纵容点惯着点就腌制入味了，真是好惨(＞人＜;) https://t.co/qiZ7QX5eA6 https://t.co/jFAJELQkGO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090961481558900993",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5351,
+          "following_count": 897,
+          "like_count": 4146,
+          "listed_count": 7,
+          "media_count": 238,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2090960291127521567",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34123,
+          "following_count": 422,
+          "like_count": 237199,
+          "listed_count": 110,
+          "media_count": 9370,
+          "tweet_count": 60953
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

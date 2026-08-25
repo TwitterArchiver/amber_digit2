@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087681396030795919",
+    "created_at": "2026-08-13T11:46:22.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087868360067293650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628358190655246338",
+          "start": 0,
+          "username": "SNzhende2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087868360067293650",
+    "in_reply_to_user_id": "1628358190655246338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087681396030795919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNzhende2007 这个地图炮倒也不能这么打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087681396030795919",
+        "created_at": "2026-08-13T11:46:22.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087868360067293650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628358190655246338",
+              "start": 0,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087868360067293650",
+        "in_reply_to_user_id": "1628358190655246338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087681396030795919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNzhende2007 这个地图炮倒也不能这么打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628358190655246338",
+        "conversation_id": "2087681396030795919",
+        "created_at": "2026-08-12T23:23:26.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087681396030795919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2087031372976398654",
+              "start": 14,
+              "url": "https://t.co/TgtCgpJ186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087681396030795919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2943,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087031372976398654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这帮非二元有一个不厌女的吗 https://t.co/TgtCgpJ186"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087868360067293650",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5070,
+          "following_count": 836,
+          "like_count": 3262,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2590
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "她/祂/07/sub/虐腹/mtf（跨女）/lesfem/(g/acc)",
+        "id": "1628358190655246338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087857026668134552",
+        "name": "贞德",
+        "pinned_tweet_id": "2020400281704624605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628358190655246338/1718340966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2734,
+          "following_count": 311,
+          "like_count": 10766,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 2817
+        },
+        "url": "",
+        "username": "SNzhende2007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

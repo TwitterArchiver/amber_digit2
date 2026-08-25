@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087268755999166464",
+        "3_2087268762961727488",
+        "3_2087268768405991424",
+        "3_2087268774840020992"
+      ],
+      "media_source_tweet_id": [
+        "2087268779013345506",
+        "2087268779013345506",
+        "2087268779013345506",
+        "2087268779013345506"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087303818090352823",
+    "created_at": "2026-08-11T22:23:05.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087303818090352823"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "自杀干预"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946799807366082560",
+          "start": 3,
+          "username": "LeavesMao"
+        },
+        {
+          "end": 32,
+          "id": "1868438397083410432",
+          "start": 21,
+          "username": "2020520Rei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ivQ8xulyuL",
+          "end": 104,
+          "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+          "media_key": "3_2087268755999166464",
+          "start": 81,
+          "url": "https://t.co/ivQ8xulyuL"
+        },
+        {
+          "display_url": "pic.x.com/ivQ8xulyuL",
+          "end": 104,
+          "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+          "media_key": "3_2087268762961727488",
+          "start": 81,
+          "url": "https://t.co/ivQ8xulyuL"
+        },
+        {
+          "display_url": "pic.x.com/ivQ8xulyuL",
+          "end": 104,
+          "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+          "media_key": "3_2087268768405991424",
+          "start": 81,
+          "url": "https://t.co/ivQ8xulyuL"
+        },
+        {
+          "display_url": "pic.x.com/ivQ8xulyuL",
+          "end": 104,
+          "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+          "media_key": "3_2087268774840020992",
+          "start": 81,
+          "url": "https://t.co/ivQ8xulyuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087303818090352823",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087268755999166464"
+      },
+      {
+        "media_key": "3_2087268762961727488"
+      },
+      {
+        "media_key": "3_2087268768405991424"
+      },
+      {
+        "media_key": "3_2087268774840020992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087268779013345506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeavesMao: #自杀干预 @2020520Rei  疑似已经吞药昏迷 我已经报警了... 希望一切平安... 阿零说没事的...就一定没事... https://t.co/ivQ8xulyuL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087268755999166464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd33_AaEAALQ7-.jpg",
+        "width": 1188
+      },
+      {
+        "height": 2750,
+        "media_key": "3_2087268762961727488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd34Y8aUAA4A_S.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2750,
+        "media_key": "3_2087268768405991424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd34tObMAA_mWV.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2087268774840020992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd35FMasAAS_mQ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087268755999166464",
+            "3_2087268762961727488",
+            "3_2087268768405991424",
+            "3_2087268774840020992"
+          ]
+        },
+        "author_id": "1946799807366082560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087268779013345506",
+        "created_at": "2026-08-11T20:03:51.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087268779013345506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀干预"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1868438397083410432",
+              "start": 6,
+              "username": "2020520Rei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268755999166464",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268762961727488",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268768405991424",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268774840020992",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087268779013345506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087268755999166464"
+          },
+          {
+            "media_key": "3_2087268762961727488"
+          },
+          {
+            "media_key": "3_2087268768405991424"
+          },
+          {
+            "media_key": "3_2087268774840020992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 477,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#自杀干预 @2020520Rei  疑似已经吞药昏迷 我已经报警了... 希望一切平安... 阿零说没事的...就一定没事... https://t.co/ivQ8xulyuL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087268755999166464",
+            "3_2087268762961727488",
+            "3_2087268768405991424",
+            "3_2087268774840020992"
+          ],
+          "media_source_tweet_id": [
+            "2087268779013345506",
+            "2087268779013345506",
+            "2087268779013345506",
+            "2087268779013345506"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087303818090352823",
+        "created_at": "2026-08-11T22:23:05.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087303818090352823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "自杀干预"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946799807366082560",
+              "start": 3,
+              "username": "LeavesMao"
+            },
+            {
+              "end": 32,
+              "id": "1868438397083410432",
+              "start": 21,
+              "username": "2020520Rei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 104,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268755999166464",
+              "start": 81,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 104,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268762961727488",
+              "start": 81,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 104,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268768405991424",
+              "start": 81,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 104,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268774840020992",
+              "start": 81,
+              "url": "https://t.co/ivQ8xulyuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087303818090352823",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087268755999166464"
+          },
+          {
+            "media_key": "3_2087268762961727488"
+          },
+          {
+            "media_key": "3_2087268768405991424"
+          },
+          {
+            "media_key": "3_2087268774840020992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087268779013345506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeavesMao: #自杀干预 @2020520Rei  疑似已经吞药昏迷 我已经报警了... 希望一切平安... 阿零说没事的...就一定没事... https://t.co/ivQ8xulyuL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087303818090352823",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4937,
+          "following_count": 811,
+          "like_count": 3045,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "🍥🏳️‍⚧️ 猫猫......叶？\n2009.05.23 | 家暴党 | 独居中 | mtx | hrt 2026.03.18 | INFP | #Minecraft | 对不起我还活着 我不死了对不起…… 我再也不死了 | 好妹妹@NanoCatfish 另一只猫猫叶 @DontLeaveMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 73,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 116,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "DontLeaveMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovablemaomao",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lovablemaomao",
+                "start": 0,
+                "url": "https://t.co/NFpt0pkm6h"
+              }
+            ]
+          }
+        },
+        "id": "1946799807366082560",
+        "is_identity_verified": false,
+        "location": "重庆 两江新区 晴 41℃",
+        "most_recent_tweet_id": "2087282115356525040",
+        "name": "🍼猫猫叶TheCat🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082547065276833876",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946799807366082560/1785295903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055121224888664064/q0TB8fg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 637,
+          "like_count": 3244,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/NFpt0pkm6h",
+        "username": "LeavesMao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2087209574978003154",
+        "name": "ReiOᴗoಣ零酱🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 625,
+          "like_count": 3490,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

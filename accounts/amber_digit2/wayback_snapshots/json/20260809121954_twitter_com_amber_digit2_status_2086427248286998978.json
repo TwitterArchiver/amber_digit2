@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086157482900984016",
+    "created_at": "2026-08-09T12:19:54.000Z",
+    "display_text_range": [
+      16,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086427248286998978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416976245544345605",
+          "start": 0,
+          "username": "Bili40014error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086427248286998978",
+    "in_reply_to_user_id": "1416976245544345605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086331260943958031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bili40014error 这里不应该用 dishes 这个词，读起来不通顺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086157482900984016",
+        "created_at": "2026-08-09T12:19:54.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086427248286998978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416976245544345605",
+              "start": 0,
+              "username": "Bili40014error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086427248286998978",
+        "in_reply_to_user_id": "1416976245544345605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086331260943958031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bili40014error 这里不应该用 dishes 这个词，读起来不通顺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416976245544345605",
+        "conversation_id": "2086157482900984016",
+        "created_at": "2026-08-09T05:58:29.000Z",
+        "display_text_range": [
+          14,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086331260943958031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086331260943958031",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086157482900984016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 Bro thinks that all the dishes he had before were forced to swallow by his parents. Lmao 🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086427248286998978",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 782,
+          "like_count": 2813,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T04:20:45.000Z",
+        "description": "FH6 LOVER",
+        "id": "1416976245544345605",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086333700808257930",
+        "name": "40014error",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416976245544345605/1636532771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416976355460276224/f3kb5Ue2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 559,
+          "like_count": 1647,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "Bili40014error",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

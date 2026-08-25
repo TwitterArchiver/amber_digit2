@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082836083801288704"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082836085965471888",
+    "created_at": "2026-07-30T14:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082836085965471888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYYTyCXZmd",
+          "end": 36,
+          "expanded_url": "https://x.com/amber_digit2/status/2082836085965471888/photo/1",
+          "media_key": "3_2082836083801288704",
+          "start": 13,
+          "url": "https://t.co/XYYTyCXZmd"
+        },
+        {
+          "display_url": "x.com/lrlilolam/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/lrlilolam/status/2082503106382962942",
+          "start": 37,
+          "url": "https://t.co/hDRUyXuyqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082836085965471888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082503106382962942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你还别说 我确实是学哲的 https://t.co/XYYTyCXZmd https://t.co/hDRUyXuyqj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 479,
+        "media_key": "3_2082836083801288704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe4YgRXcAAsROj.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082836083801288704"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082836085965471888",
+        "created_at": "2026-07-30T14:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082836085965471888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYYTyCXZmd",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_digit2/status/2082836085965471888/photo/1",
+              "media_key": "3_2082836083801288704",
+              "start": 13,
+              "url": "https://t.co/XYYTyCXZmd"
+            },
+            {
+              "display_url": "x.com/lrlilolam/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lrlilolam/status/2082503106382962942",
+              "start": 37,
+              "url": "https://t.co/hDRUyXuyqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836085965471888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082503106382962942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你还别说 我确实是学哲的 https://t.co/XYYTyCXZmd https://t.co/hDRUyXuyqj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594057062803075072",
+        "conversation_id": "2082503106382962942",
+        "created_at": "2026-07-29T16:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082503106382962942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2082492210382016670",
+              "start": 21,
+              "url": "https://t.co/JyILlfH9gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082503106382962942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 43117,
+          "like_count": 306,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082492210382016670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "图一好像未明子啊，而且男相尽显有没有懂的 https://t.co/JyILlfH9gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4114,
+          "following_count": 662,
+          "like_count": 1931,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T19:56:44.000Z",
+        "description": "粉蛆滚 / 🌹 / 梦想是一个所有人都有尊严地活着的世界\n如果你不接受互关后被单方面取关，请不要关注\n裏人格：@SumikyouHideru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "SumikyouHideru"
+              }
+            ]
+          }
+        },
+        "id": "1594057062803075072",
+        "location": "「悪意」がない場所",
+        "name": "緑皮本子",
+        "pinned_tweet_id": "2052939253525717475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733861187803332608/K2gJDnVx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 151,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "lrlilolam",
+        "verified": false
+      }
+    ]
+  }
+}

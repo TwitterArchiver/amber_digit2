@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089829899229913134",
+    "created_at": "2026-08-19T20:04:11.000Z",
+    "display_text_range": [
+      28,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090167968076362052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1705855539236790272",
+          "start": 0,
+          "username": "bingohobbyist"
+        },
+        {
+          "end": 27,
+          "id": "1600743849290350592",
+          "start": 15,
+          "username": "Crazyuncute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090167968076362052",
+    "in_reply_to_user_id": "1705855539236790272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090144609171071072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingohobbyist @Crazyuncute 大部分条目都是中文写完英文翻译的，并且很多人的条目上线日期远在AI被发明出来之前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089829899229913134",
+        "created_at": "2026-08-19T20:04:11.000Z",
+        "display_text_range": [
+          28,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090167968076362052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1705855539236790272",
+              "start": 0,
+              "username": "bingohobbyist"
+            },
+            {
+              "end": 27,
+              "id": "1600743849290350592",
+              "start": 15,
+              "username": "Crazyuncute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090167968076362052",
+        "in_reply_to_user_id": "1705855539236790272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090144609171071072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingohobbyist @Crazyuncute 大部分条目都是中文写完英文翻译的，并且很多人的条目上线日期远在AI被发明出来之前"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855539236790272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2089829899229913134",
+        "created_at": "2026-08-19T18:31:22.000Z",
+        "display_text_range": [
+          27,
+          303
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090144609171071072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 26,
+              "id": "1600743849290350592",
+              "start": 14,
+              "username": "Crazyuncute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090144609171071072",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089917321632460933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @Crazyuncute It rubs me off the wrong way that they don’t acknowledge anything else about themselves or better yet for some of the pages have NOTHING on them. most of the descriptions of these folks sound ai generated. It makes me wonder if they were lazy or just sincere in the wrong way."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090167968076362052",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 878,
+          "like_count": 3936,
+          "listed_count": 7,
+          "media_count": 226,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T08:03:56.000Z",
+        "description": "#youlikebingo?\nx is faggoty, ill leave when i want. bisexual, trans (genderfluid) warrior, gigachad poster, r/RAIwoahjacks user. 💉9/12/25",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "youlikebingo"
+              }
+            ]
+          }
+        },
+        "id": "1705855539236790272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090157933933772855",
+        "name": "phonKING",
+        "pinned_tweet_id": "2075652585072083431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705855539236790272/1787060106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086869728610361344/qVrIby6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 101,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "bingohobbyist",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-08T06:47:46.000Z",
+        "description": "",
+        "id": "1600743849290350592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090146597686424035",
+        "name": "L",
+        "pinned_tweet_id": "2051179712261636159",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866682017233907712/uRvswRaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1271,
+          "like_count": 10380,
+          "listed_count": 8,
+          "media_count": 1147,
+          "tweet_count": 17681
+        },
+        "url": "",
+        "username": "Crazyuncute",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

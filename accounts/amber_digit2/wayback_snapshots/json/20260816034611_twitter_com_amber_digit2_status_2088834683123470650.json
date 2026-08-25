@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088834680170713088",
+        "3_2088834680166526976"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088834683123470650",
+    "created_at": "2026-08-16T03:46:11.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088834683123470650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kw9OWM7DIG",
+          "end": 39,
+          "expanded_url": "https://x.com/amber_digit2/status/2088834683123470650/photo/1",
+          "media_key": "3_2088834680170713088",
+          "start": 16,
+          "url": "https://t.co/kw9OWM7DIG"
+        },
+        {
+          "display_url": "pic.x.com/kw9OWM7DIG",
+          "end": 39,
+          "expanded_url": "https://x.com/amber_digit2/status/2088834683123470650/photo/1",
+          "media_key": "3_2088834680166526976",
+          "start": 16,
+          "url": "https://t.co/kw9OWM7DIG"
+        },
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/bghtnya/status/2088570510108176582",
+          "start": 40,
+          "url": "https://t.co/E98nlj6meZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088834683123470650",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088834680170713088"
+      },
+      {
+        "media_key": "3_2088834680166526976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088570510108176582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们没有任何人的壁纸比我的好看 https://t.co/kw9OWM7DIG https://t.co/E98nlj6meZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088834680170713088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0IExIXkAA_0r6.jpg",
+        "width": 1218
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088834680166526976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0IExHXsAAHymW.jpg",
+        "width": 1218
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2088570502612959232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwXznCawAA3xm-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088834680170713088",
+            "3_2088834680166526976"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088834683123470650",
+        "created_at": "2026-08-16T03:46:11.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088834683123470650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kw9OWM7DIG",
+              "end": 39,
+              "expanded_url": "https://x.com/amber_digit2/status/2088834683123470650/photo/1",
+              "media_key": "3_2088834680170713088",
+              "start": 16,
+              "url": "https://t.co/kw9OWM7DIG"
+            },
+            {
+              "display_url": "pic.x.com/kw9OWM7DIG",
+              "end": 39,
+              "expanded_url": "https://x.com/amber_digit2/status/2088834683123470650/photo/1",
+              "media_key": "3_2088834680166526976",
+              "start": 16,
+              "url": "https://t.co/kw9OWM7DIG"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/bghtnya/status/2088570510108176582",
+              "start": 40,
+              "url": "https://t.co/E98nlj6meZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088834683123470650",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088834680170713088"
+          },
+          {
+            "media_key": "3_2088834680166526976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088570510108176582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们没有任何人的壁纸比我的好看 https://t.co/kw9OWM7DIG https://t.co/E98nlj6meZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088570502612959232"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088570510108176582",
+        "created_at": "2026-08-15T10:16:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088570510108176582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jb7ph1L2L2",
+              "end": 23,
+              "expanded_url": "https://x.com/bghtnya/status/2088570510108176582/photo/1",
+              "media_key": "3_2088570502612959232",
+              "start": 0,
+              "url": "https://t.co/Jb7ph1L2L2"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/skyseafor/status/2088533945088635156",
+              "start": 24,
+              "url": "https://t.co/hTx1xxePOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088570510108176582",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088570502612959232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3728,
+          "like_count": 25,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088533945088635156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jb7ph1L2L2 https://t.co/hTx1xxePOB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088834683123470650",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 859,
+          "like_count": 3527,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2088812140195197024",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10370,
+          "following_count": 2324,
+          "like_count": 181502,
+          "listed_count": 20,
+          "media_count": 4038,
+          "tweet_count": 49502
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

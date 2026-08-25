@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080636033012736000"
+      ],
+      "media_source_tweet_id": [
+        "2080636040407306705"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080711926644977911",
+    "created_at": "2026-07-24T17:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080711926644977911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554696046021730305",
+          "start": 3,
+          "username": "Pyuyi233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g6SjHp9CWD",
+          "end": 52,
+          "expanded_url": "https://x.com/Pyuyi233/status/2080636040407306705/photo/1",
+          "media_key": "3_2080636033012736000",
+          "start": 29,
+          "url": "https://t.co/g6SjHp9CWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080711926644977911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080636040407306705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pyuyi233: 菲尔兹奖的最高指示：伪娘甚好 https://t.co/g6SjHp9CWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_2080636033012736000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ncsaaIAAUlBI.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080636033012736000"
+          ]
+        },
+        "author_id": "1554696046021730305",
+        "conversation_id": "2080636040407306705",
+        "created_at": "2026-07-24T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080636040407306705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6SjHp9CWD",
+              "end": 38,
+              "expanded_url": "https://x.com/Pyuyi233/status/2080636040407306705/photo/1",
+              "media_key": "3_2080636033012736000",
+              "start": 15,
+              "url": "https://t.co/g6SjHp9CWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080636040407306705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 16377,
+          "like_count": 238,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "菲尔兹奖的最高指示：伪娘甚好 https://t.co/g6SjHp9CWD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080636033012736000"
+          ],
+          "media_source_tweet_id": [
+            "2080636040407306705"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080711926644977911",
+        "created_at": "2026-07-24T17:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080711926644977911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554696046021730305",
+              "start": 3,
+              "username": "Pyuyi233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6SjHp9CWD",
+              "end": 52,
+              "expanded_url": "https://x.com/Pyuyi233/status/2080636040407306705/photo/1",
+              "media_key": "3_2080636033012736000",
+              "start": 29,
+              "url": "https://t.co/g6SjHp9CWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080711926644977911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080636040407306705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pyuyi233: 菲尔兹奖的最高指示：伪娘甚好 https://t.co/g6SjHp9CWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3270,
+          "following_count": 553,
+          "like_count": 1504,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi) | INFJ | 希望被大家喜欢😜 | 艰难找对象ing(ㄒoㄒ) | 也想成为全栈工程师(≧∇≦)/Intern @Huawei(RA)\n\n| math |\nAI Interpretability |\nCybersecurity |\n\n高P，线下查无此人😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "Huawei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 85,
+          "like_count": 793,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084596510109663232"
+      ],
+      "media_source_tweet_id": [
+        "2084596515549622508"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084866655172071586",
+    "created_at": "2026-08-05T04:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084866655172071586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "960432204131180546",
+          "start": 3,
+          "username": "KINOisobe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3zVETAsWvz",
+          "end": 43,
+          "expanded_url": "https://x.com/KINOisobe/status/2084596515549622508/photo/1",
+          "media_key": "3_2084596510109663232",
+          "start": 20,
+          "url": "https://t.co/3zVETAsWvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084866655172071586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084596515549622508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KINOisobe: チグハグ https://t.co/3zVETAsWvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_2084596510109663232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO35ezUbAAAWLwA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084596510109663232"
+          ]
+        },
+        "author_id": "960432204131180546",
+        "conversation_id": "2084596515549622508",
+        "created_at": "2026-08-04T11:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084596515549622508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zVETAsWvz",
+              "end": 28,
+              "expanded_url": "https://x.com/KINOisobe/status/2084596515549622508/photo/1",
+              "media_key": "3_2084596510109663232",
+              "start": 5,
+              "url": "https://t.co/3zVETAsWvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084596515549622508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 15303,
+          "like_count": 1695,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "チグハグ https://t.co/3zVETAsWvz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084596510109663232"
+          ],
+          "media_source_tweet_id": [
+            "2084596515549622508"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084866655172071586",
+        "created_at": "2026-08-05T04:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084866655172071586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "960432204131180546",
+              "start": 3,
+              "username": "KINOisobe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zVETAsWvz",
+              "end": 43,
+              "expanded_url": "https://x.com/KINOisobe/status/2084596515549622508/photo/1",
+              "media_key": "3_2084596510109663232",
+              "start": 20,
+              "url": "https://t.co/3zVETAsWvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084866655172071586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084596515549622508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KINOisobe: チグハグ https://t.co/3zVETAsWvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 748,
+          "like_count": 2472,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-05T08:37:36.000Z",
+        "description": "おえかきはエモーションᝰ✍ #wave_KINO\n𝗦𝗸𝗲𝗯【https://t.co/2CjVc0BYPE】\n🚫Unauthorized reposts | AI training | Icon/Header use",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 14,
+                "tag": "wave_KINO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@KINOisobe",
+                "end": 53,
+                "expanded_url": "https://skeb.jp/@KINOisobe",
+                "start": 30,
+                "url": "https://t.co/2CjVc0BYPE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinoisobe.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://kinoisobe.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/7SvWZbuFGZ"
+              }
+            ]
+          }
+        },
+        "id": "960432204131180546",
+        "location": "Japan",
+        "name": "きの磯辺",
+        "pinned_tweet_id": "2083725677598294104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011010934861676544/5zI4r98x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 484,
+          "like_count": 25669,
+          "listed_count": 16,
+          "media_count": 356,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/7SvWZbuFGZ",
+        "username": "KINOisobe",
+        "verified": false
+      }
+    ]
+  }
+}

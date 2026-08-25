@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083689906488942592",
+        "3_2083689927229730817"
+      ],
+      "media_source_tweet_id": [
+        "2083689950524973214",
+        "2083689950524973214"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083725278711287883",
+    "created_at": "2026-08-02T01:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083725278711287883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1324595269720252417",
+          "start": 3,
+          "username": "saintsuperski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vn8vfeohzW",
+          "end": 74,
+          "expanded_url": "https://x.com/saintsuperski/status/2083689950524973214/photo/1",
+          "media_key": "3_2083689906488942592",
+          "start": 51,
+          "url": "https://t.co/vn8vfeohzW"
+        },
+        {
+          "display_url": "pic.x.com/vn8vfeohzW",
+          "end": 74,
+          "expanded_url": "https://x.com/saintsuperski/status/2083689950524973214/photo/1",
+          "media_key": "3_2083689927229730817",
+          "start": 51,
+          "url": "https://t.co/vn8vfeohzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083725278711287883",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083689950524973214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saintsuperski: We can't let this erasure slide https://t.co/vn8vfeohzW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083689906488942592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrA7hpXIAAJXfE.jpg",
+        "width": 1040
+      },
+      {
+        "height": 1508,
+        "media_key": "3_2083689927229730817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrA8u6WcAEV0bD.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083689906488942592",
+            "3_2083689927229730817"
+          ]
+        },
+        "author_id": "1324595269720252417",
+        "conversation_id": "2083689950524973214",
+        "created_at": "2026-08-01T23:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083689950524973214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vn8vfeohzW",
+              "end": 55,
+              "expanded_url": "https://x.com/saintsuperski/status/2083689950524973214/photo/1",
+              "media_key": "3_2083689906488942592",
+              "start": 32,
+              "url": "https://t.co/vn8vfeohzW"
+            },
+            {
+              "display_url": "pic.x.com/vn8vfeohzW",
+              "end": 55,
+              "expanded_url": "https://x.com/saintsuperski/status/2083689950524973214/photo/1",
+              "media_key": "3_2083689927229730817",
+              "start": 32,
+              "url": "https://t.co/vn8vfeohzW"
+            },
+            {
+              "display_url": "x.com/Breanna_haul/s…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Breanna_haul/status/2083202265687502928",
+              "start": 56,
+              "url": "https://t.co/KsYtCmI4dB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083689950524973214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 460,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083202265687502928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We can't let this erasure slide https://t.co/vn8vfeohzW https://t.co/KsYtCmI4dB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083689906488942592",
+            "3_2083689927229730817"
+          ],
+          "media_source_tweet_id": [
+            "2083689950524973214",
+            "2083689950524973214"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083725278711287883",
+        "created_at": "2026-08-02T01:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083725278711287883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1324595269720252417",
+              "start": 3,
+              "username": "saintsuperski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vn8vfeohzW",
+              "end": 74,
+              "expanded_url": "https://x.com/saintsuperski/status/2083689950524973214/photo/1",
+              "media_key": "3_2083689906488942592",
+              "start": 51,
+              "url": "https://t.co/vn8vfeohzW"
+            },
+            {
+              "display_url": "pic.x.com/vn8vfeohzW",
+              "end": 74,
+              "expanded_url": "https://x.com/saintsuperski/status/2083689950524973214/photo/1",
+              "media_key": "3_2083689927229730817",
+              "start": 51,
+              "url": "https://t.co/vn8vfeohzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083725278711287883",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083689950524973214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saintsuperski: We can't let this erasure slide https://t.co/vn8vfeohzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ/ ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 700,
+          "like_count": 2141,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-06T06:12:34.000Z",
+        "description": "I have led a compelling narrative",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/4GDnp",
+                "end": 23,
+                "expanded_url": "https://boxd.it/4GDnp",
+                "start": 0,
+                "url": "https://t.co/0QR8BrTNkv"
+              }
+            ]
+          }
+        },
+        "id": "1324595269720252417",
+        "location": "21. Software engineer. MR.",
+        "name": "man of the month",
+        "pinned_tweet_id": "2061494519200178518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057818013936599040/m305_iz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 511,
+          "like_count": 281923,
+          "listed_count": 4,
+          "media_count": 4087,
+          "tweet_count": 87424
+        },
+        "url": "https://t.co/0QR8BrTNkv",
+        "username": "saintsuperski",
+        "verified": false
+      }
+    ]
+  }
+}

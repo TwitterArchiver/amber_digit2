@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082832605070712891",
+    "created_at": "2026-07-30T14:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082832605070712891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dianaanya0/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dianaanya0/status/2082818332844261788",
+          "start": 5,
+          "url": "https://t.co/XxYfCRt5MZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082832605070712891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082818332844261788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "海淀黄庄 https://t.co/XxYfCRt5MZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082818320424988672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeoOiibcAA4TCf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082832605070712891",
+        "created_at": "2026-07-30T14:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082832605070712891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dianaanya0/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dianaanya0/status/2082818332844261788",
+              "start": 5,
+              "url": "https://t.co/XxYfCRt5MZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082832605070712891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082818332844261788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海淀黄庄 https://t.co/XxYfCRt5MZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082818320424988672"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "conversation_id": "2082818332844261788",
+        "created_at": "2026-07-30T13:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082818332844261788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmVmwoVoDv",
+              "end": 41,
+              "expanded_url": "https://x.com/DianaAnya0/status/2082818332844261788/photo/1",
+              "media_key": "3_2082818320424988672",
+              "start": 18,
+              "url": "https://t.co/mmVmwoVoDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082818332844261788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搬家了呜呜，请问北京哪里男娘多一点 https://t.co/mmVmwoVoDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4111,
+          "following_count": 662,
+          "like_count": 1931,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "砂糖橘小猫娘 // 友好(欢迎扩列) // 会发些碎碎念.日常和绳❤️ // 低音吉他🎸 // (隐退的..绳师？) //住在北京 // 可以扩列闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔",
+        "pinned_tweet_id": "2072013583832260729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045038326084939776/jocz5Vv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9532,
+          "following_count": 146,
+          "like_count": 4862,
+          "listed_count": 14,
+          "media_count": 363,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

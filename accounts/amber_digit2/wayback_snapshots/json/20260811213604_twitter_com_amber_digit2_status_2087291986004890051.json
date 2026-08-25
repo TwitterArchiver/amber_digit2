@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087272134405992957",
+    "created_at": "2026-08-11T21:36:04.000Z",
+    "display_text_range": [
+      29,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T22:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087291986004890051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        },
+        {
+          "end": 28,
+          "id": "1553377337902714881",
+          "start": 15,
+          "username": "ChiangCChing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087291986004890051",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087290613771432158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX @ChiangCChing 并非啊只是我们学校校服长这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087272134405992957",
+        "created_at": "2026-08-11T21:36:04.000Z",
+        "display_text_range": [
+          29,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087291986004890051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            },
+            {
+              "end": 28,
+              "id": "1553377337902714881",
+              "start": 15,
+              "username": "ChiangCChing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087291986004890051",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087290613771432158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX @ChiangCChing 并非啊只是我们学校校服长这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3318278592",
+        "conversation_id": "2087272134405992957",
+        "created_at": "2026-08-11T21:30:36.000Z",
+        "display_text_range": [
+          28,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087290613771432158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 27,
+              "id": "1553377337902714881",
+              "start": 14,
+              "username": "ChiangCChing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087290613771432158",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087272134405992957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @ChiangCChing 你怎么也是运动校服控"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087291986004890051",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4941,
+          "following_count": 811,
+          "like_count": 3041,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "is_identity_verified": false,
+        "location": "San Francisco",
+        "most_recent_tweet_id": "2087291143587578271",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3318278592/1721775996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 963,
+          "like_count": 3376,
+          "listed_count": 5,
+          "media_count": 1539,
+          "tweet_count": 7831
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-30T13:50:04.000Z",
+        "description": "因此不常作文者须记忆特强，不常讨论者须天生聪颖，不常读书者须欺世有术，始能无知而显有知。——弗朗西斯•培根《谈读书》",
+        "id": "1553377337902714881",
+        "is_identity_verified": false,
+        "location": "阿蒙森-斯科特南极站",
+        "most_recent_tweet_id": "2087196828391616636",
+        "name": "蒋净",
+        "pinned_tweet_id": "2061689583738482893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553377337902714881/1672626733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592002828876206080/ThUQWM3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 130,
+          "like_count": 2066,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "ChiangCChing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

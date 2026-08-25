@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Stephen A. Smith",
+          "id": "809860959447629826",
+          "name": "Stephen A. Smith"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Sports Personality like 'Skip Bayless'",
+          "id": "92",
+          "name": "Sports Personality"
+        },
+        "entity": {
+          "description": "Stephen A. Smith",
+          "id": "809860959447629826",
+          "name": "Stephen A. Smith"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stephen A. Smith",
+          "id": "809860959447629826",
+          "name": "Stephen A. Smith"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports Figures",
+          "id": "1074755059433463813",
+          "name": "Sports journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285942425861545984",
+          "name": "Sports figures"
+        }
+      }
+    ],
+    "conversation_id": "2084873022456975594",
+    "created_at": "2026-08-05T05:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084873022456975594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545902976182665216",
+          "start": 3,
+          "username": "stacycay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084873022456975594",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084839877523247401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stacycay: Funny you say that, because there’s a thing called “Broken Arm Syndrome”. So yes, kind of. They’ll say we need to stop our me…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2084839873228288000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7W0ZlXsAAvf-7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2084873022456975594",
+        "created_at": "2026-08-05T05:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084873022456975594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545902976182665216",
+              "start": 3,
+              "username": "stacycay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084873022456975594",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084839877523247401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stacycay: Funny you say that, because there’s a thing called “Broken Arm Syndrome”. So yes, kind of. They’ll say we need to stop our me…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084839873228288000"
+          ]
+        },
+        "author_id": "1545902976182665216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2084839877523247401",
+        "created_at": "2026-08-05T03:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084839877523247401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPO2Bn6uty",
+              "end": 302,
+              "expanded_url": "https://x.com/stacycay/status/2084839877523247401/photo/1",
+              "media_key": "3_2084839873228288000",
+              "start": 279,
+              "url": "https://t.co/QPO2Bn6uty"
+            },
+            {
+              "display_url": "x.com/steviemacic/st…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/steviemacic/status/2084828486175433063",
+              "start": 303,
+              "url": "https://t.co/JxgSkMeLNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084839877523247401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Funny you say that, because there’s a thing called “Broken Arm Syndrome”. So yes, kind of. They’ll say we need to stop our meds.\n\nOne time I went in with Covid like symptoms. I told them I thought it was Covid and wanted to be tested. When the nurse practitioner found out I was trans, she told me that she didn’t think I had Covid, and that breast implants had side effects like this sometimes. That was her diagnosis. I said I wanted to do the test anyway…and I tested positive for Covid."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5892,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084828486175433063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Funny you say that, because there’s a thing called “Broken Arm Syndrome”. So yes, kind of. They’ll say we need to stop our meds.\n\nOne time I went in with Covid like symptoms. I told them I thought it was Covid and wanted to be tested. When the nurse practitioner found out I was https://t.co/QPO2Bn6uty https://t.co/JxgSkMeLNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4626,
+          "following_count": 749,
+          "like_count": 2479,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T22:49:36.000Z",
+        "description": "Your dad’s favorite comedian",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stacycay.com/links",
+                "end": 23,
+                "expanded_url": "http://stacycay.com/links",
+                "start": 0,
+                "url": "https://t.co/VaBT4ldYmO"
+              }
+            ]
+          }
+        },
+        "id": "1545902976182665216",
+        "location": "Baltimore, MD",
+        "name": "Stacy Cay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016274875774648320/Obl19Rvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263723,
+          "following_count": 1549,
+          "like_count": 121964,
+          "listed_count": 285,
+          "media_count": 5561,
+          "tweet_count": 48514
+        },
+        "url": "https://t.co/VaBT4ldYmO",
+        "username": "stacycay",
+        "verified": true
+      }
+    ]
+  }
+}

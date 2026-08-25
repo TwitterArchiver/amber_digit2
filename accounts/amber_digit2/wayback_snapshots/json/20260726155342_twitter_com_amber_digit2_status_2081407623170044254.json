@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081407623170044254",
+    "created_at": "2026-07-26T15:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081407623170044254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0x091r/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/0x091r/status/2081407490210865546",
+          "start": 8,
+          "url": "https://t.co/5JdlWmAlTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081407623170044254",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081407490210865546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "oh fuck https://t.co/5JdlWmAlTW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081407623170044254",
+        "created_at": "2026-07-26T15:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081407623170044254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0x091r/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/0x091r/status/2081407490210865546",
+              "start": 8,
+              "url": "https://t.co/5JdlWmAlTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081407623170044254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081407490210865546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "oh fuck https://t.co/5JdlWmAlTW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903540338016616448",
+        "conversation_id": "2081400499207618596",
+        "created_at": "2026-07-26T15:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081407490210865546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081407490210865546",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081405699628630052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 a gesture at materialism does not signify a real commitment to it; she happily revises history to justify her theses. my opinion comes from conversations directly with her, where-among other things-she told me that she thinks we need stricter standards for gender-affirming care."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 594,
+          "like_count": 1674,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T20:14:27.000Z",
+        "description": "cyborg tamil butch lesbian. scifi & transfeminism. women can do anything. mdni.",
+        "id": "1903540338016616448",
+        "location": "she (it if you're flirting)",
+        "name": "91",
+        "pinned_tweet_id": "2071081074395054523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034888999601676289/SV0n4lpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 125,
+          "like_count": 89243,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1472
+        },
+        "url": "",
+        "username": "0x091r",
+        "verified": false
+      }
+    ]
+  }
+}

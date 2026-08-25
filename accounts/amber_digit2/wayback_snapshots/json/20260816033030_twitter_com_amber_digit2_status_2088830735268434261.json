@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088809063375155565",
+    "created_at": "2026-08-16T03:30:30.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088830735268434261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tiangesec/stat…",
+          "end": 23,
+          "expanded_url": "https://x.com/tiangesec/status/2088572872327647617",
+          "start": 0,
+          "url": "https://t.co/nAWRT0bdpZ"
+        },
+        {
+          "display_url": "x.com/tiangesec/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/tiangesec/status/2088572872327647617",
+          "start": 24,
+          "url": "https://t.co/mbRAfDiTf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088830735268434261",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088572872327647617",
+        "type": "quoted"
+      },
+      {
+        "id": "2088823824250708302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/nAWRT0bdpZ https://t.co/mbRAfDiTf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2088572851008016384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwZ8TfbkAAXBNL.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2088572858876510208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwZ8wzbQAApSW6.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2088572865797140480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwZ9KlbsAAvc39.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088809063375155565",
+        "created_at": "2026-08-16T03:30:30.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088830735268434261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tiangesec/stat…",
+              "end": 23,
+              "expanded_url": "https://x.com/tiangesec/status/2088572872327647617",
+              "start": 0,
+              "url": "https://t.co/nAWRT0bdpZ"
+            },
+            {
+              "display_url": "x.com/tiangesec/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/tiangesec/status/2088572872327647617",
+              "start": 24,
+              "url": "https://t.co/mbRAfDiTf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088830735268434261",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088572872327647617",
+            "type": "quoted"
+          },
+          {
+            "id": "2088823824250708302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nAWRT0bdpZ https://t.co/mbRAfDiTf7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088809063375155565",
+        "created_at": "2026-08-16T03:03:02.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088823824250708302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088823824250708302",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088809063375155565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "update: hundreds of videos have been deleted as of today"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088572851008016384",
+            "3_2088572858876510208",
+            "3_2088572865797140480"
+          ]
+        },
+        "author_id": "1976136174482997248",
+        "conversation_id": "2088572872327647617",
+        "created_at": "2026-08-15T10:25:51.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088572872327647617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fLiRGARhj",
+              "end": 96,
+              "expanded_url": "https://x.com/tiangesec/status/2088572872327647617/photo/1",
+              "media_key": "3_2088572851008016384",
+              "start": 73,
+              "url": "https://t.co/6fLiRGARhj"
+            },
+            {
+              "display_url": "pic.x.com/6fLiRGARhj",
+              "end": 96,
+              "expanded_url": "https://x.com/tiangesec/status/2088572872327647617/photo/1",
+              "media_key": "3_2088572858876510208",
+              "start": 73,
+              "url": "https://t.co/6fLiRGARhj"
+            },
+            {
+              "display_url": "pic.x.com/6fLiRGARhj",
+              "end": 96,
+              "expanded_url": "https://x.com/tiangesec/status/2088572872327647617/photo/1",
+              "media_key": "3_2088572865797140480",
+              "start": 73,
+              "url": "https://t.co/6fLiRGARhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088572872327647617",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088572851008016384"
+          },
+          {
+            "media_key": "3_2088572858876510208"
+          },
+          {
+            "media_key": "3_2088572865797140480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7068,
+          "like_count": 111,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "分享找工作的经验有问题？动了谁的蛋糕？就会欺负跨女？骂我们的人带着恶意的人你怎么没有处罚？真的逆天，我们活着你就不爽了？要把我们逼上绝路？？？？ https://t.co/6fLiRGARhj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088830735268434261",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5116,
+          "following_count": 859,
+          "like_count": 3527,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 2712
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-09T04:02:42.000Z",
+        "description": "03的底层黑奴 | 性别:⚧ | 167㎝/?kg | MTF | 别伤害我 | 废物IT人 | 喜欢小帅哥&可爱的男孩子 | 想变得好看可爱  | 经济困难，攒不到钱 | 化妆学习中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xxx252525",
+                "end": 23,
+                "expanded_url": "https://github.com/xxx252525",
+                "start": 0,
+                "url": "https://t.co/4tbn8EPxmV"
+              }
+            ]
+          }
+        },
+        "id": "1976136174482997248",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2088830423942177000",
+        "name": "XiaoQingYao🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976136174482997248/1759983085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088672550566125568/ANntNlg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/4tbn8EPxmV",
+        "username": "tiangesec",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

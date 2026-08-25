@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084804789473566720"
+      ],
+      "media_source_tweet_id": [
+        "2084804792271216865"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084821307439341907",
+    "created_at": "2026-08-05T01:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084821307439341907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2077352385958342656",
+          "start": 3,
+          "username": "RainEngine2026"
+        },
+        {
+          "end": 37,
+          "id": "1818546901899509760",
+          "start": 25,
+          "username": "XiaoQi_077s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/am40DdAFq3",
+          "end": 101,
+          "expanded_url": "https://x.com/RainEngine2026/status/2084804792271216865/photo/1",
+          "media_key": "3_2084804789473566720",
+          "start": 78,
+          "url": "https://t.co/am40DdAFq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084821307439341907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084804792271216865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2026: 紧急：推友@XiaoQi_077s在今日凌晨4点50分服用2g亚硝酸钠后失联，现在情况未知，有人还能够联系上她吗？ https://t.co/am40DdAFq3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2084804789473566720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO626Qaa4AANK8W.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084804789473566720"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084804792271216865",
+        "created_at": "2026-08-05T00:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084804792271216865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1818546901899509760",
+              "start": 5,
+              "username": "XiaoQi_077s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/am40DdAFq3",
+              "end": 81,
+              "expanded_url": "https://x.com/RainEngine2026/status/2084804792271216865/photo/1",
+              "media_key": "3_2084804789473566720",
+              "start": 58,
+              "url": "https://t.co/am40DdAFq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084804792271216865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "紧急：推友@XiaoQi_077s在今日凌晨4点50分服用2g亚硝酸钠后失联，现在情况未知，有人还能够联系上她吗？ https://t.co/am40DdAFq3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084804789473566720"
+          ],
+          "media_source_tweet_id": [
+            "2084804792271216865"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084821307439341907",
+        "created_at": "2026-08-05T01:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084821307439341907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2077352385958342656",
+              "start": 3,
+              "username": "RainEngine2026"
+            },
+            {
+              "end": 37,
+              "id": "1818546901899509760",
+              "start": 25,
+              "username": "XiaoQi_077s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/am40DdAFq3",
+              "end": 101,
+              "expanded_url": "https://x.com/RainEngine2026/status/2084804792271216865/photo/1",
+              "media_key": "3_2084804789473566720",
+              "start": 78,
+              "url": "https://t.co/am40DdAFq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084821307439341907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084804792271216865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2026: 紧急：推友@XiaoQi_077s在今日凌晨4点50分服用2g亚硝酸钠后失联，现在情况未知，有人还能够联系上她吗？ https://t.co/am40DdAFq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 747,
+          "like_count": 2452,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 168,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn丨无证含糖丨HRT丨自残丨家暴党丨PTSD创伤后应激障碍丨VRChat丨会刷机丨会Python丨喜欢折腾各种Android设备丨同类互fo丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078218140799172757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 524,
+          "like_count": 2199,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "XiaoQi_077s",
+        "verified": true
+      }
+    ]
+  }
+}

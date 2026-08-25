@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081134481805602953",
+    "created_at": "2026-07-25T21:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T22:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081134481805602953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1872138335952740352",
+          "start": 3,
+          "username": "goofyballs67695"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081134481805602953",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080632131605467222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goofyballs67695: so many trans people refuse to voice train for so many reasons please believe me that it becomes UR VOICE after enough…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081134481805602953",
+        "created_at": "2026-07-25T21:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081134481805602953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1872138335952740352",
+              "start": 3,
+              "username": "goofyballs67695"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081134481805602953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080632131605467222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goofyballs67695: so many trans people refuse to voice train for so many reasons please believe me that it becomes UR VOICE after enough…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872138335952740352",
+        "conversation_id": "2080632131605467222",
+        "created_at": "2026-07-24T12:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080632131605467222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080632131605467222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1056,
+          "impression_count": 156988,
+          "like_count": 10073,
+          "quote_count": 69,
+          "reply_count": 78,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "so many trans people refuse to voice train for so many reasons please believe me that it becomes UR VOICE after enough time not a constant charade u have to put up."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 10,
+                "username": "wgsi"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 572,
+          "like_count": 1596,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T04:32:24.000Z",
+        "description": "Transgendeer girl",
+        "id": "1872138335952740352",
+        "location": "Melbourne Australia",
+        "name": "goofyballs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028676385318096896/VX-2n4b__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 106,
+          "like_count": 14878,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2816
+        },
+        "url": "",
+        "username": "goofyballs67695",
+        "verified": false
+      }
+    ]
+  }
+}

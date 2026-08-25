@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087131105870676325",
+    "created_at": "2026-08-11T10:56:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087131105870676325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1943245721928634370",
+          "start": 3,
+          "username": "stresliyimdir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087131105870676325",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 851
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086800068829483057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stresliyimdir: Kadınlar: annem çok eziyet çekti, hayatını yaşayamadı. Ben çekmeyeceğim, annemin de bundan sonra mutlu olması için uğras…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087131105870676325",
+        "created_at": "2026-08-11T10:56:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087131105870676325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1943245721928634370",
+              "start": 3,
+              "username": "stresliyimdir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087131105870676325",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 851
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086800068829483057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stresliyimdir: Kadınlar: annem çok eziyet çekti, hayatını yaşayamadı. Ben çekmeyeceğim, annemin de bundan sonra mutlu olması için uğras…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943245721928634370",
+        "conversation_id": "2086800068829483057",
+        "created_at": "2026-08-10T13:01:21.000Z",
+        "display_text_range": [
+          0,
+          234
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086800068829483057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dadas_fenerli/…",
+              "end": 258,
+              "expanded_url": "https://twitter.com/dadas_fenerli/status/2086363975445287002",
+              "start": 235,
+              "url": "https://t.co/qbR4e1AsOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086800068829483057",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 115968,
+          "like_count": 9749,
+          "quote_count": 12,
+          "reply_count": 13,
+          "retweet_count": 851
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086363975445287002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Kadınlar: annem çok eziyet çekti, hayatını yaşayamadı. Ben çekmeyeceğim, annemin de bundan sonra mutlu olması için uğrasacağım\n\nErkekler: Annem çok çile çekti ne güzel, keşke tüm kadınlar çekse, ölseler keşke, annem de daha çok çeksin https://t.co/qbR4e1AsOk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087131105870676325",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 806,
+          "like_count": 3000,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T09:48:54.000Z",
+        "description": "",
+        "id": "1943245721928634370",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087089229964706297",
+        "name": "kiwi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943427397254066176/mCPBCD2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 109,
+          "like_count": 9867,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "stresliyimdir",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

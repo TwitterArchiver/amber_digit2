@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082709179362378194",
+    "created_at": "2026-07-30T14:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082831521421918383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685020816369659904",
+          "start": 0,
+          "username": "soulmate078078"
+        },
+        {
+          "end": 29,
+          "id": "1597605170502062080",
+          "start": 16,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082831521421918383",
+    "in_reply_to_user_id": "1685020816369659904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082801606324854978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soulmate078078 @Ayanami_rin0 能啊，这个世界上总是有人要发癫的，如果接受不了这点说明不适合生活在人类社会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082709179362378194",
+        "created_at": "2026-07-30T14:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082831521421918383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685020816369659904",
+              "start": 0,
+              "username": "soulmate078078"
+            },
+            {
+              "end": 29,
+              "id": "1597605170502062080",
+              "start": 16,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082831521421918383",
+        "in_reply_to_user_id": "1685020816369659904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082801606324854978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soulmate078078 @Ayanami_rin0 能啊，这个世界上总是有人要发癫的，如果接受不了这点说明不适合生活在人类社会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685020816369659904",
+        "conversation_id": "2082709179362378194",
+        "created_at": "2026-07-30T12:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082801606324854978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 27,
+              "id": "1597605170502062080",
+              "start": 14,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082801606324854978",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082790130578862583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @Ayanami_rin0 都那么傻逼了 还娱乐活动呢\n别说跨了，就是一堆顺直在厕所发癫你能接受了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4111,
+          "following_count": 660,
+          "like_count": 1929,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T20:14:44.000Z",
+        "description": "感谢你找到我的页面，让我的世界少一点点孤独😊😊\n23岁大龄MTF/HRT2026/3/1\n168cm/59kg/究极家暴党\nLGBTQ群体/同类互fo基本都会回关☺️\n\n不接受💊/🚬/🔪同类",
+        "id": "1685020816369659904",
+        "name": "张汐瑶🏳️‍⚧🍥",
+        "pinned_tweet_id": "2082721990851661975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911977940620824576/Q9sX0RL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 93,
+          "like_count": 151,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "soulmate078078",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "大龄术后MTF，某二次元公司游戏开发🎮Unity客户端🦋\n只管开心,无需正常\n 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n宝宝：@mario_2333\n#啊呀纳米相册 #小绫的诗歌日记本 #小绫饭店 #aynm吃什么",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 105,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "aynm吃什么"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5124,
+          "following_count": 1093,
+          "like_count": 19572,
+          "listed_count": 16,
+          "media_count": 1835,
+          "tweet_count": 12035
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

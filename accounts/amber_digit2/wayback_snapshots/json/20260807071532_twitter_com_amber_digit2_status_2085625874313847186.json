@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085625874313847186",
+    "created_at": "2026-08-07T07:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085625874313847186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/b_cat38324/status/2085623128932463005",
+          "start": 27,
+          "url": "https://t.co/4NsOmLwLhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085625874313847186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085623128932463005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "kr我真的从小看到大，那个经典小阁楼完全刻在我脑海里 https://t.co/4NsOmLwLhW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085625874313847186",
+        "created_at": "2026-08-07T07:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085625874313847186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/b_cat38324/status/2085623128932463005",
+              "start": 27,
+              "url": "https://t.co/4NsOmLwLhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085625874313847186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085623128932463005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kr我真的从小看到大，那个经典小阁楼完全刻在我脑海里 https://t.co/4NsOmLwLhW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2085623128932463005",
+        "created_at": "2026-08-07T07:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085623128932463005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085623128932463005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到，有多少小男孩，因为以前微博时代看了kr，变成了妓女，我就想笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 767,
+          "like_count": 2673,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23363,
+          "following_count": 202,
+          "like_count": 747,
+          "listed_count": 72,
+          "media_count": 108,
+          "tweet_count": 24088
+        },
+        "url": "",
+        "username": "B_cat38324",
+        "verified": true
+      }
+    ]
+  }
+}

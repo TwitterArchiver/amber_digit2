@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "New Hampshire",
+          "id": "1004450291985469440",
+          "name": "New Hampshire"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+          "id": "2015704262643249152",
+          "name": "DAZN FIFAワールドカップ26 特設ページ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+          "id": "2015704262643249152",
+          "name": "DAZN FIFAワールドカップ26 特設ページ"
+        }
+      }
+    ],
+    "conversation_id": "2080725003843063886",
+    "created_at": "2026-07-24T18:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080725003843063886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780241894087290880",
+          "start": 3,
+          "username": "TransGirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080725003843063886",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080446860452647277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransGirl: It’s not fucking Fifa it’s children’s soccer. \n\nFucking monsters."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "New Hampshire",
+              "id": "1004450291985469440",
+              "name": "New Hampshire"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          }
+        ],
+        "conversation_id": "2080725003843063886",
+        "created_at": "2026-07-24T18:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080725003843063886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780241894087290880",
+              "start": 3,
+              "username": "TransGirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080725003843063886",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080446860452647277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransGirl: It’s not fucking Fifa it’s children’s soccer. \n\nFucking monsters."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780241894087290880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "New Hampshire",
+              "id": "1004450291985469440",
+              "name": "New Hampshire"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          }
+        ],
+        "conversation_id": "2080446860452647277",
+        "created_at": "2026-07-24T00:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080446860452647277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jeremykauffman…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/jeremykauffman/status/2079190461474816243",
+              "start": 66,
+              "url": "https://t.co/zY4rXSBHH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080446860452647277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 42266,
+          "like_count": 2974,
+          "quote_count": 6,
+          "reply_count": 143,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190461474816243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It’s not fucking Fifa it’s children’s soccer. \n\nFucking monsters. https://t.co/zY4rXSBHH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3280,
+          "following_count": 553,
+          "like_count": 1514,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T14:28:48.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/evieparkour",
+                "end": 23,
+                "expanded_url": "http://link.me/evieparkour",
+                "start": 0,
+                "url": "https://t.co/o2UDgGXLFh"
+              }
+            ]
+          }
+        },
+        "id": "1780241894087290880",
+        "location": "👉🏻👉🏻👉🏻👉🏻",
+        "name": "EvieGoesHard💙",
+        "pinned_tweet_id": "2080351791607103727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974715024536186880/AWSvLeyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43735,
+          "following_count": 144,
+          "like_count": 2652,
+          "listed_count": 153,
+          "media_count": 381,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/o2UDgGXLFh",
+        "username": "TransGirl",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

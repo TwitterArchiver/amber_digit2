@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089559787767836950",
+    "created_at": "2026-08-18T03:47:30.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089559787767836950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991445096013918208",
+          "start": 3,
+          "username": "ITN_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089559787767836950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089558444953268545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ITN_NekoY: 我真的看不下去了，我明明已经在帮忙做事情了，结果还要被造谣被骂，这谁受得了啊，我必须辟谣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089559787767836950",
+        "created_at": "2026-08-18T03:47:30.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089559787767836950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991445096013918208",
+              "start": 3,
+              "username": "ITN_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089559787767836950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089558444953268545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ITN_NekoY: 我真的看不下去了，我明明已经在帮忙做事情了，结果还要被造谣被骂，这谁受得了啊，我必须辟谣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445096013918208",
+        "conversation_id": "2089558444953268545",
+        "created_at": "2026-08-18T03:42:10.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089558444953268545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itn_nekoy/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/itn_nekoy/status/2089557914818326777",
+              "start": 45,
+              "url": "https://t.co/G8OwuGsbwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089558444953268545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089557914818326777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的看不下去了，我明明已经在帮忙做事情了，结果还要被造谣被骂，这谁受得了啊，我必须辟谣 https://t.co/G8OwuGsbwO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089559787767836950",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5145,
+          "following_count": 875,
+          "like_count": 3751,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜以是非定立场而不是以立场定是非｜MTF｜主人&老婆 @KOISHI_IV｜是小猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ITN_NekoYgroup",
+                "end": 23,
+                "expanded_url": "https://t.me/ITN_NekoYgroup",
+                "start": 0,
+                "url": "https://t.co/MLgSIyrWKx"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "is_identity_verified": false,
+        "location": "马斯克的祖坟头上",
+        "most_recent_tweet_id": "2089558885715911147",
+        "name": "英酱猫猫",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991445096013918208/1783936913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076607976224575488/w3ippncw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 142,
+          "like_count": 9133,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/MLgSIyrWKx",
+        "username": "ITN_NekoY",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

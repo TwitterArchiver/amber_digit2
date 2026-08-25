@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084001724252004518",
+    "created_at": "2026-08-02T19:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084001724252004518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "739607592",
+          "start": 3,
+          "username": "MinModulation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084001724252004518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083984461893435765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinModulation: What specifically should they do to offset the issue. Have less power? Donate to some paypal? This kind of \"speak up\" wi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084001724252004518",
+        "created_at": "2026-08-02T19:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084001724252004518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "739607592",
+              "start": 3,
+              "username": "MinModulation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084001724252004518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083984461893435765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinModulation: What specifically should they do to offset the issue. Have less power? Donate to some paypal? This kind of \"speak up\" wi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "739607592",
+        "conversation_id": "2083984461893435765",
+        "created_at": "2026-08-02T18:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083984461893435765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SurrealistGal/…",
+              "end": 275,
+              "expanded_url": "https://twitter.com/SurrealistGal/status/2083659107001843732",
+              "start": 252,
+              "url": "https://t.co/v1tJEfJBEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083984461893435765",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1689,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083659107001843732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What specifically should they do to offset the issue. Have less power? Donate to some paypal? This kind of \"speak up\" wishwash has never solved anything in decades, and it seems nobody has real solutions to privilege other than morally judging others. https://t.co/v1tJEfJBEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 711,
+          "like_count": 2197,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-06T01:36:50.000Z",
+        "description": "Min Modulation, right next to the Min Pitch Bend knob. \n\nhttps://t.co/0EMglp3voH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/minmodu",
+                "end": 80,
+                "expanded_url": "http://twitch.tv/minmodu",
+                "start": 57,
+                "url": "https://t.co/0EMglp3voH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/minmod",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/minmod",
+                "start": 0,
+                "url": "https://t.co/7ywZGLB7Pc"
+              }
+            ]
+          }
+        },
+        "id": "739607592",
+        "name": "Mini Modu",
+        "pinned_tweet_id": "905661038032330753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882675239307415552/oDdqS7um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24847,
+          "following_count": 2923,
+          "like_count": 1143868,
+          "listed_count": 127,
+          "media_count": 19726,
+          "tweet_count": 341919
+        },
+        "url": "https://t.co/7ywZGLB7Pc",
+        "username": "MinModulation",
+        "verified": false
+      }
+    ]
+  }
+}

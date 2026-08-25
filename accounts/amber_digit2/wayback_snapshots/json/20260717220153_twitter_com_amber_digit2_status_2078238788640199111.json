@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2078238788640199111",
+    "created_at": "2026-07-17T22:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T23:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078238788640199111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fellow_ashley/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/fellow_ashley/status/2078111777351475546",
+          "start": 3,
+          "url": "https://t.co/dhFsB5Vrnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078238788640199111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078111777351475546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮扩 https://t.co/dhFsB5Vrnm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2078111753716547584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbvoTPWwAAPsJ-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2078111752517013504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbvoOxXUAA08-5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2078111752546398208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbvoO4XsAAD7PO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3418,
+        "media_key": "3_2078111752827355136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbvoP7WwAAdpuY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2078238788640199111",
+        "created_at": "2026-07-17T22:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078238788640199111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fellow_ashley/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/fellow_ashley/status/2078111777351475546",
+              "start": 3,
+              "url": "https://t.co/dhFsB5Vrnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078238788640199111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078111777351475546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮扩 https://t.co/dhFsB5Vrnm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078111753716547584",
+            "3_2078111752517013504",
+            "3_2078111752546398208",
+            "3_2078111752827355136"
+          ]
+        },
+        "author_id": "2045017079665844224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078111777351475546",
+        "created_at": "2026-07-17T13:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078111777351475546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLTtfB9nb4",
+              "end": 169,
+              "expanded_url": "https://x.com/Fellow_Ashley/status/2078111777351475546/photo/1",
+              "media_key": "3_2078111753716547584",
+              "start": 146,
+              "url": "https://t.co/vLTtfB9nb4"
+            },
+            {
+              "display_url": "pic.x.com/vLTtfB9nb4",
+              "end": 169,
+              "expanded_url": "https://x.com/Fellow_Ashley/status/2078111777351475546/photo/1",
+              "media_key": "3_2078111752517013504",
+              "start": 146,
+              "url": "https://t.co/vLTtfB9nb4"
+            },
+            {
+              "display_url": "pic.x.com/vLTtfB9nb4",
+              "end": 169,
+              "expanded_url": "https://x.com/Fellow_Ashley/status/2078111777351475546/photo/1",
+              "media_key": "3_2078111752546398208",
+              "start": 146,
+              "url": "https://t.co/vLTtfB9nb4"
+            },
+            {
+              "display_url": "pic.x.com/vLTtfB9nb4",
+              "end": 169,
+              "expanded_url": "https://x.com/Fellow_Ashley/status/2078111777351475546/photo/1",
+              "media_key": "3_2078111752827355136",
+              "start": 146,
+              "url": "https://t.co/vLTtfB9nb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078111777351475546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我经济状况真的崩溃了。前情提要是白班时薪13、夜班时薪15，这个月至今就排了四天班，还是半月发薪，也就是到这个月底发这个月1-15号的薪水，200块钱我是真活不下去了，之前也想大家讨了很多次口子，我真心害怕大家因此讨厌我，怀疑我，但是我真的没办法了……我打算离开这座伤心而劳动力过剩的城市了，索幸在上海有朋友愿意接应我，但是鉴于我现在身无分文的情况，我还需要一次—应该是最后一次捐款了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3233,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我经济状况真的崩溃了。前情提要是白班时薪13、夜班时薪15，这个月至今就排了四天班，还是半月发薪，也就是到这个月底发这个月1-15号的薪水，200块钱我是真活不下去了，之前也想大家讨了很多次口子，我真心害怕大家因此讨厌我，怀疑我，但是我真的没办法了……我打算离开这座伤心而劳动力过剩的城市了 https://t.co/vLTtfB9nb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "PhD @wgsi @uoft\n🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/DV9hgFq4EG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 15,
+                "start": 10,
+                "username": "uoft"
+              },
+              {
+                "end": 34,
+                "start": 18,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 61,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 38,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 64,
+                "url": "https://t.co/DV9hgFq4EG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 533,
+          "like_count": 1406,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:04:26.000Z",
+        "description": "MainlandChinese|19|She/Her|Transgender Queer🏳️‍⚧️🏳️‍🌈|IntersubjectivityPostExistentialist-Marxism🚩Mao-spontex🏴|AnCom|Anti-Soviet elements|Agnostics|DM open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashlilith.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashlilith.straw.page",
+                "start": 0,
+                "url": "https://t.co/rNpvyYZ0rn"
+              }
+            ]
+          }
+        },
+        "id": "2045017079665844224",
+        "location": "Gensokyo",
+        "name": "FellowⒶshley红🏳️‍⚧️",
+        "pinned_tweet_id": "2078174777542692918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074855416450740224/vjc3nESL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 473,
+          "like_count": 13040,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/rNpvyYZ0rn",
+        "username": "Fellow_Ashley",
+        "verified": true
+      }
+    ]
+  }
+}

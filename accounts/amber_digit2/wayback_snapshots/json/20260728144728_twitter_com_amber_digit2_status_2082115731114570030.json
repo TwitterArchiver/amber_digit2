@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082115731114570030",
+    "created_at": "2026-07-28T14:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082115731114570030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487318664797831170",
+          "start": 3,
+          "username": "oneamong_us"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082115731114570030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015332276943647025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oneamong_us: 长夜沉，星河倾，遍地碎琉璃；霜雪落，棘途长，孤影叹路难。\n此刻，我们和化作星辰的灵魂相拥，以伤痕与记忆为烛照，守望尚未到来的黎明；离别虽是剧痛，却更紧握彼此的手。\n愿我们在陪伴与坚持中，以共鸣和理解为纽带，步往通向春日的道桥；替故人看遍未看的风…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082115731114570030",
+        "created_at": "2026-07-28T14:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082115731114570030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487318664797831170",
+              "start": 3,
+              "username": "oneamong_us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082115731114570030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015332276943647025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oneamong_us: 长夜沉，星河倾，遍地碎琉璃；霜雪落，棘途长，孤影叹路难。\n此刻，我们和化作星辰的灵魂相拥，以伤痕与记忆为烛照，守望尚未到来的黎明；离别虽是剧痛，却更紧握彼此的手。\n愿我们在陪伴与坚持中，以共鸣和理解为纽带，步往通向春日的道桥；替故人看遍未看的风…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487318664797831170",
+        "conversation_id": "2015332276943647025",
+        "created_at": "2026-01-25T07:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015332276943647025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015332276943647025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4888,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "长夜沉，星河倾，遍地碎琉璃；霜雪落，棘途长，孤影叹路难。\n此刻，我们和化作星辰的灵魂相拥，以伤痕与记忆为烛照，守望尚未到来的黎明；离别虽是剧痛，却更紧握彼此的手。\n愿我们在陪伴与坚持中，以共鸣和理解为纽带，步往通向春日的道桥；替故人看遍未看的风景，活出未竟的自由。\n我们一直都在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi research on chinese transfem communities / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 637,
+          "like_count": 1778,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-29T06:56:27.000Z",
+        "description": "A memorial website for transgender individuals and allies passed away.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "one-among.us",
+                "end": 23,
+                "expanded_url": "http://one-among.us",
+                "start": 0,
+                "url": "https://t.co/XJtgxbaPrH"
+              }
+            ]
+          }
+        },
+        "id": "1487318664797831170",
+        "name": "那些秋叶 One Among Us",
+        "pinned_tweet_id": "2049039749411721538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603840942682869771/hvXZoAeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 8,
+          "like_count": 58,
+          "listed_count": 15,
+          "media_count": 20,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/XJtgxbaPrH",
+        "username": "oneamong_us",
+        "verified": false
+      }
+    ]
+  }
+}

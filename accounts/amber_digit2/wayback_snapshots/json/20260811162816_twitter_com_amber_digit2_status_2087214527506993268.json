@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086992130459763068",
+    "created_at": "2026-08-11T16:28:16.000Z",
+    "display_text_range": [
+      51,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087214527506993268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "taro_puree"
+        },
+        {
+          "end": 20,
+          "id": "918593759121690625",
+          "start": 12,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 36,
+          "id": "1638873486398722048",
+          "start": 21,
+          "username": "Tokiko_Kuchiba"
+        },
+        {
+          "end": 50,
+          "id": "1023763118470717440",
+          "start": 37,
+          "username": "whoisviviTwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087214527506993268",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087214251995955300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taro_puree @hu_qin_ @Tokiko_Kuchiba @whoisviviTwT 没事我觉得有人愿意去较这个真挺好的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087214251995955300].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087214251995955300",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087214251995955300"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086992130459763068",
+        "created_at": "2026-08-11T16:28:16.000Z",
+        "display_text_range": [
+          51,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087214527506993268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            },
+            {
+              "end": 20,
+              "id": "918593759121690625",
+              "start": 12,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 36,
+              "id": "1638873486398722048",
+              "start": 21,
+              "username": "Tokiko_Kuchiba"
+            },
+            {
+              "end": 50,
+              "id": "1023763118470717440",
+              "start": 37,
+              "username": "whoisviviTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087214527506993268",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087214251995955300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree @hu_qin_ @Tokiko_Kuchiba @whoisviviTwT 没事我觉得有人愿意去较这个真挺好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087214527506993268",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 809,
+          "like_count": 3011,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084106963357745500",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/873489613934927872/1713274395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 300,
+          "like_count": 25076,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 4076
+        },
+        "url": "",
+        "username": "taro_puree",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "is_identity_verified": false,
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "most_recent_tweet_id": "2087207962833981785",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058665016270655497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918593759121690625/1568448031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 1839,
+          "like_count": 22656,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 5709
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T12:01:33.000Z",
+        "description": "Just another un-fucking-grievable bare life.\nAlso “a huge problem to a sane world.”\n\n回FO和喜歡你這個人與否無關。只是想調整河道內容。\n\n頭像： @chun_paretto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 116,
+                "username": "chun_paretto"
+              }
+            ]
+          }
+        },
+        "id": "1638873486398722048",
+        "is_identity_verified": false,
+        "location": "lit.link/zh-tw/Tokiko_Kuchiba",
+        "most_recent_tweet_id": "2087202932697735475",
+        "name": "絶滅危惧🍂朱鷺子",
+        "pinned_tweet_id": "1852001813987496303",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638873486398722048/1733684034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966559581183897604/LM2BoVAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 387,
+          "like_count": 1253,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 2971
+        },
+        "url": "",
+        "username": "Tokiko_Kuchiba",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-30T02:52:02.000Z",
+        "description": "(a slvttie)(愛の味方)(queer feminist)(喜欢凉水)(transdemigirl)(他/她)(pansexuelle)【18+】(poly)(无限爱欲…)…hewwo♡【everything-account. 置顶里有一些警告内容…】vivi只是在世界的边缘呼唤爱的小兽. (抹防晒霜真难受哇)",
+        "id": "1023763118470717440",
+        "is_identity_verified": false,
+        "location": "诺弗兰特，妖灵乡 Norvrandt, Il Mheg",
+        "most_recent_tweet_id": "2087150073490952679",
+        "name": "⁺ₒᰔ❅Vi❅ᰔₒ⁺",
+        "pinned_tweet_id": "1877379063901278315",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023763118470717440/1750585464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937418479050633216/MpN3dkM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 993,
+          "like_count": 55548,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 6627
+        },
+        "url": "",
+        "username": "whoisviviTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090783580557287425"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090783583216566340",
+    "created_at": "2026-08-21T12:50:25.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090783583216566340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkzpwRyTdU",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_digit2/status/2090783583216566340/photo/1",
+          "media_key": "3_2090783580557287425",
+          "start": 0,
+          "url": "https://t.co/CkzpwRyTdU"
+        },
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/bghtnya/status/2090699044620558532",
+          "start": 24,
+          "url": "https://t.co/ljt0Re8kd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090783583216566340",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090783580557287425"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090699044620558532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/CkzpwRyTdU https://t.co/ljt0Re8kd7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2090783580557287425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP0ls1WIAEUq3b.jpg",
+        "width": 701
+      },
+      {
+        "height": 655,
+        "media_key": "3_2090698429462888448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOnJQSaQAAWji5.png",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090783580557287425"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090783583216566340",
+        "created_at": "2026-08-21T12:50:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090783583216566340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkzpwRyTdU",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_digit2/status/2090783583216566340/photo/1",
+              "media_key": "3_2090783580557287425",
+              "start": 0,
+              "url": "https://t.co/CkzpwRyTdU"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bghtnya/status/2090699044620558532",
+              "start": 24,
+              "url": "https://t.co/ljt0Re8kd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090783583216566340",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090783580557287425"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090699044620558532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/CkzpwRyTdU https://t.co/ljt0Re8kd7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090698429462888448"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090699044620558532",
+        "created_at": "2026-08-21T07:14:30.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:12:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090698479098331463",
+          "2090699044620558532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1754494415152766976",
+              "start": 10,
+              "username": "IchinichiNagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ao9GtXToca",
+              "end": 48,
+              "expanded_url": "https://x.com/bghtnya/status/2090699044620558532/photo/1",
+              "media_key": "3_2090698429462888448",
+              "start": 25,
+              "url": "https://t.co/Ao9GtXToca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090699044620558532",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090698429462888448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10446,
+          "like_count": 69,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "图做好了 大家来玩\n@IchinichiNagi https://t.co/Ao9GtXToca"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090783583216566340",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5288,
+          "following_count": 893,
+          "like_count": 4090,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2090780900900434359",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10520,
+          "following_count": 2323,
+          "like_count": 182132,
+          "listed_count": 20,
+          "media_count": 4081,
+          "tweet_count": 49872
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

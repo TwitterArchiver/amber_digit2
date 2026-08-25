@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081257604215415117",
+    "created_at": "2026-07-26T19:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T20:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081469327987925058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915888488219889664",
+          "start": 0,
+          "username": "LRSerling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081469327987925058",
+    "in_reply_to_user_id": "1915888488219889664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081257604215415117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LRSerling same"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081257604215415117",
+        "created_at": "2026-07-26T19:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081469327987925058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915888488219889664",
+              "start": 0,
+              "username": "LRSerling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081469327987925058",
+        "in_reply_to_user_id": "1915888488219889664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081257604215415117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LRSerling same"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915888488219889664",
+        "conversation_id": "2081257604215415117",
+        "created_at": "2026-07-26T05:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081257604215415117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lesbian_yearne…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/lesbian_yearner/status/2081062600096317803",
+              "start": 174,
+              "url": "https://t.co/tgZ40GUCLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081257604215415117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1270,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081062600096317803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I respect ballroom culture a lot. Its also something ive never once been in involved in and have never felt compelled to try. Its simply not my culture, for better or worse! https://t.co/tgZ40GUCLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 603,
+          "like_count": 1703,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T22:00:16.000Z",
+        "description": "🇺🇸🏳️‍🌈🏳️‍⚧️ 24 | Champagne Socialist and Universalist Christian | proshipper | she/her",
+        "id": "1915888488219889664",
+        "location": "Seattle",
+        "name": "Lesbian Rod Serling 🇵🇸🇺🇦🇮🇷",
+        "pinned_tweet_id": "2079639643973091484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928250918455365635/EQZNQb7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 926,
+          "like_count": 276389,
+          "listed_count": 17,
+          "media_count": 359,
+          "tweet_count": 40299
+        },
+        "url": "",
+        "username": "LRSerling",
+        "verified": false
+      }
+    ]
+  }
+}

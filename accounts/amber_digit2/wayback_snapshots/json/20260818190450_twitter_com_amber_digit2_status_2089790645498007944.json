@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089790645498007944",
+    "created_at": "2026-08-18T19:04:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089790645498007944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3345011009",
+          "start": 3,
+          "username": "SedimentedGeist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089790645498007944",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089785534780481966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SedimentedGeist: i agree that the sex work conversation is too often focused on the state and law, why it often can't move away the dis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089790645498007944",
+        "created_at": "2026-08-18T19:04:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089790645498007944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3345011009",
+              "start": 3,
+              "username": "SedimentedGeist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089790645498007944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089785534780481966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SedimentedGeist: i agree that the sex work conversation is too often focused on the state and law, why it often can't move away the dis…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3345011009",
+        "conversation_id": "2089785534780481966",
+        "created_at": "2026-08-18T18:44:32.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089785534780481966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tetemewmewmagi…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/tetemewmewmagic/status/2089473166456328539",
+              "start": 278,
+              "url": "https://t.co/tQxO4BSNmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089785534780481966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089473166456328539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i agree that the sex work conversation is too often focused on the state and law, why it often can't move away the discussion of policing policies, but the point of decrim is precisely about moving away from that into on the ground forms of solidarity and self-organization???? https://t.co/tQxO4BSNmn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089790645498007944",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 877,
+          "like_count": 3789,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-25T02:50:53.000Z",
+        "description": "\"To be useless will then no longer be shameful.\"\n\nSociety of Materialist Friends of Hegelian Dialectics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/archive/petrov…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/archive/petrovic/1983/reification.htm",
+                "start": 0,
+                "url": "https://t.co/SpWNMYkhAY"
+              }
+            ]
+          }
+        },
+        "id": "3345011009",
+        "is_identity_verified": false,
+        "location": "Portugal",
+        "most_recent_tweet_id": "2089789414268448860",
+        "name": "Aurora! My God.",
+        "pinned_tweet_id": "1773802709000278163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3345011009/1762977570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605831333994496/s9YEw2BA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4815,
+          "following_count": 1782,
+          "like_count": 483384,
+          "listed_count": 15,
+          "media_count": 8285,
+          "tweet_count": 109529
+        },
+        "url": "https://t.co/SpWNMYkhAY",
+        "username": "SedimentedGeist",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

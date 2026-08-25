@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082181599228022942",
+    "created_at": "2026-07-28T19:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082181599228022942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1961425958277373952",
+          "start": 3,
+          "username": "Liu_nan_nan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082181599228022942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082109481773941009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Liu_nan_nan: 如果中国政府给予熊本灾区大力支援的话，中日关系会修复吧？\n\n我出生长大的时代，各国之间一直都是这样行事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082181599228022942",
+        "created_at": "2026-07-28T19:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082181599228022942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1961425958277373952",
+              "start": 3,
+              "username": "Liu_nan_nan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082181599228022942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082109481773941009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Liu_nan_nan: 如果中国政府给予熊本灾区大力支援的话，中日关系会修复吧？\n\n我出生长大的时代，各国之间一直都是这样行事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961425958277373952",
+        "conversation_id": "2082109481773941009",
+        "created_at": "2026-07-28T14:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109481773941009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082109481773941009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2468,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "如果中国政府给予熊本灾区大力支援的话，中日关系会修复吧？\n\n我出生长大的时代，各国之间一直都是这样行事的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi research on chinese transfem communities / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 640,
+          "like_count": 1799,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1666
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "上赶着不是买卖",
+        "id": "1961425958277373952",
+        "location": "埼玉の山奥",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 189,
+          "like_count": 8759,
+          "listed_count": 6,
+          "media_count": 136,
+          "tweet_count": 1221
+        },
+        "url": "",
+        "username": "Liu_nan_nan",
+        "verified": true
+      }
+    ]
+  }
+}

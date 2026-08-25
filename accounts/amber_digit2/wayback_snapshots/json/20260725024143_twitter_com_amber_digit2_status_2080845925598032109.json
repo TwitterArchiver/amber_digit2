@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080845925598032109",
+    "created_at": "2026-07-25T02:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080845925598032109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "889907710916833280",
+          "start": 3,
+          "username": "babyknifespice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080845925598032109",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080790821843169714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babyknifespice: “protect the dolls AND protect the kens” is so funny they’re reinventing all lives matter from first principles"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080845925598032109",
+        "created_at": "2026-07-25T02:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080845925598032109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "889907710916833280",
+              "start": 3,
+              "username": "babyknifespice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080845925598032109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080790821843169714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babyknifespice: “protect the dolls AND protect the kens” is so funny they’re reinventing all lives matter from first principles"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "889907710916833280",
+        "conversation_id": "2080790821843169714",
+        "created_at": "2026-07-24T23:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080790821843169714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cinnamonmaxxin…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/cinnamonmaxxing/status/2080688635696066646",
+              "start": 112,
+              "url": "https://t.co/fyA0neGKRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080790821843169714",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 10112,
+          "like_count": 607,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080688635696066646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“protect the dolls AND protect the kens” is so funny they’re reinventing all lives matter from first principles https://t.co/fyA0neGKRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 557,
+          "like_count": 1523,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-25T17:58:26.000Z",
+        "description": "abolitionist stoner dyke stuck in pdx 🧚🏼💐🪐🇵🇸🇵🇸🇵🇸 fix yr hearts or die!!!! (@babygarbage420 4 mutuals) 🔞 $f0urthplanet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "babygarbage420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/babyknifespice",
+                "end": 23,
+                "expanded_url": "https://throne.com/babyknifespice",
+                "start": 0,
+                "url": "https://t.co/G4BDNpkaJz"
+              }
+            ]
+          }
+        },
+        "id": "889907710916833280",
+        "location": "THEY/THEM ",
+        "name": "The Lesbian Pervert",
+        "pinned_tweet_id": "2053976480988958865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979428211705434112/1i0KJGYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17203,
+          "following_count": 523,
+          "like_count": 127288,
+          "listed_count": 16,
+          "media_count": 1895,
+          "tweet_count": 19353
+        },
+        "url": "https://t.co/G4BDNpkaJz",
+        "username": "babyknifespice",
+        "verified": false
+      }
+    ]
+  }
+}

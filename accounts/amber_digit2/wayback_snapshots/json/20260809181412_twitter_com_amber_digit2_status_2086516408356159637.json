@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086484912023146781",
+    "created_at": "2026-08-09T18:14:12.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086516408356159637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1420205241404772352",
+          "start": 0,
+          "username": "yanbo2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086516408356159637",
+    "in_reply_to_user_id": "1420205241404772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086484912023146781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yanbo2004 会吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2086484886844784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSu8y2awAADGQs.jpg",
+        "width": 928
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086484886899339265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSu8zDbMAE2Xul.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086484886853218304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSu8y4bcAAJsdS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086484912023146781",
+        "created_at": "2026-08-09T18:14:12.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086516408356159637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "yanbo2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086516408356159637",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086484912023146781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yanbo2004 会吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086484886844784640",
+            "3_2086484886899339265",
+            "3_2086484886853218304"
+          ]
+        },
+        "author_id": "1420205241404772352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086484912023146781",
+        "created_at": "2026-08-09T16:09:02.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086484912023146781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDvZhM3ItE",
+              "end": 35,
+              "expanded_url": "https://x.com/yanbo2004/status/2086484912023146781/photo/1",
+              "media_key": "3_2086484886844784640",
+              "start": 12,
+              "url": "https://t.co/EDvZhM3ItE"
+            },
+            {
+              "display_url": "pic.x.com/EDvZhM3ItE",
+              "end": 35,
+              "expanded_url": "https://x.com/yanbo2004/status/2086484912023146781/photo/1",
+              "media_key": "3_2086484886899339265",
+              "start": 12,
+              "url": "https://t.co/EDvZhM3ItE"
+            },
+            {
+              "display_url": "pic.x.com/EDvZhM3ItE",
+              "end": 35,
+              "expanded_url": "https://x.com/yanbo2004/status/2086484912023146781/photo/1",
+              "media_key": "3_2086484886853218304",
+              "start": 12,
+              "url": "https://t.co/EDvZhM3ItE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086484912023146781",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086484886844784640"
+          },
+          {
+            "media_key": "3_2086484886899339265"
+          },
+          {
+            "media_key": "3_2086484886853218304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "更准确的说法是旁遮普菜 https://t.co/EDvZhM3ItE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086516408356159637",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 785,
+          "like_count": 2845,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Writer & Photoghapher｜Backpacking trip to 21 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgWGSA"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "is_identity_verified": false,
+        "location": "Remote everywhere, Born in 延边.",
+        "most_recent_tweet_id": "2086505515400790019",
+        "name": "烟波 Yanbo🍡@🇳🇵",
+        "pinned_tweet_id": "2047564211480351043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420205241404772352/1682784511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6486,
+          "following_count": 1909,
+          "like_count": 117385,
+          "listed_count": 41,
+          "media_count": 3019,
+          "tweet_count": 24850
+        },
+        "url": "https://t.co/LIctNgWGSA",
+        "username": "yanbo2004",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

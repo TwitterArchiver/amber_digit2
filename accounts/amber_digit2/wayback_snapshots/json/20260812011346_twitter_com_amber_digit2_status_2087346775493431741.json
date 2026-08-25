@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087346775493431741",
+    "created_at": "2026-08-12T01:13:46.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T02:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087346775493431741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a0brjkk/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/a0brjkk/status/2087214590828609800",
+          "start": 4,
+          "url": "https://t.co/2igANhxDJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087346775493431741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087214590828609800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好恐怖 https://t.co/2igANhxDJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2087214576261824512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdGmTwagAADz8z.jpg",
+        "width": 1146
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2087214584449110017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdGmyQakAESzCH.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087346775493431741",
+        "created_at": "2026-08-12T01:13:46.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087346775493431741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a0brjkk/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/a0brjkk/status/2087214590828609800",
+              "start": 4,
+              "url": "https://t.co/2igANhxDJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087346775493431741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087214590828609800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恐怖 https://t.co/2igANhxDJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087214576261824512",
+            "3_2087214584449110017"
+          ]
+        },
+        "author_id": "2002632641573761025",
+        "conversation_id": "2087214590828609800",
+        "created_at": "2026-08-11T16:28:31.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087214590828609800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1955980103688790017",
+              "start": 12,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPIFwPP2f6",
+              "end": 44,
+              "expanded_url": "https://x.com/a0bRJKk/status/2087214590828609800/photo/1",
+              "media_key": "3_2087214576261824512",
+              "start": 21,
+              "url": "https://t.co/DPIFwPP2f6"
+            },
+            {
+              "display_url": "pic.x.com/DPIFwPP2f6",
+              "end": 44,
+              "expanded_url": "https://x.com/a0bRJKk/status/2087214590828609800/photo/1",
+              "media_key": "3_2087214584449110017",
+              "start": 21,
+              "url": "https://t.co/DPIFwPP2f6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087214590828609800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087214576261824512"
+          },
+          {
+            "media_key": "3_2087214584449110017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1059,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我大号直接没了，不是冻结@aaarjkk https://t.co/DPIFwPP2f6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087346775493431741",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4948,
+          "following_count": 811,
+          "like_count": 3062,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T06:51:00.000Z",
+        "description": "活在幻想中;准高一;🎂10/14/2010\n\n其他账号:\n@aaarjkk(大号 被无故删除)\n@a0brjkk(这个账号)\n@aaarjkkmiao\n@a0brjkkmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "aaarjkkmiao"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/aaarjkk?s=20",
+                "end": 23,
+                "expanded_url": "https://x.com/aaarjkk?s=20",
+                "start": 0,
+                "url": "https://t.co/0IqaOlQd0S"
+              }
+            ]
+          }
+        },
+        "id": "2002632641573761025",
+        "is_identity_verified": false,
+        "location": "mc正版name：a0b0c0d0e0f0g",
+        "most_recent_tweet_id": "2087342927953678638",
+        "name": "我是貓貓！",
+        "pinned_tweet_id": "2087214590828609800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002632641573761025/1776345263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037677239232520192/0twB0Jgd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 141,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/0IqaOlQd0S",
+        "username": "a0bRJKk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

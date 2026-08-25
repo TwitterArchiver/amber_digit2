@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1828102132739801088",
+          "name": "2024 US Presidential Debate 2"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      }
+    ],
+    "conversation_id": "2080846345070326239",
+    "created_at": "2026-07-25T02:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080846345070326239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "311712033",
+          "start": 3,
+          "username": "_Breezy_Briii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080846345070326239",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080656811137589565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Breezy_Briii: The Heritage Foundation, which laid the groundwork for Project 2025 &amp; influences much of the current administration’s po…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2080654792129654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_4gnkaMAAVsVm.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2080654746382409728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_4d9JaoAAr7dU.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1828102132739801088",
+              "name": "2024 US Presidential Debate 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2080846345070326239",
+        "created_at": "2026-07-25T02:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080846345070326239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "311712033",
+              "start": 3,
+              "username": "_Breezy_Briii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080846345070326239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080656811137589565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Breezy_Briii: The Heritage Foundation, which laid the groundwork for Project 2025 &amp; influences much of the current administration’s po…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080654792129654784",
+            "3_2080654746382409728"
+          ]
+        },
+        "author_id": "311712033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1828102132739801088",
+              "name": "2024 US Presidential Debate 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2080656811137589565",
+        "created_at": "2026-07-24T14:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080656811137589565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RajqNHYzMn",
+              "end": 311,
+              "expanded_url": "https://x.com/_Breezy_Briii/status/2080656811137589565/photo/1",
+              "media_key": "3_2080654792129654784",
+              "start": 288,
+              "url": "https://t.co/RajqNHYzMn"
+            },
+            {
+              "display_url": "pic.x.com/RajqNHYzMn",
+              "end": 311,
+              "expanded_url": "https://x.com/_Breezy_Briii/status/2080656811137589565/photo/1",
+              "media_key": "3_2080654746382409728",
+              "start": 288,
+              "url": "https://t.co/RajqNHYzMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080656811137589565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 68944,
+          "like_count": 1203,
+          "quote_count": 46,
+          "reply_count": 26,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "The Heritage Foundation, which laid the groundwork for Project 2025 &amp; influences much of the current administration’s policies, recently released a report calling for the dismantling of Title IX in an effort to increase opportunities for male athletes &amp; suppress female athletics https://t.co/RajqNHYzMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 557,
+          "like_count": 1526,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1450
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-05T22:50:12.000Z",
+        "description": "minding the business that minds me 🙂‍↕️",
+        "id": "311712033",
+        "name": "Brianna Turner",
+        "pinned_tweet_id": "2080656811137589565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918011920260411393/AzHs3iyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26874,
+          "following_count": 234,
+          "like_count": 58227,
+          "listed_count": 175,
+          "media_count": 1398,
+          "tweet_count": 18688
+        },
+        "url": "",
+        "username": "_Breezy_Briii",
+        "verified": false
+      }
+    ]
+  }
+}

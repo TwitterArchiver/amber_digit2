@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085006008418509143",
+    "created_at": "2026-08-05T14:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085006008418509143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4242010813",
+          "start": 3,
+          "username": "promise__li"
+        },
+        {
+          "end": 30,
+          "id": "357521810",
+          "start": 17,
+          "username": "WxPolitics15"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Mao Zedong envisioned a great struggle to",
+          "display_url": "hup.harvard.edu/books/97806747…",
+          "end": 54,
+          "expanded_url": "https://www.hup.harvard.edu/books/9780674728790",
+          "start": 31,
+          "status": 200,
+          "title": "The Cultural Revolution at the Margins — Harvard University Press",
+          "unwound_url": "https://www.hup.harvard.edu/books/9780674728790",
+          "url": "https://t.co/KQa6z9wb4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085006008418509143",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084826555050799530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @promise__li: @WxPolitics15 https://t.co/KQa6z9wb4N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085006008418509143",
+        "created_at": "2026-08-05T14:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085006008418509143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4242010813",
+              "start": 3,
+              "username": "promise__li"
+            },
+            {
+              "end": 30,
+              "id": "357521810",
+              "start": 17,
+              "username": "WxPolitics15"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Mao Zedong envisioned a great struggle to",
+              "display_url": "hup.harvard.edu/books/97806747…",
+              "end": 54,
+              "expanded_url": "https://www.hup.harvard.edu/books/9780674728790",
+              "start": 31,
+              "status": 200,
+              "title": "The Cultural Revolution at the Margins — Harvard University Press",
+              "unwound_url": "https://www.hup.harvard.edu/books/9780674728790",
+              "url": "https://t.co/KQa6z9wb4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085006008418509143",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084826555050799530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @promise__li: @WxPolitics15 https://t.co/KQa6z9wb4N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4242010813",
+        "conversation_id": "2084798537053716833",
+        "created_at": "2026-08-05T02:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084826555050799530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "357521810",
+              "start": 0,
+              "username": "WxPolitics15"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Mao Zedong envisioned a great struggle to",
+              "display_url": "hup.harvard.edu/books/97806747…",
+              "end": 37,
+              "expanded_url": "https://www.hup.harvard.edu/books/9780674728790",
+              "start": 14,
+              "status": 200,
+              "title": "The Cultural Revolution at the Margins — Harvard University Press",
+              "unwound_url": "https://www.hup.harvard.edu/books/9780674728790",
+              "url": "https://t.co/KQa6z9wb4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084826555050799530",
+        "in_reply_to_user_id": "357521810",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 1497,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084798537053716833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WxPolitics15 https://t.co/KQa6z9wb4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 748,
+          "like_count": 2489,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 2150
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-15T04:45:10.000Z",
+        "description": "",
+        "id": "4242010813",
+        "name": "promise li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/924695039393091584/BjiJ9CvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9077,
+          "following_count": 2530,
+          "like_count": 36427,
+          "listed_count": 16,
+          "media_count": 1957,
+          "tweet_count": 29876
+        },
+        "url": "",
+        "username": "promise__li",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:07:19.000Z",
+        "description": "anti-imperialist, Marxist, Third-Worldist. Meteorologist and atmospheric science PhD candidate. Ohio Valley history enthusiast. Priv: @wx_marx \nhe/him",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 134,
+                "username": "wx_marx"
+              }
+            ]
+          }
+        },
+        "id": "357521810",
+        "name": "Joshua",
+        "pinned_tweet_id": "2034645496510173640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714024211348439040/RxtS_YDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 2908,
+          "like_count": 234668,
+          "listed_count": 11,
+          "media_count": 319,
+          "tweet_count": 36328
+        },
+        "url": "",
+        "username": "WxPolitics15",
+        "verified": false
+      }
+    ]
+  }
+}

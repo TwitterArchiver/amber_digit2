@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089538730411626978",
+    "created_at": "2026-08-18T03:46:17.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089559483911397816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "13605432",
+          "start": 0,
+          "username": "FelicityCWells"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089559483911397816",
+    "in_reply_to_user_id": "13605432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089538730411626978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FelicityCWells 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089538708576059392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-IYnUawAArwY4.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089538730411626978",
+        "created_at": "2026-08-18T03:46:17.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089559483911397816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "13605432",
+              "start": 0,
+              "username": "FelicityCWells"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089559483911397816",
+        "in_reply_to_user_id": "13605432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089538730411626978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FelicityCWells 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089538708576059392"
+          ]
+        },
+        "author_id": "13605432",
+        "conversation_id": "2089538730411626978",
+        "created_at": "2026-08-18T02:23:49.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089538730411626978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 5,
+              "tag": "ProjectIcaria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyYX54F41C",
+              "end": 43,
+              "expanded_url": "https://x.com/FelicityCWells/status/2089538730411626978/photo/1",
+              "media_key": "3_2089538708576059392",
+              "start": 20,
+              "url": "https://t.co/hyYX54F41C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089538730411626978",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089538708576059392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家等死\n#ProjectIcaria https://t.co/hyYX54F41C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089559483911397816",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5145,
+          "following_count": 875,
+          "like_count": 3746,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 2822
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n🎀milf👗but🌌still🖖scifi🤖tech🚀space🥵nerd🍥girl💍arc\nထasd✨adhd🥀mdd🦋bpd🧡rsd❤️‍🩹cptsd🪞agp🌸sapphic🏳️‍⚧️she/her/slut\n🚪69/384/520/888",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FelicityCWells",
+                "end": 23,
+                "expanded_url": "http://t.me/FelicityCWells",
+                "start": 0,
+                "url": "https://t.co/SE5laWBXV8"
+              }
+            ]
+          }
+        },
+        "id": "13605432",
+        "is_identity_verified": false,
+        "location": "RLE | Sol-Terra",
+        "most_recent_tweet_id": "2089538730411626978",
+        "name": "✨悱💋Felicity✨🎗️🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13605432/1407396735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987879490685661185/7ZaSLUmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 4616,
+          "like_count": 27798,
+          "listed_count": 37,
+          "media_count": 862,
+          "tweet_count": 33355
+        },
+        "url": "https://t.co/SE5laWBXV8",
+        "username": "FelicityCWells",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

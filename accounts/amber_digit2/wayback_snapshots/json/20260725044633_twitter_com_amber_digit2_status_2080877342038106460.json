@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080877342038106460",
+    "created_at": "2026-07-25T04:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080877342038106460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reklaimcontrol…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/reklaimcontrol/status/2077807084091945390",
+          "start": 75,
+          "url": "https://t.co/wBd3iTakHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080877342038106460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077807084091945390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨性别运动不是一直对这个问题有很明确的答案吗？一个决议以女性身份生活的人就是女性，这件事情有什么难理解的吗？这帮保守派好像抓到什么把柄了一样在这儿叫 https://t.co/wBd3iTakHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2077806873395208194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXaV7iWIAIZ_V_.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080877342038106460",
+        "created_at": "2026-07-25T04:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080877342038106460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reklaimcontrol…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/reklaimcontrol/status/2077807084091945390",
+              "start": 75,
+              "url": "https://t.co/wBd3iTakHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080877342038106460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077807084091945390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨性别运动不是一直对这个问题有很明确的答案吗？一个决议以女性身份生活的人就是女性，这件事情有什么难理解的吗？这帮保守派好像抓到什么把柄了一样在这儿叫 https://t.co/wBd3iTakHw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077806873395208194"
+          ]
+        },
+        "author_id": "1995127976539926528",
+        "conversation_id": "2077719820267565458",
+        "created_at": "2026-07-16T17:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077807084091945390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000418135686647808",
+              "start": 0,
+              "username": "ultraCLAIR3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90Xy4RQxZB",
+              "end": 106,
+              "expanded_url": "https://x.com/reklaimcontrol/status/2077807084091945390/photo/1",
+              "media_key": "3_2077806873395208194",
+              "start": 83,
+              "url": "https://t.co/90Xy4RQxZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077807084091945390",
+        "in_reply_to_user_id": "2000418135686647808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 97047,
+          "like_count": 39,
+          "quote_count": 17,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077719820267565458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ultraCLAIR3 Do you mean you hate people who refuse to enable your mental illness? https://t.co/90Xy4RQxZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3389,
+          "following_count": 557,
+          "like_count": 1534,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T13:51:39.000Z",
+        "description": "Real trauma recovery from a real child sex abuse survivor. - \nHelp yourself or someone you love - \nFree to read - https://t.co/77YzpUCpol",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reclaimcontrolbylettinggo.com",
+                "end": 137,
+                "expanded_url": "http://reclaimcontrolbylettinggo.com",
+                "start": 114,
+                "url": "https://t.co/77YzpUCpol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reclaimcontrolbylettinggo.com",
+                "end": 23,
+                "expanded_url": "http://reclaimcontrolbylettinggo.com",
+                "start": 0,
+                "url": "https://t.co/77YzpUCpol"
+              }
+            ]
+          }
+        },
+        "id": "1995127976539926528",
+        "name": "reclaimcontrolbylettinggo",
+        "pinned_tweet_id": "2069432944360296832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995129933232795648/A0TwD3Oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 204,
+          "like_count": 611,
+          "listed_count": 9,
+          "media_count": 225,
+          "tweet_count": 6106
+        },
+        "url": "https://t.co/77YzpUCpol",
+        "username": "reklaimcontrol",
+        "verified": true
+      }
+    ]
+  }
+}

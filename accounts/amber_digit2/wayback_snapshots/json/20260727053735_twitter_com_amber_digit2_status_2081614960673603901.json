@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081591431718707372",
+    "created_at": "2026-07-27T05:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081614960673603901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1627685052556656640",
+          "start": 0,
+          "username": "raith_1102miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081614960673603901",
+    "in_reply_to_user_id": "1627685052556656640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081607702262800776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raith_1102miao 可爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081591431718707372",
+        "created_at": "2026-07-27T05:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081614960673603901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1627685052556656640",
+              "start": 0,
+              "username": "raith_1102miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081614960673603901",
+        "in_reply_to_user_id": "1627685052556656640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081607702262800776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raith_1102miao 可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627685052556656640",
+        "conversation_id": "2081591431718707372",
+        "created_at": "2026-07-27T05:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081607702262800776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081607702262800776",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081591431718707372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我也可爱吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3842,
+          "following_count": 620,
+          "like_count": 1736,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-20T15:02:43.000Z",
+        "description": "在不停的实验中寻找相关性\n嗯，泥豪？｜She/They｜Bi/Pan｜瑞丝的生日11-02｜INTP/INFP｜EN/CN👌｜沒事养养OC",
+        "id": "1627685052556656640",
+        "name": "瑞絲の擬象(*≧ω≦)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980120864256311296/SC533NJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 563,
+          "like_count": 16143,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "raith_1102miao",
+        "verified": true
+      }
+    ]
+  }
+}

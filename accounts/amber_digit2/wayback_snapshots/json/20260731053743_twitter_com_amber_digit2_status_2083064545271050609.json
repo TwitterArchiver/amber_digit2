@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083064545271050609",
+    "created_at": "2026-07-31T05:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083064545271050609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1657175394267848704",
+          "start": 3,
+          "username": "Zh40Le1ZOOB"
+        },
+        {
+          "end": 33,
+          "id": "1843201902550634496",
+          "start": 17,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 47,
+          "id": "2041159531657416704",
+          "start": 34,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 57,
+          "id": "1459453832",
+          "start": 48,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083064545271050609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083030644997898255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zh40Le1ZOOB: @LwrDHYyuxR22499 @amber_digit2 @sauricat 你他妈有完没完啊，你是近视了看不到 amber 说的什么吗，这说法一开始就是 amber 发明的跟北雁书有什么关系，amber 自己都声明过了还硬往北雁书上撇是不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083064545271050609",
+        "created_at": "2026-07-31T05:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083064545271050609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1657175394267848704",
+              "start": 3,
+              "username": "Zh40Le1ZOOB"
+            },
+            {
+              "end": 33,
+              "id": "1843201902550634496",
+              "start": 17,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 47,
+              "id": "2041159531657416704",
+              "start": 34,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 57,
+              "id": "1459453832",
+              "start": 48,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083064545271050609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083030644997898255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zh40Le1ZOOB: @LwrDHYyuxR22499 @amber_digit2 @sauricat 你他妈有完没完啊，你是近视了看不到 amber 说的什么吗，这说法一开始就是 amber 发明的跟北雁书有什么关系，amber 自己都声明过了还硬往北雁书上撇是不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2083020444161167685",
+        "created_at": "2026-07-31T03:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083030644997898255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 30,
+              "id": "2041159531657416704",
+              "start": 17,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 40,
+              "id": "1459453832",
+              "start": 31,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083030644997898255",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083026419060457488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @amber_digit2 @sauricat 你他妈有完没完啊，你是近视了看不到 amber 说的什么吗，这说法一开始就是 amber 发明的跟北雁书有什么关系，amber 自己都声明过了还硬往北雁书上撇是不是有病？指控别人造谣之前能不能先审查一下自己的信源😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4148,
+          "following_count": 669,
+          "like_count": 1968,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.｜你妈大逼人人插，左插插他妈右插插，插的你妈逼开花",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 778,
+          "like_count": 8780,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 7655
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6668,
+          "following_count": 3345,
+          "like_count": 4099,
+          "listed_count": 19,
+          "media_count": 521,
+          "tweet_count": 3607
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) a.k.a. 北雁书, 林书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "東雨山 書 (Shu/Fumi)",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11203,
+          "following_count": 1029,
+          "like_count": 34272,
+          "listed_count": 35,
+          "media_count": 624,
+          "tweet_count": 12274
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085763448441381083",
+    "created_at": "2026-08-07T16:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085763448441381083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "788924616060366848",
+          "start": 3,
+          "username": "haramcart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085763448441381083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1995
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085662524431618535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haramcart: America is a beautiful melting pot of monarchist Iranians, Shen Yun Chinese, Orange County Vietnamese, White Russians, Cuban…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085763448441381083",
+        "created_at": "2026-08-07T16:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085763448441381083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "788924616060366848",
+              "start": 3,
+              "username": "haramcart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085763448441381083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1995
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085662524431618535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haramcart: America is a beautiful melting pot of monarchist Iranians, Shen Yun Chinese, Orange County Vietnamese, White Russians, Cuban…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "788924616060366848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Eduardo Bolsonaro",
+              "id": "958817937841782785",
+              "name": "Eduardo Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Eduardo Bolsonaro",
+              "id": "958817937841782785",
+              "name": "Eduardo Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Eduardo Bolsonaro",
+              "id": "958817937841782785",
+              "name": "Eduardo Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Miami",
+              "id": "855447833045946370",
+              "name": "Miami"
+            }
+          }
+        ],
+        "conversation_id": "2085662524431618535",
+        "created_at": "2026-08-07T09:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085662524431618535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085662524431618535",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1530,
+          "impression_count": 316157,
+          "like_count": 16238,
+          "quote_count": 125,
+          "reply_count": 75,
+          "retweet_count": 1995
+        },
+        "reply_settings": "everyone",
+        "text": "America is a beautiful melting pot of monarchist Iranians, Shen Yun Chinese, Orange County Vietnamese, White Russians, Cuban gusanos, Miami Venezuelans, Afrikaners, Eduardo Bolsonaro. A rainbow of people who had their servants taken away."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 771,
+          "like_count": 2688,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-20T02:07:40.000Z",
+        "description": "",
+        "id": "788924616060366848",
+        "name": "Ali",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610223619530956801/FABA0OU9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23294,
+          "following_count": 972,
+          "like_count": 180473,
+          "listed_count": 59,
+          "media_count": 155,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "haramcart",
+        "verified": false
+      }
+    ]
+  }
+}

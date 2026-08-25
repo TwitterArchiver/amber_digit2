@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085251293136723968"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2085251296064401408",
+    "created_at": "2026-08-06T06:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085251296064401408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dc1lECDa7t",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_digit2/status/2085251296064401408/photo/1",
+          "media_key": "3_2085251293136723968",
+          "start": 4,
+          "url": "https://t.co/dc1lECDa7t"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2085243293881835878",
+          "start": 28,
+          "url": "https://t.co/w43n9QnaQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085251296064401408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085243293881835878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另一张 https://t.co/dc1lECDa7t https://t.co/w43n9QnaQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085251293136723968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBNAMLWoAAEXsa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085243286277480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBFuITWYAAFT3C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085251293136723968"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2085251296064401408",
+        "created_at": "2026-08-06T06:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085251296064401408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dc1lECDa7t",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_digit2/status/2085251296064401408/photo/1",
+              "media_key": "3_2085251293136723968",
+              "start": 4,
+              "url": "https://t.co/dc1lECDa7t"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2085243293881835878",
+              "start": 28,
+              "url": "https://t.co/w43n9QnaQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085251296064401408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085243293881835878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另一张 https://t.co/dc1lECDa7t https://t.co/w43n9QnaQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085243286277480448"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2085243293881835878",
+        "created_at": "2026-08-06T05:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085243293881835878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "水母的摄影练习"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLaS3GRj1v",
+              "end": 71,
+              "expanded_url": "https://x.com/amber_digit2/status/2085243293881835878/photo/1",
+              "media_key": "3_2085243286277480448",
+              "start": 48,
+              "url": "https://t.co/NLaS3GRj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085243293881835878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#水母的摄影练习 \n北京紫竹院公园\n2020.01.24\nOPPO Reno 10x Zoom https://t.co/NLaS3GRj1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4660,
+          "following_count": 751,
+          "like_count": 2540,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

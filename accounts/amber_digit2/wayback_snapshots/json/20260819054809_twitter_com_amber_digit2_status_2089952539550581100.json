@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089907317751902208"
+      ],
+      "media_source_tweet_id": [
+        "2089907436412870713"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089952539550581100",
+    "created_at": "2026-08-19T05:48:09.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089952539550581100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541176515429269505",
+          "start": 3,
+          "username": "burgermoder"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UG9oZeBdKV",
+          "end": 40,
+          "expanded_url": "https://x.com/burgermoder/status/2089907436412870713/photo/1",
+          "media_key": "3_2089907317751902208",
+          "start": 17,
+          "url": "https://t.co/UG9oZeBdKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089952539550581100",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089907317751902208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089907436412870713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @burgermoder: https://t.co/UG9oZeBdKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_2089907317751902208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDXofgXcAAjRC3.png",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089907317751902208"
+          ],
+          "media_source_tweet_id": [
+            "2089907436412870713"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089952539550581100",
+        "created_at": "2026-08-19T05:48:09.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089952539550581100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541176515429269505",
+              "start": 3,
+              "username": "burgermoder"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UG9oZeBdKV",
+              "end": 40,
+              "expanded_url": "https://x.com/burgermoder/status/2089907436412870713/photo/1",
+              "media_key": "3_2089907317751902208",
+              "start": 17,
+              "url": "https://t.co/UG9oZeBdKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089952539550581100",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089907317751902208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089907436412870713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @burgermoder: https://t.co/UG9oZeBdKV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089907317751902208"
+          ]
+        },
+        "author_id": "1541176515429269505",
+        "conversation_id": "2089907436412870713",
+        "created_at": "2026-08-19T02:48:56.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089907436412870713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UG9oZeBdKV",
+              "end": 23,
+              "expanded_url": "https://x.com/burgermoder/status/2089907436412870713/photo/1",
+              "media_key": "3_2089907317751902208",
+              "start": 0,
+              "url": "https://t.co/UG9oZeBdKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089907436412870713",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089907317751902208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 4590,
+          "like_count": 618,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UG9oZeBdKV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089952539550581100",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5179,
+          "following_count": 883,
+          "like_count": 3865,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 2886
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-26T21:48:38.000Z",
+        "description": "eng/pt || i'm sorry || i post drawings (DM for commissions) don't repost without credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "burgermoder.straw.page",
+                "end": 23,
+                "expanded_url": "https://burgermoder.straw.page",
+                "start": 0,
+                "url": "https://t.co/TNGOOayEdN"
+              }
+            ]
+          }
+        },
+        "id": "1541176515429269505",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089907436412870713",
+        "name": "burgermoder (comms open)",
+        "pinned_tweet_id": "2050763163994403022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541176515429269505/1777660244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837518437981044736/tSIcxyeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4591,
+          "following_count": 206,
+          "like_count": 159460,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/TNGOOayEdN",
+        "username": "burgermoder",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087375894843113842",
+    "created_at": "2026-08-12T03:09:29.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087375894843113842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ftmiaox/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ftmiaox/status/2087072082249040349",
+          "start": 23,
+          "url": "https://t.co/uDeCtbfKZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087375894843113842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087072082249040349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子为了搞明白这个世界为什么会变成这样学文了 https://t.co/uDeCtbfKZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "微博@奇思乱想吧",
+        "height": 641,
+        "media_key": "3_2087072071389949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbE_bvWMAAiWQl.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087375894843113842",
+        "created_at": "2026-08-12T03:09:29.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087375894843113842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ftmiaox/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ftmiaox/status/2087072082249040349",
+              "start": 23,
+              "url": "https://t.co/uDeCtbfKZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087375894843113842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087072082249040349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子为了搞明白这个世界为什么会变成这样学文了 https://t.co/uDeCtbfKZK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087072071389949952"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "2087072082249040349",
+        "created_at": "2026-08-11T07:02:14.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087072082249040349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ng43Jcpi6X",
+              "end": 25,
+              "expanded_url": "https://x.com/FTMiaoX/status/2087072082249040349/photo/1",
+              "media_key": "3_2087072071389949952",
+              "start": 2,
+              "url": "https://t.co/Ng43Jcpi6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087072082249040349",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "alt_text": "微博@奇思乱想吧",
+            "media_key": "3_2087072071389949952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/Ng43Jcpi6X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087375894843113842",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 817,
+          "like_count": 3080,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/Dom/S/我是发条/人类友好/❤️属于我的@1234566nya/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "1234566nya"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k2BhE"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "is_identity_verified": false,
+        "location": "关着123的笼子旁边",
+        "most_recent_tweet_id": "2087072082249040349",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1978871306620948810",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025546987578556417/1715804595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7344,
+          "following_count": 3317,
+          "like_count": 181629,
+          "listed_count": 21,
+          "media_count": 3536,
+          "tweet_count": 28356
+        },
+        "url": "https://t.co/OfJi4k2BhE",
+        "username": "FTMiaoX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

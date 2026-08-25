@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083355177692610745",
+    "created_at": "2026-08-01T00:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083355177692610745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2866558330",
+          "start": 3,
+          "username": "SeanDaBlack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083355177692610745",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083270304617386474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeanDaBlack: “More humane” is an incompatible position with the existence of the prison system. There is no humanity to be gleamed from…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083355177692610745",
+        "created_at": "2026-08-01T00:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083355177692610745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2866558330",
+              "start": 3,
+              "username": "SeanDaBlack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083355177692610745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083270304617386474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeanDaBlack: “More humane” is an incompatible position with the existence of the prison system. There is no humanity to be gleamed from…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2866558330",
+        "conversation_id": "2083270304617386474",
+        "created_at": "2026-07-31T19:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083270304617386474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hecubian_devil…",
+              "end": 234,
+              "expanded_url": "https://twitter.com/hecubian_devil/status/2082791069150843337",
+              "start": 211,
+              "url": "https://t.co/QaLQJgQxn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083270304617386474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9997,
+          "like_count": 358,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082791069150843337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“More humane” is an incompatible position with the existence of the prison system. There is no humanity to be gleamed from it and it needs to be completely dismantled to even approach humanity. Hence abolition. https://t.co/QaLQJgQxn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 679,
+          "like_count": 2024,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-07T23:15:11.000Z",
+        "description": "The CEO of Black People | Twitch Partner | As featured TWICE in GQ Magazine | Foolishly Socialist | Business Email: seandablack@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/seandablack",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/seandablack",
+                "start": 0,
+                "url": "https://t.co/CofVbcDhbZ"
+              }
+            ]
+          }
+        },
+        "id": "2866558330",
+        "location": "North Carolina, USA",
+        "name": "Sean",
+        "pinned_tweet_id": "1509222709607153671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791855915764748288/kvffF6RX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45835,
+          "following_count": 477,
+          "like_count": 3329,
+          "listed_count": 154,
+          "media_count": 635,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/CofVbcDhbZ",
+        "username": "SeanDaBlack",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082715798452219997",
+    "created_at": "2026-07-30T06:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082716066065609000"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082716066065609000",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082715798452219997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有人能给点建议我这个情况该怎么办，我也不想做声带手术因为我怕之后连这个声音都没有了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77787,
+        "height": 1620,
+        "media_key": "13_2082715715061116928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082715715061116928/img/-6LbOypIvTJsYUHx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/1080x1620/-VnAzD4LVv8_nGgT.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/320x480/XdOekUYuv9NSXeWy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/720x1080/FYbO3u467Z2_TfG2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/pl/BBeWYXTOovV9agKZ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/480x720/Y-i0Eg1IgwWrihpd.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082715798452219997",
+        "created_at": "2026-07-30T06:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082716066065609000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082716066065609000",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082715798452219997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人能给点建议我这个情况该怎么办，我也不想做声带手术因为我怕之后连这个声音都没有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082715715061116928"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082715798452219997",
+        "created_at": "2026-07-30T06:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082715798452219997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7SSNbem2a",
+              "end": 68,
+              "expanded_url": "https://x.com/amber_digit2/status/2082715798452219997/video/1",
+              "media_key": "13_2082715715061116928",
+              "start": 45,
+              "url": "https://t.co/k7SSNbem2a"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2082446162955579446",
+              "start": 69,
+              "url": "https://t.co/5A0hZgAKWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715798452219997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082446162955579446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想做声音训练也是因为我感觉我的本音真的很好听…虽然还是男生的声音，但这就是属于我的声音 https://t.co/k7SSNbem2a https://t.co/5A0hZgAKWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 659,
+          "like_count": 1914,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

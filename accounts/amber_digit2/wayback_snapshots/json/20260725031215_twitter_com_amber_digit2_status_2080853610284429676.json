@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080853610284429676",
+    "created_at": "2026-07-25T03:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080853610284429676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052991101716279296",
+          "start": 3,
+          "username": "gendervivivi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080853610284429676",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080429621506379898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gendervivivi: not disclosing that you're cis is rape"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080853610284429676",
+        "created_at": "2026-07-25T03:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080853610284429676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052991101716279296",
+              "start": 3,
+              "username": "gendervivivi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080853610284429676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080429621506379898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gendervivivi: not disclosing that you're cis is rape"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052991101716279296",
+        "conversation_id": "2080429621506379898",
+        "created_at": "2026-07-23T23:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080429621506379898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080429621506379898",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 192929,
+          "like_count": 11053,
+          "quote_count": 33,
+          "reply_count": 86,
+          "retweet_count": 717
+        },
+        "reply_settings": "everyone",
+        "text": "not disclosing that you're cis is rape"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 557,
+          "like_count": 1529,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T05:56:47.000Z",
+        "description": "69 lesbian fox\nexpert ragebaiter\nidiosyncratic marxist\nffxiv and wow addict\nbiochemist\nshe/her\npriv: @genenevivi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "genenevivi"
+              }
+            ]
+          }
+        },
+        "id": "2052991101716279296",
+        "location": "the internet",
+        "name": "forcefemme gulag genevieve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059046305020710913/4YpNR4YU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 575,
+          "like_count": 17683,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 3467
+        },
+        "url": "",
+        "username": "gendervivivi",
+        "verified": false
+      }
+    ]
+  }
+}

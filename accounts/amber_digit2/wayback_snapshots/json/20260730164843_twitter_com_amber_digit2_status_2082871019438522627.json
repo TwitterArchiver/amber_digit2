@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082871019438522627",
+    "created_at": "2026-07-30T16:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082871019438522627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rbfngi/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/rbfngi/status/2082862189841707296",
+          "start": 15,
+          "url": "https://t.co/Ug6AVK4kpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082871019438522627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082862189841707296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的钱已经倒流了😭我家破产了 https://t.co/Ug6AVK4kpr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082871019438522627",
+        "created_at": "2026-07-30T16:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082871019438522627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rbfngi/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/rbfngi/status/2082862189841707296",
+              "start": 15,
+              "url": "https://t.co/Ug6AVK4kpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082871019438522627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082862189841707296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钱已经倒流了😭我家破产了 https://t.co/Ug6AVK4kpr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066041448198283264",
+        "conversation_id": "2082839223460130912",
+        "created_at": "2026-07-30T16:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862189841707296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862189841707296",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082839223460130912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 期待表演让钱倒着流的威能（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 663,
+          "like_count": 1937,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T06:15:02.000Z",
+        "description": "| 禁止随地大小政🚫",
+        "id": "2066041448198283264",
+        "name": "汐月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067638684560818177/IOhEZ68i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 109,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "rbfngi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088240987667607552"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088240992033906998",
+    "created_at": "2026-08-14T12:27:04.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088240992033906998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TogOhd55LJ",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_digit2/status/2088240992033906998/photo/1",
+          "media_key": "3_2088240987667607552",
+          "start": 4,
+          "url": "https://t.co/TogOhd55LJ"
+        },
+        {
+          "display_url": "x.com/foreveryuuka/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/foreveryuuka/status/2088196749747990645",
+          "start": 28,
+          "url": "https://t.co/fwitcCNwBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088240992033906998",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088240987667607552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088196749747990645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已忏悔 https://t.co/TogOhd55LJ https://t.co/fwitcCNwBM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088240987667607552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrsHUNWsAA34cW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088240987667607552"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088240992033906998",
+        "created_at": "2026-08-14T12:27:04.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088240992033906998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TogOhd55LJ",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_digit2/status/2088240992033906998/photo/1",
+              "media_key": "3_2088240987667607552",
+              "start": 4,
+              "url": "https://t.co/TogOhd55LJ"
+            },
+            {
+              "display_url": "x.com/foreveryuuka/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/foreveryuuka/status/2088196749747990645",
+              "start": 28,
+              "url": "https://t.co/fwitcCNwBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088240992033906998",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088240987667607552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088196749747990645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已忏悔 https://t.co/TogOhd55LJ https://t.co/fwitcCNwBM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "2088137019977605485",
+        "created_at": "2026-08-14T09:31:16.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088196749747990645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088196749747990645",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088137019977605485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 哪里有黑鸟牌高级面包"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088240992033906998",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5095,
+          "following_count": 850,
+          "like_count": 3365,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "新形态次世代能源茶酱・🚩🏴🏳️‍⚧️・El mundo unido por un balón⚽🌍・169㎝ 49.8㎏・喜欢JK制服/lolita/地雷系・优香，喜欢",
+        "id": "1586779015574327296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088196749747990645",
+        "name": "Yuuka Elite💜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586779015574327296/1779207377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063920555859042304/vHVT7FGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 444,
+          "like_count": 26744,
+          "listed_count": 3,
+          "media_count": 551,
+          "tweet_count": 20577
+        },
+        "url": "",
+        "username": "ForeverYuuka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

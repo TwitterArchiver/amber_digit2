@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084390133361418243",
+    "created_at": "2026-08-03T21:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T22:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084390133361418243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/irosas_xyn/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/irosas_xyn/status/2084144719718907967",
+          "start": 10,
+          "url": "https://t.co/SuE19jfKjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084390133361418243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084144719718907967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讨厌生理性别规训 https://t.co/SuE19jfKjL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084390133361418243",
+        "created_at": "2026-08-03T21:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084390133361418243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/irosas_xyn/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/irosas_xyn/status/2084144719718907967",
+              "start": 10,
+              "url": "https://t.co/SuE19jfKjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084390133361418243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084144719718907967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌生理性别规训 https://t.co/SuE19jfKjL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2084144719718907967",
+        "created_at": "2026-08-03T05:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084144719718907967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084144719718907967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1075,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌社会性别规训"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 723,
+          "like_count": 2305,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\nhttps://t.co/qIlOM01gGw\nhttps://t.co/gIYkKuCa8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 119,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 96,
+                "url": "https://t.co/qIlOM01gGw"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 143,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 120,
+                "url": "https://t.co/gIYkKuCa8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRTfKc"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 386,
+          "like_count": 1230,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/atwlxRTfKc",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

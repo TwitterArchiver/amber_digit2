@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089370516331041254",
+    "created_at": "2026-08-17T15:15:24.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089370516331041254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukikuyumi/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/yukikuyumi/status/2089347515858428333",
+          "start": 26,
+          "url": "https://t.co/k06xwINN2R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089370516331041254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089347515858428333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我说了你们老中顺直女自恨厌女程度远甚于普通跨妹 https://t.co/k06xwINN2R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089347511336984576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7afeGWYAA0dBi.jpg",
+        "width": 186
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089347511366373377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7afeNW0AEAJgN.jpg",
+        "width": 190
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089347511358001152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7afeLXEAAhtCf.jpg",
+        "width": 284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089370516331041254",
+        "created_at": "2026-08-17T15:15:24.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089370516331041254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukikuyumi/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yukikuyumi/status/2089347515858428333",
+              "start": 26,
+              "url": "https://t.co/k06xwINN2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089370516331041254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089347515858428333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我说了你们老中顺直女自恨厌女程度远甚于普通跨妹 https://t.co/k06xwINN2R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089347511336984576",
+            "3_2089347511366373377",
+            "3_2089347511358001152"
+          ]
+        },
+        "author_id": "1548826131927044097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089347515858428333",
+        "created_at": "2026-08-17T13:44:00.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089347515858428333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCIW90huXS",
+              "end": 48,
+              "expanded_url": "https://x.com/YukikuYumi/status/2089347515858428333/photo/1",
+              "media_key": "3_2089347511336984576",
+              "start": 25,
+              "url": "https://t.co/kCIW90huXS"
+            },
+            {
+              "display_url": "pic.x.com/kCIW90huXS",
+              "end": 48,
+              "expanded_url": "https://x.com/YukikuYumi/status/2089347515858428333/photo/1",
+              "media_key": "3_2089347511366373377",
+              "start": 25,
+              "url": "https://t.co/kCIW90huXS"
+            },
+            {
+              "display_url": "pic.x.com/kCIW90huXS",
+              "end": 48,
+              "expanded_url": "https://x.com/YukikuYumi/status/2089347515858428333/photo/1",
+              "media_key": "3_2089347511358001152",
+              "start": 25,
+              "url": "https://t.co/kCIW90huXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089347515858428333",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089347511336984576"
+          },
+          {
+            "media_key": "3_2089347511366373377"
+          },
+          {
+            "media_key": "3_2089347511358001152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "典中典之\n“我想有个把”\n“你没必要有个阴道啊” https://t.co/kCIW90huXS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089370516331041254",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5147,
+          "following_count": 872,
+          "like_count": 3681,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 2792
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-18T00:25:11.000Z",
+        "description": "01处女座🏳️‍⚧️｜178/66｜2024.08.18🍬｜le｜丹麦留子｜碎碎念：@YukikuYomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "YukikuYomi"
+              }
+            ]
+          }
+        },
+        "id": "1548826131927044097",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089347515858428333",
+        "name": "清羽梦泠.zip",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548826131927044097/1667356362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844385529502003209/wypDnx8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6121,
+          "following_count": 518,
+          "like_count": 2591,
+          "listed_count": 17,
+          "media_count": 263,
+          "tweet_count": 1508
+        },
+        "url": "",
+        "username": "YukikuYumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084408822613901674",
+    "created_at": "2026-08-04T19:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084722721955394027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068725005412683776",
+          "start": 0,
+          "username": "Cozypetsoo"
+        },
+        {
+          "end": 25,
+          "id": "1397850509323554817",
+          "start": 12,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084722721955394027",
+    "in_reply_to_user_id": "2068725005412683776",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084408822613901674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cozypetsoo @noaayoyaoaya"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6806,
+        "height": 1280,
+        "media_key": "13_2084408760722751488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084408760722751488/img/AzOwbxWA02yOJjYW.jpg",
+        "public_metrics": {
+          "view_count": 106557
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084408760722751488/vid/avc1/320x568/j2HnDVcWNYjNOEIc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084408760722751488/vid/avc1/480x852/j9VvWBxfW55rN6D1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084408760722751488/vid/avc1/720x1280/u6-1qWFRNkPHNBXh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084408760722751488/pl/WN3k4I4ewZ4JuigF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084408822613901674",
+        "created_at": "2026-08-04T19:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084722721955394027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068725005412683776",
+              "start": 0,
+              "username": "Cozypetsoo"
+            },
+            {
+              "end": 25,
+              "id": "1397850509323554817",
+              "start": 12,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084722721955394027",
+        "in_reply_to_user_id": "2068725005412683776",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084408822613901674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cozypetsoo @noaayoyaoaya"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084408760722751488"
+          ]
+        },
+        "author_id": "2068725005412683776",
+        "conversation_id": "2084408822613901674",
+        "created_at": "2026-08-03T22:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084408822613901674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/clGBrTCuiT",
+              "end": 23,
+              "expanded_url": "https://x.com/Cozypetsoo/status/2084408822613901674/video/1",
+              "media_key": "13_2084408760722751488",
+              "start": 0,
+              "url": "https://t.co/clGBrTCuiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084408822613901674",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1191,
+          "impression_count": 418013,
+          "like_count": 20002,
+          "quote_count": 160,
+          "reply_count": 28,
+          "retweet_count": 1368
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/clGBrTCuiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4599,
+          "following_count": 741,
+          "like_count": 2419,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T15:59:58.000Z",
+        "description": "Funny animals 🐾",
+        "id": "2068725005412683776",
+        "location": "Paris, France",
+        "name": "petso",
+        "pinned_tweet_id": "2082126289566118351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071716618875351040/37Utdlgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 0,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 973,
+          "tweet_count": 1009
+        },
+        "url": "",
+        "username": "Cozypetsoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22237,
+          "following_count": 895,
+          "like_count": 10833,
+          "listed_count": 32,
+          "media_count": 134,
+          "tweet_count": 5433
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

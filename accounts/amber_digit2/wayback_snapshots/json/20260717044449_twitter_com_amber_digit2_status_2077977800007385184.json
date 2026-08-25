@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2077977800007385184",
+    "created_at": "2026-07-17T04:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077977800007385184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973564224988405760",
+          "start": 3,
+          "username": "2006sfawn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077977800007385184",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13417
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077760089948315967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2006sfawn: i need the international media to help us cover our people's struggle &amp; voices, multiple indonesian trans women were beaten…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34783,
+        "height": 854,
+        "media_key": "13_2077640534529839104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077640534529839104/img/7KNfQgYHV9X_Pk6D.jpg",
+        "public_metrics": {
+          "view_count": 962807
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077640534529839104/vid/avc1/320x568/8mYy-RIMjX5Mhh68.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077640534529839104/vid/avc1/480x854/zoIWT2UKZlWU2Up7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077640534529839104/pl/E0IgWjOTaFR0CYek.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 947,
+        "media_key": "3_2077640654629576704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVDKuYbIAA9guV.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2077977800007385184",
+        "created_at": "2026-07-17T04:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077977800007385184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973564224988405760",
+              "start": 3,
+              "username": "2006sfawn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077977800007385184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077760089948315967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2006sfawn: i need the international media to help us cover our people's struggle &amp; voices, multiple indonesian trans women were beaten…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077640534529839104",
+            "3_2077640654629576704"
+          ],
+          "media_source_tweet_id": [
+            "2077644252910375194",
+            "2077644252910375194"
+          ]
+        },
+        "author_id": "1973564224988405760",
+        "conversation_id": "2077760089948315967",
+        "created_at": "2026-07-16T14:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077760089948315967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/067G99CGEy",
+              "end": 219,
+              "expanded_url": "https://x.com/duitsss/status/2077644252910375194/video/1",
+              "media_key": "13_2077640534529839104",
+              "start": 196,
+              "url": "https://t.co/067G99CGEy"
+            },
+            {
+              "display_url": "pic.x.com/067G99CGEy",
+              "end": 219,
+              "expanded_url": "https://x.com/duitsss/status/2077644252910375194/video/1",
+              "media_key": "3_2077640654629576704",
+              "start": 196,
+              "url": "https://t.co/067G99CGEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077760089948315967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1838,
+          "impression_count": 906541,
+          "like_count": 38649,
+          "quote_count": 1287,
+          "reply_count": 429,
+          "retweet_count": 13417
+        },
+        "reply_settings": "everyone",
+        "text": "i need the international media to help us cover our people's struggle &amp; voices, multiple indonesian trans women were beaten &amp; doused with urine when they were just trying to earn a living\nhttps://t.co/067G99CGEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 526,
+          "like_count": 1395,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T01:43:01.000Z",
+        "description": "i prayed to godéla, one and only.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/katsieye/",
+                "end": 23,
+                "expanded_url": "https://letterboxd.com/katsieye/",
+                "start": 0,
+                "url": "https://t.co/Ba1etD3wHg"
+              }
+            ]
+          }
+        },
+        "id": "1973564224988405760",
+        "location": "(20) ♒︎ he/they 𓏲",
+        "name": "bambie ✦",
+        "pinned_tweet_id": "2070029577955791245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076374769822498816/LPIidwBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 216,
+          "like_count": 19301,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/Ba1etD3wHg",
+        "username": "2006sfawn",
+        "verified": false
+      }
+    ]
+  }
+}

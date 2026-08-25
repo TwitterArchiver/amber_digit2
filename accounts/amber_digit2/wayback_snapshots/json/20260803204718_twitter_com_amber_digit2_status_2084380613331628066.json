@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2084380613331628066",
+    "created_at": "2026-08-03T20:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T21:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084380613331628066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "710456040",
+          "start": 3,
+          "username": "MarxPhilosophy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084380613331628066",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083823065528418359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarxPhilosophy: New review just published online in the Marx and Philosophy Review of Books:\n\nGuy Lancaster on Robin Dembroff's Real Me…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2083823059824209920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs6CEeW8AAa89S.jpg",
+        "width": 662
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2083823059824246784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs6CEeXgAATv37.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2084380613331628066",
+        "created_at": "2026-08-03T20:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084380613331628066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "710456040",
+              "start": 3,
+              "username": "MarxPhilosophy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084380613331628066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083823065528418359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MarxPhilosophy: New review just published online in the Marx and Philosophy Review of Books:\n\nGuy Lancaster on Robin Dembroff's Real Me…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083823059824209920",
+            "3_2083823059824246784"
+          ]
+        },
+        "author_id": "710456040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2083823065528418359",
+        "created_at": "2026-08-02T07:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083823065528418359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Demoralizing as it has been, the 2026 election season in the United States has nonetheless been quite valuable in revealing the contradictions in how reactionaries on the right understand matters of sex and gender. For example, most people on the far right insist that biological sex constitutes a strict binary, sometimes referring to the Book of Genesis for their backing: ‘male and female He made them.’ However, the people who insist so loudly upon a strict binary in matters of biology prove eager to create exceptions to this binary, to dub someone not a ‘real man’ or a ‘real woman.’ Texan…",
+              "display_url": "marxandphilosophy.org.uk/reviews/22771_…",
+              "end": 269,
+              "expanded_url": "https://marxandphilosophy.org.uk/reviews/22771_real-men-on-top-how-patriarchy-shapes-our-reality-by-robin-dembroffprivileged-brotherhoods-becoming-men-at-elite-all-boys-schools-by-adam-howard-reviewed-by-guy-lancaster/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2083823065952129024/15zOfk0x?format=jpg&name=orig",
+                  "width": 662
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083823065952129024/15zOfk0x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 246,
+              "status": 200,
+              "title": "‘Real Men on Top: How Patriarchy Shapes Our Reality’ by Robin Dembroff,’Privileged Brotherhoods: Becoming Men at Elite All-Boys Schools’ by Adam Howard reviewed by Guy Lancaster",
+              "unwound_url": "https://marxandphilosophy.org.uk/reviews/22771_real-men-on-top-how-patriarchy-shapes-our-reality-by-robin-dembroffprivileged-brotherhoods-becoming-men-at-elite-all-boys-schools-by-adam-howard-reviewed-by-guy-lancaster/",
+              "url": "https://t.co/AO1lFQZV2U"
+            },
+            {
+              "display_url": "pic.x.com/sJu3Y8yo2a",
+              "end": 293,
+              "expanded_url": "https://x.com/MarxPhilosophy/status/2083823065528418359/photo/1",
+              "media_key": "3_2083823059824209920",
+              "start": 270,
+              "url": "https://t.co/sJu3Y8yo2a"
+            },
+            {
+              "display_url": "pic.x.com/sJu3Y8yo2a",
+              "end": 293,
+              "expanded_url": "https://x.com/MarxPhilosophy/status/2083823065528418359/photo/1",
+              "media_key": "3_2083823059824246784",
+              "start": 270,
+              "url": "https://t.co/sJu3Y8yo2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083823065528418359",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2599,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "New review just published online in the Marx and Philosophy Review of Books:\n\nGuy Lancaster on Robin Dembroff's Real Men on Top: How Patriarchy Shapes Our Reality and Adam Howard's Privileged Brotherhoods: Becoming Men at Elite All-Boys Schools\n\nhttps://t.co/AO1lFQZV2U https://t.co/sJu3Y8yo2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4441,
+          "following_count": 723,
+          "like_count": 2299,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-22T10:03:39.000Z",
+        "description": "The M&P Soc / Review of Books encourages work on philosophical aspects of Marxism. It organizes conferences, seminars, & publishes the M&P Review of Books.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxandphilosophy.org.uk",
+                "end": 20,
+                "expanded_url": "http://marxandphilosophy.org.uk/",
+                "start": 0,
+                "url": "http://t.co/GXNNeO9T"
+              }
+            ]
+          }
+        },
+        "id": "710456040",
+        "location": "United Kingdom",
+        "name": "Marx & Philosophy",
+        "pinned_tweet_id": "1932668343628275721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324405042179416064/eGyEZ5Oy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13371,
+          "following_count": 320,
+          "like_count": 25,
+          "listed_count": 131,
+          "media_count": 344,
+          "tweet_count": 2658
+        },
+        "url": "http://t.co/GXNNeO9T",
+        "username": "MarxPhilosophy",
+        "verified": false
+      }
+    ]
+  }
+}

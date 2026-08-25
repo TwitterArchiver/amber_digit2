@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088194790181720064",
+        "3_2088194790177525760",
+        "3_2088194790173323264"
+      ],
+      "media_source_tweet_id": [
+        "2088195498809475456",
+        "2088195498809475456",
+        "2088195498809475456"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088223902140977255",
+    "created_at": "2026-08-14T11:19:10.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088223902140977255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1613462516163842050",
+          "start": 3,
+          "username": "sayaalauun"
+        },
+        {
+          "end": 27,
+          "id": "853937729201086464",
+          "start": 18,
+          "username": "Astrioia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OOv3MyoPDe",
+          "end": 105,
+          "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+          "media_key": "13_2088194790181720064",
+          "start": 82,
+          "url": "https://t.co/OOv3MyoPDe"
+        },
+        {
+          "display_url": "pic.x.com/OOv3MyoPDe",
+          "end": 105,
+          "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+          "media_key": "3_2088194790177525760",
+          "start": 82,
+          "url": "https://t.co/OOv3MyoPDe"
+        },
+        {
+          "display_url": "pic.x.com/OOv3MyoPDe",
+          "end": 105,
+          "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+          "media_key": "3_2088194790173323264",
+          "start": 82,
+          "url": "https://t.co/OOv3MyoPDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088223902140977255",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088194790181720064"
+      },
+      {
+        "media_key": "3_2088194790177525760"
+      },
+      {
+        "media_key": "3_2088194790173323264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088195498809475456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayaalauun: 关于@Astrioia 被害相关视频中同伙其余两人是否有没有对于被害者动手动脚行为的以及受害者的回应（来自事主本人的频道，已授权） https://t.co/OOv3MyoPDe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 218933,
+        "height": 720,
+        "media_key": "13_2088194790181720064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088194790181720064/img/eRTFqiO4zSXvzRjy.jpg",
+        "public_metrics": {
+          "view_count": 949
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088194790181720064/vid/avc1/480x270/zKi2fc0uDLiwr71l.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088194790181720064/vid/avc1/640x360/vuQMoNc7Dhc1EFJI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088194790181720064/vid/avc1/1280x720/LhItar4bCXdNojTD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088194790181720064/pl/fpSIGhcoiWp19ZP6.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1009,
+        "media_key": "3_2088194790177525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrCGRJaUAAAanT.jpg",
+        "width": 750
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2088194790173323264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrCGRIaMAAohgk.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088194790181720064",
+            "3_2088194790177525760",
+            "3_2088194790173323264"
+          ]
+        },
+        "author_id": "1613462516163842050",
+        "conversation_id": "2088195498809475456",
+        "created_at": "2026-08-14T09:26:18.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088195498809475456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "853937729201086464",
+              "start": 2,
+              "username": "Astrioia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOv3MyoPDe",
+              "end": 89,
+              "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+              "media_key": "13_2088194790181720064",
+              "start": 66,
+              "url": "https://t.co/OOv3MyoPDe"
+            },
+            {
+              "display_url": "pic.x.com/OOv3MyoPDe",
+              "end": 89,
+              "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+              "media_key": "3_2088194790177525760",
+              "start": 66,
+              "url": "https://t.co/OOv3MyoPDe"
+            },
+            {
+              "display_url": "pic.x.com/OOv3MyoPDe",
+              "end": 89,
+              "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+              "media_key": "3_2088194790173323264",
+              "start": 66,
+              "url": "https://t.co/OOv3MyoPDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088195498809475456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088194790181720064"
+          },
+          {
+            "media_key": "3_2088194790177525760"
+          },
+          {
+            "media_key": "3_2088194790173323264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1427,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "关于@Astrioia 被害相关视频中同伙其余两人是否有没有对于被害者动手动脚行为的以及受害者的回应（来自事主本人的频道，已授权） https://t.co/OOv3MyoPDe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088194790181720064",
+            "3_2088194790177525760",
+            "3_2088194790173323264"
+          ],
+          "media_source_tweet_id": [
+            "2088195498809475456",
+            "2088195498809475456",
+            "2088195498809475456"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088223902140977255",
+        "created_at": "2026-08-14T11:19:10.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088223902140977255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1613462516163842050",
+              "start": 3,
+              "username": "sayaalauun"
+            },
+            {
+              "end": 27,
+              "id": "853937729201086464",
+              "start": 18,
+              "username": "Astrioia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOv3MyoPDe",
+              "end": 105,
+              "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+              "media_key": "13_2088194790181720064",
+              "start": 82,
+              "url": "https://t.co/OOv3MyoPDe"
+            },
+            {
+              "display_url": "pic.x.com/OOv3MyoPDe",
+              "end": 105,
+              "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+              "media_key": "3_2088194790177525760",
+              "start": 82,
+              "url": "https://t.co/OOv3MyoPDe"
+            },
+            {
+              "display_url": "pic.x.com/OOv3MyoPDe",
+              "end": 105,
+              "expanded_url": "https://x.com/sayaalauun/status/2088195498809475456/video/1",
+              "media_key": "3_2088194790173323264",
+              "start": 82,
+              "url": "https://t.co/OOv3MyoPDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088223902140977255",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088194790181720064"
+          },
+          {
+            "media_key": "3_2088194790177525760"
+          },
+          {
+            "media_key": "3_2088194790173323264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088195498809475456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayaalauun: 关于@Astrioia 被害相关视频中同伙其余两人是否有没有对于被害者动手动脚行为的以及受害者的回应（来自事主本人的频道，已授权） https://t.co/OOv3MyoPDe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088223902140977255",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5094,
+          "following_count": 849,
+          "like_count": 3359,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-12T09:07:08.000Z",
+        "description": "✨ | NO_PRON | 20y | zh/en/jp | WTFPL | node.rust plz 🤗\n游走互联网的赛博半凛 想要有人陪的可回收垃圾w\n@Rinkomo233 legacy acc. | #サカナクション fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 105,
+                "tag": "サカナクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Rinkomo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "996.icu",
+                "end": 23,
+                "expanded_url": "http://996.icu",
+                "start": 0,
+                "url": "https://t.co/UARhIq7N5k"
+              }
+            ]
+          }
+        },
+        "id": "1613462516163842050",
+        "is_identity_verified": false,
+        "location": "Loading...",
+        "most_recent_tweet_id": "2088195498809475456",
+        "name": "萌田 リン",
+        "pinned_tweet_id": "2086812639171412426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613462516163842050/1784520253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053985971390332929/VtJyMoRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 693,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/UARhIq7N5k",
+        "username": "sayaalauun",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-17T11:46:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weblogue",
+                "end": 23,
+                "expanded_url": "http://t.me/weblogue",
+                "start": 0,
+                "url": "https://t.co/3VrLMhAbFo"
+              }
+            ]
+          }
+        },
+        "id": "853937729201086464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088220076034109577",
+        "name": "Wireless Lover",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853937729201086464/1632042627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1383,
+          "like_count": 2566,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/3VrLMhAbFo",
+        "username": "Astrioia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

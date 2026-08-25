@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1471213785922752513",
+          "name": "Bell Hooks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471213785922752513",
+          "name": "Bell Hooks"
+        }
+      }
+    ],
+    "conversation_id": "2080853546682003850",
+    "created_at": "2026-07-25T03:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080853546682003850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suchnerve/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/suchnerve/status/2080725255547421119",
+          "start": 12,
+          "url": "https://t.co/ktj8Ga5rAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080853546682003850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080725255547421119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你爱男了，但男的爱你吗 https://t.co/ktj8Ga5rAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Screenshot of Tumblr post from @ApollosFallen: “The only way forward is to stop treating masculinity as synonymous with harmful, monstrous, or dangerous. There is a fundamental difference between \"men are dangerous\" (wrong, bioessentialist) and \"the patriarchy allows dangerous men to exist unchecked\" (true).” As of 2:36 PM EDT 24 July 2026, the post had 561 replies, 38.3 thousand reblogs, and 47.8 thousand likes.",
+        "height": 1031,
+        "media_key": "3_2080725251575439360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA4l5dW4AAPkLS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          }
+        ],
+        "conversation_id": "2080853546682003850",
+        "created_at": "2026-07-25T03:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080853546682003850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suchnerve/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/suchnerve/status/2080725255547421119",
+              "start": 12,
+              "url": "https://t.co/ktj8Ga5rAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080853546682003850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080725255547421119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你爱男了，但男的爱你吗 https://t.co/ktj8Ga5rAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080725251575439360"
+          ]
+        },
+        "author_id": "16738904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          }
+        ],
+        "conversation_id": "2080725255547421119",
+        "created_at": "2026-07-24T18:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080725255547421119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1Om3C7PI9",
+              "end": 301,
+              "expanded_url": "https://x.com/suchnerve/status/2080725255547421119/photo/1",
+              "media_key": "3_2080725251575439360",
+              "start": 278,
+              "url": "https://t.co/Z1Om3C7PI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080725255547421119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 16001,
+          "like_count": 1067,
+          "quote_count": 20,
+          "reply_count": 26,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "“To create loving men, we must love males.” -bell hooks\n\nThere must be a path forward. Olive branches, reunification, connection, stability through conflict management and conflict resolution rather than conflict avoidance. Our gender problems are solvable, not insurmountable. https://t.co/Z1Om3C7PI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 557,
+          "like_count": 1527,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1451
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2008-10-14T14:49:23.000Z",
+        "description": "90s Millennial who had unsupervised Internet access in 2008, and grew up to be a polarizing deviant leftist autistic woman dual-wielding shitposting & sincerity",
+        "id": "16738904",
+        "location": "not a bit! i’m just like this.",
+        "name": "Vivian",
+        "pinned_tweet_id": "2069232610002260364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750921465543655430/NAEvgcua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66634,
+          "following_count": 990,
+          "like_count": 355784,
+          "listed_count": 261,
+          "media_count": 18940,
+          "tweet_count": 194557
+        },
+        "url": "",
+        "username": "suchnerve",
+        "verified": false
+      }
+    ]
+  }
+}

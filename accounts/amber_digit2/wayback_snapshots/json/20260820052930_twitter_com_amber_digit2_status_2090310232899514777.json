@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090310227866333184",
+        "3_2090310227870490624",
+        "3_2090310227866382336",
+        "3_2090310227866333185"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2090310232899514777",
+    "created_at": "2026-08-20T05:29:30.000Z",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090310232899514777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IGUknYhI1d",
+          "end": 303,
+          "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+          "media_key": "3_2090310227866333184",
+          "start": 280,
+          "url": "https://t.co/IGUknYhI1d"
+        },
+        {
+          "display_url": "pic.x.com/IGUknYhI1d",
+          "end": 303,
+          "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+          "media_key": "3_2090310227870490624",
+          "start": 280,
+          "url": "https://t.co/IGUknYhI1d"
+        },
+        {
+          "display_url": "pic.x.com/IGUknYhI1d",
+          "end": 303,
+          "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+          "media_key": "3_2090310227866382336",
+          "start": 280,
+          "url": "https://t.co/IGUknYhI1d"
+        },
+        {
+          "display_url": "pic.x.com/IGUknYhI1d",
+          "end": 303,
+          "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+          "media_key": "3_2090310227866333185",
+          "start": 280,
+          "url": "https://t.co/IGUknYhI1d"
+        },
+        {
+          "display_url": "x.com/ku1x1n/status/…",
+          "end": 327,
+          "expanded_url": "https://twitter.com/ku1x1n/status/2089744852594700693",
+          "start": 304,
+          "url": "https://t.co/elQilvoZdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090310232899514777",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2090310227866333184"
+      },
+      {
+        "media_key": "3_2090310227870490624"
+      },
+      {
+        "media_key": "3_2090310227866382336"
+      },
+      {
+        "media_key": "3_2090310227866333185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "the point of arguing that sex work is work (to paraphrase femibabylon) is not to reintegrate it into capitalist waged labor (thereby justifying its existence), but to build toward a politics of work abolition that implodes the very category of work. sex work is troubling because it renders visible myriads of reproductive work that undergird human sociality yet cannot be (completely) commodified; as such, it functions as capitalism’s constitutive exception: capitalism must relegate certain forms of work to the field of non-work because it cannot possibly pay for all reproductive work and still maintain profitable; because its logics of accumulation depend upon the immiseration of the majority of its population.\n\nsex work, just like all reproductive work, highlights capitalism’s inherent incapacity of providing universal flourishing and its parasitic reliance on historically contingent permutations of human relations that exceed capitalist logics and can always be built anew. in providing its workers a means of sustenance, sex work allows us to build alternate networks/relations of care (which may be called dual power) that lay the foundation for the abolition of all work. \n\ny’all aren’t reading enough sex workers’ works and it shows"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089744852594700693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "the point of arguing that sex work is work (to paraphrase femibabylon) is not to reintegrate it into capitalist waged labor (thereby justifying its existence), but to build toward a politics of work abolition that implodes the very category of work. sex work is troubling because https://t.co/IGUknYhI1d https://t.co/elQilvoZdZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_2090310227866333184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJGE8pWsAAp6pL.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1772,
+        "media_key": "3_2090310227870490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJGE8qWIAA6oAD.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2090310227866382336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJGE8pXcAASvAS.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2090310227866333185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJGE8pWsAEJz7Q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090310227866333184",
+            "3_2090310227870490624",
+            "3_2090310227866382336",
+            "3_2090310227866333185"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2090310232899514777",
+        "created_at": "2026-08-20T05:29:30.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090310232899514777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGUknYhI1d",
+              "end": 303,
+              "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+              "media_key": "3_2090310227866333184",
+              "start": 280,
+              "url": "https://t.co/IGUknYhI1d"
+            },
+            {
+              "display_url": "pic.x.com/IGUknYhI1d",
+              "end": 303,
+              "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+              "media_key": "3_2090310227870490624",
+              "start": 280,
+              "url": "https://t.co/IGUknYhI1d"
+            },
+            {
+              "display_url": "pic.x.com/IGUknYhI1d",
+              "end": 303,
+              "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+              "media_key": "3_2090310227866382336",
+              "start": 280,
+              "url": "https://t.co/IGUknYhI1d"
+            },
+            {
+              "display_url": "pic.x.com/IGUknYhI1d",
+              "end": 303,
+              "expanded_url": "https://x.com/amber_digit2/status/2090310232899514777/photo/1",
+              "media_key": "3_2090310227866333185",
+              "start": 280,
+              "url": "https://t.co/IGUknYhI1d"
+            },
+            {
+              "display_url": "x.com/ku1x1n/status/…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/ku1x1n/status/2089744852594700693",
+              "start": 304,
+              "url": "https://t.co/elQilvoZdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090310232899514777",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090310227866333184"
+          },
+          {
+            "media_key": "3_2090310227870490624"
+          },
+          {
+            "media_key": "3_2090310227866382336"
+          },
+          {
+            "media_key": "3_2090310227866333185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "the point of arguing that sex work is work (to paraphrase femibabylon) is not to reintegrate it into capitalist waged labor (thereby justifying its existence), but to build toward a politics of work abolition that implodes the very category of work. sex work is troubling because it renders visible myriads of reproductive work that undergird human sociality yet cannot be (completely) commodified; as such, it functions as capitalism’s constitutive exception: capitalism must relegate certain forms of work to the field of non-work because it cannot possibly pay for all reproductive work and still maintain profitable; because its logics of accumulation depend upon the immiseration of the majority of its population.\n\nsex work, just like all reproductive work, highlights capitalism’s inherent incapacity of providing universal flourishing and its parasitic reliance on historically contingent permutations of human relations that exceed capitalist logics and can always be built anew. in providing its workers a means of sustenance, sex work allows us to build alternate networks/relations of care (which may be called dual power) that lay the foundation for the abolition of all work. \n\ny’all aren’t reading enough sex workers’ works and it shows"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089744852594700693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the point of arguing that sex work is work (to paraphrase femibabylon) is not to reintegrate it into capitalist waged labor (thereby justifying its existence), but to build toward a politics of work abolition that implodes the very category of work. sex work is troubling because https://t.co/IGUknYhI1d https://t.co/elQilvoZdZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898077088554614785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "2089744852594700693",
+        "created_at": "2026-08-18T16:02:53.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089744852594700693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ljmontello/sta…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/ljmontello/status/2089403314765222187",
+              "start": 277,
+              "url": "https://t.co/iJUjLLL3Y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089744852594700693",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 11131,
+          "like_count": 311,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089403314765222187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ever since learning about this, i can’t agree w “sex work is work” reduction. if we are to consistently, critically approach labor, including sexual labor, we need to oppose survival sex work at its origin: providing MA for necessities for SWers, the people’s universal income https://t.co/iJUjLLL3Y5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090310232899514777",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5221,
+          "following_count": 881,
+          "like_count": 3977,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 2933
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-07T18:23:52.000Z",
+        "description": "hie/it/祂 “hatred is a beginner emotion” https://t.co/IPJVVMfIfR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zh1q1ng.carrd.co",
+                "end": 63,
+                "expanded_url": "https://zh1q1ng.carrd.co/",
+                "start": 40,
+                "url": "https://t.co/IPJVVMfIfR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "masksanjose.org",
+                "end": 23,
+                "expanded_url": "https://masksanjose.org/",
+                "start": 0,
+                "url": "https://t.co/R6JAqC5G7b"
+              }
+            ]
+          }
+        },
+        "id": "1898077088554614785",
+        "is_identity_verified": false,
+        "location": "to be continued 24 ",
+        "most_recent_tweet_id": "2090253637272604713",
+        "name": "q 情 • 未来道师",
+        "pinned_tweet_id": "2087046382616281595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898077088554614785/1783921591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064209451075420160/tOMSYvsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 258,
+          "like_count": 18628,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 5894
+        },
+        "url": "https://t.co/R6JAqC5G7b",
+        "username": "KU1X1N",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

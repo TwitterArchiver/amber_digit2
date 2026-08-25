@@ -1,0 +1,660 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2085766555183329334",
+    "created_at": "2026-08-07T17:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085783693130420280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "896268381971636224",
+          "start": 0,
+          "username": "Dimitry_Leee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 45,
+          "expanded_url": "https://x.com/amber_digit2/status/2084417286689923268",
+          "start": 22,
+          "url": "https://t.co/HFsnNHwxcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085783693130420280",
+    "in_reply_to_user_id": "896268381971636224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084417286689923268",
+        "type": "quoted"
+      },
+      {
+        "id": "2085781758231163137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dimitry_Leee 是啊 你看这条\nhttps://t.co/HFsnNHwxcI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2944,
+        "media_key": "3_2084406143019798528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1MV-pWUAA2q6z.jpg",
+        "width": 3989
+      },
+      {
+        "height": 3048,
+        "media_key": "3_2084406154399002624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1MWpCXMAAl_wd.jpg",
+        "width": 2511
+      },
+      {
+        "height": 1804,
+        "media_key": "3_2084406166994464768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1MXX9WsAAZcJ5.jpg",
+        "width": 2415
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2084406192273506304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1MY2IWQAASFJS.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2085766555183329334",
+        "created_at": "2026-08-07T17:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085783693130420280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "896268381971636224",
+              "start": 0,
+              "username": "Dimitry_Leee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 45,
+              "expanded_url": "https://x.com/amber_digit2/status/2084417286689923268",
+              "start": 22,
+              "url": "https://t.co/HFsnNHwxcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085783693130420280",
+        "in_reply_to_user_id": "896268381971636224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084417286689923268",
+            "type": "quoted"
+          },
+          {
+            "id": "2085781758231163137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dimitry_Leee 是啊 你看这条\nhttps://t.co/HFsnNHwxcI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084406143019798528",
+            "3_2084406154399002624",
+            "3_2084406166994464768",
+            "3_2084406192273506304"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2084417286689923268",
+        "created_at": "2026-08-03T23:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084417286689923268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFcTsBn2QL",
+              "end": 123,
+              "expanded_url": "https://x.com/amber_digit2/status/2084417286689923268/photo/1",
+              "media_key": "3_2084406143019798528",
+              "start": 100,
+              "url": "https://t.co/tFcTsBn2QL"
+            },
+            {
+              "display_url": "pic.x.com/tFcTsBn2QL",
+              "end": 123,
+              "expanded_url": "https://x.com/amber_digit2/status/2084417286689923268/photo/1",
+              "media_key": "3_2084406154399002624",
+              "start": 100,
+              "url": "https://t.co/tFcTsBn2QL"
+            },
+            {
+              "display_url": "pic.x.com/tFcTsBn2QL",
+              "end": 123,
+              "expanded_url": "https://x.com/amber_digit2/status/2084417286689923268/photo/1",
+              "media_key": "3_2084406166994464768",
+              "start": 100,
+              "url": "https://t.co/tFcTsBn2QL"
+            },
+            {
+              "display_url": "pic.x.com/tFcTsBn2QL",
+              "end": 123,
+              "expanded_url": "https://x.com/amber_digit2/status/2084417286689923268/photo/1",
+              "media_key": "3_2084406192273506304",
+              "start": 100,
+              "url": "https://t.co/tFcTsBn2QL"
+            },
+            {
+              "display_url": "x.com/lidangzzz/stat…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/lidangzzz/status/2084268788141162971",
+              "start": 124,
+              "url": "https://t.co/dOnXMeuA1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084417286689923268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感谢立党老师推流。既然大家对美本硕文科学生的生活有如此多的猜测，以至于都能忘记在我读本科硕士的时候Chat GPT压根还没有出现，那我就来介绍一下自己，以及在诸位写代码刷题的时候，我都在做些什么吧。\n\n我的上个账号被封以后，我家庭的细节可能很多人不记得了，所以我在此重新解释一次：我爸爸是包工头，我家在北京生活但没有北京户口。我无法和其他北京孩子一样在本地参加中高考，所以在我很小的时候我家就为我规划了出国的道路。我家破产的直接原因不是因为我读美本美硕，而是我爸爸出轨在外面养了第二个妻子和家庭，并因资金管理不善产生了大量欠债，最终于在2020年死于癌症和心肌梗塞；在此之前，没有人能预见到这一切的发生。在此之后，我家为了供给我读完书，卖掉了家里唯一一套房子，目前在北京租房住。\n\n我的本科专业不是性别研究，而是哲学和文学。早在高中阶段，我就创建了一个名为Philosophia哲学社的组织，专门写作哲学类概念普及和社会时事评论类文章。20年疫情期间，我和团队在写作了几篇批评国内疫情政策和舆论管控的文章（比较有名的一篇叫《对本次疫情的结构性反思》）后，获得了许多媒体采访和舆论关注，也为公众号积累了约二十万粉丝（图1）。\n\n后来，我因与团队其他成员因理念不合，主动退出了自己创立的组织，开始对其他我感兴趣的学术领域进行研究，也开始逐渐进一步探索自己的性别认同。我在自己的公众号上翻译了数篇性别相关的文章，并选择了对国内反跨激进女权（TERF）话语进行考察和批判，在2023年完成了本科毕业论文的写作，并在同年进入了跨性别女性社群。2024年，我获得硕士学位，在毕业论文中考察了国内跨性别女性社群中的自杀和悼念模式，以及在结构性压迫下创造出的关怀网络（图2图3）。\n\n虽然我博士论文的题目还没有最终选定，但近一段时间，我的研究主要聚焦在国内「戒网瘾学校」的发展史和警治史，考察它与中国改革开放后家庭组织模式和未成年犯罪防控政策之间的关系，也在密切关注当下试图摧毁这一罪恶产业的无数勇敢的行动者们。我的所有研究中，没有任何内容是可以通过AI完成的，都需要去做细致的档案考察、和无数当事人进行直接的对话、采访和记录。在这个意义上，AI现在能用于堆砌分析的这些语料，正是由无数文科学者的原创研究才得以可能的。\n\n在选择专业之前，已经有无数人提醒过我，我选择的是一条就业前景极其黯淡、变现能力极其有限、求学过程无比艰难的道路，所以我不能说自己并未预见到这一切的发生。但幸运的是，我生活在了一个极度爱我的家庭。我的母父一直以来都无比支持我作出的所有决定（包括性别变更），且从未向我提出过任何要赚回学费之类的要求。一直以来，他们都坚定地告诉我，留学的目的就是开拓视野和学习新知识，而不是获得经济回报；他们培养我的目的是希望我可以成长为一个幸福而充盈的人，而非给他们提供任何回馈或养老保障。一定要学自己喜欢的东西，他们永远支持我，只要我学的东西让我自己感到有收获、甚至能有助于回馈社会，那就足够了。但也正是因为他们的支持，我反而更会为自己无法为家庭分担压力感到愧疚。\n\n在我18岁那年接受的采访中，我提到，我上大学的最终目的，是为了帮助那些读不了大学的人。如果我最终只是选择了一个变现能力高的工作独善其身，那我便有愧于我从小到大获得的所有教育资源，有愧于我从小到大所有帮助我的人，也有愧于我读过的那些让我认识到了何为压迫和正义的论文和书。\n\n我想，即便当时的我能够预见到后续一切的发生，我也仍然以同样坚定的态度，重新作出我现在做过的所有选择。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 84265,
+          "like_count": 444,
+          "quote_count": 27,
+          "reply_count": 21,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084268788141162971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "感谢立党老师推流。既然大家对美本硕文科学生的生活有如此多的猜测，以至于都能忘记在我读本科硕士的时候Chat GPT压根还没有出现，那我就来介绍一下自己，以及在诸位写代码刷题的时候，我都在做些什么吧。 https://t.co/tFcTsBn2QL https://t.co/dOnXMeuA1x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "896268381971636224",
+        "conversation_id": "2085766555183329334",
+        "created_at": "2026-08-07T17:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085781758231163137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085781758231163137",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085766555183329334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 woc，我看到这个名字，才意识到，之前在知乎刷到过你的帖子。你是杜克本科的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 774,
+          "like_count": 2696,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-12T07:13:28.000Z",
+        "description": "",
+        "id": "896268381971636224",
+        "name": "ding",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 661,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Dimitry_Leee",
+        "verified": false
+      }
+    ]
+  }
+}

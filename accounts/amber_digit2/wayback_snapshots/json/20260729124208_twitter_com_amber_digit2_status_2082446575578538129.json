@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082446575578538129",
+    "created_at": "2026-07-29T12:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082446575578538129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shioochic_xyn/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/shioochic_xyn/status/2082362230713332207",
+          "start": 43,
+          "url": "https://t.co/v6RJOR78cC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082446575578538129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082362230713332207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是你的客户不是这些同类本人，而是ta们的家长，这些人是大概率不会给你这份工作付费的 https://t.co/v6RJOR78cC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_2082362221993279488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYJaHeaQAASi8F.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082446575578538129",
+        "created_at": "2026-07-29T12:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082446575578538129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shioochic_xyn/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/shioochic_xyn/status/2082362230713332207",
+              "start": 43,
+              "url": "https://t.co/v6RJOR78cC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082446575578538129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082362230713332207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是你的客户不是这些同类本人，而是ta们的家长，这些人是大概率不会给你这份工作付费的 https://t.co/v6RJOR78cC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082362221993279488"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2082362230713332207",
+        "created_at": "2026-07-29T07:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082362230713332207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rp5hIIPtQ4",
+              "end": 25,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2082362230713332207/photo/1",
+              "media_key": "3_2082362221993279488",
+              "start": 2,
+              "url": "https://t.co/rp5hIIPtQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082362230713332207",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18652,
+          "like_count": 223,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/rp5hIIPtQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 648,
+          "like_count": 1846,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友情链接:https://t.co/iIABjp0PAw（这并非我本人的博客）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 117,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 94,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4358,
+          "following_count": 2182,
+          "like_count": 8510,
+          "listed_count": 8,
+          "media_count": 1026,
+          "tweet_count": 6836
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

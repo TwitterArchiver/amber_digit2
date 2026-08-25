@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088614318849823011",
+    "created_at": "2026-08-15T13:10:32.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088614318849823011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875538299441278976",
+          "start": 3,
+          "username": "user11771717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088614318849823011",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088391313301328240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @user11771717: i hate how everyone speaks about sex workers"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088614318849823011",
+        "created_at": "2026-08-15T13:10:32.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088614318849823011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875538299441278976",
+              "start": 3,
+              "username": "user11771717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088614318849823011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088391313301328240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @user11771717: i hate how everyone speaks about sex workers"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875538299441278976",
+        "conversation_id": "2088391313301328240",
+        "created_at": "2026-08-14T22:24:24.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T23:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088391313301328240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nujagoat/statu…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/nujagoat/status/2087719085865930781",
+              "start": 45,
+              "url": "https://t.co/X1NoDHW8tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088391313301328240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 101428,
+          "like_count": 5095,
+          "quote_count": 18,
+          "reply_count": 9,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087719085865930781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "i hate how everyone speaks about sex workers https://t.co/X1NoDHW8tw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088614318849823011",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5119,
+          "following_count": 857,
+          "like_count": 3471,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T13:42:51.000Z",
+        "description": "bisexual punjabi princess",
+        "id": "1875538299441278976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088570303249109415",
+        "name": "bex",
+        "pinned_tweet_id": "2006011632632090642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875538299441278976/1735998906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080282409086361601/pdCnaKwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 74,
+          "like_count": 21097,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3079
+        },
+        "url": "",
+        "username": "user11771717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081463930187325816",
+    "created_at": "2026-07-26T19:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T20:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081464304906154278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041343393972862976",
+          "start": 0,
+          "username": "TiluMK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081464304906154278",
+    "in_reply_to_user_id": "2041343393972862976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081463930187325816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiluMK2 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081463930187325816",
+        "created_at": "2026-07-26T19:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081464304906154278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041343393972862976",
+              "start": 0,
+              "username": "TiluMK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081464304906154278",
+        "in_reply_to_user_id": "2041343393972862976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081463930187325816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiluMK2 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041343393972862976",
+        "conversation_id": "2081463930187325816",
+        "created_at": "2026-07-26T19:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081463930187325816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2081221530592108852",
+              "start": 52,
+              "url": "https://t.co/CfskMnkw0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081463930187325816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Me when I am a Chinese sneedhon with no personality https://t.co/CfskMnkw0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 603,
+          "like_count": 1700,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T02:32:54.000Z",
+        "description": "priv: @Izzonii_is_on_E , transfeminine object #01, not something you could kill, Marxism with bæddelist characteristics, men aren’t women but boys are girls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "Izzonii_is_on_E"
+              }
+            ]
+          }
+        },
+        "id": "2041343393972862976",
+        "location": "HRT 24/10/1🇨🇳",
+        "name": "Reine, Bæddelmoder, insurrectionist",
+        "pinned_tweet_id": "2049532697647911276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049346885056598016/Kn5ubtYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 395,
+          "like_count": 5478,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2207
+        },
+        "url": "",
+        "username": "TiluMK2",
+        "verified": false
+      }
+    ]
+  }
+}

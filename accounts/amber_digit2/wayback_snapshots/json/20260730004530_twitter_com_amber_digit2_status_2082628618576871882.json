@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082628618576871882",
+    "created_at": "2026-07-30T00:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T01:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082628618576871882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/witchof0x20/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/witchof0x20/status/1948031037335867674",
+          "start": 23,
+          "url": "https://t.co/WBjtr08UZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082628618576871882",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948031037335867674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i confirm this is true https://t.co/WBjtr08UZE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082628618576871882",
+        "created_at": "2026-07-30T00:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082628618576871882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/witchof0x20/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/witchof0x20/status/1948031037335867674",
+              "start": 23,
+              "url": "https://t.co/WBjtr08UZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082628618576871882",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948031037335867674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i confirm this is true https://t.co/WBjtr08UZE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841865131780935680",
+        "conversation_id": "1948031037335867674",
+        "created_at": "2025-07-23T14:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948031037335867674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948031037335867674",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2728,
+          "impression_count": 463460,
+          "like_count": 15266,
+          "quote_count": 79,
+          "reply_count": 38,
+          "retweet_count": 935
+        },
+        "reply_settings": "everyone",
+        "text": "the fact that \"debian install media\" is slang for estrogen in china will always stay with me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 654,
+          "like_count": 1874,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-15T04:14:23.000Z",
+        "description": "they/she 😎🌈💕\nWitch 🧙‍♀️of Space 🌌\nLGBTESCREAL💡\n@jade@chaos.social 🐘\n@ https://t.co/7SQVR86bxu 🦋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "witchof.space",
+                "end": 93,
+                "expanded_url": "http://witchof.space",
+                "start": 70,
+                "url": "https://t.co/7SQVR86bxu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "witchof.space",
+                "end": 23,
+                "expanded_url": "https://witchof.space",
+                "start": 0,
+                "url": "https://t.co/MAkHAC7dmg"
+              }
+            ]
+          }
+        },
+        "id": "841865131780935680",
+        "location": "Past the end of the buffer",
+        "name": "etherret🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909062246220673024/Th_swfmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 942,
+          "like_count": 45416,
+          "listed_count": 9,
+          "media_count": 1533,
+          "tweet_count": 17335
+        },
+        "url": "https://t.co/MAkHAC7dmg",
+        "username": "witchof0x20",
+        "verified": false
+      }
+    ]
+  }
+}

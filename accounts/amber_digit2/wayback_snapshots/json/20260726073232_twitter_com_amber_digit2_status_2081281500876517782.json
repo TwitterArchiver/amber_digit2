@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2081261600439423059",
+    "created_at": "2026-07-26T07:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081281500876517782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026470713746665472",
+          "start": 0,
+          "username": "george522471431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081281500876517782",
+    "in_reply_to_user_id": "2026470713746665472",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081261600439423059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@george522471431 i mean we’re pretty active on twitter as well (perhaps more so than on rednote)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2081261600439423059",
+        "created_at": "2026-07-26T07:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081281500876517782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026470713746665472",
+              "start": 0,
+              "username": "george522471431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081281500876517782",
+        "in_reply_to_user_id": "2026470713746665472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081261600439423059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@george522471431 i mean we’re pretty active on twitter as well (perhaps more so than on rednote)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026470713746665472",
+        "conversation_id": "2081261600439423059",
+        "created_at": "2026-07-26T06:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081261600439423059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2081221530592108852",
+              "start": 70,
+              "url": "https://t.co/T7kPKD1V0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081261600439423059",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "there's no way this person post about the rednote subculture on my TL https://t.co/T7kPKD1V0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3561,
+          "following_count": 585,
+          "like_count": 1647,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1526
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T01:34:18.000Z",
+        "description": "-just random indonesian\n-don't threw political word on me, i had no knowledge of that\n-doing and post stuff\n\ni love the irony i living in",
+        "id": "2026470713746665472",
+        "name": "sprinklymesses",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047916463122698240/Xnb8WjBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 82,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 2294
+        },
+        "url": "",
+        "username": "george522471431",
+        "verified": false
+      }
+    ]
+  }
+}

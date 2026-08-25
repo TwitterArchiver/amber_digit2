@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518689897296453633",
+          "name": "United States political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1561891332158738433",
+          "name": "Crime in the United States"
+        }
+      }
+    ],
+    "conversation_id": "2083580639614292402",
+    "created_at": "2026-08-01T15:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083580639614292402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2020285701183401985",
+          "start": 3,
+          "username": "hellspatisserie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083580639614292402",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083519224392089747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hellspatisserie: The criminal justice system is fucked, it is obviously fucked, it is considered socially desirable that it is fucked,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518689897296453633",
+              "name": "United States political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1561891332158738433",
+              "name": "Crime in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2083580639614292402",
+        "created_at": "2026-08-01T15:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083580639614292402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2020285701183401985",
+              "start": 3,
+              "username": "hellspatisserie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083580639614292402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083519224392089747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hellspatisserie: The criminal justice system is fucked, it is obviously fucked, it is considered socially desirable that it is fucked,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020285701183401985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518689897296453633",
+              "name": "United States political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1561891332158738433",
+              "name": "Crime in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2083519224392089747",
+        "created_at": "2026-08-01T11:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083519224392089747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unitas_spiritu…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/unitas_spiritus/status/2083489960410108283",
+              "start": 276,
+              "url": "https://t.co/kyyc5TMIZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083519224392089747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4594,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083489960410108283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The criminal justice system is fucked, it is obviously fucked, it is considered socially desirable that it is fucked, and it is considered so socially desirable that it be fucked that the alternatives to the current system being entertained even on the left are *more* fucked https://t.co/kyyc5TMIZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 691,
+          "like_count": 2084,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T23:58:03.000Z",
+        "description": "⋆˙⟡ — 𝚒 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝚢𝚘𝚞'𝚛𝚎 𝚝𝚑𝚎 𝚘𝚗𝚎 𝚠𝚑𝚘 𝚔𝚗𝚘𝚠𝚜. — ⋆˙⟡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dahirinsaat.com",
+                "end": 23,
+                "expanded_url": "http://dahirinsaat.com",
+                "start": 0,
+                "url": "https://t.co/bSJx2jmphV"
+              }
+            ]
+          }
+        },
+        "id": "2020285701183401985",
+        "location": "nyc",
+        "name": "𝚑𝚎𝚕𝚕𝚜𝚙𝚊𝚝𝚒𝚜𝚜𝚎𝚛𝚒𝚎 @ Otakon",
+        "pinned_tweet_id": "2020289317269303457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081905699093651456/gshotz2N_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8179,
+          "following_count": 1358,
+          "like_count": 16987,
+          "listed_count": 10,
+          "media_count": 432,
+          "tweet_count": 6159
+        },
+        "url": "https://t.co/bSJx2jmphV",
+        "username": "hellspatisserie",
+        "verified": false
+      }
+    ]
+  }
+}

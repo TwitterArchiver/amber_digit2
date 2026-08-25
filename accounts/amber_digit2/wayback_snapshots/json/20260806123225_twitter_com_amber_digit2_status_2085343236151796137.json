@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085343232867651584"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085343236151796137",
+    "created_at": "2026-08-06T12:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085343236151796137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 95,
+          "id": "56277041",
+          "start": 84,
+          "username": "dikaioslin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLlAYt0atN",
+          "end": 119,
+          "expanded_url": "https://x.com/amber_digit2/status/2085343236151796137/photo/1",
+          "media_key": "3_2085343232867651584",
+          "start": 96,
+          "url": "https://t.co/sLlAYt0atN"
+        },
+        {
+          "display_url": "x.com/liuzhuanzhao_c…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/liuzhuanzhao_cn/status/2085333210704277941",
+          "start": 120,
+          "url": "https://t.co/Opo2aFTy8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085343236151796137",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085333210704277941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "from “Beaconism and the Trumpian Metamorphosis of Chinese Liberal\nIntellectuals” by @dikaioslin https://t.co/sLlAYt0atN https://t.co/Opo2aFTy8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085343232867651584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCgnyXXUAAJexl.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085343232867651584"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085343236151796137",
+        "created_at": "2026-08-06T12:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085343236151796137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "56277041",
+              "start": 84,
+              "username": "dikaioslin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLlAYt0atN",
+              "end": 119,
+              "expanded_url": "https://x.com/amber_digit2/status/2085343236151796137/photo/1",
+              "media_key": "3_2085343232867651584",
+              "start": 96,
+              "url": "https://t.co/sLlAYt0atN"
+            },
+            {
+              "display_url": "x.com/liuzhuanzhao_c…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/liuzhuanzhao_cn/status/2085333210704277941",
+              "start": 120,
+              "url": "https://t.co/Opo2aFTy8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085343236151796137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085333210704277941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "from “Beaconism and the Trumpian Metamorphosis of Chinese Liberal\nIntellectuals” by @dikaioslin https://t.co/sLlAYt0atN https://t.co/Opo2aFTy8H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226707681437569024",
+        "conversation_id": "2085330681127903359",
+        "created_at": "2026-08-06T11:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085333210704277941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085333210704277941",
+        "in_reply_to_user_id": "1226707681437569024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085331793365123138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "And understanding this racial and civilizational anxiety in the face of white people is precisely the key to understanding why, in the late 1980s, it was the liberals who spearheaded China's earliest contemporary anti-Black movement"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4662,
+          "following_count": 759,
+          "like_count": 2559,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-13T03:39:24.000Z",
+        "description": "Philosophy. Political Theory. Comparative Politics. Law.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dikaioslin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://dikaioslin.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/2q0GekNaET"
+              }
+            ]
+          }
+        },
+        "id": "56277041",
+        "name": "Yao Lin 林垚",
+        "pinned_tweet_id": "2069479533670236302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/310873503/cop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20666,
+          "following_count": 2004,
+          "like_count": 25915,
+          "listed_count": 164,
+          "media_count": 560,
+          "tweet_count": 15548
+        },
+        "url": "https://t.co/2q0GekNaET",
+        "username": "dikaioslin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T03:21:37.000Z",
+        "description": "*有左翼观念的普通人\n*Mao Nostalgia\n*反对美国主导、中国参与的资本主义秩序现状\n*支持平权主义，支持 🏳️‍🌈&🏳️‍⚧️\n\n*ASD\n*当代流行文化消费者\n*非男性代词\n*无孩、爱猫狗\n\n*仅代表自己\n*𝐃𝐍𝐈（直接拉黑）: TERF、皇汉、粉红、男权人、保守自由派、......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/ZhuanZhao.cn/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/ZhuanZhao.cn/",
+                "start": 0,
+                "url": "https://t.co/0tKH3oJHH5"
+              }
+            ]
+          }
+        },
+        "id": "1226707681437569024",
+        "location": "中华人民共和国（P.R.China 🇨🇳 ）黑龙江省",
+        "name": "竱肇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078076273184960512/aaPMQMtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 237,
+          "like_count": 15975,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/0tKH3oJHH5",
+        "username": "Liuzhuanzhao_CN",
+        "verified": false
+      }
+    ]
+  }
+}

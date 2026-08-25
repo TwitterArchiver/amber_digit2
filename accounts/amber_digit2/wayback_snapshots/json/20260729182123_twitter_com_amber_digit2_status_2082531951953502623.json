@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082396806294708394",
+    "created_at": "2026-07-29T18:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082531951953502623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "343278091",
+          "start": 0,
+          "username": "shyhaimao"
+        },
+        {
+          "end": 27,
+          "id": "4752010152",
+          "start": 11,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082531951953502623",
+    "in_reply_to_user_id": "343278091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082482780592836755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyhaimao @garrulous_abyss 我们可以一起拍猪猪合影"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082396806294708394",
+        "created_at": "2026-07-29T18:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082531951953502623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "343278091",
+              "start": 0,
+              "username": "shyhaimao"
+            },
+            {
+              "end": 27,
+              "id": "4752010152",
+              "start": 11,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082531951953502623",
+        "in_reply_to_user_id": "343278091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082482780592836755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyhaimao @garrulous_abyss 我们可以一起拍猪猪合影"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343278091",
+        "conversation_id": "2082396806294708394",
+        "created_at": "2026-07-29T15:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082482780592836755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082482780592836755",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082472354223956423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 那不行 我长得像一头母猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 651,
+          "like_count": 1860,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T09:41:05.000Z",
+        "description": "碎碎念 / 大量自拍供应 / 🐄系女子 / Dom / 偶有 #Latex 内容 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "Latex"
+              }
+            ]
+          }
+        },
+        "id": "343278091",
+        "location": "@yaminas0",
+        "name": "紫",
+        "pinned_tweet_id": "1927758691350045153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327949313306107904/_X2CsouO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11389,
+          "following_count": 1050,
+          "like_count": 1394,
+          "listed_count": 37,
+          "media_count": 397,
+          "tweet_count": 7953
+        },
+        "url": "",
+        "username": "shyhaimao",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32238,
+          "following_count": 3677,
+          "like_count": 194089,
+          "listed_count": 105,
+          "media_count": 4064,
+          "tweet_count": 71217
+        },
+        "url": "",
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

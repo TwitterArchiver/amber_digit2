@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080903829105586176"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080903831450243140",
+    "created_at": "2026-07-25T06:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080903831450243140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/84dup3u2zP",
+          "end": 61,
+          "expanded_url": "https://x.com/amber_digit2/status/2080903831450243140/photo/1",
+          "media_key": "3_2080903829105586176",
+          "start": 38,
+          "url": "https://t.co/84dup3u2zP"
+        },
+        {
+          "display_url": "x.com/lyrasie/status…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/lyrasie/status/2080635326230360071",
+          "start": 62,
+          "url": "https://t.co/dWYiizwh4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080903831450243140",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080635326230360071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "not “queer theory” exactly but still: https://t.co/84dup3u2zP https://t.co/dWYiizwh4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080903829105586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODbAemWsAA8tff.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080903829105586176"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080903831450243140",
+        "created_at": "2026-07-25T06:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080903831450243140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84dup3u2zP",
+              "end": 61,
+              "expanded_url": "https://x.com/amber_digit2/status/2080903831450243140/photo/1",
+              "media_key": "3_2080903829105586176",
+              "start": 38,
+              "url": "https://t.co/84dup3u2zP"
+            },
+            {
+              "display_url": "x.com/lyrasie/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/lyrasie/status/2080635326230360071",
+              "start": 62,
+              "url": "https://t.co/dWYiizwh4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080903831450243140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080635326230360071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "not “queer theory” exactly but still: https://t.co/84dup3u2zP https://t.co/dWYiizwh4z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570072700567044098",
+        "conversation_id": "2080635326230360071",
+        "created_at": "2026-07-24T12:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080635326230360071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080635326230360071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 45757,
+          "like_count": 383,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "im so sick of the utter lack of genuinely materialist queer theory might as well write it myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 563,
+          "like_count": 1550,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-14T15:31:26.000Z",
+        "description": "london's own cosmopolitan barbarian and the messiah from the uckermark. conspirateur @negatejournal\n\nbook preorder: https://t.co/YgFA3JGMzb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "negatejournal"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lyraslyra",
+                "end": 139,
+                "expanded_url": "https://ko-fi.com/lyraslyra",
+                "start": 116,
+                "url": "https://t.co/YgFA3JGMzb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "headcasekultkrit.noblogs.org",
+                "end": 23,
+                "expanded_url": "https://headcasekultkrit.noblogs.org/",
+                "start": 0,
+                "url": "https://t.co/Q5NvSyom1O"
+              }
+            ]
+          }
+        },
+        "id": "1570072700567044098",
+        "location": "London",
+        "name": "Lyra Sieradzka",
+        "pinned_tweet_id": "2065546251962139012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062812456645242880/KVWAJqdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2988,
+          "following_count": 435,
+          "like_count": 26524,
+          "listed_count": 22,
+          "media_count": 1087,
+          "tweet_count": 15660
+        },
+        "url": "https://t.co/Q5NvSyom1O",
+        "username": "lyrasie",
+        "verified": false
+      }
+    ]
+  }
+}

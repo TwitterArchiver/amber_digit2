@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087310169277652992"
+      ],
+      "media_source_tweet_id": [
+        "2087310192388219054"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088005306173309152",
+    "created_at": "2026-08-13T20:50:32.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088005306173309152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2011542875377713159",
+          "start": 3,
+          "username": "stefisgirlnow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1TpKMCvefP",
+          "end": 126,
+          "expanded_url": "https://x.com/stefisgirlnow/status/2087310192388219054/photo/1",
+          "media_key": "3_2087310169277652992",
+          "start": 103,
+          "url": "https://t.co/1TpKMCvefP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088005306173309152",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087310169277652992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087310192388219054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stefisgirlnow: live now on substack:\n\nTransmanosphere: The trans masculine radicalization pipeline https://t.co/1TpKMCvefP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2087310169277652992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPedijfa4AAAVUF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087310169277652992"
+          ]
+        },
+        "author_id": "2011542875377713159",
+        "conversation_id": "2087310192388219054",
+        "created_at": "2026-08-11T22:48:24.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087310192388219054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TpKMCvefP",
+              "end": 107,
+              "expanded_url": "https://x.com/stefisgirlnow/status/2087310192388219054/photo/1",
+              "media_key": "3_2087310169277652992",
+              "start": 84,
+              "url": "https://t.co/1TpKMCvefP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087310192388219054",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087310169277652992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 39812,
+          "like_count": 164,
+          "quote_count": 19,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "live now on substack:\n\nTransmanosphere: The trans masculine radicalization pipeline https://t.co/1TpKMCvefP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087310169277652992"
+          ],
+          "media_source_tweet_id": [
+            "2087310192388219054"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088005306173309152",
+        "created_at": "2026-08-13T20:50:32.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088005306173309152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2011542875377713159",
+              "start": 3,
+              "username": "stefisgirlnow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TpKMCvefP",
+              "end": 126,
+              "expanded_url": "https://x.com/stefisgirlnow/status/2087310192388219054/photo/1",
+              "media_key": "3_2087310169277652992",
+              "start": 103,
+              "url": "https://t.co/1TpKMCvefP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088005306173309152",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087310169277652992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087310192388219054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stefisgirlnow: live now on substack:\n\nTransmanosphere: The trans masculine radicalization pipeline https://t.co/1TpKMCvefP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088005306173309152",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5079,
+          "following_count": 845,
+          "like_count": 3317,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-14T20:56:18.000Z",
+        "description": "\"toxic perma-hater\", \"rad-lib\", \"wrecker\", \"woke of the day\" (multitime), \"mean\", \"hostile\" \"CIA'S dumbest soldier\"\n\nTrans elder (mid 30s)\n\n🌶️@Stefanygirlnow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "Stefanygirlnow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/stefisgirlnow",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/stefisgirlnow",
+                "start": 0,
+                "url": "https://t.co/GHxXfW5Pf9"
+              }
+            ]
+          }
+        },
+        "id": "2011542875377713159",
+        "is_identity_verified": false,
+        "location": "she/her (cuz girl obviously)",
+        "most_recent_tweet_id": "2088002445658255563",
+        "name": "Stef Girl 🏳️‍⚧️",
+        "pinned_tweet_id": "2015252716357132599",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011542875377713159/1772399752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040502747263565824/bytIaikS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1408,
+          "like_count": 45744,
+          "listed_count": 86,
+          "media_count": 1991,
+          "tweet_count": 17693
+        },
+        "url": "https://t.co/GHxXfW5Pf9",
+        "username": "stefisgirlnow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082836085965471888",
+    "created_at": "2026-08-03T20:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T21:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084377325567627558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1081691893",
+          "start": 0,
+          "username": "SNJO7_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084377325567627558",
+    "in_reply_to_user_id": "1081691893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082840653818376210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNJO7_0 对的尤其是某些自我东方主义的 diaspora lit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082836085965471888",
+        "created_at": "2026-08-03T20:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084377325567627558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1081691893",
+              "start": 0,
+              "username": "SNJO7_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084377325567627558",
+        "in_reply_to_user_id": "1081691893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082840653818376210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNJO7_0 对的尤其是某些自我东方主义的 diaspora lit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081691893",
+        "conversation_id": "2082836085965471888",
+        "created_at": "2026-07-30T14:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082840653818376210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082840653818376210",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082840115856957842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我不做中国相关所以只读过protestant ethnic，感觉她的批评其实现在ethnic american 文化/studies其实蛮needed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4441,
+          "following_count": 723,
+          "like_count": 2298,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-12T03:25:25.000Z",
+        "description": "PhDing in ▇▇▇▇▇▇ (Humanities). C▇▇▇▇▇▇ Diasporoid. 吃饱了没事干",
+        "id": "1081691893",
+        "name": "snjo",
+        "pinned_tweet_id": "1593526998453948416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007549609573318659/8CR9flNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 607,
+          "like_count": 58753,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "SNJO7_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084452043427622912",
+        "3_2084452055289139200"
+      ],
+      "media_source_tweet_id": [
+        "2084452064088780946",
+        "2084452064088780946"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084616473301934259",
+    "created_at": "2026-08-04T12:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084616473301934259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1853888252580909056",
+          "start": 3,
+          "username": "Aioliss181748"
+        },
+        {
+          "end": 32,
+          "id": "2041159531657416704",
+          "start": 19,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbEuR9g9ZT",
+          "end": 122,
+          "expanded_url": "https://x.com/Aioliss181748/status/2084452064088780946/photo/1",
+          "media_key": "3_2084452043427622912",
+          "start": 99,
+          "url": "https://t.co/zbEuR9g9ZT"
+        },
+        {
+          "display_url": "pic.x.com/zbEuR9g9ZT",
+          "end": 122,
+          "expanded_url": "https://x.com/Aioliss181748/status/2084452064088780946/photo/1",
+          "media_key": "3_2084452055289139200",
+          "start": 99,
+          "url": "https://t.co/zbEuR9g9ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084616473301934259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084452064088780946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aioliss181748: @amber_digit2 这下又是我们老中最不爱别车，虽然全是对方全责，全贴了视频，而且车主顺直男，但是肯定不会因为车子是粉色的所以高素质老中男故意别的吧🤣 https://t.co/zbEuR9g9ZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1880,
+        "media_key": "3_2084452043427622912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO12Fu_XMAAiSxT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2088,
+        "media_key": "3_2084452055289139200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO12GbLXkAAaOiQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084452043427622912",
+            "3_2084452055289139200"
+          ]
+        },
+        "author_id": "1853888252580909056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083686500865126744",
+        "created_at": "2026-08-04T01:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084452064088780946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbEuR9g9ZT",
+              "end": 103,
+              "expanded_url": "https://x.com/Aioliss181748/status/2084452064088780946/photo/1",
+              "media_key": "3_2084452043427622912",
+              "start": 80,
+              "url": "https://t.co/zbEuR9g9ZT"
+            },
+            {
+              "display_url": "pic.x.com/zbEuR9g9ZT",
+              "end": 103,
+              "expanded_url": "https://x.com/Aioliss181748/status/2084452064088780946/photo/1",
+              "media_key": "3_2084452055289139200",
+              "start": 80,
+              "url": "https://t.co/zbEuR9g9ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084452064088780946",
+        "in_reply_to_user_id": "1853888252580909056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084448720758710750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 这下又是我们老中最不爱别车，虽然全是对方全责，全贴了视频，而且车主顺直男，但是肯定不会因为车子是粉色的所以高素质老中男故意别的吧🤣 https://t.co/zbEuR9g9ZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084452043427622912",
+            "3_2084452055289139200"
+          ],
+          "media_source_tweet_id": [
+            "2084452064088780946",
+            "2084452064088780946"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084616473301934259",
+        "created_at": "2026-08-04T12:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084616473301934259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1853888252580909056",
+              "start": 3,
+              "username": "Aioliss181748"
+            },
+            {
+              "end": 32,
+              "id": "2041159531657416704",
+              "start": 19,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbEuR9g9ZT",
+              "end": 122,
+              "expanded_url": "https://x.com/Aioliss181748/status/2084452064088780946/photo/1",
+              "media_key": "3_2084452043427622912",
+              "start": 99,
+              "url": "https://t.co/zbEuR9g9ZT"
+            },
+            {
+              "display_url": "pic.x.com/zbEuR9g9ZT",
+              "end": 122,
+              "expanded_url": "https://x.com/Aioliss181748/status/2084452064088780946/photo/1",
+              "media_key": "3_2084452055289139200",
+              "start": 99,
+              "url": "https://t.co/zbEuR9g9ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084616473301934259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084452064088780946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aioliss181748: @amber_digit2 这下又是我们老中最不爱别车，虽然全是对方全责，全贴了视频，而且车主顺直男，但是肯定不会因为车子是粉色的所以高素质老中男故意别的吧🤣 https://t.co/zbEuR9g9ZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 737,
+          "like_count": 2372,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-05T19:53:25.000Z",
+        "description": "",
+        "id": "1853888252580909056",
+        "name": "Aioliss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853888370071703552/pLaV1yTu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Aioliss181748",
+        "verified": false
+      }
+    ]
+  }
+}

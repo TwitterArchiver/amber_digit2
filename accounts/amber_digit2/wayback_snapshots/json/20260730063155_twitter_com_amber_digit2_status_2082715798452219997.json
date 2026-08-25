@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082715715061116928"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082715798452219997",
+    "created_at": "2026-07-30T06:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082715798452219997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k7SSNbem2a",
+          "end": 68,
+          "expanded_url": "https://x.com/amber_digit2/status/2082715798452219997/video/1",
+          "media_key": "13_2082715715061116928",
+          "start": 45,
+          "url": "https://t.co/k7SSNbem2a"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2082446162955579446",
+          "start": 69,
+          "url": "https://t.co/5A0hZgAKWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082715798452219997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082446162955579446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不想做声音训练也是因为我感觉我的本音真的很好听…虽然还是男生的声音，但这就是属于我的声音 https://t.co/k7SSNbem2a https://t.co/5A0hZgAKWp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77787,
+        "height": 1620,
+        "media_key": "13_2082715715061116928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082715715061116928/img/-6LbOypIvTJsYUHx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/1080x1620/-VnAzD4LVv8_nGgT.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/320x480/XdOekUYuv9NSXeWy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/720x1080/FYbO3u467Z2_TfG2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/pl/BBeWYXTOovV9agKZ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082715715061116928/vid/avc1/480x720/Y-i0Eg1IgwWrihpd.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082715715061116928"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082715798452219997",
+        "created_at": "2026-07-30T06:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082715798452219997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7SSNbem2a",
+              "end": 68,
+              "expanded_url": "https://x.com/amber_digit2/status/2082715798452219997/video/1",
+              "media_key": "13_2082715715061116928",
+              "start": 45,
+              "url": "https://t.co/k7SSNbem2a"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2082446162955579446",
+              "start": 69,
+              "url": "https://t.co/5A0hZgAKWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715798452219997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082446162955579446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想做声音训练也是因为我感觉我的本音真的很好听…虽然还是男生的声音，但这就是属于我的声音 https://t.co/k7SSNbem2a https://t.co/5A0hZgAKWp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2082446162955579446",
+        "created_at": "2026-07-29T12:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082446162955579446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082446162955579446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1487,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我的理想声线是无性别小男孩所以我做声音训练就很别扭 我不知道怎么描述这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 659,
+          "like_count": 1914,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/xfNnH3omFP"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7505,
+          "following_count": 1202,
+          "like_count": 7318,
+          "listed_count": 11,
+          "media_count": 362,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/xfNnH3omFP",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

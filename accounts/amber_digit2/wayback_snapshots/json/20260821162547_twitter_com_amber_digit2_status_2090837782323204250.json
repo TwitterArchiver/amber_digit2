@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090816499690975279",
+    "created_at": "2026-08-21T16:25:47.000Z",
+    "display_text_range": [
+      14,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090837782323204250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088519536068943872",
+          "start": 0,
+          "username": "yamazaki_neo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090837782323204250",
+    "in_reply_to_user_id": "2088519536068943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090816499690975279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazaki_neo 他破产是他自己活该管我什么事，养我是他的义务，不想养就别生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090816499690975279",
+        "created_at": "2026-08-21T16:25:47.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090837782323204250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088519536068943872",
+              "start": 0,
+              "username": "yamazaki_neo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090837782323204250",
+        "in_reply_to_user_id": "2088519536068943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090816499690975279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazaki_neo 他破产是他自己活该管我什么事，养我是他的义务，不想养就别生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088519536068943872",
+        "conversation_id": "2090816499690975279",
+        "created_at": "2026-08-21T15:01:13.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090816499690975279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090816499690975279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1386,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "同样身为男性的我完全没有享受到Amber所说的男性特权，Amber说这是作为男性的失败，可是他完全不想想他那个为了他破产的老父亲在天上失望的看着他，他所谓的成功到底是谁给他的呢？😹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090837782323204250",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307,
+          "following_count": 894,
+          "like_count": 4111,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T06:57:34.000Z",
+        "description": "主人：@yamazakiisuzu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "yamazakiisuzu"
+              }
+            ]
+          }
+        },
+        "id": "2088519536068943872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090836498899943731",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088519536068943872/1786777190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 75,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "yamazaki_neo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

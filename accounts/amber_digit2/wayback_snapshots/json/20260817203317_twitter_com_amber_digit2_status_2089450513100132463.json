@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089441323531350283",
+    "created_at": "2026-08-17T20:33:17.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T21:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089450513100132463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "13605432",
+          "start": 0,
+          "username": "FelicityCWells"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089450513100132463",
+    "in_reply_to_user_id": "13605432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089441323531350283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FelicityCWells ！手术结束了吗 祝贺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089441299669954560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8vyq3bsAAWtb3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2089441311917289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8vzYfbMAADmZQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089441323531350283",
+        "created_at": "2026-08-17T20:33:17.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089450513100132463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "13605432",
+              "start": 0,
+              "username": "FelicityCWells"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089450513100132463",
+        "in_reply_to_user_id": "13605432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089441323531350283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FelicityCWells ！手术结束了吗 祝贺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089441299669954560",
+            "3_2089441311917289472"
+          ]
+        },
+        "author_id": "13605432",
+        "conversation_id": "2089441323531350283",
+        "created_at": "2026-08-17T19:56:46.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089441323531350283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3TEx1OodB",
+              "end": 120,
+              "expanded_url": "https://x.com/FelicityCWells/status/2089441323531350283/photo/1",
+              "media_key": "3_2089441299669954560",
+              "start": 97,
+              "url": "https://t.co/A3TEx1OodB"
+            },
+            {
+              "display_url": "pic.x.com/A3TEx1OodB",
+              "end": 120,
+              "expanded_url": "https://x.com/FelicityCWells/status/2089441323531350283/photo/1",
+              "media_key": "3_2089441311917289472",
+              "start": 97,
+              "url": "https://t.co/A3TEx1OodB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089441323531350283",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089441299669954560"
+          },
+          {
+            "media_key": "3_2089441311917289472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 430,
+                "start": 416,
+                "tag": "ProjectIcaria"
+              }
+            ]
+          },
+          "text": "32升盐水冲洗膀胱，被强制放尿8小时没停，一桶桶的\n\n补液最后一袋是氯化钾，滴快了手疼，不如原液直接推了，反正就疼一次\n\n下午一点推去手术时被要求拆掉全部钉子，硅胶钉也不行，边拆边悲，我要死了\n\n晚上两个人怼了一个多小时，一个会弄但只能平躺动嘴，一个能动但不会弄，全身和头发汗浸透，还好十二个钉子最后死活给怼回去了，力竭\n\n手术本身毫无经历，一戴上面罩直接跳过到苏醒，不存在的一个瞬间\n\n但插着尿管要一直平躺到明早，到现在才只能躺着动动手脚，我要躺出血栓了\n\n到半夜才发现尿垫给我垫了反面，屁股闷了一天的塑料膜，动一下都粘得难受\n\n尿管直排桶里，动一下抬下头弯下腿放个屁都会听到一股急流泻进桶里，就算什么都不动也是滴水声不停，全年份的排尿羞耻都预支了\n\n最难受的是尿管，还是膀胱灌洗用的巨粗要撑死人的三腔导尿管。我都从来没开发过尿道。这本来应该是插在布林批里的尿管\n\n下个月复诊会知道多快会死，最好的情况，这样的折磨至少还有很多次\n#ProjectIcaria"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "32升盐水冲洗膀胱，被强制放尿8小时没停，一桶桶的\n\n补液最后一袋是氯化钾，滴快了手疼，不如原液直接推了，反正就疼一次\n\n下午一点推去手术时被要求拆掉全部钉子，硅胶钉也不行，边拆边悲，我要死了 https://t.co/A3TEx1OodB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089450513100132463",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146,
+          "following_count": 874,
+          "like_count": 3695,
+          "listed_count": 6,
+          "media_count": 213,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n🎀milf👗but🌌still🖖scifi🤖tech🚀space🥵nerd🍥girl💍arc\nထasd✨adhd🥀mdd🦋bpd🧡rsd❤️‍🩹cptsd🪞agp🌸sapphic🏳️‍⚧️she/her/slut\n🚪69/384/520/888",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FelicityCWells",
+                "end": 23,
+                "expanded_url": "http://t.me/FelicityCWells",
+                "start": 0,
+                "url": "https://t.co/SE5laWBXV8"
+              }
+            ]
+          }
+        },
+        "id": "13605432",
+        "is_identity_verified": false,
+        "location": "RLE | Sol-Terra",
+        "most_recent_tweet_id": "2089441323531350283",
+        "name": "✨悱💋Felicity✨🎗️🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13605432/1407396735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987879490685661185/7ZaSLUmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 4615,
+          "like_count": 27731,
+          "listed_count": 37,
+          "media_count": 861,
+          "tweet_count": 33352
+        },
+        "url": "https://t.co/SE5laWBXV8",
+        "username": "FelicityCWells",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

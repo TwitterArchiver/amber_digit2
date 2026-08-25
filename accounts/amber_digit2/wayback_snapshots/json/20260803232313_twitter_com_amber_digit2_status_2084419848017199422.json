@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084419848017199422",
+    "created_at": "2026-08-03T23:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084419848017199422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1379496762348539913",
+          "start": 3,
+          "username": "pupstatic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084419848017199422",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084308828573532523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pupstatic: The fact that people don’t see children as an oppressed class annoys me to no end"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084419848017199422",
+        "created_at": "2026-08-03T23:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084419848017199422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1379496762348539913",
+              "start": 3,
+              "username": "pupstatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084419848017199422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084308828573532523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pupstatic: The fact that people don’t see children as an oppressed class annoys me to no end"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379496762348539913",
+        "conversation_id": "2084308828573532523",
+        "created_at": "2026-08-03T16:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084308828573532523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084308828573532523",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2245,
+          "like_count": 259,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "The fact that people don’t see children as an oppressed class annoys me to no end"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 723,
+          "like_count": 2306,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-06T18:10:47.000Z",
+        "description": "niche internet microcelebrity | nerdy shit enthusiast | 20 | he/him",
+        "id": "1379496762348539913",
+        "name": "joel",
+        "pinned_tweet_id": "1958758863789826144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814408864097320960/nRUdprpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1664,
+          "like_count": 405142,
+          "listed_count": 37,
+          "media_count": 3379,
+          "tweet_count": 29729
+        },
+        "url": "",
+        "username": "pupstatic",
+        "verified": false
+      }
+    ]
+  }
+}

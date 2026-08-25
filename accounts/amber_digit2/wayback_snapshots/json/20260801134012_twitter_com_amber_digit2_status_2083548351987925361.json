@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083477113999638907",
+    "created_at": "2026-08-01T13:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083548351987925361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "932061213831266304",
+          "start": 0,
+          "username": "ShiinaYuriChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083548351987925361",
+    "in_reply_to_user_id": "932061213831266304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083477113999638907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiinaYuriChan 那我毕竟是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083477113999638907",
+        "created_at": "2026-08-01T13:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083548351987925361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "932061213831266304",
+              "start": 0,
+              "username": "ShiinaYuriChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083548351987925361",
+        "in_reply_to_user_id": "932061213831266304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083477113999638907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiinaYuriChan 那我毕竟是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "932061213831266304",
+        "conversation_id": "2083477113999638907",
+        "created_at": "2026-08-01T08:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083477113999638907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083428198923001993",
+              "start": 75,
+              "url": "https://t.co/oGguIirJG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083477113999638907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428198923001993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这情况敢站在中间当和事佬也是厉害，在下佩服（）\n这种说到底谁都不愿意低头的事情不管怎么处理都会变得很难看，只希望不要因为这样耽误有需要的人得到帮助。 https://t.co/oGguIirJG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4196,
+          "following_count": 685,
+          "like_count": 2070,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-19T01:41:25.000Z",
+        "description": "「Nekomimi Otoko」/ 🐶 @ShiinaRanChan /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ShiinaRanChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuris.moe",
+                "end": 23,
+                "expanded_url": "http://yuris.moe",
+                "start": 0,
+                "url": "https://t.co/zGwBhKMlOL"
+              }
+            ]
+          }
+        },
+        "id": "932061213831266304",
+        "location": "Bellevue, WA",
+        "name": "椎名ゆり🌇",
+        "pinned_tweet_id": "1926916679725908239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520808387981709312/4zMtoUt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4628,
+          "following_count": 1459,
+          "like_count": 73157,
+          "listed_count": 17,
+          "media_count": 187,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/zGwBhKMlOL",
+        "username": "ShiinaYuriChan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083576541292691951",
+    "created_at": "2026-08-01T16:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083587118144561444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zh40le1zoob/st…",
+          "end": 28,
+          "expanded_url": "https://x.com/zh40le1zoob/status/1923940183365517459",
+          "start": 5,
+          "url": "https://t.co/zsUeixluC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083587118144561444",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923940183365517459",
+        "type": "quoted"
+      },
+      {
+        "id": "2083576541292691951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前情回顾 https://t.co/zsUeixluC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3520,
+        "height": 1280,
+        "media_key": "7_1923940053740290048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923940053740290048/pu/img/671VF3nf5mIppKi8.jpg",
+        "public_metrics": {
+          "view_count": 29816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/vid/avc1/320x568/GIP6fOlXzDl6TA9N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/vid/avc1/480x852/ODLwVxyrq4kvt-kf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/vid/avc1/720x1280/DfqVZOwY7dY1MbWJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923940053740290048/pu/pl/V9n6qS9mJnW5IsK9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16433,
+        "height": 960,
+        "media_key": "7_1923940056189784064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923940056189784064/pu/img/8zdjXfFo532TP0W2.jpg",
+        "public_metrics": {
+          "view_count": 13090
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/vid/avc1/320x564/1WdLRYwb8675d7_Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/vid/avc1/480x846/GGSczqPorVxWOoMX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/vid/avc1/544x960/grgyMGh6FsdpoMUL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923940056189784064/pu/pl/NVIDkhx3hPn1dBbO.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 9835,
+        "height": 960,
+        "media_key": "7_1923940100750155776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923940100750155776/pu/img/qC00vNpJDqnOMu2m.jpg",
+        "public_metrics": {
+          "view_count": 6433
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/vid/avc1/320x564/KxYIKsfNgOh9u76D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/vid/avc1/480x846/s5h2Rs-k7zHSOJbQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/vid/avc1/544x960/oKIDGXhS_gRfrm3j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923940100750155776/pu/pl/u5E_-370lx475rR1.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923940063139815424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrM1S0CXYAAwKkV.jpg",
+        "width": 1418
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537547206656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0lbW8AAdBXp.jpg",
+        "width": 683
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537551409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0lcXEAAjjYq.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537555537920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0ldWEAA-Ihp.jpg",
+        "width": 1311
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083576537555648512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZ0ldXwAAFFEr.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083576541292691951",
+        "created_at": "2026-08-01T16:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083587118144561444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zh40le1zoob/st…",
+              "end": 28,
+              "expanded_url": "https://x.com/zh40le1zoob/status/1923940183365517459",
+              "start": 5,
+              "url": "https://t.co/zsUeixluC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083587118144561444",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923940183365517459",
+            "type": "quoted"
+          },
+          {
+            "id": "2083576541292691951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前情回顾 https://t.co/zsUeixluC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923940053740290048",
+            "7_1923940056189784064",
+            "7_1923940100750155776",
+            "3_1923940063139815424"
+          ]
+        },
+        "author_id": "1657175394267848704",
+        "conversation_id": "1923940183365517459",
+        "created_at": "2025-05-18T03:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T04:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923940183365517459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "7_1923940053740290048",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            },
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "7_1923940056189784064",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            },
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "7_1923940100750155776",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            },
+            {
+              "display_url": "pic.x.com/aseUzJ8kpB",
+              "end": 165,
+              "expanded_url": "https://x.com/Zh40Le1ZOOB/status/1923940183365517459/video/1",
+              "media_key": "3_1923940063139815424",
+              "start": 142,
+              "url": "https://t.co/aseUzJ8kpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923940183365517459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 146815,
+          "like_count": 868,
+          "quote_count": 75,
+          "reply_count": 166,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "扭转机构的山东寸头大汉教官来我家抓逃跑的人，被我一个吃糖时长两年半的个人小药娘用手机干的头破血流送去抢救了。完事还敢跟傻逼条子一起找我要赔偿，还威胁要把我送进去。最后我一分没赔他们直接结案了，一群畜生窝囊废😋\n机构叫山东心种子教育咨询有限公司\n打完人沾了血的命令方块看起来好地雷喵（ https://t.co/aseUzJ8kpB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083576537547206656",
+            "3_2083576537551409152",
+            "3_2083576537555537920",
+            "3_2083576537555648512"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083576541292691951",
+        "created_at": "2026-08-01T15:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083576541292691951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537547206656",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            },
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537551409152",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            },
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537555537920",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            },
+            {
+              "display_url": "pic.x.com/UwlvIdfU1B",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_digit2/status/2083576541292691951/photo/1",
+              "media_key": "3_2083576537555648512",
+              "start": 109,
+              "url": "https://t.co/UwlvIdfU1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083576541292691951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【求转发扩散：性x过自己的教官却成自己的继父】17岁的小右迎来了人生中最黑暗的一天。过去的两年里，ta的母亲开始迷信所谓的“戒网瘾机构”能治好孩子的“问题”，即使她的孩子成绩在学校里名列前茅，也无法改变家长的掌控欲。\n\n24年8月开始，小右被送到了山东心种子教育咨询公司，实为一家接网瘾机构。在该机构里，当时年仅十五岁的小右屡遭虐待，多次被打伤、拘禁，这个小小少年的世界里，充满了绝望。\n\n25年5月，小右实施了ta的逃跑计划，可惜的是，成功逃离六天后，一个ta最不想见到的人出现了，戒网瘾机构的“教官”——李某振。\n\n“李教官”伙同多位所谓的“教官”在小右被拘禁于“山东心种子教育咨询公司”期间，多次对小右展开殴打、威胁、甚至性x等行为。\n\n令人痛心的是，小右再次受到了李某振的无端虐待，而小右母亲的话将小右的精神世界也摧毁的一干二净了。\n\n“我和你李叔叔结婚了，以后你要管他叫爸”\n\n自25年中开始，小右便和这位李教官一起生活，成为了他名义上的“儿子”，小右始终在找寻机会逃离这个对ta而言的恐怖的地方，可惜ta一次又一次的失败了。\n\n26年7月，小右联系上了几个朋友，哭着请求他们救救ta，然后再次被李某振拘禁，无法与外界联系，可能就在被送往下一所接网瘾机构的路上。\n\n呼吁未成年保护！呼吁取缔戒网瘾机构！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1599,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "【求转发扩散：性x过自己的教官却成自己的继父】17岁的小右迎来了人生中最黑暗的一天。过去的两年里，ta的母亲开始迷信所谓的“戒网瘾机构”能治好孩子的“问题”，即使她的孩子成绩在学校里名列前茅，也无法改变家长的掌控欲。 https://t.co/UwlvIdfU1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 692,
+          "like_count": 2091,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VfQD"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 779,
+          "like_count": 8785,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 7664
+        },
+        "url": "https://t.co/pbaTs1VfQD",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

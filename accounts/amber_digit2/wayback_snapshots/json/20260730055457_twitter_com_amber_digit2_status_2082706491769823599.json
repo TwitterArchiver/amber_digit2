@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082706491769823599",
+    "created_at": "2026-07-30T05:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082706491769823599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1269409906559311872",
+          "start": 3,
+          "username": "tinglespoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082706491769823599",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082606965901906333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tinglespoon: trans women be like: yeah i get super depressed and tired and have weird pains for a few days every month for no reason. n…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082706491769823599",
+        "created_at": "2026-07-30T05:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082706491769823599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1269409906559311872",
+              "start": 3,
+              "username": "tinglespoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082706491769823599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082606965901906333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tinglespoon: trans women be like: yeah i get super depressed and tired and have weird pains for a few days every month for no reason. n…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269409906559311872",
+        "conversation_id": "2082606965901906333",
+        "created_at": "2026-07-29T23:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082606965901906333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082606965901906333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 144522,
+          "like_count": 4942,
+          "quote_count": 24,
+          "reply_count": 31,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "trans women be like: yeah i get super depressed and tired and have weird pains for a few days every month for no reason. no clue why. weird, right?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4083,
+          "following_count": 659,
+          "like_count": 1904,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T23:25:09.000Z",
+        "description": "proud woman, lesbian, leftist, feminist, antifascist, apostate. radically pro-transgender. 20",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "evedevittfund.org",
+                "end": 23,
+                "expanded_url": "https://www.evedevittfund.org/",
+                "start": 0,
+                "url": "https://t.co/D6fneeZzCU"
+              }
+            ]
+          }
+        },
+        "id": "1269409906559311872",
+        "location": "New York, NY",
+        "name": "Eve",
+        "pinned_tweet_id": "1997436878295863573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982274215974756352/X6ZNt7WD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13041,
+          "following_count": 654,
+          "like_count": 303312,
+          "listed_count": 14,
+          "media_count": 1118,
+          "tweet_count": 14588
+        },
+        "url": "https://t.co/D6fneeZzCU",
+        "username": "tinglespoon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085766555183329334",
+    "created_at": "2026-08-07T20:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085824370199453732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841815505562456064",
+          "start": 0,
+          "username": "Lunaticonthemo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085824370199453732",
+    "in_reply_to_user_id": "1841815505562456064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085818150701150515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunaticonthemo1 不想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085766555183329334",
+        "created_at": "2026-08-07T20:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085824370199453732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841815505562456064",
+              "start": 0,
+              "username": "Lunaticonthemo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085824370199453732",
+        "in_reply_to_user_id": "1841815505562456064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085818150701150515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunaticonthemo1 不想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841815505562456064",
+        "conversation_id": "2085766555183329334",
+        "created_at": "2026-08-07T19:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085818150701150515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085818150701150515",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085766555183329334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 为啥不在加拿大和美国进行姓名变更变成Amber Pan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4717,
+          "following_count": 776,
+          "like_count": 2704,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T12:20:29.000Z",
+        "description": "Yuri♥️\nTranswomen are Women🏳️‍⚧️\nLeft(Heterodox)🌹",
+        "id": "1841815505562456064",
+        "name": "Lunatic on the moon",
+        "pinned_tweet_id": "1947687791414083976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057773658492563456/Jao29eAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 103,
+          "like_count": 5094,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "Lunaticonthemo1",
+        "verified": false
+      }
+    ]
+  }
+}

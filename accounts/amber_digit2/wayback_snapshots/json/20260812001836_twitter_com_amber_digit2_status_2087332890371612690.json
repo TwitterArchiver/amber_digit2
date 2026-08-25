@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087332887108440064",
+        "3_2087332887121018880",
+        "3_2087332887129382912"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      }
+    ],
+    "conversation_id": "2087332890371612690",
+    "created_at": "2026-08-12T00:18:36.000Z",
+    "display_text_range": [
+      0,
+      206
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087332890371612690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5gL8Q4TKvE",
+          "end": 230,
+          "expanded_url": "https://x.com/amber_digit2/status/2087332890371612690/photo/1",
+          "media_key": "3_2087332887108440064",
+          "start": 207,
+          "url": "https://t.co/5gL8Q4TKvE"
+        },
+        {
+          "display_url": "pic.x.com/5gL8Q4TKvE",
+          "end": 230,
+          "expanded_url": "https://x.com/amber_digit2/status/2087332890371612690/photo/1",
+          "media_key": "3_2087332887121018880",
+          "start": 207,
+          "url": "https://t.co/5gL8Q4TKvE"
+        },
+        {
+          "display_url": "pic.x.com/5gL8Q4TKvE",
+          "end": 230,
+          "expanded_url": "https://x.com/amber_digit2/status/2087332890371612690/photo/1",
+          "media_key": "3_2087332887129382912",
+          "start": 207,
+          "url": "https://t.co/5gL8Q4TKvE"
+        },
+        {
+          "display_url": "x.com/bluebirdy_asa/…",
+          "end": 254,
+          "expanded_url": "https://twitter.com/bluebirdy_asa/status/2086685801052598385",
+          "start": 231,
+          "url": "https://t.co/J0aTkk1oTz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087332890371612690",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087332887108440064"
+      },
+      {
+        "media_key": "3_2087332887121018880"
+      },
+      {
+        "media_key": "3_2087332887129382912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086685801052598385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "The 4B movement was created by Womad almost exclusively out of spite for queer and trans people, and I find its popularity in the west to be quite telling of the ubiquity of trans misogyny on a global scale https://t.co/5gL8Q4TKvE https://t.co/J0aTkk1oTz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1880,
+        "media_key": "3_2087332887108440064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeyM6AW0AAn8qF.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2087332887121018880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeyM6DWwAACFQS.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1166,
+        "media_key": "3_2087332887129382912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeyM6FWYAAqeL7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087332887108440064",
+            "3_2087332887121018880",
+            "3_2087332887129382912"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          }
+        ],
+        "conversation_id": "2087332890371612690",
+        "created_at": "2026-08-12T00:18:36.000Z",
+        "display_text_range": [
+          0,
+          206
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087332890371612690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gL8Q4TKvE",
+              "end": 230,
+              "expanded_url": "https://x.com/amber_digit2/status/2087332890371612690/photo/1",
+              "media_key": "3_2087332887108440064",
+              "start": 207,
+              "url": "https://t.co/5gL8Q4TKvE"
+            },
+            {
+              "display_url": "pic.x.com/5gL8Q4TKvE",
+              "end": 230,
+              "expanded_url": "https://x.com/amber_digit2/status/2087332890371612690/photo/1",
+              "media_key": "3_2087332887121018880",
+              "start": 207,
+              "url": "https://t.co/5gL8Q4TKvE"
+            },
+            {
+              "display_url": "pic.x.com/5gL8Q4TKvE",
+              "end": 230,
+              "expanded_url": "https://x.com/amber_digit2/status/2087332890371612690/photo/1",
+              "media_key": "3_2087332887129382912",
+              "start": 207,
+              "url": "https://t.co/5gL8Q4TKvE"
+            },
+            {
+              "display_url": "x.com/bluebirdy_asa/…",
+              "end": 254,
+              "expanded_url": "https://twitter.com/bluebirdy_asa/status/2086685801052598385",
+              "start": 231,
+              "url": "https://t.co/J0aTkk1oTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087332890371612690",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087332887108440064"
+          },
+          {
+            "media_key": "3_2087332887121018880"
+          },
+          {
+            "media_key": "3_2087332887129382912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086685801052598385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The 4B movement was created by Womad almost exclusively out of spite for queer and trans people, and I find its popularity in the west to be quite telling of the ubiquity of trans misogyny on a global scale https://t.co/5gL8Q4TKvE https://t.co/J0aTkk1oTz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857780254301163520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          }
+        ],
+        "conversation_id": "2086685801052598385",
+        "created_at": "2026-08-10T05:27:18.000Z",
+        "display_text_range": [
+          0,
+          250
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086685801052598385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dykegrrl/statu…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/dykegrrl/status/2086356271905579029",
+              "start": 251,
+              "url": "https://t.co/QHTPhNdwvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086685801052598385",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 208828,
+          "like_count": 629,
+          "quote_count": 36,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086356271905579029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I found out 4B isn't even an actual big movement in Korea itself. It's just a thing amongst niche radfem communities online.\nThe drop in birth rates can mostly be attributed to economic reasons and better education and career opportunities for women. https://t.co/QHTPhNdwvl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087332890371612690",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4942,
+          "following_count": 811,
+          "like_count": 3055,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-16T13:38:45.000Z",
+        "description": "chainsaw man • asa mitaka • manga • anime\njust tweeting whatever i'm thinking\n\nHeader by @sieater07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "sieater07"
+              }
+            ]
+          }
+        },
+        "id": "1857780254301163520",
+        "is_identity_verified": false,
+        "location": "She/Her",
+        "most_recent_tweet_id": "2087315458487623806",
+        "name": "Nightsky",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857780254301163520/1781880245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074801995169345536/SX3J4SYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8395,
+          "following_count": 938,
+          "like_count": 87756,
+          "listed_count": 16,
+          "media_count": 3569,
+          "tweet_count": 23173
+        },
+        "url": "",
+        "username": "BlueBirdy_Asa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

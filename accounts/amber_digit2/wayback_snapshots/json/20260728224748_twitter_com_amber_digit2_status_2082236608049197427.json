@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081930173956632576"
+      ],
+      "media_source_tweet_id": [
+        "2081930191501402435"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082236608049197427",
+    "created_at": "2026-07-28T22:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082236608049197427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063266311254552576",
+          "start": 3,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWDIGcleIF",
+          "end": 47,
+          "expanded_url": "https://x.com/17nuun/status/2081930191501402435/photo/1",
+          "media_key": "3_2081930173956632576",
+          "start": 24,
+          "url": "https://t.co/EWDIGcleIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082236608049197427",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081930191501402435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17nuun: Epheia…………… https://t.co/EWDIGcleIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2081930173956632576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSAdnHaMAAvj-t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081930173956632576"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2081930191501402435",
+        "created_at": "2026-07-28T02:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081930191501402435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWDIGcleIF",
+              "end": 35,
+              "expanded_url": "https://x.com/17nuun/status/2081930191501402435/photo/1",
+              "media_key": "3_2081930173956632576",
+              "start": 12,
+              "url": "https://t.co/EWDIGcleIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081930191501402435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 32701,
+          "like_count": 279,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Epheia…………… https://t.co/EWDIGcleIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081930173956632576"
+          ],
+          "media_source_tweet_id": [
+            "2081930191501402435"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082236608049197427",
+        "created_at": "2026-07-28T22:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082236608049197427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063266311254552576",
+              "start": 3,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWDIGcleIF",
+              "end": 47,
+              "expanded_url": "https://x.com/17nuun/status/2081930191501402435/photo/1",
+              "media_key": "3_2081930173956632576",
+              "start": 24,
+              "url": "https://t.co/EWDIGcleIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082236608049197427",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081930191501402435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17nuun: Epheia…………… https://t.co/EWDIGcleIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi research on chinese transfem communities / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 642,
+          "like_count": 1808,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 222,
+          "like_count": 1047,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

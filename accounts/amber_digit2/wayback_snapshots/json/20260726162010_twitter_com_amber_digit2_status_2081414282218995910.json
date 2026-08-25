@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081221530592108852",
+    "created_at": "2026-07-26T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081414282218995910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        },
+        {
+          "end": 19,
+          "id": "1107191784411549703",
+          "start": 10,
+          "username": "belowis1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081414282218995910",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081354529690497426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka @belowis1 哦对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081221530592108852",
+        "created_at": "2026-07-26T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081414282218995910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            },
+            {
+              "end": 19,
+              "id": "1107191784411549703",
+              "start": 10,
+              "username": "belowis1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081414282218995910",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081354529690497426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka @belowis1 哦对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2081221530592108852",
+        "created_at": "2026-07-26T12:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081354529690497426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1107191784411549703",
+              "start": 0,
+              "username": "belowis1"
+            },
+            {
+              "end": 23,
+              "id": "2041159531657416704",
+              "start": 10,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081354529690497426",
+        "in_reply_to_user_id": "1107191784411549703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081284782760288510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belowis1 @amber_digit2 nitrite"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 595,
+          "like_count": 1683,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 201,
+          "like_count": 21183,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "Anermoka",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-17T08:07:46.000Z",
+        "description": "she/her\nIdk what to put here so hi!!\n19teen\n\npfp: https://t.co/3Bki5CjiVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20697…",
+                "end": 73,
+                "expanded_url": "https://x.com/i/status/2069762787774243127",
+                "start": 50,
+                "url": "https://t.co/3Bki5CjiVW"
+              }
+            ]
+          }
+        },
+        "id": "1107191784411549703",
+        "name": "Eevy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069804367109373952/WYnZch6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 449,
+          "like_count": 66695,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "belowis1",
+        "verified": false
+      }
+    ]
+  }
+}

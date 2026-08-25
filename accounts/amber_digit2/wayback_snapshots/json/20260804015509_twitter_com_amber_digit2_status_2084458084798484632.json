@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083601298276970498"
+      ],
+      "media_source_tweet_id": [
+        "2083601300822880483"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084458084798484632",
+    "created_at": "2026-08-04T01:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084458084798484632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010578022014001152",
+          "start": 3,
+          "username": "dollsnings"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KsKT1ELlDX",
+          "end": 39,
+          "expanded_url": "https://x.com/dollsnings/status/2083601300822880483/photo/1",
+          "media_key": "3_2083601298276970498",
+          "start": 16,
+          "url": "https://t.co/KsKT1ELlDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084458084798484632",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083601300822880483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dollsnings: https://t.co/KsKT1ELlDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2083601298276970498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpwV2VXcAIY3p9.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083601298276970498"
+          ]
+        },
+        "author_id": "2010578022014001152",
+        "conversation_id": "2083601300822880483",
+        "created_at": "2026-08-01T17:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083601300822880483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsKT1ELlDX",
+              "end": 23,
+              "expanded_url": "https://x.com/dollsnings/status/2083601300822880483/photo/1",
+              "media_key": "3_2083601298276970498",
+              "start": 0,
+              "url": "https://t.co/KsKT1ELlDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083601300822880483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2425,
+          "impression_count": 651668,
+          "like_count": 91003,
+          "quote_count": 785,
+          "reply_count": 98,
+          "retweet_count": 15127
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KsKT1ELlDX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083601298276970498"
+          ],
+          "media_source_tweet_id": [
+            "2083601300822880483"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084458084798484632",
+        "created_at": "2026-08-04T01:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084458084798484632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010578022014001152",
+              "start": 3,
+              "username": "dollsnings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsKT1ELlDX",
+              "end": 39,
+              "expanded_url": "https://x.com/dollsnings/status/2083601300822880483/photo/1",
+              "media_key": "3_2083601298276970498",
+              "start": 16,
+              "url": "https://t.co/KsKT1ELlDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084458084798484632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083601300822880483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dollsnings: https://t.co/KsKT1ELlDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ @wgsi / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4472,
+          "following_count": 727,
+          "like_count": 2330,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T05:02:19.000Z",
+        "description": "in ningning we trust ࣪ ˖ 𖦹°⋆",
+        "id": "2010578022014001152",
+        "location": "nineteen",
+        "name": "eva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081785745291853824/pw91Ow3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4187,
+          "following_count": 122,
+          "like_count": 3088,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "dollsnings",
+        "verified": false
+      }
+    ]
+  }
+}

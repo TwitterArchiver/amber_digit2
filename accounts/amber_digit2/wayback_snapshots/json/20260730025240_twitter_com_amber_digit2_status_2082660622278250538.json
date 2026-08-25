@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082658793393893376"
+      ],
+      "media_source_tweet_id": [
+        "2082658799777698090"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082660622278250538",
+    "created_at": "2026-07-30T02:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082660622278250538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 31,
+          "id": "1514464212118085634",
+          "start": 18,
+          "username": "puellamogica"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQDoVAsOxP",
+          "end": 55,
+          "expanded_url": "https://x.com/hu_qin_/status/2082658799777698090/photo/1",
+          "media_key": "3_2082658793393893376",
+          "start": 32,
+          "url": "https://t.co/AQDoVAsOxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082660622278250538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082658799777698090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: 来自兔兔 @puellamogica https://t.co/AQDoVAsOxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_2082658793393893376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcXI2CWMAAXYa8.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082658793393893376"
+          ]
+        },
+        "author_id": "918593759121690625",
+        "conversation_id": "2082658799777698090",
+        "created_at": "2026-07-30T02:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082658799777698090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1514464212118085634",
+              "start": 5,
+              "username": "puellamogica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQDoVAsOxP",
+              "end": 42,
+              "expanded_url": "https://x.com/hu_qin_/status/2082658799777698090/photo/1",
+              "media_key": "3_2082658793393893376",
+              "start": 19,
+              "url": "https://t.co/AQDoVAsOxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082658799777698090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来自兔兔 @puellamogica https://t.co/AQDoVAsOxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082658793393893376"
+          ],
+          "media_source_tweet_id": [
+            "2082658799777698090"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082660622278250538",
+        "created_at": "2026-07-30T02:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082660622278250538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 31,
+              "id": "1514464212118085634",
+              "start": 18,
+              "username": "puellamogica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQDoVAsOxP",
+              "end": 55,
+              "expanded_url": "https://x.com/hu_qin_/status/2082658799777698090/photo/1",
+              "media_key": "3_2082658793393893376",
+              "start": 32,
+              "url": "https://t.co/AQDoVAsOxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082660622278250538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082658799777698090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: 来自兔兔 @puellamogica https://t.co/AQDoVAsOxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 657,
+          "like_count": 1882,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 1729
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058665016270655497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 1843,
+          "like_count": 22415,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 5647
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-14T04:43:14.000Z",
+        "description": "死ね。",
+        "id": "1514464212118085634",
+        "location": "誰もいないのばしょ",
+        "name": "自動人形アリア",
+        "pinned_tweet_id": "1892671674014986366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746546955768205312/1it26o_x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 53,
+          "like_count": 1130,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "puellamogica",
+        "verified": false
+      }
+    ]
+  }
+}

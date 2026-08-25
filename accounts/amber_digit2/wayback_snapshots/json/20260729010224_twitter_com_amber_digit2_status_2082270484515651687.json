@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082164451986513920",
+        "3_2082164462241656832"
+      ],
+      "media_source_tweet_id": [
+        "2082164470827352175",
+        "2082164470827352175"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082270484515651687",
+    "created_at": "2026-07-29T01:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082270484515651687"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708446662514110464",
+          "start": 3,
+          "username": "TixItem4527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VkygJnLSl6",
+          "end": 110,
+          "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+          "media_key": "3_2082164451986513920",
+          "start": 87,
+          "url": "https://t.co/VkygJnLSl6"
+        },
+        {
+          "display_url": "pic.x.com/VkygJnLSl6",
+          "end": 110,
+          "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+          "media_key": "3_2082164462241656832",
+          "start": 87,
+          "url": "https://t.co/VkygJnLSl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082270484515651687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082164470827352175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TixItem4527: 天津汉沽，有位11岁的同类将要被其母送去戒同所了有附近的同类来救一下吗，说是打算偷1wCNY逃出家来，有没有同类能够接一下(急)\n#mtf https://t.co/VkygJnLSl6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2082164451986513920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVViYyaIAAoM_N.jpg",
+        "width": 1077
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082164462241656832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVVi-_bMAAJldC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082164451986513920",
+            "3_2082164462241656832"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2082164470827352175",
+        "created_at": "2026-07-28T18:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082164470827352175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkygJnLSl6",
+              "end": 93,
+              "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+              "media_key": "3_2082164451986513920",
+              "start": 70,
+              "url": "https://t.co/VkygJnLSl6"
+            },
+            {
+              "display_url": "pic.x.com/VkygJnLSl6",
+              "end": 93,
+              "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+              "media_key": "3_2082164462241656832",
+              "start": 70,
+              "url": "https://t.co/VkygJnLSl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082164470827352175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1180,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "天津汉沽，有位11岁的同类将要被其母送去戒同所了有附近的同类来救一下吗，说是打算偷1wCNY逃出家来，有没有同类能够接一下(急)\n#mtf https://t.co/VkygJnLSl6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082164451986513920",
+            "3_2082164462241656832"
+          ],
+          "media_source_tweet_id": [
+            "2082164470827352175",
+            "2082164470827352175"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082270484515651687",
+        "created_at": "2026-07-29T01:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082270484515651687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708446662514110464",
+              "start": 3,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkygJnLSl6",
+              "end": 110,
+              "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+              "media_key": "3_2082164451986513920",
+              "start": 87,
+              "url": "https://t.co/VkygJnLSl6"
+            },
+            {
+              "display_url": "pic.x.com/VkygJnLSl6",
+              "end": 110,
+              "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+              "media_key": "3_2082164462241656832",
+              "start": 87,
+              "url": "https://t.co/VkygJnLSl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082270484515651687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082164470827352175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TixItem4527: 天津汉沽，有位11岁的同类将要被其母送去戒同所了有附近的同类来救一下吗，说是打算偷1wCNY逃出家来，有没有同类能够接一下(急)\n#mtf https://t.co/VkygJnLSl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi/ 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto  🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 642,
+          "like_count": 1813,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1266,
+          "like_count": 3619,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1678
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084268788141162971",
+    "created_at": "2026-08-03T23:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084426935388508498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1071094209749417984",
+          "start": 0,
+          "username": "BeiyanNa3AlF6"
+        },
+        {
+          "end": 27,
+          "id": "1810128473434079232",
+          "start": 15,
+          "username": "Snowball788"
+        },
+        {
+          "end": 38,
+          "id": "28940967",
+          "start": 28,
+          "username": "lidangzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 66,
+          "expanded_url": "https://x.com/amber_digit2/status/2083667159444603353",
+          "start": 43,
+          "url": "https://t.co/yoObCOk2AZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084426935388508498",
+    "in_reply_to_user_id": "1071094209749417984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083667159444603353",
+        "type": "quoted"
+      },
+      {
+        "id": "2084426808506872176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiyanNa3AlF6 @Snowball788 @lidangzzz 在这里 https://t.co/yoObCOk2AZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084268788141162971",
+        "created_at": "2026-08-03T23:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084426935388508498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071094209749417984",
+              "start": 0,
+              "username": "BeiyanNa3AlF6"
+            },
+            {
+              "end": 27,
+              "id": "1810128473434079232",
+              "start": 15,
+              "username": "Snowball788"
+            },
+            {
+              "end": 38,
+              "id": "28940967",
+              "start": 28,
+              "username": "lidangzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 66,
+              "expanded_url": "https://x.com/amber_digit2/status/2083667159444603353",
+              "start": 43,
+              "url": "https://t.co/yoObCOk2AZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084426935388508498",
+        "in_reply_to_user_id": "1071094209749417984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083667159444603353",
+            "type": "quoted"
+          },
+          {
+            "id": "2084426808506872176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiyanNa3AlF6 @Snowball788 @lidangzzz 在这里 https://t.co/yoObCOk2AZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083647905731105114",
+        "created_at": "2026-08-01T21:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083667159444603353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083667159444603353",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4583,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083647905731105114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然你们仍然把我当成女的其实我也不介意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "2084268788141162971",
+        "created_at": "2026-08-03T23:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084426808506872176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 26,
+              "id": "1810128473434079232",
+              "start": 14,
+              "username": "Snowball788"
+            },
+            {
+              "end": 37,
+              "id": "28940967",
+              "start": 27,
+              "username": "lidangzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20836…",
+              "end": 68,
+              "expanded_url": "https://x.com/i/status/2083647905731105114",
+              "start": 45,
+              "url": "https://t.co/FsRR8SSXVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084426808506872176",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083647905731105114",
+            "type": "quoted"
+          },
+          {
+            "id": "2084369613651869881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @Snowball788 @lidangzzz 尊重在哪里\n\nhttps://t.co/FsRR8SSXVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4453,
+          "following_count": 724,
+          "like_count": 2310,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/@NixOS_org maintainer/中文 Vocaloid/索尼大法好。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "NixOS_org"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 1407,
+          "like_count": 119466,
+          "listed_count": 15,
+          "media_count": 304,
+          "tweet_count": 6964
+        },
+        "url": "",
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T01:47:44.000Z",
+        "description": "A fool in random",
+        "id": "1810128473434079232",
+        "name": "snowball",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061825147741650944/xM2nvHND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Snowball788",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（不回你私信，证明你的问题已经在YouTube回答过了，自己去YouTube视频里参考）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nTEMm"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603801,
+          "following_count": 2727,
+          "like_count": 28803,
+          "listed_count": 3894,
+          "media_count": 10044,
+          "tweet_count": 48134
+        },
+        "url": "https://t.co/RcYK9nTEMm",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

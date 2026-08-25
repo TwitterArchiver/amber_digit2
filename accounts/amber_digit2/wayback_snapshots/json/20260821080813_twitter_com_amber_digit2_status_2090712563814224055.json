@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090712563814224055",
+    "created_at": "2026-08-21T08:08:13.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090712563814224055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trancentral4/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/trancentral4/status/2090698348403835067",
+          "start": 8,
+          "url": "https://t.co/52vOA14afo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090712563814224055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090698348403835067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至高无上的褒奖 https://t.co/52vOA14afo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090712563814224055",
+        "created_at": "2026-08-21T08:08:13.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090712563814224055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trancentral4/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/trancentral4/status/2090698348403835067",
+              "start": 8,
+              "url": "https://t.co/52vOA14afo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090712563814224055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090698348403835067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至高无上的褒奖 https://t.co/52vOA14afo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512764321524183048",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-21T07:11:44.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090698348403835067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090698348403835067",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090594226698354968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 你是跨畜里最跨的那一个，张嘴就是一股婊子味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090712563814224055",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5274,
+          "following_count": 891,
+          "like_count": 4087,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-09T12:08:37.000Z",
+        "description": "谔谔",
+        "id": "1512764321524183048",
+        "is_identity_verified": false,
+        "location": "1223334444",
+        "most_recent_tweet_id": "2090705007779922190",
+        "name": "谔谔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512764321524183048/1684468028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512768391010222080/pc7kI_p5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 816,
+          "like_count": 13833,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "trancentral4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081410709175369954",
+    "created_at": "2026-07-26T16:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081412434032472549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1903540338016616448",
+          "start": 0,
+          "username": "0x091r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081412434032472549",
+    "in_reply_to_user_id": "1903540338016616448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081411924659695900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x091r yeah i certainly hope i can do better…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081410709175369954",
+        "created_at": "2026-07-26T16:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081412434032472549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1903540338016616448",
+              "start": 0,
+              "username": "0x091r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081412434032472549",
+        "in_reply_to_user_id": "1903540338016616448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081411924659695900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x091r yeah i certainly hope i can do better…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903540338016616448",
+        "conversation_id": "2081410709175369954",
+        "created_at": "2026-07-26T16:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081411924659695900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081411924659695900",
+        "in_reply_to_user_id": "1903540338016616448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081411702600699972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 if i thought this was even close to the best that transfeminism had to offer i would not be a transfeminist!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3665,
+          "following_count": 594,
+          "like_count": 1681,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T20:14:27.000Z",
+        "description": "cyborg tamil butch lesbian. scifi & transfeminism. women can do anything. mdni.",
+        "id": "1903540338016616448",
+        "location": "she (it if you're flirting)",
+        "name": "91",
+        "pinned_tweet_id": "2071081074395054523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034888999601676289/SV0n4lpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 125,
+          "like_count": 89245,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "0x091r",
+        "verified": false
+      }
+    ]
+  }
+}

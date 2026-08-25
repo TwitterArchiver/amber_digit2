@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085165887938580964",
+    "created_at": "2026-08-06T00:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085165887938580964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amalgamatomato…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/amalgamatomaton/status/2084981209881354262",
+          "start": 2,
+          "url": "https://t.co/0aZGVVXEv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085165887938580964",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084981209881354262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🪼 https://t.co/0aZGVVXEv2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084981203631833089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9XW6XXgAEPaVM.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085165887938580964",
+        "created_at": "2026-08-06T00:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085165887938580964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amalgamatomato…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/amalgamatomaton/status/2084981209881354262",
+              "start": 2,
+              "url": "https://t.co/0aZGVVXEv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085165887938580964",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084981209881354262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🪼 https://t.co/0aZGVVXEv2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084981203631833089"
+          ]
+        },
+        "author_id": "1947122584862302208",
+        "conversation_id": "2084981209881354262",
+        "created_at": "2026-08-05T12:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084981209881354262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1CdevqVv6",
+              "end": 23,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2084981209881354262/photo/1",
+              "media_key": "3_2084981203631833089",
+              "start": 0,
+              "url": "https://t.co/h1CdevqVv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084981209881354262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 58274,
+          "like_count": 6143,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 721
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h1CdevqVv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 748,
+          "like_count": 2508,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-21T02:33:07.000Z",
+        "description": ":goth:",
+        "id": "1947122584862302208",
+        "name": "amalgamatomaton",
+        "pinned_tweet_id": "2083551727052013843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980865184231981056/0wK3NN5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13953,
+          "following_count": 60,
+          "like_count": 6125,
+          "listed_count": 58,
+          "media_count": 2057,
+          "tweet_count": 5030
+        },
+        "url": "",
+        "username": "amalgamatomaton",
+        "verified": false
+      }
+    ]
+  }
+}

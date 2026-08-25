@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081838504577753538",
+    "created_at": "2026-07-27T20:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081838504577753538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634940590",
+          "start": 3,
+          "username": "LilithLovett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081838504577753538",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081584153213252050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LilithLovett: I legit hate the \"cis women can have [predominantly male trait] too\" argument as if that's supposed to make trans women f…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081838504577753538",
+        "created_at": "2026-07-27T20:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081838504577753538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634940590",
+              "start": 3,
+              "username": "LilithLovett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081838504577753538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081584153213252050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LilithLovett: I legit hate the \"cis women can have [predominantly male trait] too\" argument as if that's supposed to make trans women f…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634940590",
+        "conversation_id": "2081584153213252050",
+        "created_at": "2026-07-27T03:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081584153213252050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VemiVino/statu…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/VemiVino/status/2081053634071027917",
+              "start": 147,
+              "url": "https://t.co/QmpOZbpTQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081584153213252050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 27639,
+          "like_count": 1592,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081053634071027917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I legit hate the \"cis women can have [predominantly male trait] too\" argument as if that's supposed to make trans women feel better/more accepted. https://t.co/QmpOZbpTQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 628,
+          "like_count": 1748,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-31T08:15:10.000Z",
+        "description": "| Streamer | Voice Actress (DM) | Header: @Omenomicon | Follow≠Endorsement | https://t.co/4fzWSUrnzh | AD: @TSLilithLovett",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Omenomicon"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "TSLilithLovett"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lilithlovett",
+                "end": 100,
+                "expanded_url": "http://ko-fi.com/lilithlovett",
+                "start": 77,
+                "url": "https://t.co/4fzWSUrnzh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/lilithlovett/",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/lilithlovett/",
+                "start": 0,
+                "url": "https://t.co/rU2vFVqjpE"
+              }
+            ]
+          }
+        },
+        "id": "1634940590",
+        "location": "'Murica",
+        "name": "☠️ Lilith Lovett ☠️ same @ on 💙☁️🦋",
+        "pinned_tweet_id": "1275118340881608705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065700413228408832/DUUhIb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81020,
+          "following_count": 2784,
+          "like_count": 429734,
+          "listed_count": 383,
+          "media_count": 2681,
+          "tweet_count": 26005
+        },
+        "url": "https://t.co/rU2vFVqjpE",
+        "username": "LilithLovett",
+        "verified": false
+      }
+    ]
+  }
+}

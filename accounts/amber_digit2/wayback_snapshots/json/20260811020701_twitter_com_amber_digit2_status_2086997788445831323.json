@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086997784717107200",
+        "3_2086997784725508097"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086997788445831323",
+    "created_at": "2026-08-11T02:07:01.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086997788445831323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nj34GjHmVs",
+          "end": 60,
+          "expanded_url": "https://x.com/amber_digit2/status/2086997788445831323/photo/1",
+          "media_key": "3_2086997784717107200",
+          "start": 37,
+          "url": "https://t.co/Nj34GjHmVs"
+        },
+        {
+          "display_url": "pic.x.com/Nj34GjHmVs",
+          "end": 60,
+          "expanded_url": "https://x.com/amber_digit2/status/2086997788445831323/photo/1",
+          "media_key": "3_2086997784725508097",
+          "start": 37,
+          "url": "https://t.co/Nj34GjHmVs"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2085827538731892964",
+          "start": 61,
+          "url": "https://t.co/NZpZPZciJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086997788445831323",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086997784717107200"
+      },
+      {
+        "media_key": "3_2086997784725508097"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085827538731892964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我脸胖的时候像傅首尔，脸瘦的时候像未明子，四舍五入一下就是傅首尔=未明子 https://t.co/Nj34GjHmVs https://t.co/NZpZPZciJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086997784717107200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaBbYUXIAAs6-O.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086997784725508097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaBbYWXUAE0R3j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085827534927589376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJZF4IWcAAsHUN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086997784717107200",
+            "3_2086997784725508097"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086997788445831323",
+        "created_at": "2026-08-11T02:07:01.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086997788445831323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nj34GjHmVs",
+              "end": 60,
+              "expanded_url": "https://x.com/amber_digit2/status/2086997788445831323/photo/1",
+              "media_key": "3_2086997784717107200",
+              "start": 37,
+              "url": "https://t.co/Nj34GjHmVs"
+            },
+            {
+              "display_url": "pic.x.com/Nj34GjHmVs",
+              "end": 60,
+              "expanded_url": "https://x.com/amber_digit2/status/2086997788445831323/photo/1",
+              "media_key": "3_2086997784725508097",
+              "start": 37,
+              "url": "https://t.co/Nj34GjHmVs"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2085827538731892964",
+              "start": 61,
+              "url": "https://t.co/NZpZPZciJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086997788445831323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086997784717107200"
+          },
+          {
+            "media_key": "3_2086997784725508097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085827538731892964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我脸胖的时候像傅首尔，脸瘦的时候像未明子，四舍五入一下就是傅首尔=未明子 https://t.co/Nj34GjHmVs https://t.co/NZpZPZciJ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085827534927589376"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085827538731892964",
+        "created_at": "2026-08-07T20:36:52.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085827538731892964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBjfv1fHDG",
+              "end": 30,
+              "expanded_url": "https://x.com/amber_digit2/status/2085827538731892964/photo/1",
+              "media_key": "3_2085827534927589376",
+              "start": 7,
+              "url": "https://t.co/zBjfv1fHDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085827538731892964",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085827534927589376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12457,
+          "like_count": 258,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看起来好凶 https://t.co/zBjfv1fHDG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086997788445831323",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4872,
+          "following_count": 798,
+          "like_count": 2952,
+          "listed_count": 6,
+          "media_count": 194,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081971153350889650",
+    "created_at": "2026-07-28T05:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081971153350889650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "929472309823451136",
+          "start": 3,
+          "username": "Y_Wenli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081971153350889650",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081374871896875036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y_Wenli: Top left sign: “Bomb to smithereens every ‘internet addiction treatment’ centre** in China!” Love it😻💣\n\n**these are really con…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081971153350889650",
+        "created_at": "2026-07-28T05:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081971153350889650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "929472309823451136",
+              "start": 3,
+              "username": "Y_Wenli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081971153350889650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081374871896875036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y_Wenli: Top left sign: “Bomb to smithereens every ‘internet addiction treatment’ centre** in China!” Love it😻💣\n\n**these are really con…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929472309823451136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2081374871896875036",
+        "created_at": "2026-07-26T13:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081374871896875036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 267,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2081327042960744698",
+              "start": 244,
+              "url": "https://t.co/6pU4i4yVB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081374871896875036",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 954,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081327042960744698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Top left sign: “Bomb to smithereens every ‘internet addiction treatment’ centre** in China!” Love it😻💣\n\n**these are really conversion therapy facilities that kidnap, imprison, and torture queer kids in China; the govt turns a blind eye to them https://t.co/6pU4i4yVB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 632,
+          "like_count": 1761,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-11T22:14:02.000Z",
+        "description": "『黑化了的楊文里』\n\nProgressive Chinese，settler@🐢島，SINO(SocialistInNameOnly)phobe，中特社掘墓人，馬鹿主義接班人，Luol-Dengist🏀🐐\n\n🚮⬅🇨🇳🇹🇼Party-states #驅逐列寧匪幫 #大一統思想是腦癌 #黑命是命人命關天",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "驅逐列寧匪幫"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "tag": "大一統思想是腦癌"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "tag": "黑命是命人命關天"
+              }
+            ]
+          }
+        },
+        "id": "929472309823451136",
+        "location": "自由惑星同盟王座👑 || he/(I'm)HIM😎/他",
+        "name": "你法我笑的Dictator Yang🌻🍉🏳️‍🌈📄🐚 #pray4jade",
+        "pinned_tweet_id": "1883528171984945628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1346479050458497027/sXxW7thD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1986,
+          "like_count": 89344,
+          "listed_count": 12,
+          "media_count": 2691,
+          "tweet_count": 28330
+        },
+        "url": "",
+        "username": "Y_Wenli",
+        "verified": false
+      }
+    ]
+  }
+}

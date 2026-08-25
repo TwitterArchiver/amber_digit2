@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081410982883082426",
+    "created_at": "2026-07-26T16:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081410982883082426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1903540338016616448",
+          "start": 3,
+          "username": "0x091r"
+        },
+        {
+          "end": 25,
+          "id": "2041159531657416704",
+          "start": 12,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081410982883082426",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081410306472030296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0x091r: @amber_digit2 it's a shame because talking about the incentives from cis society to push us towards identities that don't invol…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081410982883082426",
+        "created_at": "2026-07-26T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081410982883082426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1903540338016616448",
+              "start": 3,
+              "username": "0x091r"
+            },
+            {
+              "end": 25,
+              "id": "2041159531657416704",
+              "start": 12,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081410982883082426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081410306472030296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0x091r: @amber_digit2 it's a shame because talking about the incentives from cis society to push us towards identities that don't invol…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903540338016616448",
+        "conversation_id": "2081406346185036286",
+        "created_at": "2026-07-26T16:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081410306472030296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081410306472030296",
+        "in_reply_to_user_id": "1903540338016616448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081409750160552274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 it's a shame because talking about the incentives from cis society to push us towards identities that don't involve asserting bodily autonomy &amp; instead roots us in place with the sex/gender distinction would be good! but it needs a transfeminist foundation that she doesn't have."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 594,
+          "like_count": 1677,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T20:14:27.000Z",
+        "description": "cyborg tamil butch lesbian. scifi & transfeminism. women can do anything. mdni.",
+        "id": "1903540338016616448",
+        "location": "she (it if you're flirting)",
+        "name": "91",
+        "pinned_tweet_id": "2071081074395054523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034888999601676289/SV0n4lpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 125,
+          "like_count": 89245,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1476
+        },
+        "url": "",
+        "username": "0x091r",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087227301784403968"
+      ],
+      "media_source_tweet_id": [
+        "2087229353734365271"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087254180436066417",
+    "created_at": "2026-08-11T19:05:50.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087254180436066417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1205748134892032000",
+          "start": 3,
+          "username": "Liquid_Pomelo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U57UEmOCmJ",
+          "end": 95,
+          "expanded_url": "https://x.com/Liquid_Pomelo/status/2087229353734365271/photo/1",
+          "media_key": "3_2087227301784403968",
+          "start": 72,
+          "url": "https://t.co/U57UEmOCmJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087254180436066417",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087227301784403968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087229353734365271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liquid_Pomelo: 写东西时翻到了武老白、郑宏彬等人在2019年设计的三辆印着反性倾向扭转治疗标语的卡车，计划名为《恋人》。 https://t.co/U57UEmOCmJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2087227301784403968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdSLCBbQAASlK6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087227301784403968"
+          ]
+        },
+        "author_id": "1205748134892032000",
+        "conversation_id": "2087229353734365271",
+        "created_at": "2026-08-11T17:27:11.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087229353734365271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U57UEmOCmJ",
+              "end": 76,
+              "expanded_url": "https://x.com/Liquid_Pomelo/status/2087229353734365271/photo/1",
+              "media_key": "3_2087227301784403968",
+              "start": 53,
+              "url": "https://t.co/U57UEmOCmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087229353734365271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087227301784403968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "写东西时翻到了武老白、郑宏彬等人在2019年设计的三辆印着反性倾向扭转治疗标语的卡车，计划名为《恋人》。 https://t.co/U57UEmOCmJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087227301784403968"
+          ],
+          "media_source_tweet_id": [
+            "2087229353734365271"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087254180436066417",
+        "created_at": "2026-08-11T19:05:50.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087254180436066417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1205748134892032000",
+              "start": 3,
+              "username": "Liquid_Pomelo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U57UEmOCmJ",
+              "end": 95,
+              "expanded_url": "https://x.com/Liquid_Pomelo/status/2087229353734365271/photo/1",
+              "media_key": "3_2087227301784403968",
+              "start": 72,
+              "url": "https://t.co/U57UEmOCmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087254180436066417",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087227301784403968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087229353734365271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liquid_Pomelo: 写东西时翻到了武老白、郑宏彬等人在2019年设计的三辆印着反性倾向扭转治疗标语的卡车，计划名为《恋人》。 https://t.co/U57UEmOCmJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087254180436066417",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4939,
+          "following_count": 809,
+          "like_count": 3026,
+          "listed_count": 5,
+          "media_count": 198,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-14T07:15:41.000Z",
+        "description": "Queer🌈 可以叫我柚子w 讓世界變得冒犯一點/不適請及時退出 Major in Linguistics, Chinese writings & Philology. 🐺Un seul ou plusieurs loups? in an open relationship. bf @youmu_younoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 142,
+                "username": "youmu_younoki"
+              }
+            ]
+          }
+        },
+        "id": "1205748134892032000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087229353734365271",
+        "name": "西柚气泡水♿️北京",
+        "pinned_tweet_id": "1822914979151925622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205748134892032000/1651741879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976650947766923264/YzYh7QJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12382,
+          "following_count": 4262,
+          "like_count": 17954,
+          "listed_count": 16,
+          "media_count": 882,
+          "tweet_count": 5815
+        },
+        "url": "",
+        "username": "Liquid_Pomelo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

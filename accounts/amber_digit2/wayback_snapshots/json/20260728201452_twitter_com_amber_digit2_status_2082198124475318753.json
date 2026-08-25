@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082150999662174379",
+    "created_at": "2026-07-28T20:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082198124475318753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        },
+        {
+          "end": 22,
+          "id": "1399766153053061121",
+          "start": 14,
+          "username": "premium"
+        },
+        {
+          "end": 31,
+          "id": "17874544",
+          "start": 23,
+          "username": "Support"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082198124475318753",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082150999662174379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene @premium @Support 去你的通知里仔细翻找一下，会有一个非常小的提示说 your account is labeled as sensitive，那个通知是进行内容申诉的唯一一个入口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082150999662174379",
+        "created_at": "2026-07-28T20:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082198124475318753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            },
+            {
+              "end": 22,
+              "id": "1399766153053061121",
+              "start": 14,
+              "username": "premium"
+            },
+            {
+              "end": 31,
+              "id": "17874544",
+              "start": 23,
+              "username": "Support"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082198124475318753",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082150999662174379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene @premium @Support 去你的通知里仔细翻找一下，会有一个非常小的提示说 your account is labeled as sensitive，那个通知是进行内容申诉的唯一一个入口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765807474964258816",
+        "conversation_id": "2082150999662174379",
+        "created_at": "2026-07-28T17:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082150999662174379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1399766153053061121",
+              "start": 0,
+              "username": "premium"
+            },
+            {
+              "end": 17,
+              "id": "17874544",
+              "start": 9,
+              "username": "Support"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082150999662174379",
+        "in_reply_to_user_id": "1399766153053061121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 8,
+                "id": "1399766153053061121",
+                "start": 0,
+                "username": "premium"
+              },
+              {
+                "end": 17,
+                "id": "17874544",
+                "start": 9,
+                "username": "Support"
+              }
+            ]
+          },
+          "text": "@premium @Support \nDear X support\n\nI am contacting you following the advice of the Premium Support team.\n\nI initially contacted Premium Support through the X Premium Support chat regarding an issue with my account being incorrectly treated as sensitive. The support representative informed me that this matter must be reviewed by the appropriate X Support team and directed me to submit this request using the link provided in the chat.\n\nMy account is experiencing the following problem:\n\nEvery image I upload is automatically labeled as sensitive, regardless of its content.\n\nThe setting \"Mark media you post as containing material that may be sensitive\" is greyed out and cannot be changed.\nI have never received any notification or email explaining why this restriction was applied.\n\nI also have no appeal or review option available on my account, despite being advised to use one.\n\nAs a result, I have no way to request a review through the process described by Premium Support.\n\nI believe this restriction has been applied incorrectly or in error. None of the media I post contains adult or graphic content that would justify permanently marking all of my uploads as sensitive.\n\nI would greatly appreciate it if you could manually review my account, determine why this restriction has been applied, and remove it if it was applied in error. If the restriction is intentional, I would also appreciate an explanation of the reason and any steps I can take to resolve the issue.\n\nThank you for your time and assistance. I look forward to your response.\n\nKind regards,\nxixi_epicene"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@premium @Support \nDear X support\n\nI am contacting you following the advice of the Premium Support team.\n\nI initially contacted Premium Support through the X Premium Support chat regarding an issue with my account being incorrectly treated as sensitive. The support representative"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi research on chinese transfem communities / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 642,
+          "like_count": 1808,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "男的♂/ cosplayer/ 我老婆 @cosplay_riji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "cosplay_riji"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "2082150999662174379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082165144533053440/ZBw9SgU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40094,
+          "following_count": 1890,
+          "like_count": 19036,
+          "listed_count": 128,
+          "media_count": 1507,
+          "tweet_count": 8697
+        },
+        "url": "",
+        "username": "xixi_epicene",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-01T16:34:27.000Z",
+        "description": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/premium_sign…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/premium_sign_up",
+                "start": 0,
+                "url": "https://t.co/zJi0ZdXW63"
+              }
+            ]
+          }
+        },
+        "id": "1399766153053061121",
+        "name": "Premium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274159,
+          "following_count": 3,
+          "like_count": 666,
+          "listed_count": 1890,
+          "media_count": 66,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/zJi0ZdXW63",
+        "username": "premium",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-04T18:51:57.000Z",
+        "description": "Official @X support account. Find answers to common questions and get help on our Help Center: https://t.co/EO1OOUj5T5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 9,
+                "username": "X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 118,
+                "expanded_url": "http://help.x.com",
+                "start": 95,
+                "url": "https://t.co/EO1OOUj5T5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "https://help.x.com",
+                "start": 0,
+                "url": "https://t.co/wzqJpIOEcM"
+              }
+            ]
+          }
+        },
+        "id": "17874544",
+        "name": "Support",
+        "pinned_tweet_id": "1912572496655892718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6356071,
+          "following_count": 3,
+          "like_count": 479,
+          "listed_count": 14562,
+          "media_count": 273,
+          "tweet_count": 84605
+        },
+        "url": "https://t.co/wzqJpIOEcM",
+        "username": "Support",
+        "verified": true
+      }
+    ]
+  }
+}

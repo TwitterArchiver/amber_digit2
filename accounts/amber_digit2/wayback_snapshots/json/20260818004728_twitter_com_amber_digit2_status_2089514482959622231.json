@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089514474902265856",
+        "3_2089514478995914752"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089514482959622231",
+    "created_at": "2026-08-18T00:47:28.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T01:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089514482959622231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nrM8LdrNEx",
+          "end": 51,
+          "expanded_url": "https://x.com/amber_digit2/status/2089514482959622231/photo/1",
+          "media_key": "3_2089514474902265856",
+          "start": 28,
+          "url": "https://t.co/nrM8LdrNEx"
+        },
+        {
+          "display_url": "pic.x.com/nrM8LdrNEx",
+          "end": 51,
+          "expanded_url": "https://x.com/amber_digit2/status/2089514482959622231/photo/1",
+          "media_key": "3_2089514478995914752",
+          "start": 28,
+          "url": "https://t.co/nrM8LdrNEx"
+        },
+        {
+          "display_url": "x.com/Shioochic_Xyn/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2089365988844396781",
+          "start": 52,
+          "url": "https://t.co/8QXmEhMFoA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089514482959622231",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089514474902265856"
+      },
+      {
+        "media_key": "3_2089514478995914752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089365988844396781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是拥有绝对力量起了杀心以后能单挑北极熊的成年男子吗 https://t.co/nrM8LdrNEx https://t.co/8QXmEhMFoA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2089514474902265856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9yWB2WIAAiI2E.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2089514478995914752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9yWRGWQAAHS3I.jpg",
+        "width": 1260
+      },
+      {
+        "height": 3735,
+        "media_key": "3_2089365968497872896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7rR0YbEAAIO68.jpg",
+        "width": 2765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089514474902265856",
+            "3_2089514478995914752"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089514482959622231",
+        "created_at": "2026-08-18T00:47:28.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089514482959622231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrM8LdrNEx",
+              "end": 51,
+              "expanded_url": "https://x.com/amber_digit2/status/2089514482959622231/photo/1",
+              "media_key": "3_2089514474902265856",
+              "start": 28,
+              "url": "https://t.co/nrM8LdrNEx"
+            },
+            {
+              "display_url": "pic.x.com/nrM8LdrNEx",
+              "end": 51,
+              "expanded_url": "https://x.com/amber_digit2/status/2089514482959622231/photo/1",
+              "media_key": "3_2089514478995914752",
+              "start": 28,
+              "url": "https://t.co/nrM8LdrNEx"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2089365988844396781",
+              "start": 52,
+              "url": "https://t.co/8QXmEhMFoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089514482959622231",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089514474902265856"
+          },
+          {
+            "media_key": "3_2089514478995914752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089365988844396781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是拥有绝对力量起了杀心以后能单挑北极熊的成年男子吗 https://t.co/nrM8LdrNEx https://t.co/8QXmEhMFoA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089365968497872896"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2089365988844396781",
+        "created_at": "2026-08-17T14:57:24.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089365988844396781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fi6Un0z3q6",
+              "end": 37,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2089365988844396781/photo/1",
+              "media_key": "3_2089365968497872896",
+              "start": 14,
+              "url": "https://t.co/fi6Un0z3q6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089365988844396781",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089365968497872896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 912,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马路中间狠狠打对掏赛的来😁 https://t.co/fi6Un0z3q6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089514482959622231",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5142,
+          "following_count": 874,
+          "like_count": 3711,
+          "listed_count": 6,
+          "media_count": 217,
+          "tweet_count": 2809
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友情链接:https://t.co/iIABjp0PAw（这并非我本人的博客）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 117,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 94,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "is_identity_verified": true,
+        "location": "广州",
+        "most_recent_tweet_id": "2089407189991760051",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2089157310241497596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033160782687731712/1773578586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4874,
+          "following_count": 2237,
+          "like_count": 9015,
+          "listed_count": 7,
+          "media_count": 1234,
+          "tweet_count": 7512
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081968449291476992",
+        "3_2081968449283031040"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081968452588167177",
+    "created_at": "2026-07-28T05:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081968452588167177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P15qVChhRH",
+          "end": 30,
+          "expanded_url": "https://x.com/amber_digit2/status/2081968452588167177/photo/1",
+          "media_key": "3_2081968449291476992",
+          "start": 7,
+          "url": "https://t.co/P15qVChhRH"
+        },
+        {
+          "display_url": "pic.x.com/P15qVChhRH",
+          "end": 30,
+          "expanded_url": "https://x.com/amber_digit2/status/2081968452588167177/photo/1",
+          "media_key": "3_2081968449283031040",
+          "start": 7,
+          "url": "https://t.co/P15qVChhRH"
+        },
+        {
+          "display_url": "x.com/yoom_prod/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/yoom_prod/status/2081774354640363971",
+          "start": 31,
+          "url": "https://t.co/YjowYed1Eq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081968452588167177",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081774354640363971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "irl me https://t.co/P15qVChhRH https://t.co/YjowYed1Eq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081968449291476992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSjRh2W4AAd0CN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081968449283031040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSjRh0WAAAG0PF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2704,
+        "media_key": "3_2081774324860825600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPyt__bsAAsOD6.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081968449291476992",
+            "3_2081968449283031040"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081968452588167177",
+        "created_at": "2026-07-28T05:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081968452588167177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P15qVChhRH",
+              "end": 30,
+              "expanded_url": "https://x.com/amber_digit2/status/2081968452588167177/photo/1",
+              "media_key": "3_2081968449291476992",
+              "start": 7,
+              "url": "https://t.co/P15qVChhRH"
+            },
+            {
+              "display_url": "pic.x.com/P15qVChhRH",
+              "end": 30,
+              "expanded_url": "https://x.com/amber_digit2/status/2081968452588167177/photo/1",
+              "media_key": "3_2081968449283031040",
+              "start": 7,
+              "url": "https://t.co/P15qVChhRH"
+            },
+            {
+              "display_url": "x.com/yoom_prod/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/yoom_prod/status/2081774354640363971",
+              "start": 31,
+              "url": "https://t.co/YjowYed1Eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081968452588167177",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081774354640363971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "irl me https://t.co/P15qVChhRH https://t.co/YjowYed1Eq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081774324860825600"
+          ]
+        },
+        "author_id": "1750156309817966592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081774354640363971",
+        "created_at": "2026-07-27T16:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081774354640363971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aBykBSarV",
+              "end": 37,
+              "expanded_url": "https://x.com/YOOM_PROD/status/2081774354640363971/photo/1",
+              "media_key": "3_2081774324860825600",
+              "start": 14,
+              "url": "https://t.co/1aBykBSarV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081774354640363971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 580,
+          "impression_count": 65792,
+          "like_count": 3655,
+          "quote_count": 19,
+          "reply_count": 5,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "Her prologue. https://t.co/1aBykBSarV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 632,
+          "like_count": 1761,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-24T13:59:31.000Z",
+        "description": "あと2147483647缶だけストゼロ飲ませて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yoooomu",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yoooomu",
+                "start": 0,
+                "url": "https://t.co/dSptNVGfSH"
+              }
+            ]
+          }
+        },
+        "id": "1750156309817966592",
+        "location": "バーチャル六畳半",
+        "name": "ヨオム@禁酒1日目",
+        "pinned_tweet_id": "2076473460835139684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080332372839706627/snVQoPC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 371,
+          "like_count": 13034,
+          "listed_count": 5,
+          "media_count": 753,
+          "tweet_count": 4052
+        },
+        "url": "https://t.co/dSptNVGfSH",
+        "username": "YOOM_PROD",
+        "verified": false
+      }
+    ]
+  }
+}

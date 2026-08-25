@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086882914893971875",
+    "created_at": "2026-08-10T18:30:33.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086882914893971875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/brynhild33/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/brynhild33/status/2086881311164104932",
+          "start": 6,
+          "url": "https://t.co/r3t9oQZNtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086882914893971875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086881311164104932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮宝转一下 https://t.co/r3t9oQZNtz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086882914893971875",
+        "created_at": "2026-08-10T18:30:33.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086882914893971875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brynhild33/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/brynhild33/status/2086881311164104932",
+              "start": 6,
+              "url": "https://t.co/r3t9oQZNtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086882914893971875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086881311164104932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮宝转一下 https://t.co/r3t9oQZNtz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300706054225801216",
+        "conversation_id": "2086881311164104932",
+        "created_at": "2026-08-10T18:24:11.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086881311164104932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/smiroyama/status/2085388339419693232",
+              "start": 5,
+              "url": "https://t.co/cfVBdNTyfS"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07e9c7d1954fff64"
+        },
+        "id": "2086881311164104932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085388339419693232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正主来咯 https://t.co/cfVBdNTyfS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086882914893971875",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4862,
+          "following_count": 794,
+          "like_count": 2921,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T08:04:32.000Z",
+        "description": "日常系男娘，base UK/sub/175-52/萌新被缚/哭哭享受者/人设是笨蛋美人😋/欢迎线下交友🥰",
+        "id": "1300706054225801216",
+        "is_identity_verified": false,
+        "location": "Sheffield, England",
+        "most_recent_tweet_id": "2086882284171411704",
+        "name": "Brynhild",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300706054225801216/1759705241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074087234173571072/OCURUciD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 412,
+          "like_count": 218,
+          "listed_count": 8,
+          "media_count": 39,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Brynhild33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

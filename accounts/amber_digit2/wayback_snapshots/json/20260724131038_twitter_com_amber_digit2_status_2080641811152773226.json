@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "MacOS",
+          "id": "848959509653356544",
+          "name": "MacOS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "MacOS",
+          "id": "848959509653356544",
+          "name": "MacOS"
+        }
+      }
+    ],
+    "conversation_id": "2080641811152773226",
+    "created_at": "2026-07-24T13:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080641811152773226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amiartisan/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/amiartisan/status/2080610214932602983",
+          "start": 26,
+          "url": "https://t.co/G6ZgXMZbi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080641811152773226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080610214932602983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Mac OS X 早期的 Aqua 是真的好漂亮… https://t.co/G6ZgXMZbi4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2080609024668745728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_O4mfaQAAiXh-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1964,
+        "media_key": "3_2080609797653868544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_PlmFbMAA31IP.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "MacOS",
+              "id": "848959509653356544",
+              "name": "MacOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "MacOS",
+              "id": "848959509653356544",
+              "name": "MacOS"
+            }
+          }
+        ],
+        "conversation_id": "2080641811152773226",
+        "created_at": "2026-07-24T13:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080641811152773226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amiartisan/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/amiartisan/status/2080610214932602983",
+              "start": 26,
+              "url": "https://t.co/G6ZgXMZbi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080641811152773226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080610214932602983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mac OS X 早期的 Aqua 是真的好漂亮… https://t.co/G6ZgXMZbi4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080609024668745728",
+            "3_2080609797653868544"
+          ]
+        },
+        "author_id": "1679858508467159041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080610214932602983",
+        "created_at": "2026-07-24T11:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080610214932602983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZkM04L24D",
+              "end": 142,
+              "expanded_url": "https://x.com/Amiartisan/status/2080610214932602983/photo/1",
+              "media_key": "3_2080609024668745728",
+              "start": 119,
+              "url": "https://t.co/YZkM04L24D"
+            },
+            {
+              "display_url": "pic.x.com/YZkM04L24D",
+              "end": 142,
+              "expanded_url": "https://x.com/Amiartisan/status/2080610214932602983/photo/1",
+              "media_key": "3_2080609797653868544",
+              "start": 119,
+              "url": "https://t.co/YZkM04L24D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080610214932602983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1436,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2001年的一天，你坐到桌前，打开Mac。\n穿梭于互联网的海洋之间，似乎...失去了「时间」的概念，接触了未来的一瞬之间。\n但你没有多加注意，很快便忘记了这次「奇遇」。\n直到25年后的一个下午...\n——琐碎随笔，向世纪初的前辈们致敬。 https://t.co/YZkM04L24D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 553,
+          "like_count": 1500,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜试着去成为这个世界美好的那部分吧",
+        "id": "1679858508467159041",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017219721939357696/Ioed0US1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 141,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "Amiartisan",
+        "verified": false
+      }
+    ]
+  }
+}

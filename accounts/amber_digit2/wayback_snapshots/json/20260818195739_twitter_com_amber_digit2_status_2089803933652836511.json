@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089787587963617772",
+    "created_at": "2026-08-18T19:57:39.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089803933652836511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2077257715999461506",
+          "start": 3,
+          "url": "https://t.co/C5A3i3iMgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089803933652836511",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077257715999461506",
+        "type": "quoted"
+      },
+      {
+        "id": "2089789206079889428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考 https://t.co/C5A3i3iMgf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1975,
+        "media_key": "3_2077257712623075328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPm4kPWwAAQ8h2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077257712639922176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPm4kTX0AACbq9.jpg",
+        "width": 1074
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077257712614694912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPm4kNW4AAB4i2.jpg",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089787587963617772",
+        "created_at": "2026-08-18T19:57:39.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089803933652836511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2077257715999461506",
+              "start": 3,
+              "url": "https://t.co/C5A3i3iMgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089803933652836511",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077257715999461506",
+            "type": "quoted"
+          },
+          {
+            "id": "2089789206079889428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考 https://t.co/C5A3i3iMgf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089787587963617772",
+        "created_at": "2026-08-18T18:59:07.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089789206079889428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089789206079889428",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089787587963617772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the function of the police &amp; prison system is always to protect private property &amp; patriarchy: none of them are redeemable"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077257712623075328",
+            "3_2077257712639922176",
+            "3_2077257712614694912"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077257715999461506",
+        "created_at": "2026-07-15T05:03:27.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077257715999461506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJvNeN7tDR",
+              "end": 141,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077257715999461506/photo/1",
+              "media_key": "3_2077257712623075328",
+              "start": 118,
+              "url": "https://t.co/fJvNeN7tDR"
+            },
+            {
+              "display_url": "pic.x.com/fJvNeN7tDR",
+              "end": 141,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077257715999461506/photo/1",
+              "media_key": "3_2077257712639922176",
+              "start": 118,
+              "url": "https://t.co/fJvNeN7tDR"
+            },
+            {
+              "display_url": "pic.x.com/fJvNeN7tDR",
+              "end": 141,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077257715999461506/photo/1",
+              "media_key": "3_2077257712614694912",
+              "start": 118,
+              "url": "https://t.co/fJvNeN7tDR"
+            },
+            {
+              "display_url": "x.com/heicha141/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/heicha141/status/2077191121240019381",
+              "start": 142,
+              "url": "https://t.co/DsIJT1m2tK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077257715999461506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2077257712623075328"
+          },
+          {
+            "media_key": "3_2077257712639922176"
+          },
+          {
+            "media_key": "3_2077257712614694912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "前段时间正好在做扭转/戒网瘾学校这类私有化强制矫正机构的警治史研究，给一个之前做过会议发表的回答吧：\n\n首先，此类机构并非中国首创，而是在美国六十年代由基督教保守人士发明的。它的官方名称叫做「问题青少年产业（Troubled Teen Industry）」，旨在通过野外训练、暴力体罚等方式帮助家长管束「不听话」的儿童（包括性少数群体），也会采用强制绑架的方式将这些孩子拉到这些训练营里。直到2020年，此类机构都因其成熟的公关体系、强大的法务团队以及和美国金融机构的紧密合作关系而成功压制了大部分受害者的维权企图。直到2020年，著名影星帕里斯·希尔顿（Paris Hilton）在一部纪录片中公开自己受该类机构监禁的经历，这一产业才重新受到广泛关注。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 23166,
+          "like_count": 161,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077191121240019381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前段时间正好在做扭转/戒网瘾学校这类私有化强制矫正机构的警治史研究，给一个之前做过会议发表的回答吧：\n\n首先，此类机构并非中国首创，而是在美国六十年代由基督教保守人士发明的。它的官方名称叫做「问题青少年产业（Troubled Teen https://t.co/fJvNeN7tDR https://t.co/DsIJT1m2tK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 60,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 37,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089803933652836511",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5165,
+          "following_count": 878,
+          "like_count": 3800,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 2856
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089775381637214634",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8149,
+          "following_count": 1206,
+          "like_count": 7652,
+          "listed_count": 12,
+          "media_count": 364,
+          "tweet_count": 4252
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

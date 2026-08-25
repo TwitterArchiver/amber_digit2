@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087352533899714560"
+      ],
+      "media_source_tweet_id": [
+        "2087352575167447076"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087548341072626115",
+    "created_at": "2026-08-12T14:34:43.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087548341072626115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "384850586",
+          "start": 3,
+          "username": "ssslumdunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fFrKBNiOOq",
+          "end": 50,
+          "expanded_url": "https://x.com/ssslumdunk/status/2087352575167447076/photo/1",
+          "media_key": "3_2087352533899714560",
+          "start": 27,
+          "url": "https://t.co/fFrKBNiOOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087548341072626115",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087352533899714560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087352575167447076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssslumdunk: 新闻学胜利时刻来了。 https://t.co/fFrKBNiOOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2087352533899714560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfEEgAaoAAYLKt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087352533899714560"
+          ]
+        },
+        "author_id": "384850586",
+        "conversation_id": "2087352575167447076",
+        "created_at": "2026-08-12T01:36:49.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087352575167447076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFrKBNiOOq",
+              "end": 34,
+              "expanded_url": "https://x.com/ssslumdunk/status/2087352575167447076/photo/1",
+              "media_key": "3_2087352533899714560",
+              "start": 11,
+              "url": "https://t.co/fFrKBNiOOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087352575167447076",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087352533899714560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 106546,
+          "like_count": 2215,
+          "quote_count": 8,
+          "reply_count": 255,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "新闻学胜利时刻来了。 https://t.co/fFrKBNiOOq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087352533899714560"
+          ],
+          "media_source_tweet_id": [
+            "2087352575167447076"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087548341072626115",
+        "created_at": "2026-08-12T14:34:43.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087548341072626115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "384850586",
+              "start": 3,
+              "username": "ssslumdunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFrKBNiOOq",
+              "end": 50,
+              "expanded_url": "https://x.com/ssslumdunk/status/2087352575167447076/photo/1",
+              "media_key": "3_2087352533899714560",
+              "start": 27,
+              "url": "https://t.co/fFrKBNiOOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548341072626115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087352533899714560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087352575167447076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssslumdunk: 新闻学胜利时刻来了。 https://t.co/fFrKBNiOOq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087548341072626115",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5013,
+          "following_count": 828,
+          "like_count": 3166,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-04T12:55:28.000Z",
+        "description": "微博百万粉丝，电竞解说，创业纳斯达克IPO已躺期权牛散\n\n币圈期权最强工具Signalplus注册 \nhttps://t.co/DVeF6V2iJW\n\nderibit期权手续费减免 \nhttps://t.co/i2jGr9twgi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.signalplus.com/user/register?…",
+                "end": 74,
+                "expanded_url": "http://t.signalplus.com/user/register?ref=22f3b",
+                "start": 51,
+                "url": "https://t.co/DVeF6V2iJW"
+              },
+              {
+                "display_url": "deribit.com/?reg=15142.9055",
+                "end": 115,
+                "expanded_url": "https://www.deribit.com/?reg=15142.9055",
+                "start": 92,
+                "url": "https://t.co/i2jGr9twgi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/longxinyan",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/longxinyan",
+                "start": 0,
+                "url": "https://t.co/9ZrJ8r5aKU"
+              }
+            ]
+          }
+        },
+        "id": "384850586",
+        "is_identity_verified": true,
+        "location": "CHINA",
+        "most_recent_tweet_id": "2087468402260791385",
+        "name": "龙心盐",
+        "pinned_tweet_id": "2087352575167447076",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/384850586/1763374503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463758640595480576/vw0gtzya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16082,
+          "following_count": 1631,
+          "like_count": 4248,
+          "listed_count": 296,
+          "media_count": 6239,
+          "tweet_count": 12410
+        },
+        "url": "https://t.co/9ZrJ8r5aKU",
+        "username": "ssslumdunk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

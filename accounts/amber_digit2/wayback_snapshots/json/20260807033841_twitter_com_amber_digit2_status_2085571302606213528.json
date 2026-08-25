@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085089318209569141",
+    "created_at": "2026-08-07T03:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085571302606213528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962556266196418560",
+          "start": 0,
+          "username": "HCl_Chen"
+        },
+        {
+          "end": 19,
+          "id": "788877966759587844",
+          "start": 10,
+          "username": "CoolJ_TV"
+        },
+        {
+          "end": 29,
+          "id": "1976062750934577152",
+          "start": 20,
+          "username": "Gaismair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085571302606213528",
+    "in_reply_to_user_id": "1962556266196418560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085567267534758012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCl_Chen @CoolJ_TV @Gaismair 这位就是胡说八道被我揭穿了所以在这儿死要面子装傻抵赖呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085089318209569141",
+        "created_at": "2026-08-07T03:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085571302606213528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962556266196418560",
+              "start": 0,
+              "username": "HCl_Chen"
+            },
+            {
+              "end": 19,
+              "id": "788877966759587844",
+              "start": 10,
+              "username": "CoolJ_TV"
+            },
+            {
+              "end": 29,
+              "id": "1976062750934577152",
+              "start": 20,
+              "username": "Gaismair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085571302606213528",
+        "in_reply_to_user_id": "1962556266196418560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085567267534758012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCl_Chen @CoolJ_TV @Gaismair 这位就是胡说八道被我揭穿了所以在这儿死要面子装傻抵赖呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962556266196418560",
+        "conversation_id": "2085089318209569141",
+        "created_at": "2026-08-07T03:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085567267534758012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "788877966759587844",
+              "start": 0,
+              "username": "CoolJ_TV"
+            },
+            {
+              "end": 23,
+              "id": "2041159531657416704",
+              "start": 10,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 33,
+              "id": "1976062750934577152",
+              "start": 24,
+              "username": "Gaismair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085567267534758012",
+        "in_reply_to_user_id": "788877966759587844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085486278888354048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoolJ_TV @amber_digit2 @Gaismair 对了，这个回复可以改一下，以更符合中文惯常语法：“你假装什么都没看到，但还是忍不住回复我，是不是气死了，哈哈，反正我今天很无聊，正好拿你当乐子”，要注意对于中文初学者，一句话越长，越容易语义杂糅，适当断句是提高写作能力的关键"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 767,
+          "like_count": 2637,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "稀盐酸 任意人称代词 MTX\nA cup of 0.1M HCl(aq）\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G2 LifeSci（药学支系） 在读\n政治取向 人权/进步/生产",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 141,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "HCl_Chen",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-19T23:02:18.000Z",
+        "description": "I yell over games | Computer Wizard | Former Varsity OW player @MiamiOHEsports | Guitar noob | Business Inquries: coolj_ow@outlook.com | He/Him | Kirby Main",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "MiamiOHEsports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/coolj_tv",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/coolj_tv",
+                "start": 0,
+                "url": "https://t.co/IhDzULm7a9"
+              }
+            ]
+          }
+        },
+        "id": "788877966759587844",
+        "name": "CoolJ",
+        "pinned_tweet_id": "2037405242296316123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222734304184348673/IXZ5ZyGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 100,
+          "like_count": 8156,
+          "listed_count": 8,
+          "media_count": 278,
+          "tweet_count": 7264
+        },
+        "url": "https://t.co/IhDzULm7a9",
+        "username": "CoolJ_TV",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T23:10:54.000Z",
+        "description": "of the painted chamber @foidpilled",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "foidpilled"
+              }
+            ]
+          }
+        },
+        "id": "1976062750934577152",
+        "location": "44 Union Square",
+        "name": "Mariam",
+        "pinned_tweet_id": "2031475264505442771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076383543140184064/86_EbmDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 249,
+          "like_count": 53468,
+          "listed_count": 10,
+          "media_count": 1152,
+          "tweet_count": 5821
+        },
+        "url": "",
+        "username": "Gaismair",
+        "verified": false
+      }
+    ]
+  }
+}

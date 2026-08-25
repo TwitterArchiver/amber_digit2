@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2080396362407944239",
+    "created_at": "2026-07-23T20:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080396362407944239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1154114304393850880",
+          "start": 3,
+          "username": "RileyGRoshong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080396362407944239",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080329428681273684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RileyGRoshong: I swear all of the trans women online who like China literally are just motivated by \"America bad\" thinking and propogan…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2080396362407944239",
+        "created_at": "2026-07-23T20:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080396362407944239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1154114304393850880",
+              "start": 3,
+              "username": "RileyGRoshong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080396362407944239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080329428681273684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RileyGRoshong: I swear all of the trans women online who like China literally are just motivated by \"America bad\" thinking and propogan…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154114304393850880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2080329428681273684",
+        "created_at": "2026-07-23T16:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080329428681273684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2080068699000655923",
+              "start": 123,
+              "url": "https://t.co/ON9uhIICLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080329428681273684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080068699000655923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I swear all of the trans women online who like China literally are just motivated by \"America bad\" thinking and propoganda https://t.co/ON9uhIICLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 544,
+          "like_count": 1457,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T19:41:07.000Z",
+        "description": "You can make a difference in IRL Politics.\nMaryland Attorney & Political Influencer.\nJD @UMDLaw MPP @UMDPublicPolicy.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "UMDLaw"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "UMDPublicPolicy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/RileyGraceRosh…",
+                "end": 23,
+                "expanded_url": "http://youtube.com/RileyGraceRoshong",
+                "start": 0,
+                "url": "https://t.co/vIF1lRMnlz"
+              }
+            ]
+          }
+        },
+        "id": "1154114304393850880",
+        "location": "Baltimore, MD",
+        "name": "Riley Grace Roshong",
+        "pinned_tweet_id": "2053549093360697411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968400087228284928/vIlK0rDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10557,
+          "following_count": 826,
+          "like_count": 11827,
+          "listed_count": 33,
+          "media_count": 305,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/vIF1lRMnlz",
+        "username": "RileyGRoshong",
+        "verified": false
+      }
+    ]
+  }
+}

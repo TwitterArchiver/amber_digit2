@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084819638093791271",
+    "created_at": "2026-08-05T01:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084819638093791271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1718549877070958592",
+          "start": 3,
+          "username": "I_cut_ur_balls"
+        },
+        {
+          "end": 27,
+          "id": "1809828009362534400",
+          "start": 20,
+          "username": "Pvmfee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084819638093791271",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083839563169148960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I_cut_ur_balls: @Pvmfee I would like to ask whether you have lived in china or have lived through a crackdown where even not participan…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084819638093791271",
+        "created_at": "2026-08-05T01:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084819638093791271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1718549877070958592",
+              "start": 3,
+              "username": "I_cut_ur_balls"
+            },
+            {
+              "end": 27,
+              "id": "1809828009362534400",
+              "start": 20,
+              "username": "Pvmfee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084819638093791271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083839563169148960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I_cut_ur_balls: @Pvmfee I would like to ask whether you have lived in china or have lived through a crackdown where even not participan…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718549877070958592",
+        "conversation_id": "2083665475037254095",
+        "created_at": "2026-08-02T08:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083839563169148960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809828009362534400",
+              "start": 0,
+              "username": "Pvmfee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083839563169148960",
+        "in_reply_to_user_id": "1809828009362534400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 362,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083832004353638611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pvmfee I would like to ask whether you have lived in china or have lived through a crackdown where even not participants had to search online how to block tear gas from entering their residences from doorsteps. I wonder if your ID gets checked 7 times a day when taking a stroll downtown"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4609,
+          "following_count": 746,
+          "like_count": 2450,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T08:46:56.000Z",
+        "description": "精神瑞典人｜MtF｜港人｜泛性恋｜不活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kat3approach.xyz/about/",
+                "end": 23,
+                "expanded_url": "http://kat3approach.xyz/about/",
+                "start": 0,
+                "url": "https://t.co/RWecY5pi53"
+              }
+            ]
+          }
+        },
+        "id": "1718549877070958592",
+        "name": "Rollingirl.",
+        "pinned_tweet_id": "2083848152520782110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718554997724753920/39L16nvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 833,
+          "like_count": 8674,
+          "listed_count": 5,
+          "media_count": 208,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/RWecY5pi53",
+        "username": "I_cut_ur_balls",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T05:53:43.000Z",
+        "description": "Marxista Feminista Revolucionaria Romántica - 妇女能顶半边天。@DrPumfee ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "DrPumfee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "canteramarquina.substack.com",
+                "end": 23,
+                "expanded_url": "https://canteramarquina.substack.com",
+                "start": 0,
+                "url": "https://t.co/LkPIHokDFP"
+              }
+            ]
+          }
+        },
+        "id": "1809828009362534400",
+        "location": "High Court of Communism",
+        "name": "𝑃𝑢𝑚𝑓𝑒𝑒 🌹",
+        "pinned_tweet_id": "2019834821095330160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077045880763408384/ULdVktSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 843,
+          "like_count": 79574,
+          "listed_count": 21,
+          "media_count": 1283,
+          "tweet_count": 27856
+        },
+        "url": "https://t.co/LkPIHokDFP",
+        "username": "Pvmfee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086427827553915144",
+    "created_at": "2026-08-11T22:43:27.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087308945303970234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804218510278823939",
+          "start": 0,
+          "username": "lystodyne2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087308945303970234",
+    "in_reply_to_user_id": "1804218510278823939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086583776734286085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lystodyne2 我知道我是ed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2086583772590354432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUI4s9XsAAYmFr.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086427827553915144",
+        "created_at": "2026-08-11T22:43:27.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087308945303970234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804218510278823939",
+              "start": 0,
+              "username": "lystodyne2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087308945303970234",
+        "in_reply_to_user_id": "1804218510278823939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086583776734286085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lystodyne2 我知道我是ed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086583772590354432"
+          ]
+        },
+        "author_id": "1804218510278823939",
+        "conversation_id": "2086427827553915144",
+        "created_at": "2026-08-09T22:41:53.000Z",
+        "display_text_range": [
+          14,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086583776734286085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oCNnojB6v",
+              "end": 108,
+              "expanded_url": "https://x.com/lystodyne2/status/2086583776734286085/photo/1",
+              "media_key": "3_2086583772590354432",
+              "start": 85,
+              "url": "https://t.co/2oCNnojB6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086583776734286085",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086583772590354432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086427827553915144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我不知道你BMI多少\n但如果不超過18，仍然堅信吃多變更醜，亦因此調整自己的飲食\n很可能已符合DSM V的診斷\n如果都不是的話，就抱歉冒犯了 https://t.co/2oCNnojB6v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087308945303970234",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 811,
+          "like_count": 3048,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T18:23:18.000Z",
+        "description": "",
+        "id": "1804218510278823939",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087291178622587213",
+        "name": "lystodyne2",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894602543474294785/DSqegLNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 33,
+          "like_count": 18555,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1388
+        },
+        "url": "",
+        "username": "lystodyne2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

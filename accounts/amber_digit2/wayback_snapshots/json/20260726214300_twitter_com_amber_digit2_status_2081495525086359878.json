@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081495525086359878",
+    "created_at": "2026-07-26T21:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081495525086359878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1226707681437569024",
+          "start": 3,
+          "username": "Liuzhuanzhao_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081495525086359878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081305599581852046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liuzhuanzhao_CN: Chuang Collective, under the banner of so-called local voices, ends up merely reproducing what was commonly produced b…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081495525086359878",
+        "created_at": "2026-07-26T21:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081495525086359878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1226707681437569024",
+              "start": 3,
+              "username": "Liuzhuanzhao_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081495525086359878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081305599581852046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liuzhuanzhao_CN: Chuang Collective, under the banner of so-called local voices, ends up merely reproducing what was commonly produced b…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226707681437569024",
+        "conversation_id": "2081305599581852046",
+        "created_at": "2026-07-26T09:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081305599581852046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081305599581852046",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3359,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Chuang Collective, under the banner of so-called local voices, ends up merely reproducing what was commonly produced by the mainstream liberal scholarship in English-language Chinese studies around 1980s-2000s, especially regarding research on the Mao era."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 606,
+          "like_count": 1719,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-10T03:21:37.000Z",
+        "description": "*有左翼观念的普通人\n*Mao Nostalgia\n*反对美国主导、中国参与的资本主义秩序现状\n*支持平权主义，支持 🏳️‍🌈&🏳️‍⚧️\n* #FreePalestine\n\n*ASD\n*当代流行文化消费者\n*无孩、爱猫狗\n\n*仅代表自己\n*𝐃𝐍𝐈（直接拉黑）: TERF、皇汉、粉红、保守自由派",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 72,
+                "tag": "FreePalestine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/ZhuanZhao.cn/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/ZhuanZhao.cn/",
+                "start": 0,
+                "url": "https://t.co/0tKH3oJHH5"
+              }
+            ]
+          }
+        },
+        "id": "1226707681437569024",
+        "location": "中华人民共和国（P.R.China 🇨🇳 ）黑龙江省",
+        "name": "竱肇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078076273184960512/aaPMQMtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 239,
+          "like_count": 15648,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/0tKH3oJHH5",
+        "username": "Liuzhuanzhao_CN",
+        "verified": false
+      }
+    ]
+  }
+}

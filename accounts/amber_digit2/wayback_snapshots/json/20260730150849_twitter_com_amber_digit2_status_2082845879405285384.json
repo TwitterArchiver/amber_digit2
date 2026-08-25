@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082836807444500869",
+    "created_at": "2026-07-30T15:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082845879405285384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1388165242740371457",
+          "start": 0,
+          "username": "Lee65535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082845879405285384",
+    "in_reply_to_user_id": "1388165242740371457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082845542753972678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee65535 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082836807444500869",
+        "created_at": "2026-07-30T15:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082845879405285384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1388165242740371457",
+              "start": 0,
+              "username": "Lee65535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082845879405285384",
+        "in_reply_to_user_id": "1388165242740371457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082845542753972678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee65535 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388165242740371457",
+        "conversation_id": "2082836807444500869",
+        "created_at": "2026-07-30T15:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082845542753972678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082845542753972678",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082836807444500869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 utilization太高了 美国是最好控制statement balance在额度的30%以下不知道加拿大是不是一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 663,
+          "like_count": 1933,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T16:16:05.000Z",
+        "description": "中文/English | 🏳️‍⚧️🏳️‍🌈 | she/her | Proud owner of Blåhaj | 你觉得我是什么成分我就是什么成分🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lee65536",
+                "end": 23,
+                "expanded_url": "https://t.me/lee65536",
+                "start": 0,
+                "url": "https://t.co/MYXiDVxB7g"
+              }
+            ]
+          }
+        },
+        "id": "1388165242740371457",
+        "location": "Santa Clara, CA",
+        "name": "Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583326483300306947/YpbDhzim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4147,
+          "following_count": 598,
+          "like_count": 176384,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 11132
+        },
+        "url": "https://t.co/MYXiDVxB7g",
+        "username": "Lee65535",
+        "verified": false
+      }
+    ]
+  }
+}

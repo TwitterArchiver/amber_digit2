@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081059834087030943",
+    "created_at": "2026-07-25T16:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081059834087030943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kunaakem1/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/kunaakem1/status/2080941281841385871",
+          "start": 22,
+          "url": "https://t.co/EEjU9GAARF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081059834087030943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080941281841385871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Houlgate确实简单适合入门，非常推荐 https://t.co/EEjU9GAARF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2080941274979512320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD9EHWaMAAZ7Xu.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081059834087030943",
+        "created_at": "2026-07-25T16:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081059834087030943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kunaakem1/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kunaakem1/status/2080941281841385871",
+              "start": 22,
+              "url": "https://t.co/EEjU9GAARF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081059834087030943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080941281841385871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Houlgate确实简单适合入门，非常推荐 https://t.co/EEjU9GAARF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080941274979512320"
+          ]
+        },
+        "author_id": "1522945124346601474",
+        "conversation_id": "2080941281841385871",
+        "created_at": "2026-07-25T09:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080941281841385871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqHPNfUj1C",
+              "end": 32,
+              "expanded_url": "https://x.com/KunaAkem1/status/2080941281841385871/photo/1",
+              "media_key": "3_2080941274979512320",
+              "start": 9,
+              "url": "https://t.co/BqHPNfUj1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080941281841385871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "《不要读科耶夫》 https://t.co/BqHPNfUj1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3472,
+          "following_count": 570,
+          "like_count": 1572,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六，养猫的",
+        "id": "1522945124346601474",
+        "location": "Unter den Lindern 114514",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067543654445838336/Yc9J9S_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 427,
+          "like_count": 8642,
+          "listed_count": 4,
+          "media_count": 1027,
+          "tweet_count": 6496
+        },
+        "url": "",
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

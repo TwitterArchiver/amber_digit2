@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      }
+    ],
+    "conversation_id": "2087327605829554582",
+    "created_at": "2026-08-11T23:57:36.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087327605829554582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1110620142432448512",
+          "start": 3,
+          "username": "yasontodd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087327605829554582",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087179628989591743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yasontodd: did you guys seriously believe it was representative of korean women on average"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          }
+        ],
+        "conversation_id": "2087327605829554582",
+        "created_at": "2026-08-11T23:57:36.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087327605829554582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1110620142432448512",
+              "start": 3,
+              "username": "yasontodd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087327605829554582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087179628989591743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yasontodd: did you guys seriously believe it was representative of korean women on average"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1110620142432448512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          }
+        ],
+        "conversation_id": "2087179628989591743",
+        "created_at": "2026-08-11T14:09:36.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087179628989591743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bluebirdy_asa/…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/bluebirdy_asa/status/2086685801052598385",
+              "start": 80,
+              "url": "https://t.co/bohFjBd6HI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087179628989591743",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 117161,
+          "like_count": 4802,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086685801052598385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "did you guys seriously believe it was representative of korean women on average https://t.co/bohFjBd6HI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087327605829554582",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4941,
+          "following_count": 811,
+          "like_count": 3054,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-26T19:10:51.000Z",
+        "description": "from the river to the sea 🌊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "decolonizepalestine.com",
+                "end": 23,
+                "expanded_url": "http://decolonizepalestine.com",
+                "start": 0,
+                "url": "https://t.co/g9TmQy9i6b"
+              }
+            ]
+          }
+        },
+        "id": "1110620142432448512",
+        "is_identity_verified": false,
+        "location": "she/her proship dni",
+        "most_recent_tweet_id": "2087326422675390628",
+        "name": "jasmine",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1110620142432448512/1752983922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973698372101173248/Xu0uK_fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 658,
+          "like_count": 229945,
+          "listed_count": 4,
+          "media_count": 1276,
+          "tweet_count": 44075
+        },
+        "url": "https://t.co/g9TmQy9i6b",
+        "username": "yasontodd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

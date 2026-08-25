@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081838606725849416",
+    "created_at": "2026-07-27T20:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081838606725849416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "366290725",
+          "start": 3,
+          "username": "GBBranstetter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081838606725849416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081521750425153714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GBBranstetter: I'll read the book (and did read the excerpt she published last year) but the first problem here is that trans identity…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081838606725849416",
+        "created_at": "2026-07-27T20:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081838606725849416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "366290725",
+              "start": 3,
+              "username": "GBBranstetter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081838606725849416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081521750425153714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GBBranstetter: I'll read the book (and did read the excerpt she published last year) but the first problem here is that trans identity…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "366290725",
+        "conversation_id": "2081521750425153714",
+        "created_at": "2026-07-26T23:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081521750425153714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 291,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2081400499207618596",
+              "start": 268,
+              "url": "https://t.co/OPFNqtbQO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081521750425153714",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7184,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081400499207618596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'll read the book (and did read the excerpt she published last year) but the first problem here is that trans identity is defined (among the public, in the courts, between most trans people) by a pathology that is kept alive to ensure our healthcare is a public good https://t.co/OPFNqtbQO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 628,
+          "like_count": 1750,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-01T22:37:03.000Z",
+        "description": "Opinions are my own\nWriter, comms strategy, media, etc etc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gbbranstetter",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gbbranstetter",
+                "start": 0,
+                "url": "https://t.co/QKTcZOokml"
+              }
+            ]
+          }
+        },
+        "id": "366290725",
+        "location": "New York, New York",
+        "name": "Gillian Branstetter",
+        "pinned_tweet_id": "1519398224951402497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074464357514153984/gZyMRsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46053,
+          "following_count": 3753,
+          "like_count": 61156,
+          "listed_count": 328,
+          "media_count": 5403,
+          "tweet_count": 41813
+        },
+        "url": "https://t.co/QKTcZOokml",
+        "username": "GBBranstetter",
+        "verified": false
+      }
+    ]
+  }
+}

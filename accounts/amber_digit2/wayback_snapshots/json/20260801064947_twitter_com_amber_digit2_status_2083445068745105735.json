@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083445066312318976"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083445068745105735",
+    "created_at": "2026-08-01T06:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083445068745105735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0GNrM4ChX",
+          "end": 75,
+          "expanded_url": "https://x.com/amber_digit2/status/2083445068745105735/photo/1",
+          "media_key": "3_2083445066312318976",
+          "start": 52,
+          "url": "https://t.co/U0GNrM4ChX"
+        },
+        {
+          "display_url": "x.com/poca2381/statu…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/poca2381/status/2083401057678639596",
+          "start": 76,
+          "url": "https://t.co/2DZ7cNeIET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083445068745105735",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083401057678639596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i’m speechless at this point this is just pure evil https://t.co/U0GNrM4ChX https://t.co/2DZ7cNeIET"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2083445066312318976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOniP86WAAAL-ms.jpg",
+        "width": 1206
+      },
+      {
+        "height": 640,
+        "media_key": "3_2083401010488434688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm6LkLaYAATGSZ.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083445066312318976"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083445068745105735",
+        "created_at": "2026-08-01T06:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083445068745105735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0GNrM4ChX",
+              "end": 75,
+              "expanded_url": "https://x.com/amber_digit2/status/2083445068745105735/photo/1",
+              "media_key": "3_2083445066312318976",
+              "start": 52,
+              "url": "https://t.co/U0GNrM4ChX"
+            },
+            {
+              "display_url": "x.com/poca2381/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/poca2381/status/2083401057678639596",
+              "start": 76,
+              "url": "https://t.co/2DZ7cNeIET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083445068745105735",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083401057678639596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i’m speechless at this point this is just pure evil https://t.co/U0GNrM4ChX https://t.co/2DZ7cNeIET"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083401010488434688"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2083401057678639596",
+        "created_at": "2026-08-01T03:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083401057678639596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AvzTIRvy6",
+              "end": 48,
+              "expanded_url": "https://x.com/Poca2381/status/2083401057678639596/photo/1",
+              "media_key": "3_2083401010488434688",
+              "start": 25,
+              "url": "https://t.co/9AvzTIRvy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083401057678639596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【性侵我的教官，成了我继父】\n请问这个世界怎么了 https://t.co/9AvzTIRvy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4184,
+          "following_count": 682,
+          "like_count": 2055,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23262,
+          "following_count": 10225,
+          "like_count": 153908,
+          "listed_count": 52,
+          "media_count": 5818,
+          "tweet_count": 55145
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

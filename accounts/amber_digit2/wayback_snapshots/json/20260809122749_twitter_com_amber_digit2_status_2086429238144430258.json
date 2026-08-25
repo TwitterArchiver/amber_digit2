@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086207251035906142",
+    "created_at": "2026-08-09T12:27:49.000Z",
+    "display_text_range": [
+      34,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086429238144430258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698896439206944769",
+          "start": 0,
+          "username": "combodiabestboy"
+        },
+        {
+          "end": 33,
+          "id": "1825021494805581824",
+          "start": 17,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086429238144430258",
+    "in_reply_to_user_id": "1698896439206944769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086326144048255165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@combodiabestboy @lumuyuanMadoka2 考了大学在你这里不也是臭学生吗有啥用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086207251035906142",
+        "created_at": "2026-08-09T12:27:49.000Z",
+        "display_text_range": [
+          34,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086429238144430258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698896439206944769",
+              "start": 0,
+              "username": "combodiabestboy"
+            },
+            {
+              "end": 33,
+              "id": "1825021494805581824",
+              "start": 17,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086429238144430258",
+        "in_reply_to_user_id": "1698896439206944769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086326144048255165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@combodiabestboy @lumuyuanMadoka2 考了大学在你这里不也是臭学生吗有啥用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698896439206944769",
+        "conversation_id": "2086207251035906142",
+        "created_at": "2026-08-09T05:38:09.000Z",
+        "display_text_range": [
+          31,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086326144048255165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 30,
+              "id": "2041159531657416704",
+              "start": 17,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086326144048255165",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086294087158886666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 @amber_digit2 不上班的臭学生不许评论，先考个大学"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086429238144430258",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 782,
+          "like_count": 2813,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2367
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-05T03:11:02.000Z",
+        "description": "@tataqwq2是我们的塔司令，我们是塔卫兵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "tataqwq2"
+              }
+            ]
+          }
+        },
+        "id": "1698896439206944769",
+        "is_identity_verified": false,
+        "location": "IP属地：猕猴星球Monpainisia",
+        "most_recent_tweet_id": "2086342585459867752",
+        "name": "塔的八宝菜（猴子猴狲）",
+        "pinned_tweet_id": "1859455386925043785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1698896439206944769/1747261894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922781818702487552/OKA5P4BP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 363,
+          "like_count": 49686,
+          "listed_count": 5,
+          "media_count": 1060,
+          "tweet_count": 12760
+        },
+        "url": "",
+        "username": "combodiabestboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "准高二丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語勉強中丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 125,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 102,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "is_identity_verified": false,
+        "location": "圆环之理 ",
+        "most_recent_tweet_id": "2086427999017238935",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2084406484402864423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825021494805581824/1727490299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 664,
+          "like_count": 22875,
+          "listed_count": 11,
+          "media_count": 497,
+          "tweet_count": 7427
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

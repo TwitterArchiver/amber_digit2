@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080654980332060672"
+      ],
+      "media_source_tweet_id": [
+        "2080655072304730374"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080723618598633761",
+    "created_at": "2026-07-24T18:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080723618598633761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970935191322443776",
+          "start": 3,
+          "username": "cinnamonmaxxing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9tpQkeZWU",
+          "end": 79,
+          "expanded_url": "https://x.com/cinnamonmaxxing/status/2080655072304730374/photo/1",
+          "media_key": "3_2080654980332060672",
+          "start": 56,
+          "url": "https://t.co/p9tpQkeZWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080723618598633761",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080655072304730374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cinnamonmaxxing: truth mega super duper atomic bomb https://t.co/p9tpQkeZWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2080654980332060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_4rkrXAAAvEM8.png",
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080654980332060672"
+          ]
+        },
+        "author_id": "1970935191322443776",
+        "conversation_id": "2080655072304730374",
+        "created_at": "2026-07-24T14:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080655072304730374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9tpQkeZWU",
+              "end": 58,
+              "expanded_url": "https://x.com/cinnamonmaxxing/status/2080655072304730374/photo/1",
+              "media_key": "3_2080654980332060672",
+              "start": 35,
+              "url": "https://t.co/p9tpQkeZWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080655072304730374",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2266,
+          "like_count": 302,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "truth mega super duper atomic bomb https://t.co/p9tpQkeZWU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080654980332060672"
+          ],
+          "media_source_tweet_id": [
+            "2080655072304730374"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080723618598633761",
+        "created_at": "2026-07-24T18:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080723618598633761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970935191322443776",
+              "start": 3,
+              "username": "cinnamonmaxxing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9tpQkeZWU",
+              "end": 79,
+              "expanded_url": "https://x.com/cinnamonmaxxing/status/2080655072304730374/photo/1",
+              "media_key": "3_2080654980332060672",
+              "start": 56,
+              "url": "https://t.co/p9tpQkeZWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080723618598633761",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080655072304730374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cinnamonmaxxing: truth mega super duper atomic bomb https://t.co/p9tpQkeZWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 553,
+          "like_count": 1510,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T19:36:00.000Z",
+        "description": "bisexual cis male . ambient music fan . #1 jackass fan . orthorexic and bipolar . 20 . tme transfeminist . college student  . @diver_fell 's cool bf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "diver_fell"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cinnamonmaxxinq.straw.page",
+                "end": 23,
+                "expanded_url": "https://cinnamonmaxxinq.straw.page",
+                "start": 0,
+                "url": "https://t.co/LnEHPHkOHJ"
+              }
+            ]
+          }
+        },
+        "id": "1970935191322443776",
+        "location": "beantown",
+        "name": "marc 🇬🇷🇮🇹 (he/αυτός)",
+        "pinned_tweet_id": "2079740605081571441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078560851389288448/CYilh4zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 791,
+          "like_count": 43518,
+          "listed_count": 1,
+          "media_count": 845,
+          "tweet_count": 15030
+        },
+        "url": "https://t.co/LnEHPHkOHJ",
+        "username": "cinnamonmaxxing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084359471845855618",
+    "created_at": "2026-08-03T19:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T20:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084359471845855618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "17083331",
+          "start": 3,
+          "username": "Futurhythm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084359471845855618",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084089850203185283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Futurhythm: A Chinese woman being right-wing is somehow a scandal shows just how little all of you understand Chinese culture."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084359471845855618",
+        "created_at": "2026-08-03T19:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084359471845855618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "17083331",
+              "start": 3,
+              "username": "Futurhythm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084359471845855618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084089850203185283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Futurhythm: A Chinese woman being right-wing is somehow a scandal shows just how little all of you understand Chinese culture."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17083331",
+        "conversation_id": "2084089850203185283",
+        "created_at": "2026-08-03T01:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084089850203185283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084089850203185283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 144256,
+          "like_count": 3696,
+          "quote_count": 18,
+          "reply_count": 27,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "A Chinese woman being right-wing is somehow a scandal shows just how little all of you understand Chinese culture."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 719,
+          "like_count": 2274,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2008-10-31T11:04:01.000Z",
+        "description": "Writer and Cantonese–English translator. Sinophone and East Asian cinema (especially from Hong Kong)\nContact: dylan.ym.cheung at gmail\nbsky: dylancheung",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yatdaamhei/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yatdaamhei/",
+                "start": 0,
+                "url": "https://t.co/OOpBBmnqPQ"
+              }
+            ]
+          }
+        },
+        "id": "17083331",
+        "location": "Sydney",
+        "name": "Dylan Cheung",
+        "pinned_tweet_id": "2062959938931225035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621493177738985473/IsfsycJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6344,
+          "following_count": 2154,
+          "like_count": 32418,
+          "listed_count": 41,
+          "media_count": 1862,
+          "tweet_count": 9336
+        },
+        "url": "https://t.co/OOpBBmnqPQ",
+        "username": "Futurhythm",
+        "verified": false
+      }
+    ]
+  }
+}

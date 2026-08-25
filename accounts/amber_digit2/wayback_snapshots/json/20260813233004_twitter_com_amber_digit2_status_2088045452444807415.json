@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088045449861058560",
+        "3_2088045449852719104"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088045452444807415",
+    "created_at": "2026-08-13T23:30:04.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088045452444807415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CH4HJPJGBK",
+          "end": 38,
+          "expanded_url": "https://x.com/amber_digit2/status/2088045452444807415/photo/1",
+          "media_key": "3_2088045449861058560",
+          "start": 15,
+          "url": "https://t.co/CH4HJPJGBK"
+        },
+        {
+          "display_url": "pic.x.com/CH4HJPJGBK",
+          "end": 38,
+          "expanded_url": "https://x.com/amber_digit2/status/2088045452444807415/photo/1",
+          "media_key": "3_2088045449852719104",
+          "start": 15,
+          "url": "https://t.co/CH4HJPJGBK"
+        },
+        {
+          "display_url": "x.com/im_furryr/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/im_furryr/status/2087919726794297461",
+          "start": 39,
+          "url": "https://t.co/BcD3mvaaL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088045452444807415",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088045449861058560"
+      },
+      {
+        "media_key": "3_2088045449852719104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087919726794297461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反对激女，理解激女，成为激女 https://t.co/CH4HJPJGBK https://t.co/BcD3mvaaL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088045449861058560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPo6RhHW0AA_ict.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088045449852719104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPo6RhFXkAAl_2g.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088045449861058560",
+            "3_2088045449852719104"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088045452444807415",
+        "created_at": "2026-08-13T23:30:04.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088045452444807415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH4HJPJGBK",
+              "end": 38,
+              "expanded_url": "https://x.com/amber_digit2/status/2088045452444807415/photo/1",
+              "media_key": "3_2088045449861058560",
+              "start": 15,
+              "url": "https://t.co/CH4HJPJGBK"
+            },
+            {
+              "display_url": "pic.x.com/CH4HJPJGBK",
+              "end": 38,
+              "expanded_url": "https://x.com/amber_digit2/status/2088045452444807415/photo/1",
+              "media_key": "3_2088045449852719104",
+              "start": 15,
+              "url": "https://t.co/CH4HJPJGBK"
+            },
+            {
+              "display_url": "x.com/im_furryr/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/im_furryr/status/2087919726794297461",
+              "start": 39,
+              "url": "https://t.co/BcD3mvaaL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088045452444807415",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088045449861058560"
+          },
+          {
+            "media_key": "3_2088045449852719104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087919726794297461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对激女，理解激女，成为激女 https://t.co/CH4HJPJGBK https://t.co/BcD3mvaaL9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480114855440834562",
+        "conversation_id": "2087560216208441823",
+        "created_at": "2026-08-13T15:10:29.000Z",
+        "display_text_range": [
+          15,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087919726794297461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1205748134892032000",
+              "start": 0,
+              "username": "Liquid_Pomelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087919726794297461",
+        "in_reply_to_user_id": "1205748134892032000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 316,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087560216208441823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liquid_Pomelo 激同不存在平权派就没办法讲道理。激同是开路的，平权是平路的，三好是在后面蹭路还搞窝里斗的。你可以不理解，但不要否定他们，因为当你被顺直冲塔的时候，第一时间上来声援你的是激同。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088045452444807415",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 847,
+          "like_count": 3332,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 2611
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-09T09:51:28.000Z",
+        "description": "🏳️‍🌈 NSFW | Gay (たち/ねこ可) | フルスタックデベロッパー | DMs open\n中文 🉑 | 日本語 🉑 | English OK | 他 AI\n非政治主義です。仲良くしてどうぞ。\n炎上去国内平台，别在这里增加刻板印象。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furryr.is-a.dev",
+                "end": 23,
+                "expanded_url": "http://furryr.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/MXiYZbqAzR"
+              }
+            ]
+          }
+        },
+        "id": "1480114855440834562",
+        "is_identity_verified": false,
+        "location": "Nowhere",
+        "most_recent_tweet_id": "2088045333452575121",
+        "name": "熊谷凌",
+        "pinned_tweet_id": "1951227406565409130",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936089042535272448/tUTh0u4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 329,
+          "like_count": 5748,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/MXiYZbqAzR",
+        "username": "im_furryr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

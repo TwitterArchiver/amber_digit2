@@ -1,0 +1,1075 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086428718084268033",
+        "3_2086428718113734656",
+        "3_2086428718101082112",
+        "3_2086428718092750848"
+      ],
+      "media_source_tweet_id": [
+        "2086428724417740868",
+        "2086428724417740868",
+        "2086428724417740868",
+        "2086428724417740868"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1483428590096044032",
+          "name": "Germany Olympic Team"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1483428590096044032",
+          "name": "Germany Olympic Team"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483428590096044032",
+          "name": "Germany Olympic Team"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "2086524409192309126",
+    "created_at": "2026-08-09T18:45:59.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086524409192309126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1489193775142420487",
+          "start": 3,
+          "username": "stallboerger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/96zpdOj49H",
+          "end": 72,
+          "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+          "media_key": "3_2086428718084268033",
+          "start": 49,
+          "url": "https://t.co/96zpdOj49H"
+        },
+        {
+          "display_url": "pic.x.com/96zpdOj49H",
+          "end": 72,
+          "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+          "media_key": "3_2086428718113734656",
+          "start": 49,
+          "url": "https://t.co/96zpdOj49H"
+        },
+        {
+          "display_url": "pic.x.com/96zpdOj49H",
+          "end": 72,
+          "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+          "media_key": "3_2086428718101082112",
+          "start": 49,
+          "url": "https://t.co/96zpdOj49H"
+        },
+        {
+          "display_url": "pic.x.com/96zpdOj49H",
+          "end": 72,
+          "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+          "media_key": "3_2086428718092750848",
+          "start": 49,
+          "url": "https://t.co/96zpdOj49H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086524409192309126",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086428718084268033"
+      },
+      {
+        "media_key": "3_2086428718113734656"
+      },
+      {
+        "media_key": "3_2086428718101082112"
+      },
+      {
+        "media_key": "3_2086428718092750848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086428724417740868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stallboerger: the graphic design was so good https://t.co/96zpdOj49H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086428718084268033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR73V6WIAEdrog.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2086428718113734656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR73WBXwAAbD_P.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2086428718101082112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR73V-WsAABncZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2086428718092750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR73V8XkAAVyqW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086428718084268033",
+            "3_2086428718113734656",
+            "3_2086428718101082112",
+            "3_2086428718092750848"
+          ]
+        },
+        "author_id": "1489193775142420487",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1483428590096044032",
+              "name": "Germany Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1483428590096044032",
+              "name": "Germany Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483428590096044032",
+              "name": "Germany Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2086428724417740868",
+        "created_at": "2026-08-09T12:25:46.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086428724417740868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 54,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718084268033",
+              "start": 31,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 54,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718113734656",
+              "start": 31,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 54,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718101082112",
+              "start": 31,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 54,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718092750848",
+              "start": 31,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "x.com/luusssso/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/luusssso/status/2086144744774664510",
+              "start": 55,
+              "url": "https://t.co/EKdNyxwnbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086428724417740868",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086428718084268033"
+          },
+          {
+            "media_key": "3_2086428718113734656"
+          },
+          {
+            "media_key": "3_2086428718101082112"
+          },
+          {
+            "media_key": "3_2086428718092750848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 51683,
+          "like_count": 1271,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086144744774664510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the graphic design was so good https://t.co/96zpdOj49H https://t.co/EKdNyxwnbl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086428718084268033",
+            "3_2086428718113734656",
+            "3_2086428718101082112",
+            "3_2086428718092750848"
+          ],
+          "media_source_tweet_id": [
+            "2086428724417740868",
+            "2086428724417740868",
+            "2086428724417740868",
+            "2086428724417740868"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1483428590096044032",
+              "name": "Germany Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1483428590096044032",
+              "name": "Germany Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483428590096044032",
+              "name": "Germany Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2086524409192309126",
+        "created_at": "2026-08-09T18:45:59.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086524409192309126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1489193775142420487",
+              "start": 3,
+              "username": "stallboerger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 72,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718084268033",
+              "start": 49,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 72,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718113734656",
+              "start": 49,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 72,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718101082112",
+              "start": 49,
+              "url": "https://t.co/96zpdOj49H"
+            },
+            {
+              "display_url": "pic.x.com/96zpdOj49H",
+              "end": 72,
+              "expanded_url": "https://x.com/stallboerger/status/2086428724417740868/photo/1",
+              "media_key": "3_2086428718092750848",
+              "start": 49,
+              "url": "https://t.co/96zpdOj49H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086524409192309126",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086428718084268033"
+          },
+          {
+            "media_key": "3_2086428718113734656"
+          },
+          {
+            "media_key": "3_2086428718101082112"
+          },
+          {
+            "media_key": "3_2086428718092750848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086428724417740868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stallboerger: the graphic design was so good https://t.co/96zpdOj49H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086524409192309126",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4794,
+          "following_count": 787,
+          "like_count": 2852,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2394
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-03T11:07:45.000Z",
+        "description": "Designer @spacingco @samanicons",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "spacingco"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "samanicons"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stallboerger.com",
+                "end": 23,
+                "expanded_url": "http://stallboerger.com",
+                "start": 0,
+                "url": "https://t.co/aameQdj7zG"
+              }
+            ]
+          }
+        },
+        "id": "1489193775142420487",
+        "is_identity_verified": true,
+        "location": "Berlin, Germany",
+        "most_recent_tweet_id": "2086461729303597565",
+        "name": "Anton",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489193775142420487/1697301250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995536485257293824/-xMbRMq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 642,
+          "like_count": 21900,
+          "listed_count": 30,
+          "media_count": 401,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/aameQdj7zG",
+        "username": "stallboerger",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1471213785922752513",
+          "name": "Bell Hooks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471213785922752513",
+          "name": "Bell Hooks"
+        }
+      }
+    ],
+    "conversation_id": "2081296813210906731",
+    "created_at": "2026-07-26T08:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081296813210906731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1160600759962079232",
+          "start": 3,
+          "username": "MarthaAhumuza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081296813210906731",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081239252847767952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarthaAhumuza: The average woman doesn't struggle to love men. If anything, she's been conditioned to love them a little too much that…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          }
+        ],
+        "conversation_id": "2081296813210906731",
+        "created_at": "2026-07-26T08:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081296813210906731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1160600759962079232",
+              "start": 3,
+              "username": "MarthaAhumuza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081296813210906731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081239252847767952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MarthaAhumuza: The average woman doesn't struggle to love men. If anything, she's been conditioned to love them a little too much that…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160600759962079232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          }
+        ],
+        "conversation_id": "2081239252847767952",
+        "created_at": "2026-07-26T04:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081239252847767952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suchnerve/stat…",
+              "end": 287,
+              "expanded_url": "https://twitter.com/suchnerve/status/2080725263285911931",
+              "start": 264,
+              "url": "https://t.co/ehVOV50WLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081239252847767952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 21744,
+          "like_count": 1409,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080725263285911931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The average woman doesn't struggle to love men. If anything, she's been conditioned to love them a little too much that often it's at the expense of her own safety, dignity and self preservation. The world has never suffered from a shortage of women who love men. https://t.co/ehVOV50WLW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 594,
+          "like_count": 1668,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-11T17:15:58.000Z",
+        "description": "Weak Black Woman🖤😇\nMedical Student ✌️\nWomen supporting women 🔥\n FEMINIST 💃",
+        "id": "1160600759962079232",
+        "location": "Uganda",
+        "name": "Martha Ahumuza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995462848340725761/lW-0xXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11808,
+          "following_count": 707,
+          "like_count": 36311,
+          "listed_count": 28,
+          "media_count": 385,
+          "tweet_count": 20227
+        },
+        "url": "",
+        "username": "MarthaAhumuza",
+        "verified": false
+      }
+    ]
+  }
+}

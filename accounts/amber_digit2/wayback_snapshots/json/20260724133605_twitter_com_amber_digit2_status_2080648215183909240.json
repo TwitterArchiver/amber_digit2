@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080573589053693952"
+      ],
+      "media_source_tweet_id": [
+        "2080573597605855390"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080648215183909240",
+    "created_at": "2026-07-24T13:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080648215183909240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENyfF55mRM",
+          "end": 58,
+          "expanded_url": "https://x.com/Moningmeng/status/2080573597605855390/photo/1",
+          "media_key": "3_2080573589053693952",
+          "start": 35,
+          "url": "https://t.co/ENyfF55mRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080648215183909240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080573597605855390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: 已经确定了，QQ把mtf列为违禁词了 https://t.co/ENyfF55mRM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2080573589053693952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-up-ia4AAWIdd.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080573589053693952"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080573597605855390",
+        "created_at": "2026-07-24T08:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080573597605855390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENyfF55mRM",
+              "end": 42,
+              "expanded_url": "https://x.com/Moningmeng/status/2080573597605855390/photo/1",
+              "media_key": "3_2080573589053693952",
+              "start": 19,
+              "url": "https://t.co/ENyfF55mRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080573597605855390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4447,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "已经确定了，QQ把mtf列为违禁词了 https://t.co/ENyfF55mRM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080573589053693952"
+          ],
+          "media_source_tweet_id": [
+            "2080573597605855390"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080648215183909240",
+        "created_at": "2026-07-24T13:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080648215183909240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684788633797287936",
+              "start": 3,
+              "username": "Moningmeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENyfF55mRM",
+              "end": 58,
+              "expanded_url": "https://x.com/Moningmeng/status/2080573597605855390/photo/1",
+              "media_key": "3_2080573589053693952",
+              "start": 35,
+              "url": "https://t.co/ENyfF55mRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080648215183909240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080573597605855390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moningmeng: 已经确定了，QQ把mtf列为违禁词了 https://t.co/ENyfF55mRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3248,
+          "following_count": 553,
+          "like_count": 1500,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28791,
+          "following_count": 12027,
+          "like_count": 96282,
+          "listed_count": 105,
+          "media_count": 5524,
+          "tweet_count": 19502
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

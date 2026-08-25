@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2090471762882392091",
+    "created_at": "2026-08-20T16:11:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090471762882392091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "359348018",
+          "start": 3,
+          "username": "PriseTwinkle"
+        },
+        {
+          "end": 41,
+          "id": "1977200375766958082",
+          "start": 28,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090471762882392091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090469915702788225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PriseTwinkle: 我方强烈谴责抗议沐媛@yvanyvandecw，间接售卖亚硝酸盐，利用平台规定不完善绕过监管购买危害剧毒化学制品亚硝酸盐， 神化自杀和自残，导致 4～5 人已购买。事实上，如果对方只是暂时情绪崩溃，而在此时有扇风点火，这可能让无辜的生命为沐媛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3361,
+        "media_key": "3_2090469864968441856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLXRDMaUAAqX3o.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2090469885449207808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLXSPfaAAAWePf.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2090469901408620544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLXTK8bUAAfcei.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2090471762882392091",
+        "created_at": "2026-08-20T16:11:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090471762882392091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "359348018",
+              "start": 3,
+              "username": "PriseTwinkle"
+            },
+            {
+              "end": 41,
+              "id": "1977200375766958082",
+              "start": 28,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090471762882392091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090469915702788225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PriseTwinkle: 我方强烈谴责抗议沐媛@yvanyvandecw，间接售卖亚硝酸盐，利用平台规定不完善绕过监管购买危害剧毒化学制品亚硝酸盐， 神化自杀和自残，导致 4～5 人已购买。事实上，如果对方只是暂时情绪崩溃，而在此时有扇风点火，这可能让无辜的生命为沐媛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090469864968441856",
+            "3_2090469885449207808",
+            "3_2090469901408620544"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090469915702788225",
+        "created_at": "2026-08-20T16:04:01.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090469915702788225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1977200375766958082",
+              "start": 10,
+              "username": "yvanyvandecw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9ZzGjxRZN",
+              "end": 169,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090469915702788225/photo/1",
+              "media_key": "3_2090469864968441856",
+              "start": 146,
+              "url": "https://t.co/g9ZzGjxRZN"
+            },
+            {
+              "display_url": "pic.x.com/g9ZzGjxRZN",
+              "end": 169,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090469915702788225/photo/1",
+              "media_key": "3_2090469885449207808",
+              "start": 146,
+              "url": "https://t.co/g9ZzGjxRZN"
+            },
+            {
+              "display_url": "pic.x.com/g9ZzGjxRZN",
+              "end": 169,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090469915702788225/photo/1",
+              "media_key": "3_2090469901408620544",
+              "start": 146,
+              "url": "https://t.co/g9ZzGjxRZN"
+            },
+            {
+              "display_url": "x.com/Mwdxj29477/sta…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/Mwdxj29477/status/2090423725824868374",
+              "start": 170,
+              "url": "https://t.co/CBaJpPPAe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090469915702788225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090469864968441856"
+          },
+          {
+            "media_key": "3_2090469885449207808"
+          },
+          {
+            "media_key": "3_2090469901408620544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 23,
+                "id": "1977200375766958082",
+                "start": 10,
+                "username": "yvanyvandecw"
+              },
+              {
+                "end": 224,
+                "id": "1977200375766958082",
+                "start": 211,
+                "username": "yvanyvandecw"
+              }
+            ]
+          },
+          "text": "我方强烈谴责抗议沐媛@yvanyvandecw，间接售卖亚硝酸盐，利用平台规定不完善绕过监管购买危害剧毒化学制品亚硝酸盐， 神化自杀和自残，导致 4～5 人已购买。事实上，如果对方只是暂时情绪崩溃，而在此时有扇风点火，这可能让无辜的生命为沐媛陪葬，这种行为是绝对不正确且感到惭愧的偶发事件。\n被指出后，拒不认错，以“只不过是她们发现了”，“我只是卖了一个账号”“她们咋样管我屁事” 推脱责任，藐视生命尊严。\n我方希望涉事者@yvanyvandecw删除关于此内容并且删除关于此的一切内容。\n目前我以依法举报此网站售卖危险化学制品"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090423725824868374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我方强烈谴责抗议沐媛@yvanyvandecw，间接售卖亚硝酸盐，利用平台规定不完善绕过监管购买危害剧毒化学制品亚硝酸盐， 神化自杀和自残，导致 4～5 人已购买。事实上，如果对方只是暂时情绪崩溃，而在此时有扇风点火，这可能让无辜的生命为沐媛陪葬，这种行为是绝对不正确且感到惭愧的偶发事件。 https://t.co/g9ZzGjxRZN https://t.co/CBaJpPPAe0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090471762882392091",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5243,
+          "following_count": 884,
+          "like_count": 4032,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 2947
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090469915702788225",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8627,
+          "following_count": 69,
+          "like_count": 330,
+          "listed_count": 160,
+          "media_count": 75,
+          "tweet_count": 1765
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚15岁天残xyn 初二 155cm/44.5kg  💊&🔪\n同类互fo喵😋灌注沐媛谢谢喵🥺坐标柳州😇\n无人在意の小透明 🍥2026.5.13\n大部分时候脑子正常🧐超级社恐😩\n发现被在乎的小细节会开心一整天🥺\n生产日期：11.06.15 保质期：即将过期\n扩列请加Q3776451683丨tg@muyvan_666",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvanyvandecw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvanyvandecw",
+                "start": 0,
+                "url": "https://t.co/zWQwc9nNML"
+              }
+            ]
+          }
+        },
+        "id": "1977200375766958082",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2090143071874994288",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2083256949760794964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977200375766958082/1781425509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 497,
+          "like_count": 1725,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/zWQwc9nNML",
+        "username": "yvanyvandecw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2089031039951798315",
+    "created_at": "2026-08-16T16:46:26.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089031039951798315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n0daeetcimaz3g…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/n0daeetcimaz3g0/status/2088895696430858601",
+          "start": 19,
+          "url": "https://t.co/DtSXwF4Y8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089031039951798315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088895696430858601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们男的为了骗照片看黄真是诡计多端啊 https://t.co/DtSXwF4Y8S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2089031039951798315",
+        "created_at": "2026-08-16T16:46:26.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089031039951798315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n0daeetcimaz3g…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/n0daeetcimaz3g0/status/2088895696430858601",
+              "start": 19,
+              "url": "https://t.co/DtSXwF4Y8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089031039951798315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088895696430858601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们男的为了骗照片看黄真是诡计多端啊 https://t.co/DtSXwF4Y8S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4589496975",
+        "conversation_id": "2088895696430858601",
+        "created_at": "2026-08-16T07:48:38.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088895696430858601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088895696430858601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 61005,
+          "like_count": 430,
+          "quote_count": 2,
+          "reply_count": 135,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "各位，我做一个网站，大家一起收集并且上传这些婊子的信息，如何？不仅仅王水牛这种事情，在小红书或者抖音，看到任何烂裤裆，打女权，或者捞女言论的，大家直接截图（最重要的是能拿到本人照片）上传到我的网站。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089031039951798315",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5135,
+          "following_count": 863,
+          "like_count": 3573,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-24T13:22:07.000Z",
+        "description": "红丸主义，姨学，支那人",
+        "id": "4589496975",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2088960513107767481",
+        "name": "缅北芝麻驴",
+        "pinned_tweet_id": "1570699463060226051",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4589496975/1578758205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753827452810674176/MRoN8HRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 527,
+          "like_count": 42223,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 6790
+        },
+        "url": "",
+        "username": "n0daeetCIMaZ3g0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

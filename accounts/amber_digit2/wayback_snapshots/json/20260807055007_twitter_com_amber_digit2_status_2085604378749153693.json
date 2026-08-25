@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Ariana Grande",
+          "id": "806557506851848192",
+          "name": "Ariana Grande"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Ariana Grande",
+          "id": "806557506851848192",
+          "name": "Ariana Grande"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ariana Grande",
+          "id": "806557506851848192",
+          "name": "Ariana Grande"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "2085604378749153693",
+    "created_at": "2026-08-07T05:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085604378749153693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poptime/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/poptime/status/2082798524559679603",
+          "start": 19,
+          "url": "https://t.co/ZIWzTV5aJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085604378749153693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082798524559679603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "针对女性的身材规训完全是一种慢性谋杀 https://t.co/ZIWzTV5aJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2082796116102311936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeUCE_XcAAyL3O.jpg",
+        "width": 855
+      },
+      {
+        "height": 1237,
+        "media_key": "3_2082796115993276416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeUCElXsAAE8ak.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ariana Grande",
+              "id": "806557506851848192",
+              "name": "Ariana Grande"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ariana Grande",
+              "id": "806557506851848192",
+              "name": "Ariana Grande"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ariana Grande",
+              "id": "806557506851848192",
+              "name": "Ariana Grande"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2085604378749153693",
+        "created_at": "2026-08-07T05:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085604378749153693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poptime/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/poptime/status/2082798524559679603",
+              "start": 19,
+              "url": "https://t.co/ZIWzTV5aJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085604378749153693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082798524559679603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "针对女性的身材规训完全是一种慢性谋杀 https://t.co/ZIWzTV5aJZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082796116102311936",
+            "3_2082796115993276416"
+          ]
+        },
+        "author_id": "918197046871502849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ariana Grande",
+              "id": "806557506851848192",
+              "name": "Ariana Grande"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ariana Grande",
+              "id": "806557506851848192",
+              "name": "Ariana Grande"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ariana Grande",
+              "id": "806557506851848192",
+              "name": "Ariana Grande"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2082798524559679603",
+        "created_at": "2026-07-30T12:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:51:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082796161031606745",
+          "2082798524559679603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2alKjmAJH",
+              "end": 74,
+              "expanded_url": "https://x.com/poptime/status/2082798524559679603/photo/1",
+              "media_key": "3_2082796116102311936",
+              "start": 51,
+              "url": "https://t.co/B2alKjmAJH"
+            },
+            {
+              "display_url": "pic.x.com/B2alKjmAJH",
+              "end": 74,
+              "expanded_url": "https://x.com/poptime/status/2082798524559679603/photo/1",
+              "media_key": "3_2082796115993276416",
+              "start": 51,
+              "url": "https://t.co/B2alKjmAJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082798524559679603",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6829,
+          "impression_count": 24506073,
+          "like_count": 65887,
+          "quote_count": 5006,
+          "reply_count": 3696,
+          "retweet_count": 1018
+        },
+        "reply_settings": "everyone",
+        "text": "Ariana Grande foi fotografada com fã recentemente. https://t.co/B2alKjmAJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4690,
+          "following_count": 769,
+          "like_count": 2662,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-11T19:30:10.000Z",
+        "description": "⚡ Há 10 anos trazendo tudo que é POPular em TEMPO real.\n📍 Mundo, música, cinema, tv, séries e celebs com muito humor.\n📬 Publicidade: poptime@deubuzz.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/poptimebra/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/poptimebra/",
+                "start": 0,
+                "url": "https://t.co/TXWlTfUIjN"
+              }
+            ]
+          }
+        },
+        "id": "918197046871502849",
+        "name": "POPTime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951465429626441728/8obuQJ41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907681,
+          "following_count": 7125,
+          "like_count": 28540,
+          "listed_count": 1354,
+          "media_count": 76023,
+          "tweet_count": 88258
+        },
+        "url": "https://t.co/TXWlTfUIjN",
+        "username": "poptime",
+        "verified": true
+      }
+    ]
+  }
+}

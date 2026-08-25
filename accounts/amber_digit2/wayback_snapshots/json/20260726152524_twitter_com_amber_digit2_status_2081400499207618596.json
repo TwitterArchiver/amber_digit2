@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Harvard University",
+          "id": "10047480136",
+          "name": "Harvard University"
+        }
+      }
+    ],
+    "conversation_id": "2081400499207618596",
+    "created_at": "2026-07-26T15:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081400499207618596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flr_louis/stat…",
+          "end": 304,
+          "expanded_url": "https://twitter.com/flr_louis/status/2081285339570659473",
+          "start": 281,
+          "url": "https://t.co/5SIon6b6SR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081400499207618596",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Was lucky enough to read a chapter manuscript from it and have to say it is one of the most daring and insightful treatises on trans history I’ve recently read (it also settles every argument concerning the transsexual/trans and tma/tme distinction that happens on this site). JGP tears down the entire post-1990s “transgender” movement (very explicitly led by theyfabs) by showing how its positioning of gender as a purely psychological category (private property) and its foregrounding of non-transitioning queer people engendered a middle-class politics that reworked gender nonconformity into a marker of taste/distinction, thereby becoming complicit with the neoliberal privatization of transitioning technologies and the marginalization of transsexuals. A must-read."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081285339570659473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Was lucky enough to read a chapter manuscript from it and have to say it is one of the most daring and insightful treatises on trans history I’ve recently read (it also settles every argument concerning the transsexual/trans and tma/tme distinction that happens on this site). JGP https://t.co/5SIon6b6SR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2081285329831518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI1-vjW4AABEsB.jpg",
+        "width": 990
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2081285329814704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI1-vfWUAAK7st.png",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2081400499207618596",
+        "created_at": "2026-07-26T15:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081400499207618596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flr_louis/stat…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/flr_louis/status/2081285339570659473",
+              "start": 281,
+              "url": "https://t.co/5SIon6b6SR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081400499207618596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Was lucky enough to read a chapter manuscript from it and have to say it is one of the most daring and insightful treatises on trans history I’ve recently read (it also settles every argument concerning the transsexual/trans and tma/tme distinction that happens on this site). JGP tears down the entire post-1990s “transgender” movement (very explicitly led by theyfabs) by showing how its positioning of gender as a purely psychological category (private property) and its foregrounding of non-transitioning queer people engendered a middle-class politics that reworked gender nonconformity into a marker of taste/distinction, thereby becoming complicit with the neoliberal privatization of transitioning technologies and the marginalization of transsexuals. A must-read."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081285339570659473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Was lucky enough to read a chapter manuscript from it and have to say it is one of the most daring and insightful treatises on trans history I’ve recently read (it also settles every argument concerning the transsexual/trans and tma/tme distinction that happens on this site). JGP https://t.co/5SIon6b6SR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081285329831518208",
+            "3_2081285329814704128"
+          ]
+        },
+        "author_id": "629048512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2081285339570659473",
+        "created_at": "2026-07-26T07:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081285339570659473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hono5DGesj",
+              "end": 142,
+              "expanded_url": "https://x.com/flr_louis/status/2081285339570659473/photo/1",
+              "media_key": "3_2081285329831518208",
+              "start": 119,
+              "url": "https://t.co/hono5DGesj"
+            },
+            {
+              "display_url": "pic.x.com/hono5DGesj",
+              "end": 142,
+              "expanded_url": "https://x.com/flr_louis/status/2081285339570659473/photo/1",
+              "media_key": "3_2081285329814704128",
+              "start": 119,
+              "url": "https://t.co/hono5DGesj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081285339570659473",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 53730,
+          "like_count": 80,
+          "quote_count": 37,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Jules Gill-Peterson - Transgender Liberalism\n\nHow an Elite Class Shaped an Identity\n\nÀ paraître en mars aux Harvard UP https://t.co/hono5DGesj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 594,
+          "like_count": 1674,
+          "listed_count": 9,
+          "media_count": 120,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-07T05:43:11.000Z",
+        "description": "Historian of IR and Geopolitical Theories - Monitoring of Humanities and Social Sciences Literature - Work for @Grand_Continent @GEG_org",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "Grand_Continent"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "GEG_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "legrandcontinent.eu/fr/staff/flori…",
+                "end": 23,
+                "expanded_url": "https://legrandcontinent.eu/fr/staff/florian-louis",
+                "start": 0,
+                "url": "https://t.co/Pc5BLUDkXK"
+              }
+            ]
+          }
+        },
+        "id": "629048512",
+        "location": "Paris, France",
+        "name": "Florian Louis",
+        "pinned_tweet_id": "2052058327752888422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478266214057193472/KzZXwh3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28327,
+          "following_count": 3340,
+          "like_count": 4048,
+          "listed_count": 199,
+          "media_count": 30259,
+          "tweet_count": 35375
+        },
+        "url": "https://t.co/Pc5BLUDkXK",
+        "username": "flr_louis",
+        "verified": false
+      }
+    ]
+  }
+}

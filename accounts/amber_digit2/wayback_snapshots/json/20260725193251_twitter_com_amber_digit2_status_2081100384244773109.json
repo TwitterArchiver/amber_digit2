@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081100384244773109",
+    "created_at": "2026-07-25T19:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081100384244773109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531371310420467713",
+          "start": 3,
+          "username": "0liviaolive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081100384244773109",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081083001752990005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @0liviaolive: Hermaphroditus isn't real. They're a culture's view of transfeminised bodies (intersex or trans alike), and the majority o…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081100384244773109",
+        "created_at": "2026-07-25T19:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081100384244773109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531371310420467713",
+              "start": 3,
+              "username": "0liviaolive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081100384244773109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081083001752990005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @0liviaolive: Hermaphroditus isn't real. They're a culture's view of transfeminised bodies (intersex or trans alike), and the majority o…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531371310420467713",
+        "conversation_id": "2081083001752990005",
+        "created_at": "2026-07-25T18:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081083001752990005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QueenMomichan/…",
+              "end": 267,
+              "expanded_url": "https://twitter.com/QueenMomichan/status/2080323474770296865",
+              "start": 244,
+              "url": "https://t.co/KmbqWrpFYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081083001752990005",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080323474770296865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "Hermaphroditus isn't real. They're a culture's view of transfeminised bodies (intersex or trans alike), and the majority of people they represent don't use he/him, that's what projected onto us by the backwards patriarchal systems in question. https://t.co/KmbqWrpFYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 10,
+                "username": "wgsi"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3485,
+          "following_count": 572,
+          "like_count": 1587,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-30T20:25:55.000Z",
+        "description": "dialectical-materialist transfeminist.\n☭🚩⚧🏳️‍⚧️⚢\nfix your hearts or die",
+        "id": "1531371310420467713",
+        "location": "21",
+        "name": "0live 🇵🇸🇸🇩🇨🇺 🐇🐈🦌",
+        "pinned_tweet_id": "1962314293388492979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040830804096356352/CiI0TMTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4944,
+          "following_count": 2605,
+          "like_count": 300918,
+          "listed_count": 12,
+          "media_count": 9998,
+          "tweet_count": 62609
+        },
+        "url": "",
+        "username": "0liviaolive",
+        "verified": false
+      }
+    ]
+  }
+}

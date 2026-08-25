@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082633524629118976",
+        "3_2082633524612333568"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2082633527883882949",
+    "created_at": "2026-07-30T01:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082633527883882949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uw1FcZldmP",
+          "end": 70,
+          "expanded_url": "https://x.com/amber_digit2/status/2082633527883882949/photo/1",
+          "media_key": "3_2082633524629118976",
+          "start": 47,
+          "url": "https://t.co/uw1FcZldmP"
+        },
+        {
+          "display_url": "pic.x.com/uw1FcZldmP",
+          "end": 70,
+          "expanded_url": "https://x.com/amber_digit2/status/2082633527883882949/photo/1",
+          "media_key": "3_2082633524612333568",
+          "start": 47,
+          "url": "https://t.co/uw1FcZldmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082633527883882949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怪不得我变成药娘了，我翻相册才发现原来是我在初一和高一刚入学的时候也尝试学过计算机和化学竞赛 https://t.co/uw1FcZldmP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_2082633524629118976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcAKAjWoAAKBmI.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1973,
+        "media_key": "3_2082633524612333568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcAKAfWgAAN3D6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082633524629118976",
+            "3_2082633524612333568"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2082633527883882949",
+        "created_at": "2026-07-30T01:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082633527883882949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw1FcZldmP",
+              "end": 70,
+              "expanded_url": "https://x.com/amber_digit2/status/2082633527883882949/photo/1",
+              "media_key": "3_2082633524629118976",
+              "start": 47,
+              "url": "https://t.co/uw1FcZldmP"
+            },
+            {
+              "display_url": "pic.x.com/uw1FcZldmP",
+              "end": 70,
+              "expanded_url": "https://x.com/amber_digit2/status/2082633527883882949/photo/1",
+              "media_key": "3_2082633524612333568",
+              "start": 47,
+              "url": "https://t.co/uw1FcZldmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082633527883882949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪不得我变成药娘了，我翻相册才发现原来是我在初一和高一刚入学的时候也尝试学过计算机和化学竞赛 https://t.co/uw1FcZldmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 655,
+          "like_count": 1875,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

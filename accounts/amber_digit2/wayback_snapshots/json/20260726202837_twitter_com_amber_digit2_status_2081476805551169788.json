@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081270877270978985",
+    "created_at": "2026-07-26T20:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081476805551169788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587341634119036929",
+          "start": 0,
+          "username": "reririro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081476805551169788",
+    "in_reply_to_user_id": "1587341634119036929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081270877270978985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reririro 不奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081270877270978985",
+        "created_at": "2026-07-26T20:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081476805551169788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587341634119036929",
+              "start": 0,
+              "username": "reririro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081476805551169788",
+        "in_reply_to_user_id": "1587341634119036929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081270877270978985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reririro 不奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587341634119036929",
+        "conversation_id": "2081270877270978985",
+        "created_at": "2026-07-26T06:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081270877270978985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2081221530592108852",
+              "start": 55,
+              "url": "https://t.co/5BClc61Zw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081270877270978985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 695,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I dated one of these in 2023. Worst mistake of my life https://t.co/5BClc61Zw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "#药娘 phd @wgsi / 中文, en, fr / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 8,
+                "username": "wgsi"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3752,
+          "following_count": 602,
+          "like_count": 1707,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1588
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-01T07:12:02.000Z",
+        "description": "3D artist \non the side: lowlevel programmer / reverse engineer / sysadmin\n🇺🇦 🇵🇸",
+        "id": "1587341634119036929",
+        "location": "she/her ",
+        "name": "bývalý voják tttt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081271399839416320/M4mJwcMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 921,
+          "like_count": 17491,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "reririro",
+        "verified": false
+      }
+    ]
+  }
+}

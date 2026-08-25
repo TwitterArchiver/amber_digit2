@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083435239880503399",
+    "created_at": "2026-08-01T06:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083435799807221934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664627530425352192",
+          "start": 0,
+          "username": "MGlimpze26770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083435799807221934",
+    "in_reply_to_user_id": "1664627530425352192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083435239880503399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MGlimpze26770 显然口无遮拦并不会防止ta成为偶像而是更有可能促使ta成为偶像，这点我也已经和ta表达过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083435239880503399",
+        "created_at": "2026-08-01T06:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083435799807221934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664627530425352192",
+              "start": 0,
+              "username": "MGlimpze26770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083435799807221934",
+        "in_reply_to_user_id": "1664627530425352192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083435239880503399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MGlimpze26770 显然口无遮拦并不会防止ta成为偶像而是更有可能促使ta成为偶像，这点我也已经和ta表达过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664627530425352192",
+        "conversation_id": "2083435239880503399",
+        "created_at": "2026-08-01T06:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083435239880503399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083428198923001993",
+              "start": 91,
+              "url": "https://t.co/mwgbqtmbps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083435239880503399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428198923001993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“相当皇帝”这部分的论述我觉得并不是很能够接受，我并不觉得有很多人想他要当皇帝什么，“口无遮拦来破除偶像性”这种假设真的成立吗？我只会觉得从比较理性的角度很难去感觉到他到底会做什么 https://t.co/mwgbqtmbps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4182,
+          "following_count": 681,
+          "like_count": 2051,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 408,
+          "like_count": 9005,
+          "listed_count": 2,
+          "media_count": 841,
+          "tweet_count": 7951
+        },
+        "url": "",
+        "username": "MGlimpze26770",
+        "verified": false
+      }
+    ]
+  }
+}

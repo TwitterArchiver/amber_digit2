@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086442030515781632"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around Fashion",
+          "id": "1006277139233103872",
+          "name": "Behavior around fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Swimwear",
+          "id": "846725037595869185",
+          "name": "Swimwear"
+        }
+      }
+    ],
+    "conversation_id": "2086442034726834283",
+    "created_at": "2026-08-09T13:18:39.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086442034726834283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tPKSIDgWOl",
+          "end": 27,
+          "expanded_url": "https://x.com/amber_digit2/status/2086442034726834283/photo/1",
+          "media_key": "3_2086442030515781632",
+          "start": 4,
+          "url": "https://t.co/tPKSIDgWOl"
+        },
+        {
+          "display_url": "x.com/tinglespoon/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/tinglespoon/status/2085834566565233024",
+          "start": 28,
+          "url": "https://t.co/yJjoAXdK1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086442034726834283",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2086442030515781632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085834566565233024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "why https://t.co/tPKSIDgWOl https://t.co/yJjoAXdK1B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086442030515781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSH-OlWgAARIMX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1671,
+        "media_key": "3_2085833067286138880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJeH5xakAAUKNX.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085834099185610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJfD95a8AAVoQT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2085833066996793345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJeH4sbgAEPbP6.jpg",
+        "width": 703
+      },
+      {
+        "height": 1763,
+        "media_key": "3_2085833067705622528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJeH7VbYAA2nC_.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086442030515781632"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "2086442034726834283",
+        "created_at": "2026-08-09T13:18:39.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086442034726834283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPKSIDgWOl",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_digit2/status/2086442034726834283/photo/1",
+              "media_key": "3_2086442030515781632",
+              "start": 4,
+              "url": "https://t.co/tPKSIDgWOl"
+            },
+            {
+              "display_url": "x.com/tinglespoon/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/tinglespoon/status/2085834566565233024",
+              "start": 28,
+              "url": "https://t.co/yJjoAXdK1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086442034726834283",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2086442030515781632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085834566565233024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "why https://t.co/tPKSIDgWOl https://t.co/yJjoAXdK1B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085833067286138880",
+            "3_2085834099185610752",
+            "3_2085833066996793345",
+            "3_2085833067705622528"
+          ]
+        },
+        "author_id": "1269409906559311872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "2085834566565233024",
+        "created_at": "2026-08-07T21:04:48.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085834566565233024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWflkF0QUR",
+              "end": 52,
+              "expanded_url": "https://x.com/tinglespoon/status/2085834566565233024/photo/1",
+              "media_key": "3_2085833067286138880",
+              "start": 29,
+              "url": "https://t.co/FWflkF0QUR"
+            },
+            {
+              "display_url": "pic.x.com/FWflkF0QUR",
+              "end": 52,
+              "expanded_url": "https://x.com/tinglespoon/status/2085834566565233024/photo/1",
+              "media_key": "3_2085834099185610752",
+              "start": 29,
+              "url": "https://t.co/FWflkF0QUR"
+            },
+            {
+              "display_url": "pic.x.com/FWflkF0QUR",
+              "end": 52,
+              "expanded_url": "https://x.com/tinglespoon/status/2085834566565233024/photo/1",
+              "media_key": "3_2085833066996793345",
+              "start": 29,
+              "url": "https://t.co/FWflkF0QUR"
+            },
+            {
+              "display_url": "pic.x.com/FWflkF0QUR",
+              "end": 52,
+              "expanded_url": "https://x.com/tinglespoon/status/2085834566565233024/photo/1",
+              "media_key": "3_2085833067705622528",
+              "start": 29,
+              "url": "https://t.co/FWflkF0QUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085834566565233024",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2085833067286138880"
+          },
+          {
+            "media_key": "3_2085834099185610752"
+          },
+          {
+            "media_key": "3_2085833066996793345"
+          },
+          {
+            "media_key": "3_2085833067705622528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2836,
+          "impression_count": 277025,
+          "like_count": 21500,
+          "quote_count": 61,
+          "reply_count": 108,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "wear that bikini trans girl! https://t.co/FWflkF0QUR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086442034726834283",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 783,
+          "like_count": 2823,
+          "listed_count": 5,
+          "media_count": 182,
+          "tweet_count": 2373
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-06T23:25:09.000Z",
+        "description": "proud woman, lesbian, leftist, feminist, antifascist, apostate. radically pro-transgender. 20",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "evedevittfund.org",
+                "end": 23,
+                "expanded_url": "https://www.evedevittfund.org/",
+                "start": 0,
+                "url": "https://t.co/D6fneeZzCU"
+              }
+            ]
+          }
+        },
+        "id": "1269409906559311872",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2086201932230898087",
+        "name": "Eve",
+        "pinned_tweet_id": "1997436878295863573",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269409906559311872/1761446054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982274215974756352/X6ZNt7WD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13506,
+          "following_count": 661,
+          "like_count": 305763,
+          "listed_count": 15,
+          "media_count": 1130,
+          "tweet_count": 14801
+        },
+        "url": "https://t.co/D6fneeZzCU",
+        "username": "tinglespoon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

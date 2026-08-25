@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083431818876047360"
+      ],
+      "media_source_tweet_id": [
+        "2083431821191319838"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083735020980613544",
+    "created_at": "2026-08-02T02:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083735020980613544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "959616779520679936",
+          "start": 3,
+          "username": "crowmoder"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvFemDD8Mz",
+          "end": 38,
+          "expanded_url": "https://x.com/crowmoder/status/2083431821191319838/photo/1",
+          "media_key": "3_2083431818876047360",
+          "start": 15,
+          "url": "https://t.co/lvFemDD8Mz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083735020980613544",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 800
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083431821191319838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crowmoder: https://t.co/lvFemDD8Mz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2083431818876047360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnWM2XaUAAmIZJ.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083431818876047360"
+          ]
+        },
+        "author_id": "959616779520679936",
+        "conversation_id": "2083431821191319838",
+        "created_at": "2026-08-01T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083431821191319838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvFemDD8Mz",
+              "end": 23,
+              "expanded_url": "https://x.com/crowmoder/status/2083431821191319838/photo/1",
+              "media_key": "3_2083431818876047360",
+              "start": 0,
+              "url": "https://t.co/lvFemDD8Mz"
+            },
+            {
+              "display_url": "x.com/sukikage_/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sukikage_/status/2083035972116140507",
+              "start": 24,
+              "url": "https://t.co/EjGiQROWTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083431821191319838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 86873,
+          "like_count": 8119,
+          "quote_count": 18,
+          "reply_count": 6,
+          "retweet_count": 800
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083035972116140507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/lvFemDD8Mz https://t.co/EjGiQROWTX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083431818876047360"
+          ],
+          "media_source_tweet_id": [
+            "2083431821191319838"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083735020980613544",
+        "created_at": "2026-08-02T02:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083735020980613544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "959616779520679936",
+              "start": 3,
+              "username": "crowmoder"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvFemDD8Mz",
+              "end": 38,
+              "expanded_url": "https://x.com/crowmoder/status/2083431821191319838/photo/1",
+              "media_key": "3_2083431818876047360",
+              "start": 15,
+              "url": "https://t.co/lvFemDD8Mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083735020980613544",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 800
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083431821191319838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crowmoder: https://t.co/lvFemDD8Mz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ/ ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 701,
+          "like_count": 2153,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-03T02:37:23.000Z",
+        "description": "i love yuri... and yaoi....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mltys.straw.page",
+                "end": 23,
+                "expanded_url": "https://mltys.straw.page/",
+                "start": 0,
+                "url": "https://t.co/tM8xIlRvs3"
+              }
+            ]
+          }
+        },
+        "id": "959616779520679936",
+        "location": "20 (They/She)🩷💜💙",
+        "name": "Melty 🐦‍⬛🇲🇽",
+        "pinned_tweet_id": "2062387594345017467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078305159692845056/-c3uz10P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 627,
+          "like_count": 154473,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 5609
+        },
+        "url": "https://t.co/tM8xIlRvs3",
+        "username": "crowmoder",
+        "verified": false
+      }
+    ]
+  }
+}

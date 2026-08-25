@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088138586306855382",
+    "created_at": "2026-08-14T14:00:53.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088264598613115374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "343278091",
+          "start": 0,
+          "username": "shyhaimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088264598613115374",
+    "in_reply_to_user_id": "343278091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088138586306855382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyhaimao 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088138577788186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqO-RrasAA9ixd.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088138586306855382",
+        "created_at": "2026-08-14T14:00:53.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088264598613115374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "343278091",
+              "start": 0,
+              "username": "shyhaimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088264598613115374",
+        "in_reply_to_user_id": "343278091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088138586306855382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyhaimao 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088138577788186624"
+          ]
+        },
+        "author_id": "343278091",
+        "conversation_id": "2088138586306855382",
+        "created_at": "2026-08-14T05:40:09.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088138586306855382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upRSxnjPeD",
+              "end": 37,
+              "expanded_url": "https://x.com/shyhaimao/status/2088138586306855382/photo/1",
+              "media_key": "3_2088138577788186624",
+              "start": 14,
+              "url": "https://t.co/upRSxnjPeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088138586306855382",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088138577788186624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4948,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "不看 TI 了，看看我吧。 https://t.co/upRSxnjPeD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088264598613115374",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5099,
+          "following_count": 851,
+          "like_count": 3370,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-27T09:41:05.000Z",
+        "description": "碎碎念 / 事实妓女 / #dom #fetish #latex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "dom"
+              },
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "fetish"
+              },
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "latex"
+              }
+            ]
+          }
+        },
+        "id": "343278091",
+        "is_identity_verified": false,
+        "location": "@yaminas0",
+        "most_recent_tweet_id": "2088261283376443673",
+        "name": "紫",
+        "pinned_tweet_id": "1927758691350045153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343278091/1599655616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327949313306107904/_X2CsouO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11695,
+          "following_count": 1080,
+          "like_count": 1439,
+          "listed_count": 38,
+          "media_count": 408,
+          "tweet_count": 8224
+        },
+        "url": "",
+        "username": "shyhaimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

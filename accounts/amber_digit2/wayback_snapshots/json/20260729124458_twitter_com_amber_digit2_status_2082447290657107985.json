@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082447290657107985",
+    "created_at": "2026-07-29T12:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082447290657107985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1364709891596636160",
+          "start": 3,
+          "username": "fangsxbangs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082447290657107985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15673
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078377951930790129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fangsxbangs: reposts not being on your main page is another way to silence information from spreading. every change on this app is abou…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082447290657107985",
+        "created_at": "2026-07-29T12:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082447290657107985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1364709891596636160",
+              "start": 3,
+              "username": "fangsxbangs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082447290657107985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15673
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078377951930790129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fangsxbangs: reposts not being on your main page is another way to silence information from spreading. every change on this app is abou…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364709891596636160",
+        "conversation_id": "2078377951930790129",
+        "created_at": "2026-07-18T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078377951930790129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078377951930790129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2967,
+          "impression_count": 1138036,
+          "like_count": 52941,
+          "quote_count": 1468,
+          "reply_count": 199,
+          "retweet_count": 15673
+        },
+        "reply_settings": "everyone",
+        "text": "reposts not being on your main page is another way to silence information from spreading. every change on this app is about disrupting the flow of information and breaking down community. i’ve been saying this since day one. this isn’t about aesthetics"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4053,
+          "following_count": 649,
+          "like_count": 1848,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-24T22:52:58.000Z",
+        "description": "*⋆ mexican vampire girl ⭑ book sommelier ⭑ early 2000s movie connoisseur ⭑ lover of gothic horror ⋆* backup acct: @xoxogothicgorl ☠︎︎ mdni ☠︎︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 114,
+                "username": "xoxogothicgorl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/QAEQ9VNJUYF6?ref_=list_d_wl_ys_list_1",
+                "start": 0,
+                "url": "https://t.co/b1nOfl37iD"
+              }
+            ]
+          }
+        },
+        "id": "1364709891596636160",
+        "location": "in a coffin w music & a book",
+        "name": "𝔟𝔯𝔦𝔱𝔱",
+        "pinned_tweet_id": "1989933575542853880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997603285205716992/-y9B5OyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9668,
+          "following_count": 6173,
+          "like_count": 339957,
+          "listed_count": 117,
+          "media_count": 23747,
+          "tweet_count": 184382
+        },
+        "url": "https://t.co/b1nOfl37iD",
+        "username": "fangsxbangs",
+        "verified": false
+      }
+    ]
+  }
+}

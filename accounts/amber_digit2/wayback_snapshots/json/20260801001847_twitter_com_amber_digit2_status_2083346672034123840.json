@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083346672034123840",
+    "created_at": "2026-08-01T00:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083346672034123840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1042034847093612551",
+          "start": 3,
+          "username": "CharlotteERosen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083346672034123840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083303188522745954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CharlotteERosen: I DO think there are multiple strains of political thought that fall under the heading of prison and police abolition…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083346672034123840",
+        "created_at": "2026-08-01T00:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083346672034123840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1042034847093612551",
+              "start": 3,
+              "username": "CharlotteERosen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083346672034123840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083303188522745954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CharlotteERosen: I DO think there are multiple strains of political thought that fall under the heading of prison and police abolition…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1042034847093612551",
+        "conversation_id": "2083303188522745954",
+        "created_at": "2026-07-31T21:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083303188522745954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083303188522745954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 966,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "I DO think there are multiple strains of political thought that fall under the heading of prison and police abolition and I actually wish we discussed their tensions more HOWEVER some of you are very dumb :("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 678,
+          "like_count": 2021,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1845
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-18T12:57:22.000Z",
+        "description": "random person",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "charlotteerosen.com",
+                "end": 23,
+                "expanded_url": "https://charlotteerosen.com/",
+                "start": 0,
+                "url": "https://t.co/RmNswJw7nA"
+              }
+            ]
+          }
+        },
+        "id": "1042034847093612551",
+        "location": "Chicago, IL",
+        "name": "Charlotte E. Rosen",
+        "pinned_tweet_id": "2044420972183224698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833198054981120000/niU1HV_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7318,
+          "following_count": 4614,
+          "like_count": 140651,
+          "listed_count": 47,
+          "media_count": 622,
+          "tweet_count": 44817
+        },
+        "url": "https://t.co/RmNswJw7nA",
+        "username": "CharlotteERosen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085785642819035136",
+        "3_2085785642802249728"
+      ],
+      "media_source_tweet_id": [
+        "2085785647898321301",
+        "2085785647898321301"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085824839827255463",
+    "created_at": "2026-08-07T20:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085824839827255463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1300378919103799296",
+          "start": 3,
+          "username": "praxiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0lLuTaRkK",
+          "end": 120,
+          "expanded_url": "https://x.com/praxiss/status/2085785647898321301/photo/1",
+          "media_key": "3_2085785642819035136",
+          "start": 97,
+          "url": "https://t.co/A0lLuTaRkK"
+        },
+        {
+          "display_url": "pic.x.com/A0lLuTaRkK",
+          "end": 120,
+          "expanded_url": "https://x.com/praxiss/status/2085785647898321301/photo/1",
+          "media_key": "3_2085785642802249728",
+          "start": 97,
+          "url": "https://t.co/A0lLuTaRkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085824839827255463",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085785647898321301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @praxiss: Walter Benjamin’s “The Writer’s Technique in Thirteen Theses,” from One-Way Street. https://t.co/A0lLuTaRkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2085785642819035136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIy_b3WoAARKh3.jpg",
+        "width": 1050
+      },
+      {
+        "height": 1075,
+        "media_key": "3_2085785642802249728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIy_bzWgAAKJyn.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085785642819035136",
+            "3_2085785642802249728"
+          ]
+        },
+        "author_id": "1300378919103799296",
+        "conversation_id": "2085785647898321301",
+        "created_at": "2026-08-07T17:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085785647898321301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0lLuTaRkK",
+              "end": 107,
+              "expanded_url": "https://x.com/praxiss/status/2085785647898321301/photo/1",
+              "media_key": "3_2085785642819035136",
+              "start": 84,
+              "url": "https://t.co/A0lLuTaRkK"
+            },
+            {
+              "display_url": "pic.x.com/A0lLuTaRkK",
+              "end": 107,
+              "expanded_url": "https://x.com/praxiss/status/2085785647898321301/photo/1",
+              "media_key": "3_2085785642802249728",
+              "start": 84,
+              "url": "https://t.co/A0lLuTaRkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085785647898321301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1630,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Walter Benjamin’s “The Writer’s Technique in Thirteen Theses,” from One-Way Street. https://t.co/A0lLuTaRkK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085785642819035136",
+            "3_2085785642802249728"
+          ],
+          "media_source_tweet_id": [
+            "2085785647898321301",
+            "2085785647898321301"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085824839827255463",
+        "created_at": "2026-08-07T20:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085824839827255463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1300378919103799296",
+              "start": 3,
+              "username": "praxiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0lLuTaRkK",
+              "end": 120,
+              "expanded_url": "https://x.com/praxiss/status/2085785647898321301/photo/1",
+              "media_key": "3_2085785642819035136",
+              "start": 97,
+              "url": "https://t.co/A0lLuTaRkK"
+            },
+            {
+              "display_url": "pic.x.com/A0lLuTaRkK",
+              "end": 120,
+              "expanded_url": "https://x.com/praxiss/status/2085785647898321301/photo/1",
+              "media_key": "3_2085785642802249728",
+              "start": 97,
+              "url": "https://t.co/A0lLuTaRkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085824839827255463",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085785647898321301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @praxiss: Walter Benjamin’s “The Writer’s Technique in Thirteen Theses,” from One-Way Street. https://t.co/A0lLuTaRkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4717,
+          "following_count": 776,
+          "like_count": 2705,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-31T10:24:40.000Z",
+        "description": "An enthusiastic researcher bsky account: https://t.co/25ora6RFhW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lesoci…",
+                "end": 64,
+                "expanded_url": "https://bsky.app/profile/lesociologuex.bsky.social",
+                "start": 41,
+                "url": "https://t.co/25ora6RFhW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ibkara.tas/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ibkara.tas/",
+                "start": 0,
+                "url": "https://t.co/9oJjtvPlQU"
+              }
+            ]
+          }
+        },
+        "id": "1300378919103799296",
+        "name": "Praxis",
+        "pinned_tweet_id": "2055571978661052571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079713134839820288/cY0qU_jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45753,
+          "following_count": 758,
+          "like_count": 133576,
+          "listed_count": 222,
+          "media_count": 239,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/9oJjtvPlQU",
+        "username": "praxiss",
+        "verified": false
+      }
+    ]
+  }
+}

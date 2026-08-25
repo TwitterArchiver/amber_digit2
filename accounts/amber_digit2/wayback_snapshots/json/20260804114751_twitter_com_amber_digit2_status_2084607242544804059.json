@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084303278364409856"
+      ],
+      "media_source_tweet_id": [
+        "2084303279660392528"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084607242544804059",
+    "created_at": "2026-08-04T11:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084607242544804059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "22018221",
+          "start": 3,
+          "username": "ThatEricAlper"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RaFKaOoTiK",
+          "end": 42,
+          "expanded_url": "https://x.com/ThatEricAlper/status/2084303279660392528/photo/1",
+          "media_key": "3_2084303278364409856",
+          "start": 19,
+          "url": "https://t.co/RaFKaOoTiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084607242544804059",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2494
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084303279660392528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThatEricAlper: https://t.co/RaFKaOoTiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2084303278364409856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzuyd8XwAAHo4E.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084303278364409856"
+          ]
+        },
+        "author_id": "22018221",
+        "conversation_id": "2084303279660392528",
+        "created_at": "2026-08-03T15:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084303279660392528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaFKaOoTiK",
+              "end": 23,
+              "expanded_url": "https://x.com/ThatEricAlper/status/2084303279660392528/photo/1",
+              "media_key": "3_2084303278364409856",
+              "start": 0,
+              "url": "https://t.co/RaFKaOoTiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084303279660392528",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1486,
+          "impression_count": 432610,
+          "like_count": 38346,
+          "quote_count": 17,
+          "reply_count": 114,
+          "retweet_count": 2494
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RaFKaOoTiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084303278364409856"
+          ],
+          "media_source_tweet_id": [
+            "2084303279660392528"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084607242544804059",
+        "created_at": "2026-08-04T11:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084607242544804059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "22018221",
+              "start": 3,
+              "username": "ThatEricAlper"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaFKaOoTiK",
+              "end": 42,
+              "expanded_url": "https://x.com/ThatEricAlper/status/2084303279660392528/photo/1",
+              "media_key": "3_2084303278364409856",
+              "start": 19,
+              "url": "https://t.co/RaFKaOoTiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084607242544804059",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084303279660392528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThatEricAlper: https://t.co/RaFKaOoTiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4552,
+          "following_count": 736,
+          "like_count": 2367,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-26T15:08:31.000Z",
+        "description": "Freelance Music Publicist. SiriusXM Host. Shameless Idealist. Lifelong Musicaholic. I talk about Music News in the Media. Eric@ThatEricAlper.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ThatEricAlper.com",
+                "end": 23,
+                "expanded_url": "https://ThatEricAlper.com",
+                "start": 0,
+                "url": "https://t.co/yyQlWgX2YH"
+              }
+            ]
+          }
+        },
+        "id": "22018221",
+        "location": "Toronto",
+        "name": "Eric Alper 🎧",
+        "pinned_tweet_id": "2077852261472931842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855907,
+          "following_count": 11949,
+          "like_count": 122,
+          "listed_count": 4920,
+          "media_count": 70261,
+          "tweet_count": 112620
+        },
+        "url": "https://t.co/yyQlWgX2YH",
+        "username": "ThatEricAlper",
+        "verified": true
+      }
+    ]
+  }
+}

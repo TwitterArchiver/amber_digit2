@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082697305833066793",
+    "created_at": "2026-07-30T05:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082697305833066793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1650562179668795392",
+          "start": 3,
+          "username": "mokeymokey725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082697305833066793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082591739672777184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokeymokey725: 简单来说，我们要永远记得一个最大的陷阱：结构之下一切都可以被异化，甚至包括你抵抗异化的努力。这不是你的错，但错误的后果会施加于你身上。不要懒，要时刻记得自己的位置，不要掉进兔子给你挖的坑里去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082697305833066793",
+        "created_at": "2026-07-30T05:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082697305833066793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1650562179668795392",
+              "start": 3,
+              "username": "mokeymokey725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082697305833066793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082591739672777184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokeymokey725: 简单来说，我们要永远记得一个最大的陷阱：结构之下一切都可以被异化，甚至包括你抵抗异化的努力。这不是你的错，但错误的后果会施加于你身上。不要懒，要时刻记得自己的位置，不要掉进兔子给你挖的坑里去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650562179668795392",
+        "conversation_id": "2082590145417736539",
+        "created_at": "2026-07-29T22:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082591739672777184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082591739672777184",
+        "in_reply_to_user_id": "1650562179668795392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082591166747578744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简单来说，我们要永远记得一个最大的陷阱：结构之下一切都可以被异化，甚至包括你抵抗异化的努力。这不是你的错，但错误的后果会施加于你身上。不要懒，要时刻记得自己的位置，不要掉进兔子给你挖的坑里去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 658,
+          "like_count": 1900,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T18:07:52.000Z",
+        "description": "¿",
+        "id": "1650562179668795392",
+        "name": "随风飘飘游×毁灭不死鸟魔侠",
+        "pinned_tweet_id": "2081852233969463686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982669043501875200/7NL0S1xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 59,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 14871
+        },
+        "url": "",
+        "username": "mokeymokey725",
+        "verified": false
+      }
+    ]
+  }
+}

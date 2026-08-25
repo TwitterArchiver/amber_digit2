@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082628502482784323",
+    "created_at": "2026-07-30T00:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T01:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082628502482784323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RomcomUke/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/RomcomUke/status/1948054426951815440",
+          "start": 17,
+          "url": "https://t.co/iMLCWkbS5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082628502482784323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948054426951815440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了这东西都传到什么地方去了 https://t.co/iMLCWkbS5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 332,
+        "media_key": "3_1948053981164408838",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwjgxk6XEAYebD5.png",
+        "width": 412
+      },
+      {
+        "height": 280,
+        "media_key": "3_1948054163599798272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwjg8MiWMAASD_W.png",
+        "width": 218
+      },
+      {
+        "height": 280,
+        "media_key": "3_1948054269292122114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjhCWRXEAIOUWd.png",
+        "width": 182
+      },
+      {
+        "height": 280,
+        "media_key": "3_1948054419959910404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjhLHjXEAQCwz9.png",
+        "width": 257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082628502482784323",
+        "created_at": "2026-07-30T00:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082628502482784323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RomcomUke/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/RomcomUke/status/1948054426951815440",
+              "start": 17,
+              "url": "https://t.co/iMLCWkbS5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082628502482784323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948054426951815440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了这东西都传到什么地方去了 https://t.co/iMLCWkbS5S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948053981164408838",
+            "3_1948054163599798272",
+            "3_1948054269292122114",
+            "3_1948054419959910404"
+          ]
+        },
+        "author_id": "1427746641763872771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948031037335867674",
+        "created_at": "2025-07-23T16:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948054426951815440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "841865131780935680",
+              "start": 0,
+              "username": "witchof0x20"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0gRXo9afi",
+              "end": 130,
+              "expanded_url": "https://x.com/SettingInAgain/status/1948054426951815440/photo/1",
+              "media_key": "3_1948053981164408838",
+              "start": 107,
+              "url": "https://t.co/x0gRXo9afi"
+            },
+            {
+              "display_url": "pic.x.com/x0gRXo9afi",
+              "end": 130,
+              "expanded_url": "https://x.com/SettingInAgain/status/1948054426951815440/photo/1",
+              "media_key": "3_1948054163599798272",
+              "start": 107,
+              "url": "https://t.co/x0gRXo9afi"
+            },
+            {
+              "display_url": "pic.x.com/x0gRXo9afi",
+              "end": 130,
+              "expanded_url": "https://x.com/SettingInAgain/status/1948054426951815440/photo/1",
+              "media_key": "3_1948054269292122114",
+              "start": 107,
+              "url": "https://t.co/x0gRXo9afi"
+            },
+            {
+              "display_url": "pic.x.com/x0gRXo9afi",
+              "end": 130,
+              "expanded_url": "https://x.com/SettingInAgain/status/1948054426951815440/photo/1",
+              "media_key": "3_1948054419959910404",
+              "start": 107,
+              "url": "https://t.co/x0gRXo9afi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948054426951815440",
+        "in_reply_to_user_id": "841865131780935680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 606,
+          "impression_count": 43176,
+          "like_count": 2038,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948031037335867674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@witchof0x20 i've got a whole stickerpack of debian_mtf stickers and i have no idea what they translate to https://t.co/x0gRXo9afi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 653,
+          "like_count": 1873,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-17T21:38:26.000Z",
+        "description": "I'm just not there \nLife's just not fair \nLife's just not fair",
+        "id": "1427746641763872771",
+        "location": "22, mtf, 3.5 years hrt, taken",
+        "name": "Arina",
+        "pinned_tweet_id": "2045646504946274782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076297199047131136/5ko2B6Ob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 3261,
+          "like_count": 395981,
+          "listed_count": 1,
+          "media_count": 1000,
+          "tweet_count": 3115
+        },
+        "url": "",
+        "username": "RomcomUke",
+        "verified": false
+      }
+    ]
+  }
+}

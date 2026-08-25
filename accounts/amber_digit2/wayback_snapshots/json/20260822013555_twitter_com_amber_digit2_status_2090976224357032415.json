@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090594226698354968",
+    "created_at": "2026-08-22T01:35:55.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090976224357032415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "931822189325643776",
+          "start": 0,
+          "username": "Yukinarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090976224357032415",
+    "in_reply_to_user_id": "931822189325643776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090725149729538381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukinarine 那你名字旁边那个鱼板是什么意思啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-22T01:35:55.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090976224357032415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "931822189325643776",
+              "start": 0,
+              "username": "Yukinarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090976224357032415",
+        "in_reply_to_user_id": "931822189325643776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090725149729538381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukinarine 那你名字旁边那个鱼板是什么意思啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931822189325643776",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-21T08:58:14.000Z",
+        "display_text_range": [
+          14,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090725149729538381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090725149729538381",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090602749779906892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 哦对了，女性也有很多特权，如果你没体验过那就说明女性当的很失败。\n哦，跨子啊，那看来确实不怎么成功😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090976224357032415",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5351,
+          "following_count": 897,
+          "like_count": 4151,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 3107
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-18T09:51:37.000Z",
+        "description": "いいよ、恋よ",
+        "id": "931822189325643776",
+        "is_identity_verified": false,
+        "location": "Tribeca, Manhattan",
+        "most_recent_tweet_id": "2090727171870630217",
+        "name": "吟游诗人德哈卡🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931822189325643776/1518270057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690374435197399040/UtpMMhgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "Yukinarine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2079661794709090358",
+    "created_at": "2026-07-22T23:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080077381507686504"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080077381507686504",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079661794709090358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更新：图中的质疑者和我的Threads账号均已被该组织拉黑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2079661791324356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxxYXTXQAAdfEy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1663,
+        "media_key": "3_2079661791332749312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxxYXVXUAAbTQk.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2079661791332683776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxxYXVWUAAb4oG.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079661791332691968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxxYXVWcAAqcFK.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2079661794709090358",
+        "created_at": "2026-07-22T23:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080077381507686504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080077381507686504",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079661794709090358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新：图中的质疑者和我的Threads账号均已被该组织拉黑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079661791324356608",
+            "3_2079661791332749312",
+            "3_2079661791332683776",
+            "3_2079661791332691968"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2079661794709090358",
+        "created_at": "2026-07-21T20:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079661794709090358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ON8vQH80R",
+              "end": 171,
+              "expanded_url": "https://x.com/amber_digit2/status/2079661794709090358/photo/1",
+              "media_key": "3_2079661791324356608",
+              "start": 148,
+              "url": "https://t.co/0ON8vQH80R"
+            },
+            {
+              "display_url": "pic.x.com/0ON8vQH80R",
+              "end": 171,
+              "expanded_url": "https://x.com/amber_digit2/status/2079661794709090358/photo/1",
+              "media_key": "3_2079661791332749312",
+              "start": 148,
+              "url": "https://t.co/0ON8vQH80R"
+            },
+            {
+              "display_url": "pic.x.com/0ON8vQH80R",
+              "end": 171,
+              "expanded_url": "https://x.com/amber_digit2/status/2079661794709090358/photo/1",
+              "media_key": "3_2079661791332683776",
+              "start": 148,
+              "url": "https://t.co/0ON8vQH80R"
+            },
+            {
+              "display_url": "pic.x.com/0ON8vQH80R",
+              "end": 171,
+              "expanded_url": "https://x.com/amber_digit2/status/2079661794709090358/photo/1",
+              "media_key": "3_2079661791332691968",
+              "start": 148,
+              "url": "https://t.co/0ON8vQH80R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079661794709090358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5206,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "请在德国的跨儿朋友警惕一个名为“PiliPata”的华人酷儿女权组织：该组织在关注了一知名TERF账号并被一名社群伙伴质疑后，选择拉黑和攻击指控者并要求对方道歉，且拒绝对质疑进行任何正面回应。此前，该组织也使用过女性酷儿这样的排除性术语。请大家警惕此类打着酷儿女权名号、但对反跨毫不作为的组织。 https://t.co/0ON8vQH80R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "PhD @wgsi @uoft\n🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/DV9hgFq4EG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 15,
+                "start": 10,
+                "username": "uoft"
+              },
+              {
+                "end": 34,
+                "start": 18,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 61,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 38,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 64,
+                "url": "https://t.co/DV9hgFq4EG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3063,
+          "following_count": 538,
+          "like_count": 1422,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

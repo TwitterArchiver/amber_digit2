@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082479726115864576"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082479729412587569",
+    "created_at": "2026-07-29T14:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082479729412587569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0J2tnaP16U",
+          "end": 36,
+          "expanded_url": "https://x.com/amber_digit2/status/2082479729412587569/photo/1",
+          "media_key": "3_2082479726115864576",
+          "start": 13,
+          "url": "https://t.co/0J2tnaP16U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082479729412587569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "good morning https://t.co/0J2tnaP16U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082479726115864576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZ0RwcWwAAlkSo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082479726115864576"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082479729412587569",
+        "created_at": "2026-07-29T14:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082479729412587569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0J2tnaP16U",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_digit2/status/2082479729412587569/photo/1",
+              "media_key": "3_2082479726115864576",
+              "start": 13,
+              "url": "https://t.co/0J2tnaP16U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082479729412587569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "good morning https://t.co/0J2tnaP16U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4059,
+          "following_count": 649,
+          "like_count": 1850,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

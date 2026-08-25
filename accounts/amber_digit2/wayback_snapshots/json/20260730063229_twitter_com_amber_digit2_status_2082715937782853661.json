@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082662162258932065",
+    "created_at": "2026-07-30T06:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082715937782853661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "950362519",
+          "start": 0,
+          "username": "typhoid_mary64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082715937782853661",
+    "in_reply_to_user_id": "950362519",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082701809236258888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@typhoid_mary64 see comments"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082662162258932065",
+        "created_at": "2026-07-30T06:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082715937782853661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "950362519",
+              "start": 0,
+              "username": "typhoid_mary64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715937782853661",
+        "in_reply_to_user_id": "950362519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082701809236258888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@typhoid_mary64 see comments"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "950362519",
+        "conversation_id": "2082662162258932065",
+        "created_at": "2026-07-30T05:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082701809236258888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082701809236258888",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082662162258932065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 where is this from?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 659,
+          "like_count": 1914,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-15T19:42:56.000Z",
+        "description": "27yo, imaginary person (she/they 🏳️‍⚧️) - PT🇧🇷/EN🇺🇸 - 🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typhoid-mary-64.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://typhoid-mary-64.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/o64r8rBEB2"
+              }
+            ]
+          }
+        },
+        "id": "950362519",
+        "location": "Hell, MI",
+        "name": "𝕥𝕪𝕡𝕙𝕠𝕚𝕕 𝕞𝕒𝕣𝕪 𝟞𝟜",
+        "pinned_tweet_id": "1445099074693353475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605923728013119490/Jvd1MCNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2156,
+          "like_count": 386382,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/o64r8rBEB2",
+        "username": "typhoid_mary64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081960574230167635",
+    "created_at": "2026-07-28T07:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082009856957981036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 27,
+          "id": "1115304322454044681",
+          "start": 16,
+          "username": "nagoribird"
+        },
+        {
+          "end": 39,
+          "id": "2042786439738327042",
+          "start": 28,
+          "username": "tiancun520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082009856957981036",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081960574230167635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @nagoribird @tiancun520 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_2081959770270097408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSbYV-aYAABaD_.jpg",
+        "width": 698
+      },
+      {
+        "height": 1269,
+        "media_key": "3_2081959770324660224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSbYWLa8AAzIvg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081960574230167635",
+        "created_at": "2026-07-28T07:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082009856957981036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "1115304322454044681",
+              "start": 16,
+              "username": "nagoribird"
+            },
+            {
+              "end": 39,
+              "id": "2042786439738327042",
+              "start": 28,
+              "username": "tiancun520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082009856957981036",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081960574230167635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @nagoribird @tiancun520 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081959770270097408",
+            "3_2081959770324660224"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2081960574230167635",
+        "created_at": "2026-07-28T04:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:30:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081960441237115265",
+          "2081960574230167635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042786439738327042",
+              "start": 5,
+              "username": "tiancun520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5MqnLwrW9",
+              "end": 176,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2081960574230167635/photo/1",
+              "media_key": "3_2081959770270097408",
+              "start": 153,
+              "url": "https://t.co/M5MqnLwrW9"
+            },
+            {
+              "display_url": "pic.x.com/M5MqnLwrW9",
+              "end": 176,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2081960574230167635/photo/1",
+              "media_key": "3_2081959770324660224",
+              "start": 153,
+              "url": "https://t.co/M5MqnLwrW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081960574230167635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 16,
+                "id": "2042786439738327042",
+                "start": 5,
+                "username": "tiancun520"
+              }
+            ]
+          },
+          "text": "讣告🕯️\n@tiancun520 已于6月24日凌晨在南京浦口码头附近服药离世…R.I.P\n消息来自他的表弟\n\n田村晚安哦…晚安，咱的小吱吱，愿你安息，愿你在漫长的梦里永远幸福…咱好遗憾没能救赎你，希望咱在你最后的日子里有满足你的心愿呢；咱会永远记得你全宇宙最温柔的灵魂，记得那些你再也不用深藏的痛苦呀。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1982,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "讣告🕯️\n@tiancun520 已于6月24日凌晨在南京浦口码头附近服药离世…R.I.P\n消息来自他的表弟\n\n田村晚安哦…晚安，咱的小吱吱，愿你安息，愿你在漫长的梦里永远幸福…咱好遗憾没能救赎你，希望咱在你最后的日子里有满足你的心愿呢；咱会永远记得你全宇宙最温柔的灵魂，记得那些你再也不用深藏的痛苦呀。 https://t.co/M5MqnLwrW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3932,
+          "following_count": 631,
+          "like_count": 1765,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4733,
+          "following_count": 6698,
+          "like_count": 17322,
+          "listed_count": 12,
+          "media_count": 364,
+          "tweet_count": 4650
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-08T17:24:06.000Z",
+        "description": "🏳️‍⚧️ she/they·zh/en/ja·视觉小说爱好者·百合控·摩托车驾驶员·竞技麻将裁判员",
+        "id": "1115304322454044681",
+        "name": "名残鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1115305054246858752/mzlhSW4d_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 95,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "nagoribird",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T02:07:11.000Z",
+        "description": "2007－11－13",
+        "id": "2042786439738327042",
+        "location": "南京",
+        "name": "田村",
+        "pinned_tweet_id": "2053374065667383446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053374536255762433/0zNnoUBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 503,
+          "like_count": 404,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "tiancun520",
+        "verified": false
+      }
+    ]
+  }
+}

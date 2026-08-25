@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082494111089602629",
+    "created_at": "2026-07-29T22:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082597101209276418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1289729183745110016",
+          "start": 0,
+          "username": "nhan_tnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082597101209276418",
+    "in_reply_to_user_id": "1289729183745110016",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082517384125141080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhan_tnt i have eating disorder"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082494111089602629",
+        "created_at": "2026-07-29T22:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082597101209276418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1289729183745110016",
+              "start": 0,
+              "username": "nhan_tnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082597101209276418",
+        "in_reply_to_user_id": "1289729183745110016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082517384125141080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhan_tnt i have eating disorder"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289729183745110016",
+        "conversation_id": "2082494111089602629",
+        "created_at": "2026-07-29T17:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082517384125141080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082517384125141080",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082494111089602629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 why are you so skinny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 651,
+          "like_count": 1862,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-02T01:06:23.000Z",
+        "description": "| \"artist\", \"musician\", \"programmer\" | you/mine | 🇻🇳 |\n| ΔΔΔ | киноманов |\n| automated transgender space socialism ftw |\nТак откуда взялась... Печаль?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kottw.miraheze.org",
+                "end": 23,
+                "expanded_url": "https://kottw.miraheze.org",
+                "start": 0,
+                "url": "https://t.co/qXN2f10JZ9"
+              }
+            ]
+          }
+        },
+        "id": "1289729183745110016",
+        "location": "Hoả Diệm Đô, Việt Nam",
+        "name": "🇻🇳⭐nhantnt :3⭐🇻🇳 • 🇱🇦🇨🇺🇮🇪•",
+        "pinned_tweet_id": "2062359458706280767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081448429239308288/P-S028Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 958,
+          "like_count": 148602,
+          "listed_count": 7,
+          "media_count": 1639,
+          "tweet_count": 29371
+        },
+        "url": "https://t.co/qXN2f10JZ9",
+        "username": "nhan_tnt",
+        "verified": false
+      }
+    ]
+  }
+}

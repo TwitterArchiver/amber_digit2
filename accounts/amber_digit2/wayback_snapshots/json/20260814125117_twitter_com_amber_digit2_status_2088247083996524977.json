@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088240992033906998",
+    "created_at": "2026-08-14T12:51:17.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088247083996524977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1197333302144749569",
+          "start": 0,
+          "username": "EWlDf951FcoHc3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088247083996524977",
+    "in_reply_to_user_id": "1197333302144749569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088246292522913951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EWlDf951FcoHc3P 那肯定不会 这个是库存图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088240992033906998",
+        "created_at": "2026-08-14T12:51:17.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088247083996524977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1197333302144749569",
+              "start": 0,
+              "username": "EWlDf951FcoHc3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088247083996524977",
+        "in_reply_to_user_id": "1197333302144749569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088246292522913951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EWlDf951FcoHc3P 那肯定不会 这个是库存图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1197333302144749569",
+        "conversation_id": "2088240992033906998",
+        "created_at": "2026-08-14T12:48:08.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088246292522913951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088246292522913951",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088240992033906998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 这是你专门去买的吗amber宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088247083996524977",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5094,
+          "following_count": 850,
+          "like_count": 3364,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-21T01:58:11.000Z",
+        "description": "Full Stack Engineer｜AI startups｜孙哥信徒\nQs20本｜拒绝过藤校｜ENTJ",
+        "id": "1197333302144749569",
+        "is_identity_verified": false,
+        "location": "Hong Kong & Sydney",
+        "most_recent_tweet_id": "2088246292522913951",
+        "name": "柔柔兔🍑",
+        "pinned_tweet_id": "2052669434133950628",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197333302144749569/1781579487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048105532364562432/jJnUvGvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 923,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "EWlDf951FcoHc3P",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

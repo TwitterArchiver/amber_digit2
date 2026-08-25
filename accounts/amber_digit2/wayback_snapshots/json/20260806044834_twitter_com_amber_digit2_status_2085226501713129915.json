@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085226501713129915",
+    "created_at": "2026-08-06T04:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085226501713129915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meistingray/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/meistingray/status/2085189123699261780",
+          "start": 9,
+          "url": "https://t.co/wWCrsHtQsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226501713129915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085189123699261780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个比喻比较准确 https://t.co/wWCrsHtQsh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085226501713129915",
+        "created_at": "2026-08-06T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085226501713129915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meistingray/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/meistingray/status/2085189123699261780",
+              "start": 9,
+              "url": "https://t.co/wWCrsHtQsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226501713129915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085189123699261780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个比喻比较准确 https://t.co/wWCrsHtQsh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561593418425413632",
+        "conversation_id": "2085180986284016031",
+        "created_at": "2026-08-06T02:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085189123699261780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "493938647",
+              "start": 0,
+              "username": "KTachibana_M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085189123699261780",
+        "in_reply_to_user_id": "493938647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085180986284016031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTachibana_M 我跟他们说是零几年查暂住证抓人去昌平挖沙子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4659,
+          "following_count": 750,
+          "like_count": 2523,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "♂  / 自我拍摄 / 重加工 / UIUC Alum / 宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "Will it play in Peoria?",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "2068999952760717794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5003,
+          "following_count": 584,
+          "like_count": 69260,
+          "listed_count": 26,
+          "media_count": 327,
+          "tweet_count": 15702
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": true
+      }
+    ]
+  }
+}

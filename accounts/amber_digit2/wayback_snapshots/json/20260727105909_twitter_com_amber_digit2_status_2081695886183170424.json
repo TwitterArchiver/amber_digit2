@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081362542811570176"
+      ],
+      "media_source_tweet_id": [
+        "2081362569181134887"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081695886183170424",
+    "created_at": "2026-07-27T10:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081695886183170424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3EBgtf0QRk",
+          "end": 43,
+          "expanded_url": "https://x.com/hu_qin_/status/2081362569181134887/photo/1",
+          "media_key": "3_2081362542811570176",
+          "start": 20,
+          "url": "https://t.co/3EBgtf0QRk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081695886183170424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081362569181134887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: 高清版炸学校 https://t.co/3EBgtf0QRk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2081362542811570176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ8NIUWYAALjq6.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081362542811570176"
+          ]
+        },
+        "author_id": "918593759121690625",
+        "conversation_id": "2081362569181134887",
+        "created_at": "2026-07-26T12:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081362569181134887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EBgtf0QRk",
+              "end": 30,
+              "expanded_url": "https://x.com/hu_qin_/status/2081362569181134887/photo/1",
+              "media_key": "3_2081362542811570176",
+              "start": 7,
+              "url": "https://t.co/3EBgtf0QRk"
+            },
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2081327042960744698",
+              "start": 31,
+              "url": "https://t.co/reEuNo51QZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081362569181134887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12654,
+          "like_count": 123,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081327042960744698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高清版炸学校 https://t.co/3EBgtf0QRk https://t.co/reEuNo51QZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081362542811570176"
+          ],
+          "media_source_tweet_id": [
+            "2081362569181134887"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081695886183170424",
+        "created_at": "2026-07-27T10:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081695886183170424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EBgtf0QRk",
+              "end": 43,
+              "expanded_url": "https://x.com/hu_qin_/status/2081362569181134887/photo/1",
+              "media_key": "3_2081362542811570176",
+              "start": 20,
+              "url": "https://t.co/3EBgtf0QRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081695886183170424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081362569181134887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: 高清版炸学校 https://t.co/3EBgtf0QRk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 622,
+          "like_count": 1741,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2059224600471294044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 1844,
+          "like_count": 22351,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 5620
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

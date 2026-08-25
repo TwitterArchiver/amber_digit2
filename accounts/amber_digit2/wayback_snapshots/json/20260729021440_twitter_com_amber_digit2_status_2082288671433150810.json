@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082276250857386239",
+    "created_at": "2026-07-29T02:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082288671433150810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1166819218731491329",
+          "start": 0,
+          "username": "uglystamps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082288671433150810",
+    "in_reply_to_user_id": "1166819218731491329",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082288499668213963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uglystamps oh it’s ok i don’t mind"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082276250857386239",
+        "created_at": "2026-07-29T02:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082288671433150810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1166819218731491329",
+              "start": 0,
+              "username": "uglystamps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082288671433150810",
+        "in_reply_to_user_id": "1166819218731491329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082288499668213963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uglystamps oh it’s ok i don’t mind"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1166819218731491329",
+        "conversation_id": "2082276250857386239",
+        "created_at": "2026-07-29T02:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082288499668213963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082288499668213963",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082276250857386239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 Watch out - ur email is at the bottom."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026,
+          "following_count": 645,
+          "like_count": 1821,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-28T21:06:01.000Z",
+        "description": "We post pictures of ugly stamps.\n\nJust kidding. \n\nIf you're here because I replied to you, it's because I like or respect your banter enough to chirp back :) \n✊",
+        "id": "1166819218731491329",
+        "location": "Musty basements everywhere",
+        "name": "Ugly Stamps",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820053972121530368/khXoH-YE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 687,
+          "like_count": 2712,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1445
+        },
+        "url": "",
+        "username": "uglystamps",
+        "verified": false
+      }
+    ]
+  }
+}

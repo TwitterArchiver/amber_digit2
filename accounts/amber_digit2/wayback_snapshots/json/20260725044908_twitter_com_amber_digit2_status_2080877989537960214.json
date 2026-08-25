@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2080735052804116781",
+    "created_at": "2026-07-25T04:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080877989537960214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671449523078537216",
+          "start": 0,
+          "username": "Midshit161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080877989537960214",
+    "in_reply_to_user_id": "1671449523078537216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080818629399212170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Midshit161 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080735052804116781",
+        "created_at": "2026-07-25T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080877989537960214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671449523078537216",
+              "start": 0,
+              "username": "Midshit161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080877989537960214",
+        "in_reply_to_user_id": "1671449523078537216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080818629399212170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Midshit161 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671449523078537216",
+        "conversation_id": "2080735052804116781",
+        "created_at": "2026-07-25T00:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080818629399212170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080818629399212170",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080735052804116781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 It’s why it exists in the fucking first place. If the medical system wasn’t discriminatory and followed up to date medical and social standards regarding trans healthcare that aren’t 20+ years old most people would go through the system myself included."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 562,
+          "like_count": 1537,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-21T09:27:52.000Z",
+        "description": "Transex TMA• \"I couldn't have thrown that bomb. I was at home making bombs.\" — Louis Lingg • She/Her • 我在学中文。• Nuclear Powered Urbanism&Micromobility • BLM/LB",
+        "id": "1671449523078537216",
+        "location": "• End Rod Civilization •",
+        "name": "⚢Leskirk_Ⓐrsøn161✳️ ×̷̷͜×̷⚧︎",
+        "pinned_tweet_id": "2062799394920124523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061798274974281728/fk5uV8YO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 4452,
+          "like_count": 400899,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 28328
+        },
+        "url": "",
+        "username": "Midshit161",
+        "verified": false
+      }
+    ]
+  }
+}

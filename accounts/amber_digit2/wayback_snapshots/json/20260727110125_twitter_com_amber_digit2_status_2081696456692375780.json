@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081694935951265846",
+    "created_at": "2026-07-27T11:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081696456692375780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1195625472635224066",
+          "start": 0,
+          "username": "Isabella_ly7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081696456692375780",
+    "in_reply_to_user_id": "1195625472635224066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081694935951265846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isabella_ly7 怎么你也是排骨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9682,
+        "height": 960,
+        "media_key": "7_2081694904947023872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2081694904947023872/pu/img/olQz_dnhjK8K1SRs.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081694904947023872/pu/vid/avc1/320x426/Mm5sWHXVzt-qgHsc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081694904947023872/pu/vid/avc1/480x640/-dVz1QEpwdV2CK0B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081694904947023872/pu/vid/avc1/720x960/JR5tyNDv5WROUyE4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2081694904947023872/pu/pl/97nzleiCpsVxS2RS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081694910080790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOqfc4asAASfvh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081694908331732992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOqfWXaMAA1sMh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081694908411441152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOqfWqacAAZ4az.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081694935951265846",
+        "created_at": "2026-07-27T11:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081696456692375780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1195625472635224066",
+              "start": 0,
+              "username": "Isabella_ly7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696456692375780",
+        "in_reply_to_user_id": "1195625472635224066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081694935951265846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isabella_ly7 怎么你也是排骨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2081694904947023872",
+            "3_2081694910080790528",
+            "3_2081694908331732992",
+            "3_2081694908411441152"
+          ]
+        },
+        "author_id": "1195625472635224066",
+        "conversation_id": "2081694935951265846",
+        "created_at": "2026-07-27T10:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081694935951265846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aubKrDTfab",
+              "end": 46,
+              "expanded_url": "https://x.com/Isabella_ly7/status/2081694935951265846/video/1",
+              "media_key": "7_2081694904947023872",
+              "start": 23,
+              "url": "https://t.co/aubKrDTfab"
+            },
+            {
+              "display_url": "pic.x.com/aubKrDTfab",
+              "end": 46,
+              "expanded_url": "https://x.com/Isabella_ly7/status/2081694935951265846/video/1",
+              "media_key": "3_2081694910080790528",
+              "start": 23,
+              "url": "https://t.co/aubKrDTfab"
+            },
+            {
+              "display_url": "pic.x.com/aubKrDTfab",
+              "end": 46,
+              "expanded_url": "https://x.com/Isabella_ly7/status/2081694935951265846/video/1",
+              "media_key": "3_2081694908331732992",
+              "start": 23,
+              "url": "https://t.co/aubKrDTfab"
+            },
+            {
+              "display_url": "pic.x.com/aubKrDTfab",
+              "end": 46,
+              "expanded_url": "https://x.com/Isabella_ly7/status/2081694935951265846/video/1",
+              "media_key": "3_2081694908411441152",
+              "start": 23,
+              "url": "https://t.co/aubKrDTfab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081694935951265846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿比基尼哪里是来游泳的，明明是当骚货给人看的 https://t.co/aubKrDTfab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 622,
+          "like_count": 1741,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-16T08:52:30.000Z",
+        "description": "169/50kg，37。\n第十四界全国人大被代表｜中国建设、工商、招商、农行合作者｜中国移动、联通、电信稳定合作者｜诺贝尔奖获得者读者｜清华北大所在国学生｜世界500强简历投递人｜太阳长期使用者｜广州地铁公交长期坐站者｜中国水务、电网合作商｜京东、淘宝、拼多多0元购特权人员｜苹果、微软、三星集团首席使用官",
+        "id": "1195625472635224066",
+        "location": "广州",
+        "name": "刘品品isaL77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021032343688171520/nSDzooXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17829,
+          "following_count": 2197,
+          "like_count": 4871,
+          "listed_count": 80,
+          "media_count": 940,
+          "tweet_count": 4505
+        },
+        "url": "",
+        "username": "Isabella_ly7",
+        "verified": false
+      }
+    ]
+  }
+}

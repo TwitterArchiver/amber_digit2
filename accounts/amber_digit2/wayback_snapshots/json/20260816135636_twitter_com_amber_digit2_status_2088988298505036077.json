@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1534290336670883840",
+          "name": "4chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534290336670883840",
+          "name": "4chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2088988298505036077",
+    "created_at": "2026-08-16T13:56:36.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088988298505036077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1015752088230473729",
+          "start": 3,
+          "username": "ellagoer_t4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088988298505036077",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088915296350355900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ellagoer_t4t: Direct result of allies saying \"You can't even get pregnant so your rape isn't THAT bad\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088988298505036077",
+        "created_at": "2026-08-16T13:56:36.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088988298505036077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1015752088230473729",
+              "start": 3,
+              "username": "ellagoer_t4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088988298505036077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088915296350355900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ellagoer_t4t: Direct result of allies saying \"You can't even get pregnant so your rape isn't THAT bad\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015752088230473729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088915296350355900",
+        "created_at": "2026-08-16T09:06:31.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088915296350355900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wobbledawg/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/wobbledawg/status/2088768693559873729",
+              "start": 89,
+              "url": "https://t.co/pYHVMmW32A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088915296350355900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6179,
+          "like_count": 544,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088768693559873729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Direct result of allies saying \"You can't even get pregnant so your rape isn't THAT bad\" https://t.co/pYHVMmW32A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088988298505036077",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 859,
+          "like_count": 3551,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-08T00:19:04.000Z",
+        "description": "░SHE/HER░IN░BIO░... Your early 20's geological woman. GeoGuesser. ❤️ Silvia. HRT since 27/05/2025. MDNF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ellagoert4t.straw.page",
+                "end": 23,
+                "expanded_url": "https://ellagoert4t.straw.page",
+                "start": 0,
+                "url": "https://t.co/zDaeFb0JJ5"
+              }
+            ]
+          }
+        },
+        "id": "1015752088230473729",
+        "is_identity_verified": false,
+        "location": "🇫🇮",
+        "most_recent_tweet_id": "2088986517456756887",
+        "name": "Ella🏳️‍⚧️🇵🇸",
+        "pinned_tweet_id": "2065526823803400365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015752088230473729/1769876045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012719533664923648/1GBKnBms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1668,
+          "like_count": 269607,
+          "listed_count": 68,
+          "media_count": 1488,
+          "tweet_count": 69909
+        },
+        "url": "https://t.co/zDaeFb0JJ5",
+        "username": "ellagoer_t4t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

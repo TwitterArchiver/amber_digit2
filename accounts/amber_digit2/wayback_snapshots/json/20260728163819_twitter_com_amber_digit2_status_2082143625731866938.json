@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081221530592108852",
+    "created_at": "2026-07-28T16:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082143625731866938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 23,
+          "expanded_url": "https://x.com/amber_digit2/status/2082005737145041337",
+          "start": 0,
+          "url": "https://t.co/nikDMl85bR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082143625731866938",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082005737145041337",
+        "type": "quoted"
+      },
+      {
+        "id": "2081241100304486579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/nikDMl85bR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082005732795248640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFLtuWcAAoCSL.jpg",
+        "width": 804
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082005732786860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFLtsWcAAknAC.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081221530592108852",
+        "created_at": "2026-07-28T16:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082143625731866938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_digit2/status/2082005737145041337",
+              "start": 0,
+              "url": "https://t.co/nikDMl85bR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082143625731866938",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082005737145041337",
+            "type": "quoted"
+          },
+          {
+            "id": "2081241100304486579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nikDMl85bR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082005732795248640",
+            "3_2082005732786860032"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082005737145041337",
+        "created_at": "2026-07-28T07:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082005737145041337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLmnvsKM8e",
+              "end": 302,
+              "expanded_url": "https://x.com/amber_digit2/status/2082005737145041337/photo/1",
+              "media_key": "3_2082005732795248640",
+              "start": 279,
+              "url": "https://t.co/iLmnvsKM8e"
+            },
+            {
+              "display_url": "pic.x.com/iLmnvsKM8e",
+              "end": 302,
+              "expanded_url": "https://x.com/amber_digit2/status/2082005737145041337/photo/1",
+              "media_key": "3_2082005732786860032",
+              "start": 279,
+              "url": "https://t.co/iLmnvsKM8e"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2081221530592108852",
+              "start": 303,
+              "url": "https://t.co/ulVh8ezaJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082005737145041337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 873,
+                "id": "1487318664797831170",
+                "start": 861,
+                "username": "oneamong_us"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "one-among.us",
+                "end": 899,
+                "expanded_url": "https://one-among.us",
+                "start": 876,
+                "url": "https://t.co/OYZhX7MVzP"
+              }
+            ]
+          },
+          "text": "It seems that people are curious about the picture on the bottom left. I would like to provide some context.\n\nThe picture is of a popular chemical substance used for suicide. Due to the systemic domestic violence and economic deprivation that trans children and youths endure in China, suicide has become extremely prevalent in our communities, and it is deeply heartbreaking to witness the passing of so many young lives on an almost daily basis. I decided to include it here to highlight the structural violence that continues to produce trans deaths in China that are often obscured by celebratory or playful narratives, as well as the communal relations of care that persist despite these adversities. \n\nI also wish to use this opportunity to introduce an example of the latter: One Among Us, a memorial website built by one of our community organizations (@oneamong_us), https://t.co/OYZhX7MVzP. Since many trans people are very likely going to be (deliberately) misgendered and deadnamed after death, One Among Us emerged as a community project that commemorates trans people and allies who have left us prematurely. It now contains almost a hundred profiles written entirely by the friends and loved ones of those who passed away. To quote from the website’s introduction, \n\n“Those who left our lives prematurely for various reasons, those transgender individuals and our cisgender allies, are still one of us (one among us), silently caring for and accompanying us, empowering us, and giving us the courage to live on and move forward. Perhaps the name written on the monument in reality is not what they preferred, and it may not reflect their true identity, but we can still realize all of this in our own memorial. \n\nWe shall meet again in a place where there is no darkness.”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 8762,
+          "like_count": 309,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It seems that people are curious about the picture on the bottom left. I would like to provide some context.\n\nThe picture is of a popular chemical substance used for suicide. Due to the systemic domestic violence and economic deprivation that trans children and youths endure in https://t.co/iLmnvsKM8e https://t.co/ulVh8ezaJs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081221530592108852",
+        "created_at": "2026-07-26T04:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081241100304486579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081241100304486579",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 26224,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221530592108852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dont ask me what’s on the bottom left you don’t really want to know"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi research on chinese transfem communities / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3972,
+          "following_count": 640,
+          "like_count": 1795,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084323631950336306",
+    "created_at": "2026-08-03T17:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084331543065923972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777773509332393984",
+          "start": 0,
+          "username": "luo_bei96733"
+        },
+        {
+          "end": 28,
+          "id": "1664627530425352192",
+          "start": 14,
+          "username": "MGlimpze26770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084331543065923972",
+    "in_reply_to_user_id": "1777773509332393984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084331453895307492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_bei96733 @MGlimpze26770 没事先这样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084323631950336306",
+        "created_at": "2026-08-03T17:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084331543065923972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777773509332393984",
+              "start": 0,
+              "username": "luo_bei96733"
+            },
+            {
+              "end": 28,
+              "id": "1664627530425352192",
+              "start": 14,
+              "username": "MGlimpze26770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084331543065923972",
+        "in_reply_to_user_id": "1777773509332393984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084331453895307492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_bei96733 @MGlimpze26770 没事先这样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777773509332393984",
+        "conversation_id": "2084323631950336306",
+        "created_at": "2026-08-03T17:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084331453895307492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 28,
+              "id": "1664627530425352192",
+              "start": 14,
+              "username": "MGlimpze26770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084331453895307492",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084329541531521286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @MGlimpze26770 所以有些人真的没看过你之前解释你突然没钱的帖子！我说为啥说半天对面又蠢又犟，都不去看你的帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4433,
+          "following_count": 718,
+          "like_count": 2256,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T19:00:18.000Z",
+        "description": "是男的，上推是为了看黄的，但是啥都爱凑热闹，所以可能各种地方都会评论，如果是因为我的评论觉得我挺有意思，建议只收藏评论，因为我过来就是看黄的，关注我可能会刷到一堆黄推",
+        "id": "1777773509332393984",
+        "name": "洛北川",
+        "pinned_tweet_id": "1873608514519924906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846613288219824129/v9I--AA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 360,
+          "like_count": 73159,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 6112
+        },
+        "url": "",
+        "username": "luo_bei96733",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 407,
+          "like_count": 9019,
+          "listed_count": 2,
+          "media_count": 843,
+          "tweet_count": 7967
+        },
+        "url": "",
+        "username": "MGlimpze26770",
+        "verified": false
+      }
+    ]
+  }
+}

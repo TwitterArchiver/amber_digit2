@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087281075873534452",
+    "created_at": "2026-08-12T03:32:51.000Z",
+    "display_text_range": [
+      13,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087381776263970937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577443392",
+          "start": 0,
+          "username": "guyutongxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087381776263970937",
+    "in_reply_to_user_id": "1577443392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087381287317471392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guyutongxue 唉 初中的话那确实 我初中是英语实验班的 班里几乎没有男生所以风气还好点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2087381282812755968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfeN6DagAApR4C.jpg",
+        "width": 1386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087281075873534452",
+        "created_at": "2026-08-12T03:32:51.000Z",
+        "display_text_range": [
+          13,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087381776263970937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577443392",
+              "start": 0,
+              "username": "guyutongxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087381776263970937",
+        "in_reply_to_user_id": "1577443392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087381287317471392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guyutongxue 唉 初中的话那确实 我初中是英语实验班的 班里几乎没有男生所以风气还好点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087381282812755968"
+          ]
+        },
+        "author_id": "1577443392",
+        "conversation_id": "2087281075873534452",
+        "created_at": "2026-08-12T03:30:55.000Z",
+        "display_text_range": [
+          14,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087381287317471392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQukGEkzgi",
+              "end": 81,
+              "expanded_url": "https://x.com/guyutongxue/status/2087381287317471392/photo/1",
+              "media_key": "3_2087381282812755968",
+              "start": 58,
+              "url": "https://t.co/qQukGEkzgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087381287317471392",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087381282812755968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087378183041536050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 初中实验班。高中去了宣武的学校，虽然差了点但是风气好很多（附图证明真穿过黑色校服... https://t.co/qQukGEkzgi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087381776263970937",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4960,
+          "following_count": 821,
+          "like_count": 3091,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-08T11:39:02.000Z",
+        "description": "社畜 | 想成为可爱xnn | https://t.co/Lxi79jM3vD | ❤️@KR_Tangnat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "KR_Tangnat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/guyutongxue",
+                "end": 39,
+                "expanded_url": "https://github.com/guyutongxue",
+                "start": 16,
+                "url": "https://t.co/Lxi79jM3vD"
+              }
+            ]
+          }
+        },
+        "id": "1577443392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087381287317471392",
+        "name": "谷雨同学",
+        "pinned_tweet_id": "2027612295720018164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577443392/1766564636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064556501981708288/IGZB5BTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8488,
+          "following_count": 61,
+          "like_count": 1022,
+          "listed_count": 24,
+          "media_count": 58,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "guyutongxue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

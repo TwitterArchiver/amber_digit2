@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085209131418263552"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085209133792301320",
+    "created_at": "2026-08-06T03:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085209133792301320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1738303196693426176",
+          "start": 18,
+          "username": "transinacademia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/F-BCIp8QGadG…",
+          "end": 96,
+          "expanded_url": "https://mp.weixin.qq.com/s/F-BCIp8QGadGzVCWpKhPSw",
+          "start": 73,
+          "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HPcBdGqjpD8xg_XnUS6NALIgZrkZ-vWfbrst5YQF&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF-BCIp8QGadGzVCWpKhPSw",
+          "url": "https://t.co/drufWtFil1"
+        },
+        {
+          "display_url": "pic.x.com/KayaTKHNnh",
+          "end": 120,
+          "expanded_url": "https://x.com/amber_digit2/status/2085209133792301320/photo/1",
+          "media_key": "3_2085209131418263552",
+          "start": 97,
+          "url": "https://t.co/KayaTKHNnh"
+        },
+        {
+          "display_url": "x.com/daanawa/status…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/daanawa/status/2084904076320580007",
+          "start": 121,
+          "url": "https://t.co/Kg83fOkpZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085209133792301320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084904076320580007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于 Cass Review，其实 @transinacademia 专门翻译过一篇对《卡斯评论》的循证医学批判，感兴趣的可以直接在下面链接里读\nhttps://t.co/drufWtFil1 https://t.co/KayaTKHNnh https://t.co/Kg83fOkpZE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2085209131418263552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAmqDiWIAABPNr.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2084904051909754880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8RMFzagAAlTfT.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2084904051855224832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8RMFmacAAk5Un.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1951,
+        "media_key": "3_2084904051855212544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8RMFmaQAAm_U5.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084904051855253504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8RMFma4AA35Y9.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085209131418263552"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085209133792301320",
+        "created_at": "2026-08-06T03:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085209133792301320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1738303196693426176",
+              "start": 18,
+              "username": "transinacademia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/F-BCIp8QGadG…",
+              "end": 96,
+              "expanded_url": "https://mp.weixin.qq.com/s/F-BCIp8QGadGzVCWpKhPSw",
+              "start": 73,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HPcBdGqjpD8xg_XnUS6NALIgZrkZ-vWfbrst5YQF&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FF-BCIp8QGadGzVCWpKhPSw",
+              "url": "https://t.co/drufWtFil1"
+            },
+            {
+              "display_url": "pic.x.com/KayaTKHNnh",
+              "end": 120,
+              "expanded_url": "https://x.com/amber_digit2/status/2085209133792301320/photo/1",
+              "media_key": "3_2085209131418263552",
+              "start": 97,
+              "url": "https://t.co/KayaTKHNnh"
+            },
+            {
+              "display_url": "x.com/daanawa/status…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/daanawa/status/2084904076320580007",
+              "start": 121,
+              "url": "https://t.co/Kg83fOkpZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085209133792301320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084904076320580007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于 Cass Review，其实 @transinacademia 专门翻译过一篇对《卡斯评论》的循证医学批判，感兴趣的可以直接在下面链接里读\nhttps://t.co/drufWtFil1 https://t.co/KayaTKHNnh https://t.co/Kg83fOkpZE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084904051909754880",
+            "3_2084904051855224832",
+            "3_2084904051855212544",
+            "3_2084904051855253504"
+          ]
+        },
+        "author_id": "1471837590768603136",
+        "conversation_id": "2084904076320580007",
+        "created_at": "2026-08-05T07:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084904076320580007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7V23Y7qi7",
+              "end": 110,
+              "expanded_url": "https://x.com/daanawa/status/2084904076320580007/photo/1",
+              "media_key": "3_2084904051909754880",
+              "start": 87,
+              "url": "https://t.co/k7V23Y7qi7"
+            },
+            {
+              "display_url": "pic.x.com/k7V23Y7qi7",
+              "end": 110,
+              "expanded_url": "https://x.com/daanawa/status/2084904076320580007/photo/1",
+              "media_key": "3_2084904051855224832",
+              "start": 87,
+              "url": "https://t.co/k7V23Y7qi7"
+            },
+            {
+              "display_url": "pic.x.com/k7V23Y7qi7",
+              "end": 110,
+              "expanded_url": "https://x.com/daanawa/status/2084904076320580007/photo/1",
+              "media_key": "3_2084904051855212544",
+              "start": 87,
+              "url": "https://t.co/k7V23Y7qi7"
+            },
+            {
+              "display_url": "pic.x.com/k7V23Y7qi7",
+              "end": 110,
+              "expanded_url": "https://x.com/daanawa/status/2084904076320580007/photo/1",
+              "media_key": "3_2084904051855253504",
+              "start": 87,
+              "url": "https://t.co/k7V23Y7qi7"
+            },
+            {
+              "display_url": "x.com/daanawa/status…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/daanawa/status/2084903388698075431",
+              "start": 111,
+              "url": "https://t.co/CETw29TpUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084904076320580007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "右派政客经常将《Cass Review》描述为一份完全中立、纯粹基于证据的医学审查。\n\n但如果翻阅报告原文，会发现它不仅是一份技术性文件，也采用了大量公共传播式的视觉叙事。\n\n章节页面中反复出现青少年背影、群体关系、孤独姿态等具有明显情绪色彩的摄影图像。这些图片并不是数据、研究结果或临床证据的一部分，却参与塑造了读者理解这个议题的方式。\n\n当然，图片本身并不能证明报告结论错误。\n\n但当一份医学审查进入公共政策讨论时，视觉设计、语言选择和叙事框架同样会影响公众认知。\n\n如果去除这些传播元素，只保留研究方法、证据等级、数据和临床分析，那么围绕《Cass Review》的讨论是否会呈现出不同的面貌？\n\n科学报告应该首先依靠证据建立权威，而不是依靠情绪化的视觉框架强化某种阅读体验。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084903388698075431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右派政客经常将《Cass Review》描述为一份完全中立、纯粹基于证据的医学审查。\n\n但如果翻阅报告原文，会发现它不仅是一份技术性文件，也采用了大量公共传播式的视觉叙事。 https://t.co/k7V23Y7qi7 https://t.co/CETw29TpUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 750,
+          "like_count": 2515,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2169
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-22T21:00:25.000Z",
+        "description": "分享与跨儿相关的学术动态，记录跨儿自行构建的理论视角和实践知识，帮助跨儿求学、进修、工作，以跨儿的视角发声。 A community for Chinese/Sinophone trans and gender diverse people pursuing academic and career goals.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/transinacademia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/transinacademia",
+                "start": 0,
+                "url": "https://t.co/jYTfZ5plKz"
+              }
+            ]
+          }
+        },
+        "id": "1738303196693426176",
+        "location": "tia@transinacademia.org",
+        "name": "跨儿学术小组 Trans in Academia! 🏳️‍⚧️",
+        "pinned_tweet_id": "1852657955780333982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030487904821112832/h3mjMSGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 556,
+          "like_count": 995,
+          "listed_count": 17,
+          "media_count": 51,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/jYTfZ5plKz",
+        "username": "transinacademia",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T13:40:08.000Z",
+        "description": "没有特定中文名，可以叫我大安，或者是答案 :D\n# https://t.co/X4hJKXJL8W\n📍坐标北京 | 08年 (Gap year)\n🏳️‍⚧️MtF | 阻断 23.2.6 / HRT 24.8.28\n📏163cm / 48kg | 🍬 持证含糖\n🗣️交流: CN EN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Transprism.chengxi.online",
+                "end": 49,
+                "expanded_url": "http://Transprism.chengxi.online",
+                "start": 26,
+                "url": "https://t.co/X4hJKXJL8W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.chengxi.online",
+                "end": 23,
+                "expanded_url": "https://blog.chengxi.online/",
+                "start": 0,
+                "url": "https://t.co/XRhntlrCJf"
+              }
+            ]
+          }
+        },
+        "id": "1471837590768603136",
+        "location": "Beijing",
+        "name": "大安/daan🏳️‍⚧️",
+        "pinned_tweet_id": "2062834503782195693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077336309807669248/Sp9Rv5_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 446,
+          "like_count": 1228,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/XRhntlrCJf",
+        "username": "daanawa",
+        "verified": true
+      }
+    ]
+  }
+}

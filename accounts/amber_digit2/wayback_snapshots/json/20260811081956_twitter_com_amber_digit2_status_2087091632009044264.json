@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086806138843275640",
+    "created_at": "2026-08-11T08:19:56.000Z",
+    "display_text_range": [
+      29,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087091632009044264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763606508359614464",
+          "start": 0,
+          "username": "bnuuy_xyzzy"
+        },
+        {
+          "end": 28,
+          "id": "954724026806448128",
+          "start": 13,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087091632009044264",
+    "in_reply_to_user_id": "1763606508359614464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087041505760350559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnuuy_xyzzy @libertyelysium 我也是让后付钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086806138843275640",
+        "created_at": "2026-08-11T08:19:56.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087091632009044264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763606508359614464",
+              "start": 0,
+              "username": "bnuuy_xyzzy"
+            },
+            {
+              "end": 28,
+              "id": "954724026806448128",
+              "start": 13,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087091632009044264",
+        "in_reply_to_user_id": "1763606508359614464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087041505760350559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnuuy_xyzzy @libertyelysium 我也是让后付钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763606508359614464",
+        "conversation_id": "2086806138843275640",
+        "created_at": "2026-08-11T05:00:44.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087041505760350559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087041505760350559",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086806138843275640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 错误的、怎有后付钱的说法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087091632009044264",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 803,
+          "like_count": 2984,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 2466
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T16:45:40.000Z",
+        "description": "🎀🔞 alt @bunny_xyzzy | 👩🏻‍❤️‍💋‍👩🏼 wifey @fayebaguette",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "bunny_xyzzy"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "fayebaguette"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bunnyqwq",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/bunnyqwq",
+                "start": 0,
+                "url": "https://t.co/GL5SwBFReV"
+              }
+            ]
+          }
+        },
+        "id": "1763606508359614464",
+        "is_identity_verified": false,
+        "location": "London, UK",
+        "most_recent_tweet_id": "2087076471118479559",
+        "name": "Bunny 💫",
+        "pinned_tweet_id": "1897583619545129051",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763606508359614464/1757936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888194344131166208/VzpadKyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 1011,
+          "like_count": 26718,
+          "listed_count": 3,
+          "media_count": 1063,
+          "tweet_count": 7174
+        },
+        "url": "https://t.co/GL5SwBFReV",
+        "username": "bnuuy_xyzzy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "is_identity_verified": false,
+        "location": "精神科",
+        "most_recent_tweet_id": "2087084533577654765",
+        "name": "周围神经病",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954724026806448128/1705667385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12152,
+          "following_count": 705,
+          "like_count": 91166,
+          "listed_count": 37,
+          "media_count": 2117,
+          "tweet_count": 32679
+        },
+        "url": "",
+        "username": "libertyelysium",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

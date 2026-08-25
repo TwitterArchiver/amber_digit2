@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083815954073395211",
+    "created_at": "2026-08-02T07:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083815954073395211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185094096186155009",
+          "start": 3,
+          "username": "frauleinruby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083815954073395211",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083771105525862862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frauleinruby: i know it's the wokest thing to imply birth sex doesn't matter at all, but it does legally. an FTMTF does not have to dis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083815954073395211",
+        "created_at": "2026-08-02T07:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083815954073395211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185094096186155009",
+              "start": 3,
+              "username": "frauleinruby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083815954073395211",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083771105525862862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frauleinruby: i know it's the wokest thing to imply birth sex doesn't matter at all, but it does legally. an FTMTF does not have to dis…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185094096186155009",
+        "conversation_id": "2083771105525862862",
+        "created_at": "2026-08-02T04:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083771105525862862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083771105525862862",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2212,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "i know it's the wokest thing to imply birth sex doesn't matter at all, but it does legally. an FTMTF does not have to disclose they were ever trans to have sex, nor use the men's bathroom in order to stay legally above board in the UK. they're not trans women, and that's okay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 704,
+          "like_count": 2172,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-18T07:24:20.000Z",
+        "description": "21 | GPEW member",
+        "id": "1185094096186155009",
+        "location": "West Country",
+        "name": "ruby 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027512454834786305/2yRIg0YL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 437,
+          "like_count": 131672,
+          "listed_count": 7,
+          "media_count": 387,
+          "tweet_count": 5972
+        },
+        "url": "",
+        "username": "frauleinruby",
+        "verified": false
+      }
+    ]
+  }
+}

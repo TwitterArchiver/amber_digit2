@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2084625844530524341",
+    "created_at": "2026-08-04T13:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084625844530524341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2786053933",
+          "start": 3,
+          "username": "zei_squirrel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084625844530524341",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084166069430653064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zei_squirrel: thanks for the liberal woke identity politics where you repeat some irrelevant personal experiences (\"I talked to some hi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2023,
+        "media_key": "3_2084165813653647360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxxw9_WsAAhCmf.jpg",
+        "width": 2055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2084625844530524341",
+        "created_at": "2026-08-04T13:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084625844530524341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2786053933",
+              "start": 3,
+              "username": "zei_squirrel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625844530524341",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084166069430653064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zei_squirrel: thanks for the liberal woke identity politics where you repeat some irrelevant personal experiences (\"I talked to some hi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084165813653647360"
+          ]
+        },
+        "author_id": "2786053933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2084166069430653064",
+        "created_at": "2026-08-03T06:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084166069430653064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3oG02avav",
+              "end": 303,
+              "expanded_url": "https://x.com/zei_squirrel/status/2084166069430653064/photo/1",
+              "media_key": "3_2084165813653647360",
+              "start": 280,
+              "url": "https://t.co/m3oG02avav"
+            },
+            {
+              "display_url": "x.com/ZhugeYY/status…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/ZhugeYY/status/2084138129766642131",
+              "start": 304,
+              "url": "https://t.co/RWJctXBwnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084166069430653064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "thanks for the liberal woke identity politics where you repeat some irrelevant personal experiences (\"I talked to some hijab-wearing students once!\") on what you hilariously call the \"insoluble Israel-Palestine conflict\" as if that establishes your anti-genocide credentials when it does the opposite, and also throwing in the classic Zionist anti-Semitism smear, but the point I brought up was concrete and simple: \n\nWhy did you take a fellowship at a fake Israel lobby Zionist billionaire funded think tank, the \"Jack Miller Center\"? Did you know that it is funded by Zionist billionaires who doxx students and destroy their lives, among many other odious things? What is your view on that? Do you think that makes them \"self-appointed Red Guards\" who use their vast wealth and power to enforce \"surveillance, guilt by association, and moral vanity\", which you accused me of for asking some basic questions?\n\nI'm interested in your answers on this given that these same people pay you.\n\nAnd my other question was: Are you following Mark Levin, Nioh Berg, Dave Rubin, Eyal Yakoby and RadioGenoa because you find their thoughts to be informative and insightful? \n\nCan you explain what exactly about the deranged genocidal Zionist Jewish supremacist rantings of Levin, Berg and Yakoby and the endless stream of racist bile from RadioGenoa you find particularly informative and insightful, if that is indeed the reason you follow them?\n\nBtw I notice that you followed my advice and unfollowed Ian Miles Cheong and also Gad Saad, but the rest of the list doesn't really help you much. And why unfollow if you think there's nothing wrong with it and anyone who brings it up is a \"self-appointed Red Guad\"? Looks like you're revealing some moral vanity there.\n\nAlso, I'm just doing free inquiry and free speech. I thought you love critical questioning? Why are you trying to stifle the free exchange of critical thought by accusing me of being a \"self-appointed Red Guard\" for asking you some simple basic questions?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 60668,
+          "like_count": 1603,
+          "quote_count": 26,
+          "reply_count": 49,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084138129766642131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "thanks for the liberal woke identity politics where you repeat some irrelevant personal experiences (\"I talked to some hijab-wearing students once!\") on what you hilariously call the \"insoluble Israel-Palestine conflict\" as if that establishes your anti-genocide credentials when https://t.co/m3oG02avav https://t.co/RWJctXBwnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4561,
+          "following_count": 738,
+          "like_count": 2376,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-02T13:46:47.000Z",
+        "description": "https://t.co/NbtDw6O4K1 | https://t.co/KKP8K845AV | zei.squirrel@gmail.com | https://t.co/cCwmebUdaj | https://t.co/wljPw2lIp9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/ZeiSquirrel",
+                "end": 23,
+                "expanded_url": "http://youtube.com/ZeiSquirrel",
+                "start": 0,
+                "url": "https://t.co/NbtDw6O4K1"
+              },
+              {
+                "display_url": "zeisquirrel.substack.com",
+                "end": 49,
+                "expanded_url": "http://zeisquirrel.substack.com",
+                "start": 26,
+                "url": "https://t.co/KKP8K845AV"
+              },
+              {
+                "display_url": "discord.com/invite/Je9QGuB…",
+                "end": 100,
+                "expanded_url": "https://discord.com/invite/Je9QGuBxXR",
+                "start": 77,
+                "url": "https://t.co/cCwmebUdaj"
+              },
+              {
+                "display_url": "t.me/zei_squirrel",
+                "end": 126,
+                "expanded_url": "https://t.me/zei_squirrel",
+                "start": 103,
+                "url": "https://t.co/wljPw2lIp9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zei_squirrel/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zei_squirrel/",
+                "start": 0,
+                "url": "https://t.co/BPw22RNJgH"
+              }
+            ]
+          }
+        },
+        "id": "2786053933",
+        "name": "☀️👀",
+        "pinned_tweet_id": "1785180965037305891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346197,
+          "following_count": 0,
+          "like_count": 293977,
+          "listed_count": 1956,
+          "media_count": 12514,
+          "tweet_count": 51728
+        },
+        "url": "https://t.co/BPw22RNJgH",
+        "username": "zei_squirrel",
+        "verified": true
+      }
+    ]
+  }
+}

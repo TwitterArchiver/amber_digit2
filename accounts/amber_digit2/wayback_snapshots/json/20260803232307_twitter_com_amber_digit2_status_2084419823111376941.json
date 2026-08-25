@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084417286689923268",
+    "created_at": "2026-08-03T23:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084419823111376941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721003883579748352",
+          "start": 0,
+          "username": "tushanhonghong9"
+        },
+        {
+          "end": 27,
+          "id": "88247180",
+          "start": 17,
+          "username": "shuangqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084419823111376941",
+    "in_reply_to_user_id": "1721003883579748352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084419424325632350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tushanhonghong9 @shuangqiu 这两者是冲突的，所以我现在也不太考虑后者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084417286689923268",
+        "created_at": "2026-08-03T23:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084419823111376941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721003883579748352",
+              "start": 0,
+              "username": "tushanhonghong9"
+            },
+            {
+              "end": 27,
+              "id": "88247180",
+              "start": 17,
+              "username": "shuangqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084419823111376941",
+        "in_reply_to_user_id": "1721003883579748352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084419424325632350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tushanhonghong9 @shuangqiu 这两者是冲突的，所以我现在也不太考虑后者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721003883579748352",
+        "conversation_id": "2084417286689923268",
+        "created_at": "2026-08-03T23:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084419424325632350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "88247180",
+              "start": 0,
+              "username": "shuangqiu"
+            },
+            {
+              "end": 24,
+              "id": "2041159531657416704",
+              "start": 11,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084419424325632350",
+        "in_reply_to_user_id": "88247180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084418597070532918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangqiu @amber_digit2 目的不是还有搞革命和有教职？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 723,
+          "like_count": 2306,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 2027
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 592,
+          "like_count": 77232,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 2950
+        },
+        "url": "",
+        "username": "tushanhonghong9",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-07T19:00:11.000Z",
+        "description": "#坚果内参，行政级别低，内容迎合领导。 本账号由多人管理，言论及其他信息均不构成投资建议或人生指导，请您独立进行决策。 本账号的所有内容严禁在 #中华人民共和国（包括其声称或控制的所有领土、领海、领空及互联网空间）传播或转播。访问、阅读和使用本账号的任何内容即表示您同意上述条款。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "坚果内参"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "中华人民共和国"
+              }
+            ]
+          }
+        },
+        "id": "88247180",
+        "location": "In a Nutshell ",
+        "name": "Squirrel/Squirrela 尚气松鼠",
+        "pinned_tweet_id": "2027361113302765847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613716572160000/pG77uN5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7624,
+          "following_count": 77,
+          "like_count": 12000,
+          "listed_count": 76,
+          "media_count": 3615,
+          "tweet_count": 67848
+        },
+        "url": "",
+        "username": "shuangqiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082796327381893573",
+    "created_at": "2026-07-30T11:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082796327381893573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hialloul/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/hialloul/status/2082700403607790015",
+          "start": 2,
+          "url": "https://t.co/JkY64pBjIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082796327381893573",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082700403607790015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "… https://t.co/JkY64pBjIn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082796327381893573",
+        "created_at": "2026-07-30T11:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082796327381893573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hialloul/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/hialloul/status/2082700403607790015",
+              "start": 2,
+              "url": "https://t.co/JkY64pBjIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082796327381893573",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082700403607790015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "… https://t.co/JkY64pBjIn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "2082700403607790015",
+        "created_at": "2026-07-30T05:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082700403607790015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082700403607790015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听见变声的男孩，又在庆幸自己拥有一颗干净的、不会被激素污染的喉咙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4099,
+          "following_count": 659,
+          "like_count": 1927,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "2070738663303159964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1404,
+          "like_count": 22830,
+          "listed_count": 5,
+          "media_count": 1058,
+          "tweet_count": 6764
+        },
+        "url": "",
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

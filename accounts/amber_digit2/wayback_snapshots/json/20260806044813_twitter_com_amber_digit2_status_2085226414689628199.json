@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      }
+    ],
+    "conversation_id": "2085226414689628199",
+    "created_at": "2026-08-06T04:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085226414689628199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1115902820203618304",
+          "start": 3,
+          "username": "aurorachaang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226414689628199",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085106725225468132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aurorachaang: literally writing my master's dissertation on this right now! looking at how russia and china \"support palestine\" rhetori…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          }
+        ],
+        "conversation_id": "2085226414689628199",
+        "created_at": "2026-08-06T04:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085226414689628199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1115902820203618304",
+              "start": 3,
+              "username": "aurorachaang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226414689628199",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085106725225468132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aurorachaang: literally writing my master's dissertation on this right now! looking at how russia and china \"support palestine\" rhetori…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115902820203618304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          }
+        ],
+        "conversation_id": "2085106725225468132",
+        "created_at": "2026-08-05T20:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085106725225468132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cabbage_conten…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/cabbage_content/status/2085042210538688778",
+              "start": 276,
+              "url": "https://t.co/XVQOvHxOgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085106725225468132",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 790,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085042210538688778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "literally writing my master's dissertation on this right now! looking at how russia and china \"support palestine\" rhetorically and if their practices, particularly in the economic realm, match up to that the rhetoric (i argue no but i'm still doing the research so we'll see) https://t.co/XVQOvHxOgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4659,
+          "following_count": 750,
+          "like_count": 2522,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 2176
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-10T09:02:19.000Z",
+        "description": "taiwanese queer • MSc @UofGlasgow • @newbloommag • alum @uclssees • interested in taiwan's solidarity with palestine, ukraine, tibet, sudan & more • neography ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "UofGlasgow"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "newbloommag"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "uclssees"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/twpalestineinfo",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/twpalestineinfo",
+                "start": 0,
+                "url": "https://t.co/SbYxUlVSAj"
+              }
+            ]
+          }
+        },
+        "id": "1115902820203618304",
+        "location": "Glasgow, Scotland",
+        "name": "Aurora Chang 張瓊方 🌻🍉",
+        "pinned_tweet_id": "2023932252594360775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060069719000899584/lftj0CaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15286,
+          "following_count": 1755,
+          "like_count": 132388,
+          "listed_count": 143,
+          "media_count": 1447,
+          "tweet_count": 12401
+        },
+        "url": "https://t.co/SbYxUlVSAj",
+        "username": "aurorachaang",
+        "verified": false
+      }
+    ]
+  }
+}

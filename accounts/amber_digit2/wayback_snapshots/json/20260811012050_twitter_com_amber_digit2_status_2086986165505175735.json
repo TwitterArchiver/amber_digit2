@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2086986165505175735",
+    "created_at": "2026-08-11T01:20:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086986165505175735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1413793911848398850",
+          "start": 3,
+          "username": "SagiriYamamoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086986165505175735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086983326041354335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SagiriYamamoto: (1/n)这是一篇记录我在USCF接受的机器人辅助腹膜瓣阴道成形术的参考文档\n手术由在Jun Surgical执业的Min Jun整骨医学博士完成\n谨在此感谢Min Jun DO., Austin Davis-Hunter PA., 以及…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086986165505175735",
+        "created_at": "2026-08-11T01:20:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086986165505175735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1413793911848398850",
+              "start": 3,
+              "username": "SagiriYamamoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086986165505175735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086983326041354335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SagiriYamamoto: (1/n)这是一篇记录我在USCF接受的机器人辅助腹膜瓣阴道成形术的参考文档\n手术由在Jun Surgical执业的Min Jun整骨医学博士完成\n谨在此感谢Min Jun DO., Austin Davis-Hunter PA., 以及…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413793911848398850",
+        "conversation_id": "2086983326041354335",
+        "created_at": "2026-08-11T01:09:33.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086983326041354335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086983326041354335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "(1/n)这是一篇记录我在USCF接受的机器人辅助腹膜瓣阴道成形术的参考文档\n手术由在Jun Surgical执业的Min Jun整骨医学博士完成\n谨在此感谢Min Jun DO., Austin Davis-Hunter PA., 以及UCSF护理团队的成员"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086986165505175735",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 797,
+          "like_count": 2946,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 2433
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-10T09:35:24.000Z",
+        "description": "BS/MS @CUSEAS|EECS|lesbian|Alumna @GrinnellCollege",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "CUSEAS"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "GrinnellCollege"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "charlottechen2002.com",
+                "end": 23,
+                "expanded_url": "https://charlottechen2002.com",
+                "start": 0,
+                "url": "https://t.co/2ZUSGFj5Wx"
+              }
+            ]
+          }
+        },
+        "id": "1413793911848398850",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2086985839192731814",
+        "name": "夏洛特和她的猫",
+        "pinned_tweet_id": "2051408716159697068",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413793911848398850/1636999741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881169282567999488/-s0Z1PpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 2833,
+          "like_count": 4385,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/2ZUSGFj5Wx",
+        "username": "SagiriYamamoto",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

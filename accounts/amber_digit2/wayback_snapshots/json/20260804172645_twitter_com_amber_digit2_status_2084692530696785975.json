@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084499999765794816"
+      ],
+      "media_source_tweet_id": [
+        "2084500001942573183"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084692530696785975",
+    "created_at": "2026-08-04T17:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084692530696785975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "862855129908862976",
+          "start": 3,
+          "username": "souljagoyteller"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMid7cDpBO",
+          "end": 44,
+          "expanded_url": "https://x.com/souljagoyteller/status/2084500001942573183/photo/1",
+          "media_key": "3_2084499999765794816",
+          "start": 21,
+          "url": "https://t.co/mMid7cDpBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084692530696785975",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084500001942573183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @souljagoyteller: https://t.co/mMid7cDpBO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2084499999765794816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2htKRXkAAFhjJ.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084499999765794816"
+          ]
+        },
+        "author_id": "862855129908862976",
+        "conversation_id": "2084500001942573183",
+        "created_at": "2026-08-04T04:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084500001942573183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMid7cDpBO",
+              "end": 23,
+              "expanded_url": "https://x.com/souljagoyteller/status/2084500001942573183/photo/1",
+              "media_key": "3_2084499999765794816",
+              "start": 0,
+              "url": "https://t.co/mMid7cDpBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084500001942573183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 32892,
+          "like_count": 2805,
+          "quote_count": 15,
+          "reply_count": 11,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mMid7cDpBO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084499999765794816"
+          ],
+          "media_source_tweet_id": [
+            "2084500001942573183"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084692530696785975",
+        "created_at": "2026-08-04T17:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084692530696785975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "862855129908862976",
+              "start": 3,
+              "username": "souljagoyteller"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMid7cDpBO",
+              "end": 44,
+              "expanded_url": "https://x.com/souljagoyteller/status/2084500001942573183/photo/1",
+              "media_key": "3_2084499999765794816",
+              "start": 21,
+              "url": "https://t.co/mMid7cDpBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084692530696785975",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084500001942573183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @souljagoyteller: https://t.co/mMid7cDpBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4589,
+          "following_count": 740,
+          "like_count": 2406,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-12T02:21:08.000Z",
+        "description": "Essayist/writer | bylines @liberalcurrents | Jewish, apparently to the surprise of many | 🍉🇺🇦🇵🇸 | DMs Open!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "liberalcurrents"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shmulikstakes.substack.com",
+                "end": 23,
+                "expanded_url": "https://shmulikstakes.substack.com/",
+                "start": 0,
+                "url": "https://t.co/UK3Hr1NzVw"
+              }
+            ]
+          }
+        },
+        "id": "862855129908862976",
+        "location": "NYC/DC (he/him)",
+        "name": "Sami Gold",
+        "pinned_tweet_id": "2059842285311856873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739391977060237313/Dm5b32Nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32431,
+          "following_count": 5372,
+          "like_count": 233605,
+          "listed_count": 425,
+          "media_count": 14690,
+          "tweet_count": 97117
+        },
+        "url": "https://t.co/UK3Hr1NzVw",
+        "username": "souljagoyteller",
+        "verified": true
+      }
+    ]
+  }
+}

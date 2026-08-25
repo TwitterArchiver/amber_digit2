@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085406488432877786",
+    "created_at": "2026-08-06T18:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085436274232508439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536829217593335809",
+          "start": 0,
+          "username": "goodnightrage"
+        },
+        {
+          "end": 25,
+          "id": "1175755285799079937",
+          "start": 15,
+          "username": "fehfonfon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085436274232508439",
+    "in_reply_to_user_id": "1536829217593335809",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085430696051368047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goodnightrage @fehfonfon idk im not a native english speaker nor a linguist"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085406488432877786",
+        "created_at": "2026-08-06T18:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085436274232508439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536829217593335809",
+              "start": 0,
+              "username": "goodnightrage"
+            },
+            {
+              "end": 25,
+              "id": "1175755285799079937",
+              "start": 15,
+              "username": "fehfonfon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085436274232508439",
+        "in_reply_to_user_id": "1536829217593335809",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085430696051368047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goodnightrage @fehfonfon idk im not a native english speaker nor a linguist"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536829217593335809",
+        "conversation_id": "2085406488432877786",
+        "created_at": "2026-08-06T18:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085430696051368047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 24,
+              "id": "1175755285799079937",
+              "start": 14,
+              "username": "fehfonfon"
+            }
+          ],
+          "urls": [
+            {
+              "description": "\"act of making or becoming black, darkening, discoloration,\" from Late Latin… See origin and meaning of denigration.",
+              "display_url": "etymonline.com/word/denigrati…",
+              "end": 125,
+              "expanded_url": "https://www.etymonline.com/word/denigration",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2085430696684707840/_D7UP5sC?format=png&name=orig",
+                  "width": 360
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085430696684707840/_D7UP5sC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Denigration - Etymology, Origin & Meaning",
+              "unwound_url": "https://www.etymonline.com/word/denigration",
+              "url": "https://t.co/MCbqVWWPTx"
+            },
+            {
+              "display_url": "english.stackexchange.com/a/209032",
+              "end": 150,
+              "expanded_url": "https://english.stackexchange.com/a/209032",
+              "start": 127,
+              "status": 403,
+              "unwound_url": "https://english.stackexchange.com/a/209032",
+              "url": "https://t.co/cUWl9MYfHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085430696051368047",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085424860776271975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @fehfonfon this is…probably not a correct understanding of the etymology of that word.\n\nhttps://t.co/MCbqVWWPTx\n\nhttps://t.co/cUWl9MYfHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 765,
+          "like_count": 2607,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-14T21:53:54.000Z",
+        "description": "mdni · priv @knifedirge",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "knifedirge"
+              }
+            ]
+          }
+        },
+        "id": "1536829217593335809",
+        "name": "Lydia",
+        "pinned_tweet_id": "1749069340274823632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044978993980477440/OSRqdHu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5112,
+          "following_count": 590,
+          "like_count": 170563,
+          "listed_count": 11,
+          "media_count": 51,
+          "tweet_count": 3194
+        },
+        "url": "",
+        "username": "goodnightrage",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-22T12:55:17.000Z",
+        "description": "🫪",
+        "id": "1175755285799079937",
+        "location": "she/they",
+        "name": "Fefonfon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798609309552824320/Ct4ZASln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 1872,
+          "like_count": 105360,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3756
+        },
+        "url": "",
+        "username": "fehfonfon",
+        "verified": false
+      }
+    ]
+  }
+}

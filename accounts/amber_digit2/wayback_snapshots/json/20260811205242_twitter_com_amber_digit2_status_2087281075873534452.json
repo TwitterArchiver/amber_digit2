@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087281072086110208",
+        "3_2087281072081911808"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087281075873534452",
+    "created_at": "2026-08-11T20:52:42.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087281075873534452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtcsAVEij2",
+          "end": 53,
+          "expanded_url": "https://x.com/amber_digit2/status/2087281075873534452/photo/1",
+          "media_key": "3_2087281072086110208",
+          "start": 30,
+          "url": "https://t.co/FtcsAVEij2"
+        },
+        {
+          "display_url": "pic.x.com/FtcsAVEij2",
+          "end": 53,
+          "expanded_url": "https://x.com/amber_digit2/status/2087281075873534452/photo/1",
+          "media_key": "3_2087281072081911808",
+          "start": 30,
+          "url": "https://t.co/FtcsAVEij2"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2087272134405992957",
+          "start": 54,
+          "url": "https://t.co/HWpqQOr6xy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087281075873534452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087281072086110208"
+      },
+      {
+        "media_key": "3_2087281072081911808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087272134405992957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "毕业7年之后，我终于可以补上之前一直没拍的那张高中毕业照了 https://t.co/FtcsAVEij2 https://t.co/HWpqQOr6xy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087281072086110208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeDE4AW0AA8wiX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087281072081911808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeDE3_WwAAKybj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087272129658007552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd68W3WsAAoFab.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087281072086110208",
+            "3_2087281072081911808"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087281075873534452",
+        "created_at": "2026-08-11T20:52:42.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087281075873534452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtcsAVEij2",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_digit2/status/2087281075873534452/photo/1",
+              "media_key": "3_2087281072086110208",
+              "start": 30,
+              "url": "https://t.co/FtcsAVEij2"
+            },
+            {
+              "display_url": "pic.x.com/FtcsAVEij2",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_digit2/status/2087281075873534452/photo/1",
+              "media_key": "3_2087281072081911808",
+              "start": 30,
+              "url": "https://t.co/FtcsAVEij2"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2087272134405992957",
+              "start": 54,
+              "url": "https://t.co/HWpqQOr6xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087281075873534452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087281072086110208"
+          },
+          {
+            "media_key": "3_2087281072081911808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087272134405992957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毕业7年之后，我终于可以补上之前一直没拍的那张高中毕业照了 https://t.co/FtcsAVEij2 https://t.co/HWpqQOr6xy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087272129658007552"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087272134405992957",
+        "created_at": "2026-08-11T20:17:11.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087272134405992957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1553377337902714881",
+              "start": 5,
+              "username": "ChiangCChing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KB9cUXEsnZ",
+              "end": 95,
+              "expanded_url": "https://x.com/amber_digit2/status/2087272134405992957/photo/1",
+              "media_key": "3_2087272129658007552",
+              "start": 72,
+              "url": "https://t.co/KB9cUXEsnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087272134405992957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087272129658007552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 191,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢学妹 @ChiangCChing 投喂我一套高中女款校服…我高中从来没有尝试过因为完全不敢，谢谢你帮我圆梦，我现在真的可以重新当一次jk了 https://t.co/KB9cUXEsnZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087281075873534452",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4940,
+          "following_count": 810,
+          "like_count": 3036,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

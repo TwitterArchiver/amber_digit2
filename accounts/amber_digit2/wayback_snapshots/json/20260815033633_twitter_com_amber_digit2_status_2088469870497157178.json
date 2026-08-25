@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088334680622067744",
+    "created_at": "2026-08-15T03:36:33.000Z",
+    "display_text_range": [
+      16,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088469870497157178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1472504345983811584",
+          "start": 0,
+          "username": "Sassysophieirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088469870497157178",
+    "in_reply_to_user_id": "1472504345983811584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088446256310091790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sassysophieirl 这个破号在我走了以后基本上只发安全内容了，没有任何封号风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088334680622067744",
+        "created_at": "2026-08-15T03:36:33.000Z",
+        "display_text_range": [
+          16,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088469870497157178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1472504345983811584",
+              "start": 0,
+              "username": "Sassysophieirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088469870497157178",
+        "in_reply_to_user_id": "1472504345983811584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088446256310091790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sassysophieirl 这个破号在我走了以后基本上只发安全内容了，没有任何封号风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472504345983811584",
+        "conversation_id": "2088334680622067744",
+        "created_at": "2026-08-15T02:02:43.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088446256310091790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088446256310091790",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088334680622067744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 会不会是因为封号风险太高……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088469870497157178",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 856,
+          "like_count": 3435,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-19T09:49:44.000Z",
+        "description": "3️⃣0️⃣⬆️ Aego/Bi-ace, alt account, just yapping . MDNI. とっくに成人済み🥰趣味雑多垢。一个杂食混邪的小号，非常liberal，威权批判者，女权主义者，剧女，偶尔发猫🐈",
+        "id": "1472504345983811584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088466090091520091",
+        "name": "ネコ花凛",
+        "pinned_tweet_id": "1974300244230942721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472504345983811584/1782154907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074392883961253888/cYypqwRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 335,
+          "like_count": 41386,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 3006
+        },
+        "url": "",
+        "username": "Sassysophieirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

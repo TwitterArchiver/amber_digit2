@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2082492210382016670",
+    "created_at": "2026-07-29T22:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082596851396604107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690794509594931200",
+          "start": 0,
+          "username": "toastyregrets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082596851396604107",
+    "in_reply_to_user_id": "1690794509594931200",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082589860053852399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toastyregrets taobao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2082492210382016670",
+        "created_at": "2026-07-29T22:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082596851396604107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690794509594931200",
+              "start": 0,
+              "username": "toastyregrets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082596851396604107",
+        "in_reply_to_user_id": "1690794509594931200",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082589860053852399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toastyregrets taobao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690794509594931200",
+        "conversation_id": "2082492210382016670",
+        "created_at": "2026-07-29T22:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082589860053852399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082589860053852399",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082492210382016670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 I really really like your shirt... where did you get it?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 651,
+          "like_count": 1862,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T18:36:51.000Z",
+        "description": "Bigender? I hardly know he/her!\nMethodist, Socialist, Austist #woke \n\n@eviltoastyreg for private. @sirtoastyknows for nothin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "woke"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "eviltoastyreg"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "sirtoastyknows"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pronouns.cc/@ToastyRegrets",
+                "end": 23,
+                "expanded_url": "https://pronouns.cc/@ToastyRegrets",
+                "start": 0,
+                "url": "https://t.co/SlsQA2wsd2"
+              }
+            ]
+          }
+        },
+        "id": "1690794509594931200",
+        "location": "Between better and worse ",
+        "name": "toasty regrets ✝️🇵🇸🇺🇦🇹🇼",
+        "pinned_tweet_id": "1806058936149102797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690814755097677824/NhR6dI1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 685,
+          "like_count": 179682,
+          "listed_count": 0,
+          "media_count": 543,
+          "tweet_count": 5517
+        },
+        "url": "https://t.co/SlsQA2wsd2",
+        "username": "toastyregrets",
+        "verified": false
+      }
+    ]
+  }
+}

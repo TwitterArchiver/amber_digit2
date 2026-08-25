@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082492210382016670",
+    "created_at": "2026-07-30T23:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082978371667911000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077636613065310208",
+          "start": 0,
+          "username": "rosaaaaa0209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082978371667911000",
+    "in_reply_to_user_id": "2077636613065310208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082927313143120377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosaaaaa0209 不知道啊我确实去了英国，但我是去找我女朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082492210382016670",
+        "created_at": "2026-07-30T23:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082978371667911000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077636613065310208",
+              "start": 0,
+              "username": "rosaaaaa0209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082978371667911000",
+        "in_reply_to_user_id": "2077636613065310208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082927313143120377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosaaaaa0209 不知道啊我确实去了英国，但我是去找我女朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077636613065310208",
+        "conversation_id": "2082492210382016670",
+        "created_at": "2026-07-30T20:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082927313143120377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082927313143120377",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082492210382016670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我好像曾经在小红书看到过你，不知道是不是你，有一个帖子是一位和你一样漂亮的人去英国找男朋友玩，两个人都很有气质，但是后来号不见了，我找了很久也没有找到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 666,
+          "like_count": 1947,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T06:09:49.000Z",
+        "description": "07 傻狗女大 臭屌丝一个 二偶痴 大奶爱好者 露阴癖 任天堂属性 野狗一条 公狗性转版 极端想 ccb  炫压抑享受者 母单",
+        "id": "2077636613065310208",
+        "name": "椒盐鱼",
+        "pinned_tweet_id": "2078437118662332607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077643873053241344/mZqwRuMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 185,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "rosaaaaa0209",
+        "verified": false
+      }
+    ]
+  }
+}

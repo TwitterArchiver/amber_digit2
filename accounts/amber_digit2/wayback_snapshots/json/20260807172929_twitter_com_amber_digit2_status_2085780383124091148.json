@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2085606873521078571",
+    "created_at": "2026-08-07T17:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085780383124091148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695243582368591872",
+          "start": 0,
+          "username": "OtherBigA"
+        },
+        {
+          "end": 23,
+          "id": "1680390281777278977",
+          "start": 11,
+          "username": "josana3xluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085780383124091148",
+    "in_reply_to_user_id": "1695243582368591872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085769600663531778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OtherBigA @josana3xluv 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085606873521078571",
+        "created_at": "2026-08-07T17:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085780383124091148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695243582368591872",
+              "start": 0,
+              "username": "OtherBigA"
+            },
+            {
+              "end": 23,
+              "id": "1680390281777278977",
+              "start": 11,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085780383124091148",
+        "in_reply_to_user_id": "1695243582368591872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085769600663531778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OtherBigA @josana3xluv 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695243582368591872",
+        "conversation_id": "2085606873521078571",
+        "created_at": "2026-08-07T16:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085769600663531778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 26,
+              "id": "1680390281777278977",
+              "start": 14,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085769600663531778",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085761422240161999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @josana3xluv 啊？这下不得不给水母妹妹捆起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 773,
+          "like_count": 2693,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-26T01:15:52.000Z",
+        "description": "",
+        "id": "1695243582368591872",
+        "name": "Chaser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833476930823458821/21zuczWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 287,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "OtherBigA",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T01:34:17.000Z",
+        "description": "=josana    \n可以找我借雌激素",
+        "id": "1680390281777278977",
+        "name": "朝三爱",
+        "pinned_tweet_id": "2025987675036242394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1953,
+          "like_count": 6625,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1455
+        },
+        "url": "",
+        "username": "josana3xluv",
+        "verified": false
+      }
+    ]
+  }
+}

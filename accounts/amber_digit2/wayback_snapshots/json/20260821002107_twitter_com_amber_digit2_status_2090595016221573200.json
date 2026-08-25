@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2090594226698354968",
+    "created_at": "2026-08-21T00:21:07.000Z",
+    "display_text_range": [
+      14,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T01:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090595016221573200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088519536068943872",
+          "start": 0,
+          "username": "yamazaki_neo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 43,
+          "expanded_url": "https://x.com/amber_digit2/status/2081055754644082788",
+          "start": 20,
+          "url": "https://t.co/aTJMTGfNBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090595016221573200",
+    "in_reply_to_user_id": "2088519536068943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081055754644082788",
+        "type": "quoted"
+      },
+      {
+        "id": "2090594513991733608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazaki_neo 为了救自己\nhttps://t.co/aTJMTGfNBc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-21T00:21:07.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090595016221573200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088519536068943872",
+              "start": 0,
+              "username": "yamazaki_neo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 43,
+              "expanded_url": "https://x.com/amber_digit2/status/2081055754644082788",
+              "start": 20,
+              "url": "https://t.co/aTJMTGfNBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090595016221573200",
+        "in_reply_to_user_id": "2088519536068943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081055754644082788",
+            "type": "quoted"
+          },
+          {
+            "id": "2090594513991733608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazaki_neo 为了救自己\nhttps://t.co/aTJMTGfNBc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088519536068943872",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-21T00:19:08.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090594513991733608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090594513991733608",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090594226698354968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 那你为什么当人妖🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2080853546682003850",
+        "created_at": "2026-07-25T16:35:30.000Z",
+        "display_text_range": [
+          12,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081055754644082788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081055754644082788",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以我在上面表达的意思很简单：只要男的仍然觉得自己被爱是自身性别带来的天然特权，只要男性拒绝理解父权制为了维系男性特权、通过「男性气质」的这一安排、对男性生命根深蒂固的剥夺，只要男性无法理解由这种结构催生出来的「女性气质」在多么根本的意义上构建了他们自身，他们就不知道什么是爱，学不会爱自己，不敢爱彼此，也做不到爱别人。在这样的情况下，给他们多少爱都是没有意义的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081054226113765727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree 所以我在上面表达的意思很简单：只要男的仍然觉得自己被爱是自身性别带来的天然特权，只要男性拒绝理解父权制为了维系男性特权、通过「男性气质」的这一安排、对男性生命根深蒂固的剥夺，只要男性无法理解由这种结构催生出来的「女性气质」在多么根本的意义上构建了他们自身，他们就不知道什么是爱，学"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090595016221573200",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 885,
+          "like_count": 4051,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T06:57:34.000Z",
+        "description": "@yamazakiisuzu 的分身，主体已被shadow ban制裁……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "yamazakiisuzu"
+              }
+            ]
+          }
+        },
+        "id": "2088519536068943872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090594513991733608",
+        "name": "山崎いすず",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088519536068943872/1786777190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 70,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "yamazaki_neo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

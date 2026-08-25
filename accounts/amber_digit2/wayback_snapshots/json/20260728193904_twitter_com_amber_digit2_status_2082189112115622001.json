@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082189112115622001",
+    "created_at": "2026-07-28T19:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082189112115622001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1128171981214343170",
+          "start": 3,
+          "username": "Phosphas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082189112115622001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082185379512496442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phosphas: 人在长期优渥的环境下大概真的会变成毫无同理心的怪物吧。一个本科同学发了个帖子给北大为了discourage的事情辩护，大意是学费这么低北大没有对不起学生的地方，在被评论区骂了之后她说觉得自己作为学生是享受了远远高于自身投入的资源。我看了真是不觉哑然失…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082185374885982208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVokQqXsAA4oHA.jpg",
+        "width": 1228
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082185374911135745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVokQwXgAEpzLc.jpg",
+        "width": 1228
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082185374906847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVokQvWEAAZods.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082189112115622001",
+        "created_at": "2026-07-28T19:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082189112115622001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1128171981214343170",
+              "start": 3,
+              "username": "Phosphas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082189112115622001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082185379512496442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phosphas: 人在长期优渥的环境下大概真的会变成毫无同理心的怪物吧。一个本科同学发了个帖子给北大为了discourage的事情辩护，大意是学费这么低北大没有对不起学生的地方，在被评论区骂了之后她说觉得自己作为学生是享受了远远高于自身投入的资源。我看了真是不觉哑然失…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082185374885982208",
+            "3_2082185374911135745",
+            "3_2082185374906847232"
+          ]
+        },
+        "author_id": "1128171981214343170",
+        "conversation_id": "2082185379512496442",
+        "created_at": "2026-07-28T19:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082185379512496442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXvd93ve4b",
+              "end": 169,
+              "expanded_url": "https://x.com/Phosphas/status/2082185379512496442/photo/1",
+              "media_key": "3_2082185374885982208",
+              "start": 146,
+              "url": "https://t.co/MXvd93ve4b"
+            },
+            {
+              "display_url": "pic.x.com/MXvd93ve4b",
+              "end": 169,
+              "expanded_url": "https://x.com/Phosphas/status/2082185379512496442/photo/1",
+              "media_key": "3_2082185374911135745",
+              "start": 146,
+              "url": "https://t.co/MXvd93ve4b"
+            },
+            {
+              "display_url": "pic.x.com/MXvd93ve4b",
+              "end": 169,
+              "expanded_url": "https://x.com/Phosphas/status/2082185379512496442/photo/1",
+              "media_key": "3_2082185374906847232",
+              "start": 146,
+              "url": "https://t.co/MXvd93ve4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082185379512496442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人在长期优渥的环境下大概真的会变成毫无同理心的怪物吧。一个本科同学发了个帖子给北大为了discourage的事情辩护，大意是学费这么低北大没有对不起学生的地方，在被评论区骂了之后她说觉得自己作为学生是享受了远远高于自身投入的资源。我看了真是不觉哑然失笑，其一是她自己绩点很不错，在赢者通吃的地方自然很受用，别人吃了多少哑巴亏她也可以当看不见，其次作为东西海朝的学生，她们享受了2.13%的清北录取率，而全中国清北统招的录取率是0.05%，要说谁真的享受了远高于自己投入的资源，恐怕也就只有东西海朝吧（不含崇文宣武）。至少，不应该一边吃着比周边河北几个农业县价格还低的生鲜价格，一边巧舌如簧，大言炎炎地讲这些话，还一边将自己视为为结构的苦难者发声的社科学者。欺下而媚上，真是思之令人发笑！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人在长期优渥的环境下大概真的会变成毫无同理心的怪物吧。一个本科同学发了个帖子给北大为了discourage的事情辩护，大意是学费这么低北大没有对不起学生的地方，在被评论区骂了之后她说觉得自己作为学生是享受了远远高于自身投入的资源。我看了真是不觉哑然失笑，其一是她自己绩点很不错，在赢者通吃的 https://t.co/MXvd93ve4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi research on chinese transfem communities / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 641,
+          "like_count": 1803,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-14T05:35:35.000Z",
+        "description": "是狐狐🟨⬜️🟪⬛️！主業是耍廢/下辈子還想和大家一起玩",
+        "id": "1128171981214343170",
+        "location": "髒髒的樹洞",
+        "name": "兔兔狐",
+        "pinned_tweet_id": "1779802684092194893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004647435306438656/s4FyWUpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3329,
+          "following_count": 593,
+          "like_count": 20982,
+          "listed_count": 9,
+          "media_count": 374,
+          "tweet_count": 3363
+        },
+        "url": "",
+        "username": "Phosphas",
+        "verified": false
+      }
+    ]
+  }
+}

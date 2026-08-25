@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081962647923105923",
+    "created_at": "2026-07-28T04:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081962647923105923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puprockpony/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/puprockpony/status/2081137431596982361",
+          "start": 40,
+          "url": "https://t.co/hVtmaoVfVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081962647923105923",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081137431596982361",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i like her with the equality cutie mark https://t.co/hVtmaoVfVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2081137426202869760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGvdnmXwAAMZDA.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081962647923105923",
+        "created_at": "2026-07-28T04:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081962647923105923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puprockpony/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/puprockpony/status/2081137431596982361",
+              "start": 40,
+              "url": "https://t.co/hVtmaoVfVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081962647923105923",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081137431596982361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i like her with the equality cutie mark https://t.co/hVtmaoVfVF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081137426202869760"
+          ]
+        },
+        "author_id": "2019507339292770305",
+        "conversation_id": "2081137431596982361",
+        "created_at": "2026-07-25T22:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081137431596982361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyGVduFL0c",
+              "end": 77,
+              "expanded_url": "https://x.com/PupRockPony/status/2081137431596982361/photo/1",
+              "media_key": "3_2081137426202869760",
+              "start": 54,
+              "url": "https://t.co/oyGVduFL0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081137431596982361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 215905,
+          "like_count": 2890,
+          "quote_count": 85,
+          "reply_count": 59,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "Which Glimmer do you prefer, I prefer Villain Glimmer https://t.co/oyGVduFL0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 632,
+          "like_count": 1758,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T20:24:36.000Z",
+        "description": "I Am Starlight Glimmer  || 0/3 Slots || Comms Open !! || 🎭 || Not here for fame || Twistar 💜🌸 || STL Pone\n\n21yo𝙱𝚞𝚝𝚌𝚑𝙳𝚢𝚔𝚎𝙻𝚎𝚜𝚋𝚘𝚢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trello.com/b/MFLQCFgf/pup…",
+                "end": 23,
+                "expanded_url": "https://trello.com/b/MFLQCFgf/pups-commission-queue",
+                "start": 0,
+                "url": "https://t.co/LrlMIJyB1P"
+              }
+            ]
+          }
+        },
+        "id": "2019507339292770305",
+        "location": "BPD/NPD/PPD🇩🇪🇬🇧🍉",
+        "name": "//ᵎᵎ ZGlimmerTv ᵎᵎ// 0/3 Slots",
+        "pinned_tweet_id": "2080241268467048492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080233791889481729/D9z42jdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1215,
+          "like_count": 15287,
+          "listed_count": 2,
+          "media_count": 1882,
+          "tweet_count": 17135
+        },
+        "url": "https://t.co/LrlMIJyB1P",
+        "username": "PupRockPony",
+        "verified": false
+      }
+    ]
+  }
+}

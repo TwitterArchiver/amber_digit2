@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2082368571133374575",
+    "created_at": "2026-07-29T07:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082368571133374575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2018406868075343872",
+          "start": 3,
+          "username": "PastCassandra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082368571133374575",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082325582822408607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PastCassandra: what really fucked me up was how we suffer bodily injury like 30x more than ciswomen"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082368571133374575",
+        "created_at": "2026-07-29T07:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082368571133374575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2018406868075343872",
+              "start": 3,
+              "username": "PastCassandra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082368571133374575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082325582822408607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PastCassandra: what really fucked me up was how we suffer bodily injury like 30x more than ciswomen"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018406868075343872",
+        "conversation_id": "2082325582822408607",
+        "created_at": "2026-07-29T04:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082325582822408607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caraccidentgf/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/caraccidentgf/status/2082321689225142776",
+              "start": 85,
+              "url": "https://t.co/J7tM8xx09f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082325582822408607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1734,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082321689225142776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "what really fucked me up was how we suffer bodily injury like 30x more than ciswomen https://t.co/J7tM8xx09f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 647,
+          "like_count": 1837,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T19:31:32.000Z",
+        "description": "| ☭ | Mat-Transfem | ⚧︎ | ⚢ |\nI won't scatter your sorrow to the heartless sea. I will always be with you. Plant your roots in me. I won't see you end as ashes.",
+        "id": "2018406868075343872",
+        "name": "Laurasia ☭",
+        "pinned_tweet_id": "2077773283479474260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073140283018027008/ulZ79Xco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 872,
+          "like_count": 40808,
+          "listed_count": 6,
+          "media_count": 1193,
+          "tweet_count": 21763
+        },
+        "url": "",
+        "username": "PastCassandra",
+        "verified": false
+      }
+    ]
+  }
+}

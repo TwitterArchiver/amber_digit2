@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084452025300132119",
+    "created_at": "2026-08-04T01:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084452025300132119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "135410695",
+          "start": 3,
+          "username": "cannibality"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084452025300132119",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083488605234704421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cannibality: \"Socialist\" critics of prison abolition are so vociferous in their attacks because prison abolition requires the destructi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084452025300132119",
+        "created_at": "2026-08-04T01:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084452025300132119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "135410695",
+              "start": 3,
+              "username": "cannibality"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084452025300132119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083488605234704421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cannibality: \"Socialist\" critics of prison abolition are so vociferous in their attacks because prison abolition requires the destructi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "135410695",
+        "conversation_id": "2083488605234704421",
+        "created_at": "2026-08-01T09:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083488605234704421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083488605234704421",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 43143,
+          "like_count": 464,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "\"Socialist\" critics of prison abolition are so vociferous in their attacks because prison abolition requires the destruction of the bourgeois state, repression of the capitalist class, and transition to socialism and communism. They don't want to do any of that any more."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ @wgsi / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 725,
+          "like_count": 2322,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-21T06:42:48.000Z",
+        "description": "☭ 33 ☭ Māori communist ☭ press spokes @againstprisons ☭ prison abolitionist, scholar-activist, cool mum ☭ @kendra_c__ ❤️ ☭ opinions here are personal ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "againstprisons"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "kendra_c__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "papa.org.nz",
+                "end": 23,
+                "expanded_url": "http://papa.org.nz",
+                "start": 0,
+                "url": "https://t.co/KUdt0KVbEP"
+              }
+            ]
+          }
+        },
+        "id": "135410695",
+        "location": "\"New\" \"Zealand\"",
+        "name": "emmy rākete 🇵🇸",
+        "pinned_tweet_id": "1831518826258911462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018405559587028992/C0INZ2-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19499,
+          "following_count": 1846,
+          "like_count": 148807,
+          "listed_count": 87,
+          "media_count": 4162,
+          "tweet_count": 94840
+        },
+        "url": "https://t.co/KUdt0KVbEP",
+        "username": "cannibality",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1471213785922752513",
+          "name": "Bell Hooks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471213785922752513",
+          "name": "Bell Hooks"
+        }
+      }
+    ],
+    "conversation_id": "2081012050944204872",
+    "created_at": "2026-07-25T13:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012050944204872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1394691713105547272",
+          "start": 3,
+          "username": "EPM106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012050944204872",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081008905706938386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EPM106: increasingly out of patience with the answers cisfeminism comes up with for the question of what’s to be done"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          }
+        ],
+        "conversation_id": "2081012050944204872",
+        "created_at": "2026-07-25T13:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012050944204872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1394691713105547272",
+              "start": 3,
+              "username": "EPM106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012050944204872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081008905706938386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EPM106: increasingly out of patience with the answers cisfeminism comes up with for the question of what’s to be done"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394691713105547272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471213785922752513",
+              "name": "Bell Hooks"
+            }
+          }
+        ],
+        "conversation_id": "2081008905706938386",
+        "created_at": "2026-07-25T13:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081008905706938386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suchnerve/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/suchnerve/status/2080725263285911931",
+              "start": 110,
+              "url": "https://t.co/cRQh8vlqI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008905706938386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 448,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080725263285911931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "increasingly out of patience with the answers cisfeminism comes up with for the question of what’s to be done https://t.co/cRQh8vlqI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "chinese trans girl #药娘 / phd @wgsi / 中文, en, fr / formerly @amber_toffee / priv @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 29,
+                "username": "wgsi"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 567,
+          "like_count": 1550,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-18T16:30:02.000Z",
+        "description": "Better to reign in Thel than serve in Heaven // The world’s only deer // Lesbian // @zoeyinrealtime 💜🐇 // https://t.co/U69EBsCL8M",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "zoeyinrealtime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "boxd.it/14xIN",
+                "end": 129,
+                "expanded_url": "https://boxd.it/14xIN",
+                "start": 106,
+                "url": "https://t.co/U69EBsCL8M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.substack.com/pub/thelmcinty…",
+                "end": 23,
+                "expanded_url": "https://open.substack.com/pub/thelmcintyre",
+                "start": 0,
+                "url": "https://t.co/WdtY5duHtf"
+              }
+            ]
+          }
+        },
+        "id": "1394691713105547272",
+        "location": "She/Her, 22, Toronto  ",
+        "name": "Thel 🏳️‍⚧️🦌",
+        "pinned_tweet_id": "2077196832711553303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065427782490853376/ZkpSq1c__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11982,
+          "following_count": 3834,
+          "like_count": 760242,
+          "listed_count": 116,
+          "media_count": 13753,
+          "tweet_count": 151141
+        },
+        "url": "https://t.co/WdtY5duHtf",
+        "username": "EPM106",
+        "verified": true
+      }
+    ]
+  }
+}

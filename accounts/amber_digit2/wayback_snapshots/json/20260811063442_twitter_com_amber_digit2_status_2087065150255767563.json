@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087065150255767563",
+    "created_at": "2026-08-11T06:34:42.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087065150255767563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1429306904656760834",
+          "start": 3,
+          "username": "arst0zka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087065150255767563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086753142465761771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arst0zka8964: 什么傻逼缩写，我看不如都叫鹅腿大学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087065150255767563",
+        "created_at": "2026-08-11T06:34:42.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087065150255767563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1429306904656760834",
+              "start": 3,
+              "username": "arst0zka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087065150255767563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086753142465761771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arst0zka8964: 什么傻逼缩写，我看不如都叫鹅腿大学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429306904656760834",
+        "conversation_id": "2086753142465761771",
+        "created_at": "2026-08-10T09:54:53.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086753142465761771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/showonder/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/showonder/status/2086413317007147408",
+              "start": 18,
+              "url": "https://t.co/xBkaxDE0PH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086753142465761771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22793,
+          "like_count": 428,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086413317007147408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么傻逼缩写，我看不如都叫鹅腿大学 https://t.co/xBkaxDE0PH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087065150255767563",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4885,
+          "following_count": 802,
+          "like_count": 2968,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 2456
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T04:58:22.000Z",
+        "description": "活人-Not a bot/\n英语水平就那样-Able to communicate in English/\n社交是为了镇痛，而非享乐-Socializing is for soothing pain, not seeking pleasure /\n转生次数：二-Two accounts have been banned",
+        "id": "1429306904656760834",
+        "is_identity_verified": false,
+        "location": "IP属地：柱岛泊地",
+        "most_recent_tweet_id": "2087042313436746187",
+        "name": "373K",
+        "pinned_tweet_id": "1842813035993497820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429306904656760834/1629973517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457557127715688450/xrZBjkKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1018,
+          "like_count": 37456,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 17087
+        },
+        "url": "",
+        "username": "arst0zka8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

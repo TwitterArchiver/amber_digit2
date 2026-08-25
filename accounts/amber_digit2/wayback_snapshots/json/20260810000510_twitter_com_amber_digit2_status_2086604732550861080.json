@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086604730361331712"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2086604732550861080",
+    "created_at": "2026-08-10T00:05:10.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086604732550861080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V8t2jkZFvz",
+          "end": 60,
+          "expanded_url": "https://x.com/amber_digit2/status/2086604732550861080/photo/1",
+          "media_key": "3_2086604730361331712",
+          "start": 37,
+          "url": "https://t.co/V8t2jkZFvz"
+        },
+        {
+          "display_url": "x.com/luna_fmby/stat…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/luna_fmby/status/2086415814182203681",
+          "start": 61,
+          "url": "https://t.co/Pgxn2Dnr96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086604732550861080",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086604730361331712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086415814182203681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "im sorry but this is the only answer https://t.co/V8t2jkZFvz https://t.co/Pgxn2Dnr96"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2086604730361331712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUb8mvWQAAqkTA.jpg",
+        "width": 1206
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086415607784775680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRv8OPXoAAMiYG.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086415766509715456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRwFdiWAAAhRo1.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086604730361331712"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086604732550861080",
+        "created_at": "2026-08-10T00:05:10.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086604732550861080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8t2jkZFvz",
+              "end": 60,
+              "expanded_url": "https://x.com/amber_digit2/status/2086604732550861080/photo/1",
+              "media_key": "3_2086604730361331712",
+              "start": 37,
+              "url": "https://t.co/V8t2jkZFvz"
+            },
+            {
+              "display_url": "x.com/luna_fmby/stat…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/luna_fmby/status/2086415814182203681",
+              "start": 61,
+              "url": "https://t.co/Pgxn2Dnr96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086604732550861080",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086604730361331712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086415814182203681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "im sorry but this is the only answer https://t.co/V8t2jkZFvz https://t.co/Pgxn2Dnr96"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086415607784775680",
+            "3_2086415766509715456"
+          ]
+        },
+        "author_id": "1937585045796954113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086415814182203681",
+        "created_at": "2026-08-09T11:34:28.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086415814182203681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "femboy"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "help"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/no3f2PwqbR",
+              "end": 185,
+              "expanded_url": "https://x.com/Luna_FMBY/status/2086415814182203681/photo/1",
+              "media_key": "3_2086415607784775680",
+              "start": 162,
+              "url": "https://t.co/no3f2PwqbR"
+            },
+            {
+              "display_url": "pic.x.com/no3f2PwqbR",
+              "end": 185,
+              "expanded_url": "https://x.com/Luna_FMBY/status/2086415814182203681/photo/1",
+              "media_key": "3_2086415766509715456",
+              "start": 162,
+              "url": "https://t.co/no3f2PwqbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086415814182203681",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2086415607784775680"
+          },
+          {
+            "media_key": "3_2086415766509715456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 473,
+          "impression_count": 78379,
+          "like_count": 967,
+          "quote_count": 5,
+          "reply_count": 89,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Hello les gens de twitter, mais petites cuisses sont toutes pas belles a cause du rasage. Comment vous évitez ça avec vos jambes toutes douces T~T\n\n#femboy #help https://t.co/no3f2PwqbR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086604732550861080",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 788,
+          "like_count": 2858,
+          "listed_count": 5,
+          "media_count": 188,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T18:54:22.000Z",
+        "description": "Just another one mentally ill girl on the plateform but im bulky asf 😈\nFrench Transgirl🇫🇷 🖤📸📽🔞\nIn a relationship with a ✨drama transfem queen✨💜 🏳️‍⚧️🌈",
+        "id": "1937585045796954113",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2086582126271508944",
+        "name": "LunaFMBY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937585045796954113/1750798241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937585168547524608/qjztBzht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 27,
+          "like_count": 12145,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "Luna_FMBY",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

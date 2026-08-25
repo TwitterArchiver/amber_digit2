@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083301818168221696"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083301822463115335",
+    "created_at": "2026-07-31T21:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083301822463115335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsQuCLwGM9",
+          "end": 41,
+          "expanded_url": "https://x.com/amber_digit2/status/2083301822463115335/photo/1",
+          "media_key": "3_2083301818168221696",
+          "start": 18,
+          "url": "https://t.co/JsQuCLwGM9"
+        },
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2083297134237921443",
+          "start": 42,
+          "url": "https://t.co/KM9TRXyK6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083301822463115335",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083297134237921443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "me taking selfies https://t.co/JsQuCLwGM9 https://t.co/KM9TRXyK6s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2083301818168221696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlf9z_XoAAkvmW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083296564848570368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlbMB2XMAASN8a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083301818168221696"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083301822463115335",
+        "created_at": "2026-07-31T21:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083301822463115335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsQuCLwGM9",
+              "end": 41,
+              "expanded_url": "https://x.com/amber_digit2/status/2083301822463115335/photo/1",
+              "media_key": "3_2083301818168221696",
+              "start": 18,
+              "url": "https://t.co/JsQuCLwGM9"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083297134237921443",
+              "start": 42,
+              "url": "https://t.co/KM9TRXyK6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083301822463115335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083297134237921443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "me taking selfies https://t.co/JsQuCLwGM9 https://t.co/KM9TRXyK6s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083296564848570368"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083297134237921443",
+        "created_at": "2026-07-31T21:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:59:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083296604983894149",
+          "2083297134237921443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2rQO3iQMk",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_digit2/status/2083297134237921443/photo/1",
+              "media_key": "3_2083296564848570368",
+              "start": 8,
+              "url": "https://t.co/u2rQO3iQMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083297134237921443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电影院厕所自拍 https://t.co/u2rQO3iQMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya / https://t.co/PJ5qHGedVX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zehao-pan.com",
+                "end": 91,
+                "expanded_url": "http://zehao-pan.com",
+                "start": 68,
+                "url": "https://t.co/PJ5qHGedVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4170,
+          "following_count": 675,
+          "like_count": 2009,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

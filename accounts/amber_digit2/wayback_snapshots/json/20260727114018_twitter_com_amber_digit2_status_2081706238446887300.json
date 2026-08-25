@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081706238446887300",
+    "created_at": "2026-07-27T11:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081706238446887300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "822715997081583618",
+          "start": 3,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081706238446887300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081697445076169002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinchao_qaq: 国家医保政策现在就是严格限制超说明书用药。内分泌科有那么多医保限制性用药，她们医生不可能不了解医保政策的最新动态。\n如果你去的医院还能开出来医保补佳乐，真的该给她们磕一个，跟保哥打擂台的都是勇士，千万不要到处发，自己知道就行了，不要害医生😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081706238446887300",
+        "created_at": "2026-07-27T11:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081706238446887300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "822715997081583618",
+              "start": 3,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706238446887300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081697445076169002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yinchao_qaq: 国家医保政策现在就是严格限制超说明书用药。内分泌科有那么多医保限制性用药，她们医生不可能不了解医保政策的最新动态。\n如果你去的医院还能开出来医保补佳乐，真的该给她们磕一个，跟保哥打擂台的都是勇士，千万不要到处发，自己知道就行了，不要害医生😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822715997081583618",
+        "conversation_id": "2081697445076169002",
+        "created_at": "2026-07-27T11:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:04:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081697325043573101",
+          "2081697445076169002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081697445076169002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国家医保政策现在就是严格限制超说明书用药。内分泌科有那么多医保限制性用药，她们医生不可能不了解医保政策的最新动态。\n如果你去的医院还能开出来医保补佳乐，真的该给她们磕一个，跟保哥打擂台的都是勇士，千万不要到处发，自己知道就行了，不要害医生😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3878,
+          "following_count": 622,
+          "like_count": 1742,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "杭州/不要键政/she/her/残忍变性女巫｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍🌈",
+        "pinned_tweet_id": "1761674699715862697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000589626520768512/XofHS_Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4870,
+          "following_count": 1212,
+          "like_count": 10705,
+          "listed_count": 9,
+          "media_count": 1129,
+          "tweet_count": 7996
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

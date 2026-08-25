@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081438582904918461",
+    "created_at": "2026-07-27T19:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081828309818589188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1166819218731491329",
+          "start": 0,
+          "username": "uglystamps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081828309818589188",
+    "in_reply_to_user_id": "1166819218731491329",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "bc i do not believe recommending an entire book based on a draft chapter i’ve read is good academic practice, especially when im uncertain about how jgp’s latent transmed sentiments (which i learned from the comments) have shaped her arguments. i do believe it is undesirable to debate an unpublished book based on a several hundred word abstract tho"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081552744008343660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uglystamps bc i do not believe recommending an entire book based on a draft chapter i’ve read is good academic practice, especially when im uncertain about how jgp’s latent transmed sentiments (which i learned from the comments) have shaped her arguments. i do believe it is undesirable to"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081438582904918461",
+        "created_at": "2026-07-27T19:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081828309818589188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1166819218731491329",
+              "start": 0,
+              "username": "uglystamps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081828309818589188",
+        "in_reply_to_user_id": "1166819218731491329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "bc i do not believe recommending an entire book based on a draft chapter i’ve read is good academic practice, especially when im uncertain about how jgp’s latent transmed sentiments (which i learned from the comments) have shaped her arguments. i do believe it is undesirable to debate an unpublished book based on a several hundred word abstract tho"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081552744008343660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uglystamps bc i do not believe recommending an entire book based on a draft chapter i’ve read is good academic practice, especially when im uncertain about how jgp’s latent transmed sentiments (which i learned from the comments) have shaped her arguments. i do believe it is undesirable to"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1166819218731491329",
+        "conversation_id": "2081438582904918461",
+        "created_at": "2026-07-27T01:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081552744008343660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081552744008343660",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081438582904918461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 What changed your mind so quickly? \nAlso why are we debating a book when it's seven months out?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 622,
+          "like_count": 1744,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-28T21:06:01.000Z",
+        "description": "We post pictures of ugly stamps.\n\nJust kidding. \n\nIf you're here because I replied to you, it's because I like or respect your banter enough to chirp back :) \n✊",
+        "id": "1166819218731491329",
+        "location": "Musty basements everywhere",
+        "name": "Ugly Stamps",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820053972121530368/khXoH-YE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 683,
+          "like_count": 2709,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "uglystamps",
+        "verified": false
+      }
+    ]
+  }
+}

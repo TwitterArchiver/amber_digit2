@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089900149912829952",
+        "3_2089900149912821760",
+        "3_2089900149904465920",
+        "3_2089900149912797184"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2089901817752650195",
+    "created_at": "2026-08-19T02:26:36.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089901817752650195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4768803912",
+          "start": 2,
+          "username": "Al1saAl1ce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARca1p9NoN",
+          "end": 77,
+          "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+          "media_key": "3_2089900149912829952",
+          "start": 54,
+          "url": "https://t.co/ARca1p9NoN"
+        },
+        {
+          "display_url": "pic.x.com/ARca1p9NoN",
+          "end": 77,
+          "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+          "media_key": "3_2089900149912821760",
+          "start": 54,
+          "url": "https://t.co/ARca1p9NoN"
+        },
+        {
+          "display_url": "pic.x.com/ARca1p9NoN",
+          "end": 77,
+          "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+          "media_key": "3_2089900149904465920",
+          "start": 54,
+          "url": "https://t.co/ARca1p9NoN"
+        },
+        {
+          "display_url": "pic.x.com/ARca1p9NoN",
+          "end": 77,
+          "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+          "media_key": "3_2089900149912797184",
+          "start": 54,
+          "url": "https://t.co/ARca1p9NoN"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "3797791ff9c0e4c6"
+    },
+    "id": "2089901817752650195",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089900149912829952"
+      },
+      {
+        "media_key": "3_2089900149912821760"
+      },
+      {
+        "media_key": "3_2089900149904465920"
+      },
+      {
+        "media_key": "3_2089900149912797184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢@Al1saAl1ce带我吃漂亮饭，这应该也是我到多伦多一年以来，第一次外食同时含脂肪和糖类的正常食物 https://t.co/ARca1p9NoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089900149912829952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDRHROXAAAQu49.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089900149912821760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDRHROW4AAreop.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089900149904465920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDRHRMXYAAiY-I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089900149912797184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDRHROWgAANT3U.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089900149912829952",
+            "3_2089900149912821760",
+            "3_2089900149904465920",
+            "3_2089900149912797184"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089901817752650195",
+        "created_at": "2026-08-19T02:26:36.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089901817752650195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4768803912",
+              "start": 2,
+              "username": "Al1saAl1ce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARca1p9NoN",
+              "end": 77,
+              "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+              "media_key": "3_2089900149912829952",
+              "start": 54,
+              "url": "https://t.co/ARca1p9NoN"
+            },
+            {
+              "display_url": "pic.x.com/ARca1p9NoN",
+              "end": 77,
+              "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+              "media_key": "3_2089900149912821760",
+              "start": 54,
+              "url": "https://t.co/ARca1p9NoN"
+            },
+            {
+              "display_url": "pic.x.com/ARca1p9NoN",
+              "end": 77,
+              "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+              "media_key": "3_2089900149904465920",
+              "start": 54,
+              "url": "https://t.co/ARca1p9NoN"
+            },
+            {
+              "display_url": "pic.x.com/ARca1p9NoN",
+              "end": 77,
+              "expanded_url": "https://x.com/amber_digit2/status/2089901817752650195/photo/1",
+              "media_key": "3_2089900149912797184",
+              "start": 54,
+              "url": "https://t.co/ARca1p9NoN"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "2089901817752650195",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089900149912829952"
+          },
+          {
+            "media_key": "3_2089900149912821760"
+          },
+          {
+            "media_key": "3_2089900149904465920"
+          },
+          {
+            "media_key": "3_2089900149912797184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@Al1saAl1ce带我吃漂亮饭，这应该也是我到多伦多一年以来，第一次外食同时含脂肪和糖类的正常食物 https://t.co/ARca1p9NoN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089901817752650195",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5172,
+          "following_count": 880,
+          "like_count": 3822,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-16T14:53:30.000Z",
+        "description": "她/She，🏳️‍⚧️🇨🇦| 中文 en_CA | 是兔子，欢迎食用 | BPD/cPTSD｜have complex relationship with high mileage BMWs, incl. bikes | 舟批 | 邦邦人 | War Thunder |\nin memory of: Elihuso",
+        "id": "4768803912",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2089901017190052206",
+        "name": "AL1ce🤍💙❤️#",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4768803912/1650823251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374945196480331776/MKlZhZgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1837,
+          "like_count": 91307,
+          "listed_count": 12,
+          "media_count": 2183,
+          "tweet_count": 62687
+        },
+        "url": "",
+        "username": "Al1saAl1ce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

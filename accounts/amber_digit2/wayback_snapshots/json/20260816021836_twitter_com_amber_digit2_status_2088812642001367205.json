@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088802572895178752",
+        "3_2088802572911923200",
+        "3_2088802572895227904",
+        "3_2088802572899340288"
+      ],
+      "media_source_tweet_id": [
+        "2088802576212881791",
+        "2088802576212881791",
+        "2088802576212881791",
+        "2088802576212881791"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2088812642001367205",
+    "created_at": "2026-08-16T02:18:36.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088812642001367205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887069376031182848",
+          "start": 3,
+          "username": "Mirro_zinuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rk3eXRQeJb",
+          "end": 123,
+          "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+          "media_key": "3_2088802572895178752",
+          "start": 100,
+          "url": "https://t.co/rk3eXRQeJb"
+        },
+        {
+          "display_url": "pic.x.com/rk3eXRQeJb",
+          "end": 123,
+          "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+          "media_key": "3_2088802572911923200",
+          "start": 100,
+          "url": "https://t.co/rk3eXRQeJb"
+        },
+        {
+          "display_url": "pic.x.com/rk3eXRQeJb",
+          "end": 123,
+          "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+          "media_key": "3_2088802572895227904",
+          "start": 100,
+          "url": "https://t.co/rk3eXRQeJb"
+        },
+        {
+          "display_url": "pic.x.com/rk3eXRQeJb",
+          "end": 123,
+          "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+          "media_key": "3_2088802572899340288",
+          "start": 100,
+          "url": "https://t.co/rk3eXRQeJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088812642001367205",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088802572895178752"
+      },
+      {
+        "media_key": "3_2088802572911923200"
+      },
+      {
+        "media_key": "3_2088802572895227904"
+      },
+      {
+        "media_key": "3_2088802572899340288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088802576212881791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mirro_zinuo: 這個事情我在2022年就警告過，當時我也是關於草案意見徵集的信訪運動及上訪運動發起人。\n\n後來的事情大家也知道了，牢糯喜提一年十個月有期徒刑，罪名是：尋釁滋事罪。… https://t.co/rk3eXRQeJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2088802572895178752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34NW0AA8ogy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2088802572911923200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34RWUAAbkNn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2088802572895227904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34NXkAAdDw1.jpg",
+        "width": 1647
+      },
+      {
+        "height": 1197,
+        "media_key": "3_2088802572899340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34OWUAARHU2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088802572895178752",
+            "3_2088802572911923200",
+            "3_2088802572895227904",
+            "3_2088802572899340288"
+          ],
+          "media_source_tweet_id": [
+            "2088802576212881791",
+            "2088802576212881791",
+            "2088802576212881791",
+            "2088802576212881791"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2088812642001367205",
+        "created_at": "2026-08-16T02:18:36.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088812642001367205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887069376031182848",
+              "start": 3,
+              "username": "Mirro_zinuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 123,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572895178752",
+              "start": 100,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 123,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572911923200",
+              "start": 100,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 123,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572895227904",
+              "start": 100,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 123,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572899340288",
+              "start": 100,
+              "url": "https://t.co/rk3eXRQeJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088812642001367205",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088802572895178752"
+          },
+          {
+            "media_key": "3_2088802572911923200"
+          },
+          {
+            "media_key": "3_2088802572895227904"
+          },
+          {
+            "media_key": "3_2088802572899340288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088802576212881791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mirro_zinuo: 這個事情我在2022年就警告過，當時我也是關於草案意見徵集的信訪運動及上訪運動發起人。\n\n後來的事情大家也知道了，牢糯喜提一年十個月有期徒刑，罪名是：尋釁滋事罪。… https://t.co/rk3eXRQeJb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088802572895178752",
+            "3_2088802572911923200",
+            "3_2088802572895227904",
+            "3_2088802572899340288"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2088802576212881791",
+        "created_at": "2026-08-16T01:38:36.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088802576212881791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572895178752",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572911923200",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572895227904",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572899340288",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088802576212881791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088802572895178752"
+          },
+          {
+            "media_key": "3_2088802572911923200"
+          },
+          {
+            "media_key": "3_2088802572895227904"
+          },
+          {
+            "media_key": "3_2088802572899340288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "這個事情我在2022年就警告過，當時我也是關於草案意見徵集的信訪運動及上訪運動發起人。\n\n後來的事情大家也知道了，牢糯喜提一年十個月有期徒刑，罪名是：尋釁滋事罪。\n\n直到我被釋放後還有聲音批評：禁令沒有真的影響HRT藥物取得，淘寶、拼多多、京東主流電商只是換個說法——「本地診所預約留藥」、線下開方再發快遞——照賣不誤。是我們在炒作，我們太激進反而影響了普通跨性別者。\n\n上個月我們實測——在電商端，即使有線下「性別不一致」相關荷爾蒙治療處方，線上仍系統攔截無法購藥；在快遞端，我們嘗試寄藥也被拒絕。\n\n而在中國線下醫院跨性別醫療資源嚴重匱乏，僅集中在北上廣和部分省會城市，根本無法滿足全國跨性別者特別是長期用藥需求，還不斷被拉閘——線下醫院也出現系統攔截無法開方。在這樣的情況下，將天然荷爾蒙偷偷塞進\"用藥風險較高、禁止網絡銷售”的名單就是赤裸裸的惡意。\n\n同時附上2022年的對比。\n\n早已預料到今天會發生，因為一旦這樣的口子一開，今天這樣的情況的發生就是無法抑制之事。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 182,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "這個事情我在2022年就警告過，當時我也是關於草案意見徵集的信訪運動及上訪運動發起人。\n\n後來的事情大家也知道了，牢糯喜提一年十個月有期徒刑，罪名是：尋釁滋事罪。 https://t.co/rk3eXRQeJb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088812642001367205",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5116,
+          "following_count": 860,
+          "like_count": 3521,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "is_identity_verified": false,
+        "location": "@KamabokoNGO",
+        "most_recent_tweet_id": "2088802576212881791",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887069376031182848/1740695486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 228,
+          "like_count": 5639,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

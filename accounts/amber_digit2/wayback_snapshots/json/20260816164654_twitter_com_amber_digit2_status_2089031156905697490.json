@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088980189762179348",
+    "created_at": "2026-08-16T16:46:54.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089031156905697490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1584054247145951232",
+          "start": 0,
+          "username": "maybebattery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089031156905697490",
+    "in_reply_to_user_id": "1584054247145951232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088980189762179348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybebattery 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088980180329246720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2MZ_dbMAAUPSs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088980189762179348",
+        "created_at": "2026-08-16T16:46:54.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089031156905697490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1584054247145951232",
+              "start": 0,
+              "username": "maybebattery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089031156905697490",
+        "in_reply_to_user_id": "1584054247145951232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088980189762179348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybebattery 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088980180329246720"
+          ]
+        },
+        "author_id": "1584054247145951232",
+        "conversation_id": "2088980189762179348",
+        "created_at": "2026-08-16T13:24:23.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088980189762179348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4ZCU4FrJr",
+              "end": 29,
+              "expanded_url": "https://x.com/maybebattery/status/2088980189762179348/photo/1",
+              "media_key": "3_2088980180329246720",
+              "start": 6,
+              "url": "https://t.co/o4ZCU4FrJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088980189762179348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088980180329246720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1368,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都是我活该 https://t.co/o4ZCU4FrJr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2089031156905697490",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5135,
+          "following_count": 864,
+          "like_count": 3573,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-23T05:29:06.000Z",
+        "description": "「乱れた呼吸の隅， 命を感じている」@lemonyCoke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "lemonyCoke"
+              }
+            ]
+          }
+        },
+        "id": "1584054247145951232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089024352495009812",
+        "name": "电池",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584054247145951232/1715668116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079465788466208769/-pn547k9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8212,
+          "following_count": 3030,
+          "like_count": 22695,
+          "listed_count": 32,
+          "media_count": 456,
+          "tweet_count": 2477
+        },
+        "url": "",
+        "username": "maybebattery",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

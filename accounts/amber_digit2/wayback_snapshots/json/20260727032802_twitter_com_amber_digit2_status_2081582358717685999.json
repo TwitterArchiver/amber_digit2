@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2081582358717685999",
+    "created_at": "2026-07-27T03:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081582358717685999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1933056099613315072",
+          "start": 3,
+          "username": "thereisnobeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081582358717685999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081519183855256029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thereisnobeth: suffering does not make someone a better person"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2081582358717685999",
+        "created_at": "2026-07-27T03:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081582358717685999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1933056099613315072",
+              "start": 3,
+              "username": "thereisnobeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582358717685999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081519183855256029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thereisnobeth: suffering does not make someone a better person"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933056099613315072",
+        "conversation_id": "2081519183855256029",
+        "created_at": "2026-07-26T23:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081519183855256029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081519183855256029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4100,
+          "like_count": 290,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "suffering does not make someone a better person"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "☭ she/her #药娘 / phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 20,
+                "username": "wgsi"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3827,
+          "following_count": 614,
+          "like_count": 1731,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1603
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T06:57:51.000Z",
+        "description": "enemy of civilisation. green hair and pronouns. ⚢\n\n@thereisabeth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "thereisabeth"
+              }
+            ]
+          }
+        },
+        "id": "1933056099613315072",
+        "name": "thereisnobeth",
+        "pinned_tweet_id": "2065383404301119870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968479627573379072/pUs3SAtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21019,
+          "following_count": 1615,
+          "like_count": 100451,
+          "listed_count": 54,
+          "media_count": 748,
+          "tweet_count": 21089
+        },
+        "url": "",
+        "username": "thereisnobeth",
+        "verified": false
+      }
+    ]
+  }
+}

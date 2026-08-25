@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2090950423960003063",
+    "created_at": "2026-08-21T23:53:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090950423960003063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "285395368",
+          "start": 3,
+          "username": "Jacob_A_Ware"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090950423960003063",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089343033082798132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jacob_A_Ware: \"By depicting authoritarian politics as merely one pole of a diverging spectrum, it grants legitimacy to actors who rejec…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2089341138524061698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7UshhWQAIBLfX.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2090950423960003063",
+        "created_at": "2026-08-21T23:53:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090950423960003063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "285395368",
+              "start": 3,
+              "username": "Jacob_A_Ware"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090950423960003063",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089343033082798132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jacob_A_Ware: \"By depicting authoritarian politics as merely one pole of a diverging spectrum, it grants legitimacy to actors who rejec…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089341138524061698"
+          ]
+        },
+        "author_id": "285395368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2089343033082798132",
+        "created_at": "2026-08-17T13:26:11.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089343033082798132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 277,
+              "id": "98124355",
+              "start": 262,
+              "username": "pettertornberg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijc5iBY2dI",
+              "end": 302,
+              "expanded_url": "https://x.com/Jacob_A_Ware/status/2089343033082798132/photo/1",
+              "media_key": "3_2089341138524061698",
+              "start": 279,
+              "url": "https://t.co/ijc5iBY2dI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089343033082798132",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089341138524061698"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 783,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "\"By depicting authoritarian politics as merely one pole of a diverging spectrum, it grants legitimacy to actors who reject pluralism and democratic institutions.\"\n\nOne of the most creative and convincing academic articles I have read recently. Outstanding work, @pettertornberg! https://t.co/ijc5iBY2dI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2090950423960003063",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5347,
+          "following_count": 896,
+          "like_count": 4144,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-21T02:31:49.000Z",
+        "description": "Studying terrorism and extremism. Opinions are my own and RT ≠ endorsement. https://t.co/8Yi3uuwgmu.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jacobware.bsky.social",
+                "end": 99,
+                "expanded_url": "http://jacobware.bsky.social",
+                "start": 76,
+                "url": "https://t.co/8Yi3uuwgmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cfr.org/expert/jacob-w…",
+                "end": 23,
+                "expanded_url": "https://www.cfr.org/expert/jacob-ware",
+                "start": 0,
+                "url": "https://t.co/2G0RJzIP2t"
+              }
+            ]
+          }
+        },
+        "id": "285395368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090774204450844765",
+        "name": "Jacob Ware",
+        "pinned_tweet_id": "1952715445770793223",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/285395368/1698179524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576636452439576581/48Sjir2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3200,
+          "following_count": 1052,
+          "like_count": 28684,
+          "listed_count": 69,
+          "media_count": 166,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/2G0RJzIP2t",
+        "username": "Jacob_A_Ware",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

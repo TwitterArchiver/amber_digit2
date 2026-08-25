@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Christopher Nolan",
+          "id": "946504856189132800",
+          "name": "Christopher Nolan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Christopher Nolan",
+          "id": "946504856189132800",
+          "name": "Christopher Nolan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      }
+    ],
+    "conversation_id": "2084514318981136855",
+    "created_at": "2026-08-04T05:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084514318981136855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1363212277806223368",
+          "start": 3,
+          "username": "JihadalHaqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084514318981136855",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084396774257521062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JihadalHaqq: when I saw that Chinese interviewer asking questions to Christopher Nolan I immediately clocked her as one of those \"China…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Christopher Nolan",
+              "id": "946504856189132800",
+              "name": "Christopher Nolan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Christopher Nolan",
+              "id": "946504856189132800",
+              "name": "Christopher Nolan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          }
+        ],
+        "conversation_id": "2084514318981136855",
+        "created_at": "2026-08-04T05:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084514318981136855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1363212277806223368",
+              "start": 3,
+              "username": "JihadalHaqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084514318981136855",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084396774257521062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JihadalHaqq: when I saw that Chinese interviewer asking questions to Christopher Nolan I immediately clocked her as one of those \"China…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363212277806223368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Christopher Nolan",
+              "id": "946504856189132800",
+              "name": "Christopher Nolan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Christopher Nolan",
+              "id": "946504856189132800",
+              "name": "Christopher Nolan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          }
+        ],
+        "conversation_id": "2084396774257521062",
+        "created_at": "2026-08-03T21:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084396774257521062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084396774257521062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 991,
+          "impression_count": 137339,
+          "like_count": 5124,
+          "quote_count": 23,
+          "reply_count": 29,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "when I saw that Chinese interviewer asking questions to Christopher Nolan I immediately clocked her as one of those \"China inherits &amp; carries the torch of classical philosophy because the West is destroying itself with wokeness\" nationalist types"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ @wgsi / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 732,
+          "like_count": 2358,
+          "listed_count": 5,
+          "media_count": 160,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T19:42:04.000Z",
+        "description": "my beliefs correlate with anarchism, feminism, & socialism ۝ fuck your favorite war criminal ۝",
+        "id": "1363212277806223368",
+        "location": "في نفسي",
+        "name": "Jihad al-Haqq • جهاد الحق",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535709221970378753/MJbwLAmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17148,
+          "following_count": 2389,
+          "like_count": 82364,
+          "listed_count": 48,
+          "media_count": 2120,
+          "tweet_count": 17109
+        },
+        "url": "",
+        "username": "JihadalHaqq",
+        "verified": false
+      }
+    ]
+  }
+}

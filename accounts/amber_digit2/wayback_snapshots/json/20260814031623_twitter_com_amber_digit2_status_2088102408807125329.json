@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2088102408807125329",
+    "created_at": "2026-08-14T03:16:23.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088102408807125329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arthur2e5/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/arthur2e5/status/2087890736922656846",
+          "start": 11,
+          "url": "https://t.co/YV2W4IYWGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088102408807125329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087890736922656846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是为什么我不出门 https://t.co/YV2W4IYWGc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088102408807125329",
+        "created_at": "2026-08-14T03:16:23.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088102408807125329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arthur2e5/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/arthur2e5/status/2087890736922656846",
+              "start": 11,
+              "url": "https://t.co/YV2W4IYWGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088102408807125329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087890736922656846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是为什么我不出门 https://t.co/YV2W4IYWGc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729407854973755392",
+        "conversation_id": "2087890736922656846",
+        "created_at": "2026-08-13T13:15:17.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087890736922656846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctf7zi/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/ctf7zi/status/2087878096263553278",
+              "start": 71,
+              "url": "https://t.co/TDXrB0ycY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087890736922656846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3681,
+          "like_count": 13,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087878096263553278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是大家出门带刀的理由又多了一条：上厕所的时候被顺人捅要防，逛店的时候被跨人捅也要防。毕竟能阻止一个拿刀的坏人的，只有一个拿着刀正义的自己。 https://t.co/TDXrB0ycY1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088102408807125329",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5085,
+          "following_count": 848,
+          "like_count": 3346,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-08T20:29:19.000Z",
+        "description": "#REDIRECT @Artoria2e5 | A2-Legacy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "REDIRECT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Artoria2e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/arthur2e5",
+                "end": 23,
+                "expanded_url": "https://about.me/arthur2e5",
+                "start": 0,
+                "url": "https://t.co/xMizOdlCdb"
+              }
+            ]
+          }
+        },
+        "id": "729407854973755392",
+        "is_identity_verified": false,
+        "location": "CN-SH ",
+        "most_recent_tweet_id": "2087962209880297865",
+        "name": "Mingye Wang 0.97",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729408171622707200/I1mzuiMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 211,
+          "like_count": 3539,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/xMizOdlCdb",
+        "username": "Arthur2e5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

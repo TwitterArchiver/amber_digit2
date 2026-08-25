@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087321054851059712"
+      ],
+      "media_source_tweet_id": [
+        "2087321070722285853"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2087377044036292608",
+    "created_at": "2026-08-12T03:14:03.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087377044036292608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1312430261141864460",
+          "start": 3,
+          "username": "prenee_colon3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyD7rurg7M",
+          "end": 83,
+          "expanded_url": "https://x.com/prenee_colon3/status/2087321070722285853/photo/1",
+          "media_key": "3_2087321054851059712",
+          "start": 60,
+          "url": "https://t.co/EyD7rurg7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087377044036292608",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087321054851059712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087321070722285853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prenee_colon3: every day we see some bullshit like this https://t.co/EyD7rurg7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2087321054851059712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPencLaXUAAb5QB.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087321054851059712"
+          ]
+        },
+        "author_id": "1312430261141864460",
+        "conversation_id": "2087321070722285853",
+        "created_at": "2026-08-11T23:31:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087321070722285853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyD7rurg7M",
+              "end": 64,
+              "expanded_url": "https://x.com/prenee_colon3/status/2087321070722285853/photo/1",
+              "media_key": "3_2087321054851059712",
+              "start": 41,
+              "url": "https://t.co/EyD7rurg7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087321070722285853",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087321054851059712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "every day we see some bullshit like this https://t.co/EyD7rurg7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087321054851059712"
+          ],
+          "media_source_tweet_id": [
+            "2087321070722285853"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2087377044036292608",
+        "created_at": "2026-08-12T03:14:03.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087377044036292608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1312430261141864460",
+              "start": 3,
+              "username": "prenee_colon3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyD7rurg7M",
+              "end": 83,
+              "expanded_url": "https://x.com/prenee_colon3/status/2087321070722285853/photo/1",
+              "media_key": "3_2087321054851059712",
+              "start": 60,
+              "url": "https://t.co/EyD7rurg7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087377044036292608",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087321054851059712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087321070722285853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prenee_colon3: every day we see some bullshit like this https://t.co/EyD7rurg7M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2087377044036292608",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4959,
+          "following_count": 817,
+          "like_count": 3081,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-03T16:32:28.000Z",
+        "description": "18yo brisbane audhd girl - @princessprenee\nforcing myself to learn how to be positive\n\nsalted caramel ice cream enjoyer...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "princessprenee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "princessprenee.straw.page",
+                "end": 23,
+                "expanded_url": "https://princessprenee.straw.page/",
+                "start": 0,
+                "url": "https://t.co/JgTvXLHPw7"
+              }
+            ]
+          }
+        },
+        "id": "1312430261141864460",
+        "is_identity_verified": false,
+        "location": "procrastinating drawing :c",
+        "most_recent_tweet_id": "2087376308460495352",
+        "name": "🎀prenee:3",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312430261141864460/1783424809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076866485440712704/Lk_VVPmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 833,
+          "like_count": 23355,
+          "listed_count": 29,
+          "media_count": 2496,
+          "tweet_count": 20592
+        },
+        "url": "https://t.co/JgTvXLHPw7",
+        "username": "prenee_colon3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
