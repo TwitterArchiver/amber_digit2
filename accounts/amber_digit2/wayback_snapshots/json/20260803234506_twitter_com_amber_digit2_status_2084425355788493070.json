@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084417286689923268",
+    "created_at": "2026-08-03T23:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084425355788493070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698896439206944769",
+          "start": 0,
+          "username": "combodiabestboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084425355788493070",
+    "in_reply_to_user_id": "1698896439206944769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084424635400266121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@combodiabestboy 有没有可能我是做自媒体出身的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084417286689923268",
+        "created_at": "2026-08-03T23:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084425355788493070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698896439206944769",
+              "start": 0,
+              "username": "combodiabestboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084425355788493070",
+        "in_reply_to_user_id": "1698896439206944769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084424635400266121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@combodiabestboy 有没有可能我是做自媒体出身的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698896439206944769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2084417286689923268",
+        "created_at": "2026-08-03T23:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084424635400266121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084424635400266121",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084417286689923268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 少整没用的青春疼痛文学，好好踏踏实实打工即可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 723,
+          "like_count": 2309,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 2030
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-05T03:11:02.000Z",
+        "description": "@tataqwq是我们的塔司令，我们是塔卫兵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "tataqwq"
+              }
+            ]
+          }
+        },
+        "id": "1698896439206944769",
+        "location": "IP属地：猕猴星球Monpainisia",
+        "name": "塔的八宝菜",
+        "pinned_tweet_id": "1859455386925043785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922781818702487552/OKA5P4BP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 361,
+          "like_count": 49229,
+          "listed_count": 5,
+          "media_count": 1059,
+          "tweet_count": 12585
+        },
+        "url": "",
+        "username": "combodiabestboy",
+        "verified": false
+      }
+    ]
+  }
+}

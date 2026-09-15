@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084155543896162597",
+    "created_at": "2026-08-03T05:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084155543896162597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084155543896162597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084154868982530342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_2084151306273673216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxkkhyb0AANyoQ.jpg",
+        "width": 839
+      },
+      {
+        "duration_ms": 177888,
+        "height": 1080,
+        "media_key": "13_2084154281171849217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084154281171849217/img/Y64NS8-jgtGy5hYt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/1280x720/DgBBJS5i2UuSzlaS.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/1920x1080/w9_yKe0XIrzQZJjR.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/480x270/VM2O3YbGGX_q4LoA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/640x360/cOAkOcnOLTMHOgFh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/pl/guOKAVZMvtnWaxnM.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084155543896162597",
+        "created_at": "2026-08-03T05:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084155543896162597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084155543896162597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084154868982530342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084151306273673216",
+            "13_2084154281171849217"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084154868982530342",
+        "created_at": "2026-08-03T05:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084154868982530342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOY2MDKZFX",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084154868982530342/video/1",
+              "media_key": "3_2084151306273673216",
+              "start": 136,
+              "url": "https://t.co/rOY2MDKZFX"
+            },
+            {
+              "display_url": "pic.x.com/rOY2MDKZFX",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084154868982530342/video/1",
+              "media_key": "13_2084154281171849217",
+              "start": 136,
+              "url": "https://t.co/rOY2MDKZFX"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082395081076777135",
+              "start": 160,
+              "url": "https://t.co/sX0lESlfet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084154868982530342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通过发帖制造舆论互相攻伐，党同伐异。\n \n之前被我搞倒闭的这所\n喜欢绑架性少数的学校，\n其校长因同业竞争，遭到另一机构外号“河南凤凰姐”的股东针对，直接害得对方另一所学校关门歇业，\n对方还借机对他敲诈勒索。\n走投无路之下，\n\n这名校长甚至打算斥重金雇佣我做他们的专职枪手，\n协助我们取证，\n对身边所有潜在竞争对手进行毁灭打击。\n \n🤤🤤我现在打击哪家机构\n都会套上对方竞争对手的皮\n\n我只要选一块地方把周围的扭转机构信息整理一遍发给各自场地的校长\n\n到最后这群蠢货就会自己死光\n或者找到我们\n把对方违法犯罪的证据全都交给我\n\n借力原有矛盾，挑动各方敌对势力缠斗。\n我自可抽身局外，坐山观虎斗，\n隐于幕后，静候各方互相攻伐\n\n🤤🤤🤤🤤这下发动文和乱武了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082395081076777135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通过发帖制造舆论互相攻伐，党同伐异。 https://t.co/rOY2MDKZFX https://t.co/sX0lESlfet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 713,
+          "like_count": 2233,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6827,
+          "following_count": 3360,
+          "like_count": 4197,
+          "listed_count": 19,
+          "media_count": 532,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

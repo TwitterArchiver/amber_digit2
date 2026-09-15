@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083690570862501986",
+    "created_at": "2026-08-02T01:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083726008679645409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958048434021437440",
+          "start": 0,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083726008679645409",
+    "in_reply_to_user_id": "1958048434021437440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083690570862501986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhimengyao 没钱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083690570862501986",
+        "created_at": "2026-08-02T01:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083726008679645409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083726008679645409",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083690570862501986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao 没钱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2083690570862501986",
+        "created_at": "2026-08-01T23:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083690570862501986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083690570862501986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉好多同类都搞错了方向了。爱美之心人皆有之，你想变成美女，美在女前面啊…为什么不能先做脸做胸然后去找更有石粒的老头去爆更多金币呢？然后那些钱花一部分去保养，一部分各种必要生活开支，省下来的就可以……去srs了不是吗？毕竟做脸做胸做嗓子再加上一定的化妆你不说自己是mtf谁知道你是呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ/ ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 701,
+          "like_count": 2142,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头/紧急逃生舱：@wuheyuyang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 36,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1839
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084367934793695233",
+        "3_2084367934806228992",
+        "3_2084367934785228800"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084344350327148857",
+    "created_at": "2026-08-03T19:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T20:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084367938530717816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "759889140519411712",
+          "start": 0,
+          "username": "bloomfilters"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FjXBh175zt",
+          "end": 154,
+          "expanded_url": "https://x.com/amber_digit2/status/2084367938530717816/photo/1",
+          "media_key": "3_2084367934793695233",
+          "start": 131,
+          "url": "https://t.co/FjXBh175zt"
+        },
+        {
+          "display_url": "pic.x.com/FjXBh175zt",
+          "end": 154,
+          "expanded_url": "https://x.com/amber_digit2/status/2084367938530717816/photo/1",
+          "media_key": "3_2084367934806228992",
+          "start": 131,
+          "url": "https://t.co/FjXBh175zt"
+        },
+        {
+          "display_url": "pic.x.com/FjXBh175zt",
+          "end": 154,
+          "expanded_url": "https://x.com/amber_digit2/status/2084367938530717816/photo/1",
+          "media_key": "3_2084367934785228800",
+          "start": 131,
+          "url": "https://t.co/FjXBh175zt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084367938530717816",
+    "in_reply_to_user_id": "759889140519411712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084365906067485156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloomfilters some of these facilities literally use the same interrogation &amp; torture techniques as the ones in guantanamo bay https://t.co/FjXBh175zt"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084365906067485156].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084365906067485156",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084365906067485156"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2084367934793695233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0pl96XwAEqVvy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1468,
+        "media_key": "3_2084367934806228992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0pl99XAAAEyQb.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2084367934785228800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0pl94WkAAX5e_.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084367934793695233",
+            "3_2084367934806228992",
+            "3_2084367934785228800"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084344350327148857",
+        "created_at": "2026-08-03T19:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084367938530717816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "759889140519411712",
+              "start": 0,
+              "username": "bloomfilters"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjXBh175zt",
+              "end": 154,
+              "expanded_url": "https://x.com/amber_digit2/status/2084367938530717816/photo/1",
+              "media_key": "3_2084367934793695233",
+              "start": 131,
+              "url": "https://t.co/FjXBh175zt"
+            },
+            {
+              "display_url": "pic.x.com/FjXBh175zt",
+              "end": 154,
+              "expanded_url": "https://x.com/amber_digit2/status/2084367938530717816/photo/1",
+              "media_key": "3_2084367934806228992",
+              "start": 131,
+              "url": "https://t.co/FjXBh175zt"
+            },
+            {
+              "display_url": "pic.x.com/FjXBh175zt",
+              "end": 154,
+              "expanded_url": "https://x.com/amber_digit2/status/2084367938530717816/photo/1",
+              "media_key": "3_2084367934785228800",
+              "start": 131,
+              "url": "https://t.co/FjXBh175zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084367938530717816",
+        "in_reply_to_user_id": "759889140519411712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084365906067485156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloomfilters some of these facilities literally use the same interrogation &amp; torture techniques as the ones in guantanamo bay https://t.co/FjXBh175zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4439,
+          "following_count": 722,
+          "like_count": 2289,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-31T23:11:03.000Z",
+        "description": "✨☁️ they/she lesbian 29 ☁️ 𑂦𑂷𑂔𑂣𑂳𑂩𑂱𑂨𑂰 s. asian diaspora en/fr ☁️ edit @negationmag ✨️ public 🦋➡️ bloomfilters . plus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "negationmag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloomfilters.neocities.org",
+                "end": 23,
+                "expanded_url": "https://bloomfilters.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/IJNFSNAjYB"
+              }
+            ]
+          }
+        },
+        "id": "759889140519411712",
+        "location": "toronto anishinaabewaki ",
+        "name": "🪸🍄👁 @ on bsky ➡️🦋",
+        "pinned_tweet_id": "1960491965230797162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510080057611587586/kMhuBUmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29720,
+          "following_count": 3986,
+          "like_count": 173797,
+          "listed_count": 108,
+          "media_count": 6210,
+          "tweet_count": 152606
+        },
+        "url": "https://t.co/IJNFSNAjYB",
+        "username": "bloomfilters",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084031073499873290",
+    "created_at": "2026-08-02T21:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084031073499873290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622587760514158593",
+          "start": 3,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084031073499873290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083765058442792976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForlikOOO: 有的劳保别出来发表自己自以为激进的女权观点了好不，我没看到激进女权主义者我只看到了一个被指派到女性身体里而失权破防的父权大爹。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084031073499873290",
+        "created_at": "2026-08-02T21:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084031073499873290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622587760514158593",
+              "start": 3,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084031073499873290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083765058442792976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForlikOOO: 有的劳保别出来发表自己自以为激进的女权观点了好不，我没看到激进女权主义者我只看到了一个被指派到女性身体里而失权破防的父权大爹。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2083765058442792976",
+        "created_at": "2026-08-02T04:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083765058442792976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083765058442792976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7065,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有的劳保别出来发表自己自以为激进的女权观点了好不，我没看到激进女权主义者我只看到了一个被指派到女性身体里而失权破防的父权大爹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 712,
+          "like_count": 2202,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "我是cyclo，中文/English/Deutsch，she/her，bi。有对象感情非常好。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。互关可以来：@smolc123 提问箱：https://t.co/WNwv3YVZzj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "smolc123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cyclo86441",
+                "end": 127,
+                "expanded_url": "https://ngl.link/cyclo86441",
+                "start": 104,
+                "url": "https://t.co/WNwv3YVZzj"
+              }
+            ]
+          }
+        },
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "在雨中忧郁喂鸡",
+        "pinned_tweet_id": "2057500065078595596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073025273793310720/PQGJnsii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 302,
+          "like_count": 56163,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 13833
+        },
+        "url": "",
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

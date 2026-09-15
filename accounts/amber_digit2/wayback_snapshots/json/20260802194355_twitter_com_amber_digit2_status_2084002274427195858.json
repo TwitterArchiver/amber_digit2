@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083753718588043264"
+      ],
+      "media_source_tweet_id": [
+        "2083753723654746583"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084002274427195858",
+    "created_at": "2026-08-02T19:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084002274427195858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1812592646289756160",
+          "start": 3,
+          "username": "princesalamwane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iDH5sTTna1",
+          "end": 54,
+          "expanded_url": "https://x.com/princesalamwane/status/2083753723654746583/photo/1",
+          "media_key": "3_2083753718588043264",
+          "start": 31,
+          "url": "https://t.co/iDH5sTTna1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084002274427195858",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083753723654746583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @princesalamwane: THIS !!!! https://t.co/iDH5sTTna1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2083753718588043264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOr694PW8AArdpR.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083753718588043264"
+          ]
+        },
+        "author_id": "1812592646289756160",
+        "conversation_id": "2083753723654746583",
+        "created_at": "2026-08-02T03:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083753723654746583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDH5sTTna1",
+              "end": 33,
+              "expanded_url": "https://x.com/princesalamwane/status/2083753723654746583/photo/1",
+              "media_key": "3_2083753718588043264",
+              "start": 10,
+              "url": "https://t.co/iDH5sTTna1"
+            },
+            {
+              "display_url": "x.com/forestofcake/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/forestofcake/status/2083152169180492087",
+              "start": 34,
+              "url": "https://t.co/HBB3KdfXgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083753723654746583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1556,
+          "impression_count": 488500,
+          "like_count": 38443,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 4739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083152169180492087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "THIS !!!! https://t.co/iDH5sTTna1 https://t.co/HBB3KdfXgC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083753718588043264"
+          ],
+          "media_source_tweet_id": [
+            "2083753723654746583"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084002274427195858",
+        "created_at": "2026-08-02T19:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084002274427195858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1812592646289756160",
+              "start": 3,
+              "username": "princesalamwane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDH5sTTna1",
+              "end": 54,
+              "expanded_url": "https://x.com/princesalamwane/status/2083753723654746583/photo/1",
+              "media_key": "3_2083753718588043264",
+              "start": 31,
+              "url": "https://t.co/iDH5sTTna1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084002274427195858",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083753723654746583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @princesalamwane: THIS !!!! https://t.co/iDH5sTTna1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 712,
+          "like_count": 2198,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T20:59:07.000Z",
+        "description": "M❣️ 🇱🇧",
+        "id": "1812592646289756160",
+        "location": "In my own kingdom ",
+        "name": "𝓟𝓻𝓲𝓷𝓬𝓮𝓼𝓪 🐸",
+        "pinned_tweet_id": "1945539707330252872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870210316472070144/Hm9DeWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9272,
+          "following_count": 2270,
+          "like_count": 67438,
+          "listed_count": 40,
+          "media_count": 4157,
+          "tweet_count": 27272
+        },
+        "url": "",
+        "username": "princesalamwane",
+        "verified": false
+      }
+    ]
+  }
+}

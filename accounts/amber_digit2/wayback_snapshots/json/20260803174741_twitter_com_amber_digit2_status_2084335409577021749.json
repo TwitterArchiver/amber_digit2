@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084328669363798407",
+    "created_at": "2026-08-03T17:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084335409577021749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783421192181039104",
+          "start": 0,
+          "username": "Lily_nothin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084335409577021749",
+    "in_reply_to_user_id": "1783421192181039104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084334996505219450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_nothin 时差啊，隔着12h呢我起床了她睡觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084328669363798407",
+        "created_at": "2026-08-03T17:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084335409577021749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783421192181039104",
+              "start": 0,
+              "username": "Lily_nothin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084335409577021749",
+        "in_reply_to_user_id": "1783421192181039104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084334996505219450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_nothin 时差啊，隔着12h呢我起床了她睡觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783421192181039104",
+        "conversation_id": "2084328669363798407",
+        "created_at": "2026-08-03T17:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084334996505219450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084334996505219450",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084328669363798407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 等会儿……不是？你俩“冷静期”了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 718,
+          "like_count": 2257,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 2000
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-25T09:02:09.000Z",
+        "description": "小时候只要妈妈熬油是不是站在锅边不想走\n熬完油以后马上伸手妈妈把油渣穿铲在灶头\n拿起油渣一入口那种感觉就像吃一回肉\n手上沾了油舍不得洗手偷偷的舔上几口",
+        "id": "1783421192181039104",
+        "name": "小茶LILY🍉",
+        "pinned_tweet_id": "2070546077565268275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061233210093445120/thD-ILlj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 974,
+          "like_count": 29251,
+          "listed_count": 1,
+          "media_count": 804,
+          "tweet_count": 12989
+        },
+        "url": "",
+        "username": "Lily_nothin",
+        "verified": false
+      }
+    ]
+  }
+}

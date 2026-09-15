@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084825330536103947",
+    "created_at": "2026-08-05T02:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084825330536103947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kohaname/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kohaname/status/2084201795883348013",
+          "start": 24,
+          "url": "https://t.co/29rRB3gyHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084825330536103947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084201795883348013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮一位老朋友转发一下，不知道各位还记不记得她（ https://t.co/29rRB3gyHH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084825330536103947",
+        "created_at": "2026-08-05T02:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084825330536103947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kohaname/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kohaname/status/2084201795883348013",
+              "start": 24,
+              "url": "https://t.co/29rRB3gyHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084825330536103947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084201795883348013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮一位老朋友转发一下，不知道各位还记不记得她（ https://t.co/29rRB3gyHH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077843705848037376",
+        "conversation_id": "2084201795883348013",
+        "created_at": "2026-08-03T08:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084201795883348013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084201795883348013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本花回来了！小长文的更新会暂缓一段时间、可能会更新一下小短文。但接下来的重点是运营账号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 747,
+          "like_count": 2456,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T19:54:57.000Z",
+        "description": "原小花酱！🏳️‍⚧️大家好呀～本花是可爱宝宝！🍥目前是小男娘噢～⁉️或许是天赋党？？💗163cm/54kg你会喜欢吗？✈️私信本花全国可飞！🚪过门口令红包68/198噢～🌏常驻珠三角与江浙沪、一起来玩！",
+        "id": "2077843705848037376",
+        "name": "小花芽🌻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077849083323273216/W-tL5Xma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 30,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "kohaname",
+        "verified": false
+      }
+    ]
+  }
+}

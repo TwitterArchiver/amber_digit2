@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084630387179807190",
+    "created_at": "2026-08-04T13:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084630387179807190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/logo_daedalus/…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/logo_daedalus/status/2084313924711891311",
+          "start": 111,
+          "url": "https://t.co/nCC0SPpE6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084630387179807190",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084313924711891311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i love how westerners cannot perceive how zionist and fascist most the chinese intelligentsia is at this point https://t.co/nCC0SPpE6G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084630387179807190",
+        "created_at": "2026-08-04T13:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084630387179807190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/logo_daedalus/…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/logo_daedalus/status/2084313924711891311",
+              "start": 111,
+              "url": "https://t.co/nCC0SPpE6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084630387179807190",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084313924711891311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i love how westerners cannot perceive how zionist and fascist most the chinese intelligentsia is at this point https://t.co/nCC0SPpE6G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "455261114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2084313924711891311",
+        "created_at": "2026-08-03T16:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084313924711891311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhugeyy/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/zhugeyy/status/2084138129766642131",
+              "start": 11,
+              "url": "https://t.co/EHeKhbmSEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084313924711891311",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 17900,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084138129766642131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I love her https://t.co/EHeKhbmSEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa\n❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4561,
+          "following_count": 738,
+          "like_count": 2379,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2076
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-04T22:36:46.000Z",
+        "description": "Content I live, this is my stay--\nI seek no more than may suffice--\nI press to bear no haughty sway--\nLook-- what I lack my mind supplies!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ReadBooksVlt",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/ReadBooksVlt",
+                "start": 0,
+                "url": "https://t.co/ZZM3oMdQAn"
+              }
+            ]
+          }
+        },
+        "id": "455261114",
+        "location": "readbooksvlt.com",
+        "name": "R.Сам 🦋🐏",
+        "pinned_tweet_id": "1918763780219306239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1491246058206216192/qUZ_ddCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59553,
+          "following_count": 406,
+          "like_count": 189281,
+          "listed_count": 343,
+          "media_count": 31011,
+          "tweet_count": 273664
+        },
+        "url": "https://t.co/ZZM3oMdQAn",
+        "username": "Logo_Daedalus",
+        "verified": true
+      }
+    ]
+  }
+}

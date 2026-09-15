@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083755353099915269",
+    "created_at": "2026-08-02T03:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083755353099915269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sonogamirinnet…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/sonogamirinnets/status/2083739981143777459",
+          "start": 5,
+          "url": "https://t.co/byPXWJe7yK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083755353099915269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083739981143777459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/byPXWJe7yK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90633,
+        "height": 1280,
+        "media_key": "13_2083739835953729536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083739835953729536/img/3ChXFjkXqLy-sxiS.jpg",
+        "public_metrics": {
+          "view_count": 121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083739835953729536/vid/avc1/320x568/UNWYZAxZ6RZ8sLdZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083739835953729536/vid/avc1/480x852/OBh_5sAEKIyMVVTl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083739835953729536/vid/avc1/720x1280/j88bDJzt9VoxIDrm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083739835953729536/pl/9EXeVXQFKCjBf2QI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083755353099915269",
+        "created_at": "2026-08-02T03:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083755353099915269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sonogamirinnet…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/sonogamirinnets/status/2083739981143777459",
+              "start": 5,
+              "url": "https://t.co/byPXWJe7yK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083755353099915269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083739981143777459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/byPXWJe7yK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083739835953729536"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2083739981143777459",
+        "created_at": "2026-08-02T02:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083739981143777459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRiYVkw0Zg",
+              "end": 41,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2083739981143777459/video/1",
+              "media_key": "13_2083739835953729536",
+              "start": 18,
+              "url": "https://t.co/vRiYVkw0Zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083739981143777459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘哭话小剧场：药娘在狂扁恐跨老保 https://t.co/vRiYVkw0Zg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 702,
+          "like_count": 2156,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5258,
+          "following_count": 3879,
+          "like_count": 1563,
+          "listed_count": 19,
+          "media_count": 301,
+          "tweet_count": 2082
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

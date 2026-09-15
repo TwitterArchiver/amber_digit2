@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084087345410973696"
+      ],
+      "media_source_tweet_id": [
+        "2084087347533189425"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084688261524455716",
+    "created_at": "2026-08-04T17:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084688261524455716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936904367292182528",
+          "start": 3,
+          "username": "hazeldrips"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3qVQel48AO",
+          "end": 111,
+          "expanded_url": "https://x.com/hazeldrips/status/2084087347533189425/photo/1",
+          "media_key": "3_2084087345410973696",
+          "start": 88,
+          "url": "https://t.co/3qVQel48AO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084688261524455716",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6038
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084087347533189425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hazeldrips: i’m gonna start doing this to comments i get on my fics that are stupid https://t.co/3qVQel48AO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2084087345410973696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwqZhAboAAWMq2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084087345410973696"
+          ]
+        },
+        "author_id": "1936904367292182528",
+        "conversation_id": "2084087347533189425",
+        "created_at": "2026-08-03T01:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084087347533189425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qVQel48AO",
+              "end": 95,
+              "expanded_url": "https://x.com/hazeldrips/status/2084087347533189425/photo/1",
+              "media_key": "3_2084087345410973696",
+              "start": 72,
+              "url": "https://t.co/3qVQel48AO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084087347533189425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4812,
+          "impression_count": 664670,
+          "like_count": 77655,
+          "quote_count": 248,
+          "reply_count": 33,
+          "retweet_count": 6038
+        },
+        "reply_settings": "following",
+        "text": "i’m gonna start doing this to comments i get on my fics that are stupid https://t.co/3qVQel48AO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084087345410973696"
+          ],
+          "media_source_tweet_id": [
+            "2084087347533189425"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084688261524455716",
+        "created_at": "2026-08-04T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084688261524455716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936904367292182528",
+              "start": 3,
+              "username": "hazeldrips"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qVQel48AO",
+              "end": 111,
+              "expanded_url": "https://x.com/hazeldrips/status/2084087347533189425/photo/1",
+              "media_key": "3_2084087345410973696",
+              "start": 88,
+              "url": "https://t.co/3qVQel48AO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084688261524455716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6038
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084087347533189425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hazeldrips: i’m gonna start doing this to comments i get on my fics that are stupid https://t.co/3qVQel48AO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi\nᴘʀɪᴠ@amber_medusozoa / ❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4589,
+          "following_count": 740,
+          "like_count": 2400,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-22T21:49:39.000Z",
+        "description": "🔞• hobby writer n artist • multimedia • witch hat, sbr, jjk • hazelglows on ao3 • 🍉 all ships🔄 • 🚫AI • pfp by @qifreydepok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "qifreydepok"
+              }
+            ]
+          }
+        },
+        "id": "1936904367292182528",
+        "location": "they/them • 26 • MDNI",
+        "name": "pepper ๋ ࣭ ⋆ ✶˖*༄",
+        "pinned_tweet_id": "2008420547693343100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083573132762447872/LRO-weFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 514,
+          "like_count": 14351,
+          "listed_count": 5,
+          "media_count": 1215,
+          "tweet_count": 7367
+        },
+        "url": "",
+        "username": "hazeldrips",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2083814243015516663",
+    "created_at": "2026-08-02T07:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083814243015516663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2005831710030905344",
+          "start": 3,
+          "username": "rei_quq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083814243015516663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083771833703092482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rei_quq: 我不想当男的 我不是男的 别再让我当男的了 当男的好痛苦好恶心啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083814243015516663",
+        "created_at": "2026-08-02T07:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083814243015516663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2005831710030905344",
+              "start": 3,
+              "username": "rei_quq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083814243015516663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083771833703092482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rei_quq: 我不想当男的 我不是男的 别再让我当男的了 当男的好痛苦好恶心啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005831710030905344",
+        "conversation_id": "2083771833703092482",
+        "created_at": "2026-08-02T04:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083771833703092482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083771833703092482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不想当男的 我不是男的 别再让我当男的了 当男的好痛苦好恶心啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4264,
+          "following_count": 704,
+          "like_count": 2170,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-30T02:42:14.000Z",
+        "description": "I’m ok.",
+        "id": "2005831710030905344",
+        "location": "Manhattan, NY",
+        "name": "rei💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049885873848655873/hxZEfx7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 19,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "rei_quq",
+        "verified": true
+      }
+    ]
+  }
+}

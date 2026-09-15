@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084099435005411371",
+    "created_at": "2026-08-03T02:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084099435005411371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eamonyiu/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/eamonyiu/status/2083849246990622736",
+          "start": 9,
+          "url": "https://t.co/ePHf3zy7W3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084099435005411371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083849246990622736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可曾读过阿房宫赋 https://t.co/ePHf3zy7W3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33576,
+        "height": 1080,
+        "media_key": "13_2083849195249934336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083849195249934336/img/4QBViDHwjxfcoNyi.jpg",
+        "public_metrics": {
+          "view_count": 102765
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849195249934336/vid/avc1/1920x1080/32W_GNLmLkf9IzOV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083849195249934336/pl/Wf8EfcTGGXIxFC6C.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849195249934336/vid/avc1/480x270/PReQJoC8rekxzlnL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849195249934336/vid/avc1/1280x720/EtD0pwjDhu-QAFfO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849195249934336/vid/avc1/640x360/eWpjCXcHmpHOV2zv.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084099435005411371",
+        "created_at": "2026-08-03T02:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084099435005411371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eamonyiu/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/eamonyiu/status/2083849246990622736",
+              "start": 9,
+              "url": "https://t.co/ePHf3zy7W3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084099435005411371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083849246990622736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可曾读过阿房宫赋 https://t.co/ePHf3zy7W3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083849195249934336"
+          ]
+        },
+        "author_id": "1628417994929098753",
+        "conversation_id": "2083849246990622736",
+        "created_at": "2026-08-02T09:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083849246990622736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvTiP66N4d",
+              "end": 37,
+              "expanded_url": "https://x.com/Eamonyiu/status/2083849246990622736/video/1",
+              "media_key": "13_2083849195249934336",
+              "start": 14,
+              "url": "https://t.co/OvTiP66N4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083849246990622736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1913,
+          "impression_count": 227518,
+          "like_count": 5931,
+          "quote_count": 40,
+          "reply_count": 101,
+          "retweet_count": 736
+        },
+        "reply_settings": "everyone",
+        "text": "我想像中的天庭就应该长这样 https://t.co/OvTiP66N4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 713,
+          "like_count": 2218,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T15:34:56.000Z",
+        "description": "Truth in chaos. Silence is strategy.\nIndependent thinker. 🇺🇸🇯🇵🇹🇼\n未来主义 | 投资观察 | 人性解构 | 个人观点 🚀",
+        "id": "1628417994929098753",
+        "location": "Hong Kong",
+        "name": "Eamon涷渔",
+        "pinned_tweet_id": "2024904029420335457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036391701267521536/rqqyl-6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14039,
+          "following_count": 4214,
+          "like_count": 1152,
+          "listed_count": 24,
+          "media_count": 4653,
+          "tweet_count": 16490
+        },
+        "url": "",
+        "username": "Eamonyiu",
+        "verified": true
+      }
+    ]
+  }
+}

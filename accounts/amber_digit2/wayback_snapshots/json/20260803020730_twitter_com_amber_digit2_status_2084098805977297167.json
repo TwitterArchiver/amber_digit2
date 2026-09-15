@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083879083335913472"
+      ],
+      "media_source_tweet_id": [
+        "2083879090474610690"
+      ]
+    },
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084098805977297167",
+    "created_at": "2026-08-03T02:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084098805977297167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042902564048355328",
+          "start": 3,
+          "username": "TTTypezhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fGTEWRwPv0",
+          "end": 72,
+          "expanded_url": "https://x.com/TTTypezhi/status/2083879090474610690/photo/1",
+          "media_key": "3_2083879083335913472",
+          "start": 49,
+          "url": "https://t.co/fGTEWRwPv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084098805977297167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083879090474610690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTTypezhi: 今天把性别改啦🥺🥺好开心\n（其实是医院的系统更新了性别可以自己选） https://t.co/fGTEWRwPv0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083879083335913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOts_EUakAA8V6H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083879083335913472"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2083879090474610690",
+        "created_at": "2026-08-02T11:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083879090474610690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGTEWRwPv0",
+              "end": 57,
+              "expanded_url": "https://x.com/TTTypezhi/status/2083879090474610690/photo/1",
+              "media_key": "3_2083879083335913472",
+              "start": 34,
+              "url": "https://t.co/fGTEWRwPv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083879090474610690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4802,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天把性别改啦🥺🥺好开心\n（其实是医院的系统更新了性别可以自己选） https://t.co/fGTEWRwPv0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083879083335913472"
+          ],
+          "media_source_tweet_id": [
+            "2083879090474610690"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084098805977297167",
+        "created_at": "2026-08-03T02:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084098805977297167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042902564048355328",
+              "start": 3,
+              "username": "TTTypezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGTEWRwPv0",
+              "end": 72,
+              "expanded_url": "https://x.com/TTTypezhi/status/2083879090474610690/photo/1",
+              "media_key": "3_2083879083335913472",
+              "start": 49,
+              "url": "https://t.co/fGTEWRwPv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084098805977297167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083879090474610690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTTypezhi: 今天把性别改啦🥺🥺好开心\n（其实是医院的系统更新了性别可以自己选） https://t.co/fGTEWRwPv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 713,
+          "like_count": 2215,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "location": "你家",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 286,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

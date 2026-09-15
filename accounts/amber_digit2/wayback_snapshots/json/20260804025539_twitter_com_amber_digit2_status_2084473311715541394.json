@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041159531657416704",
+    "conversation_id": "2084473311715541394",
+    "created_at": "2026-08-04T02:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084473311715541394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zx65535plus1/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/zx65535plus1/status/2084156270391763374",
+          "start": 46,
+          "url": "https://t.co/W7t2Efz8lw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084473311715541394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084156270391763374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种人真的恶心死了，还有脸说性少数就是会面对困难，废话这不就是因为老有这种人在故意制造困难 https://t.co/W7t2Efz8lw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_2084156262858797056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxpFCgasAADIhU.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2084473311715541394",
+        "created_at": "2026-08-04T02:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084473311715541394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zx65535plus1/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/zx65535plus1/status/2084156270391763374",
+              "start": 46,
+              "url": "https://t.co/W7t2Efz8lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084473311715541394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084156270391763374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种人真的恶心死了，还有脸说性少数就是会面对困难，废话这不就是因为老有这种人在故意制造困难 https://t.co/W7t2Efz8lw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084156262858797056"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2084156270391763374",
+        "created_at": "2026-08-03T05:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084156270391763374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvoqhJJEeu",
+              "end": 57,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2084156270391763374/photo/1",
+              "media_key": "3_2084156262858797056",
+              "start": 34,
+              "url": "https://t.co/vvoqhJJEeu"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2084145920225288383",
+              "start": 58,
+              "url": "https://t.co/PXR5HzMlbk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01bb53b81ba40196"
+        },
+        "id": "2084156270391763374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5597,
+          "like_count": 41,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084145920225288383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天我说我上大学被霸凌孤立的事情后:\n这人还是我前几天约着出门的人 https://t.co/vvoqhJJEeu https://t.co/PXR5HzMlbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ @wgsi / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 728,
+          "like_count": 2339,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \nMSCS |\n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营 |\n我族长兴 天佑跨儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4785,
+          "following_count": 1437,
+          "like_count": 83004,
+          "listed_count": 12,
+          "media_count": 1216,
+          "tweet_count": 24473
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}
